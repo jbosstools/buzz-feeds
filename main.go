@@ -14,20 +14,16 @@ import (
 )
 
 const (
-	TITLE = "Comics"
-	LINK  = "http://github.com/aalu1418/rss"
+	TITLE = "JBoss Tools Aggregated Feed"
+	LINK  = "https://tools.jboss.org"
 )
 
 var (
 	urls = map[string]string{
-		"XKCD":             "https://xkcd.com/rss.xml",
-		"MonkeyUser":       "https://www.monkeyuser.com/feed",
-		"AwkwardYeti":      "https://theawkwardyeti.com/feed/",
-		"ItchyFeet":        "http://www.itchyfeetcomic.com/feeds/posts/default",
-		"TheOatmeal":       "https://theoatmeal.com/feed/rss",
-		"Odd1sout":         "https://theodd1sout.com/blogs/comics.atom",
-		"PersnicketyPets":  "https://persnicketypets.com/blogs/the-persnickety-pets.atom",
-		"SafelyEndangered": "https://www.webtoons.com/en/comedy/safely-endangered/rss?title_no=352",
+		"JBoss Tools":       "https://tools.jboss.org/blog/news.atom",
+		"JBoss Blogs":       "https://www.jboss.org/atom.xml",
+		"Red Hat Developer": "https://developers.redhat.com/blog/feed/",
+		"Quarkus":           "https://quarkus.io/feed",
 	}
 )
 
