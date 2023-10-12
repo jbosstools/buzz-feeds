@@ -84,7 +84,7 @@ func main() {
 	// remove <?xml version="1.0" encoding="UTF-8"?>
 	data = strings.Replace(data, `<?xml version="1.0" encoding="UTF-8"?>`, "", 1)
 	// replace &&
-	data = strings.Replace(data, "&amp;&amp;", "&amp;amp;&amp;amp", -1)
+	data = strings.Replace(data, "&amp;&amp;", "&amp;amp;&amp;amp;", -1)
 	
 
 	f, err := os.OpenFile("rss.xml", os.O_RDWR|os.O_CREATE|os.O_TRUNC, 0755)
