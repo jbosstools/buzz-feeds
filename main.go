@@ -76,9 +76,9 @@ func main() {
 		})
 	}
 
-	data, err := feed.ToRss()
+	data, err := feed.ToAtom()
 	if err != nil {
-		log.Fatalf("failed to generate rss file: %s", err)
+		log.Fatalf("failed to generate atom feed file: %s", err)
 	}
 
 	// remove <?xml version="1.0" encoding="UTF-8"?>
