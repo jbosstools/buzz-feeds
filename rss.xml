@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-10-12T15:59:37Z</updated>
+  <updated>2023-10-12T16:01:20Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: Eclipse Vert.x 4.4.6 released!</title>
@@ -612,31 +612,17 @@ The post <a href="https://developers.redhat.com/articles/2023/10/10/how-validate
 <br /><br /></summary>
   </entry>
   <entry>
-    <title>Quarkus: A recap of Quarkus Tools for IntelliJ's latest improvements</title>
+    <title>JBoss Blogs: A recap of Quarkus Tools for IntelliJ's latest improvements</title>
     <updated>2023-10-10T00:00:00Z</updated>
     <id>https://quarkus.io/blog/intellij-quarkus-recap/</id>
     <link href="https://quarkus.io/blog/intellij-quarkus-recap/" rel="alternate"></link>
-    <summary type="html">Quarkus Tools for IntelliJ is a free and open source extension, helping users develop Quarkus applications by providing content-assist, validation, run configurations and many other features right from their favourite IDE. This extension is based on the LSP4MP (i.e. MicroProfile) and its Quarkus add-on, and the Qute language server. These...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: Quarkus Newsletter #37 - October</title>
     <updated>2023-10-10T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-37/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-37/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Meet Keycloak at KubeCon Chicago in Nov 2023</title>
-    <updated>2023-10-10T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2023/10/keycloak-kubeconf-chicago</id>
-    <link href="https://www.keycloak.org/2023/10/keycloak-kubeconf-chicago" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: A recap of Quarkus Tools for IntelliJ's latest improvements</title>
-    <updated>2023-10-10T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/intellij-quarkus-recap/</id>
-    <link href="https://quarkus.io/blog/intellij-quarkus-recap/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -647,75 +633,18 @@ The post <a href="https://developers.redhat.com/articles/2023/10/10/how-validate
     <summary type="html">Read "Integrate your Quarkus application with GPT4All" by Alex Soto Bueno to explore how to integrate GPT4All into a Quarkus application so that you can query this service and return a response without any external resources. Go behind the scenes to learn how to create a CRUD application using virtual...</summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Load balancing, threading, and scaling in Node.js</title>
-    <updated>2023-10-09T07:00:00Z</updated>
-    <id>13a0b0fc-74fe-4f0a-9a6a-5c3d3a10edd0</id>
-    <link href="https://developers.redhat.com/articles/2023/10/09/load-balancing-threading-and-scaling-nodejs" rel="alternate"></link>
-    <summary type="html"><p>Many applications require more computation than can be handled by a single thread, CPU, process, or machine. This installment of the ongoing <a href="https://github.com/nodeshift/nodejs-reference-architecture">Node.js reference architecture</a> series covers the team's experience on how to satisfy the need for larger computational resources in your <a href="topics/nodejs">Node.js</a> application.</p>
-
-<p>Follow the series:</p>
-
-<ul><li aria-level="1">Part 1: <a href="https://developers.redhat.com/blog/2021/03/08/introduction-to-the-node-js-reference-architecture-part-1-overview">Overview of the Node.js reference architecture</a></li>
-	<li aria-level="1">Part 2: <a href="https://developer.ibm.com/blogs/nodejs-reference-architectire-pino-for-logging/">Logging in Node.js</a></li>
-	<li aria-level="1">Part 3: <a href="https://developers.redhat.com/articles/2021/05/17/introduction-nodejs-reference-architecture-part-3-code-consistency">Code consistency in Node.js</a></li>
-	<li aria-level="1">Part 4: <a href="https://developers.redhat.com/articles/2021/06/22/introduction-nodejs-reference-architecture-part-4-graphql-nodejs">GraphQL in Node.js</a></li>
-	<li aria-level="1">Part 5: <a href="https://developers.redhat.com/articles/2021/08/26/introduction-nodejs-reference-architecture-part-5-building-good-containers">Building good containers</a></li>
-	<li aria-level="1">Part 6: <a href="https://developers.redhat.com/articles/2021/12/03/introduction-nodejs-reference-architecture-part-6-choosing-web-frameworks">Choosing web frameworks</a></li>
-	<li aria-level="1">Part 7: <a href="https://developers.redhat.com/articles/2022/03/02/introduction-nodejs-reference-architecture-part-7-code-coverage">Code coverage</a></li>
-	<li aria-level="1">Part 8: <a href="https://developers.redhat.com/articles/2022/04/11/introduction-nodejs-reference-architecture-part-8-typescript">Typescript</a></li>
-	<li aria-level="1">Part 9: <a href="https://developers.redhat.com/articles/2022/08/09/8-elements-securing-nodejs-applications">Securing Node.js applications</a></li>
-	<li aria-level="1">Part 10: <a href="https://developers.redhat.com/articles/2022/11/03/nodejs-reference-architecture-part-10-accessibility">Accessibility</a></li>
-	<li aria-level="1">Part 11: <a href="https://developers.redhat.com/articles/2022/12/21/typical-development-workflows">Typical development workflows</a></li>
-	<li aria-level="1">Part 12: <a href="https://developers.redhat.com/articles/2023/02/22/installing-nodejs-modules-using-npm-registry">npm development</a></li>
-	<li aria-level="1">Part 13: <a href="https://developers.redhat.com/articles/2023/03/21/how-investigate-7-common-problems-production#">Problem determination</a></li>
-	<li aria-level="1">Part 14: <a href="https://developers.redhat.com/articles/2023/07/27/introduction-nodejs-reference-architecture-testing">Testing</a></li>
-	<li aria-level="1">Part 15: <a href="https://developers.redhat.com/articles/2023/07/31/how-handle-transactions-nodejs-reference-architecture">Transaction handling</a></li>
-	<li aria-level="1"><strong>Part 16: Load balancing, threading, and scaling</strong></li>
-</ul><h2>But Node.js is single threaded?</h2>
-
-<p>Node.js is said to be single-threaded. While not entirely true, it reflects that most work is done on a single thread running the event loop. The asynchronous nature of <a href="https://developers.redhat.com/topics/javascript">JavaScript</a> means that Node.js can handle a larger number of concurrent requests on that single thread. If that is the case, then why are we even talking about threading?</p>
-
-<p>While by default a Node.js process operates in a single-threaded model, current versions of Node.js support <a href="https://nodejs.org/api/worker_threads.html">worker threads </a>that you can use to start additional threads of execution, each with their own event loop.</p>
-
-<p>In addition, Node.js applications are often made up of multiple different <a href="https://developers.redhat.com/topics/microservices/">microservices</a> and multiple copies of each microservice, allowing the overall solution to leverage many concurrent threads available in a single computer or across a group of computers.</p>
-
-<p>The reality is that applications based on Node.js can and do leverage multiple threads of execution over one or more computers. How to balance this work across threads, processes, and computers and scale it in times of increased demand is an important topic for most deployments.</p>
-
-<h2>Keep it simple</h2>
-
-<p>The team's experience is that, when possible, applications should be designed so that a request to a microservice running in a <a href="https://developers.redhat.com/topics/containers">container</a> will need no more than a single thread of execution to complete in a reasonable time. If that is not possible, then worker threads are the recommended approach versus multiple processes running in a single container as there will be lower complexity and less overhead communicating between multiple threads of execution.</p>
-
-<p>Worker threads are also likely appropriate for desktop-type applications where it is known that you cannot scale beyond the resources of a single machine, and it is preferable to have the application show up as a single process instead of many individual processes.</p>
-
-<h2>Long-running requests</h2>
-
-<p>The team had a very interesting discussion around longer-running requests. Sometimes, you need to do computation that will take a while to complete, and you cannot break up that work.</p>
-
-<p>The discussion centered around the following question: If we have a separate microservice that handles longer running requests and it's okay for all requests of that type to be handled sequentially, can we just run those on the main thread loop?</p>
-
-<p>Most often, the answer turns out to be no because even in that case, you typically have other APIs like health and readiness APIs that need to respond in a reasonable amount of time when the microservice is running. If you have any request that is going to take a substantial amount of time versus completing quickly or blocking asynchronously so other work can execute on the main thread, you will need to use worker threads.</p>
-
-<h2>Load balancing and scaling</h2>
-
-<p>For requests that are completed in a timely manner, you might still need more CPU cycles than a single thread can provide in order to keep up with a larger number of requests. When implementing API requests in Node.js, they are most often designed to have no internal state, and multiple copies can be executed simultaneously. Node.js has long supported running multiple processes to allow concurrent execution of the requests through the <a href="https://nodejs.org/api/cluster.html">Cluster</a> API.</p>
-
-<p>As you have likely read in other parts of the Node.js reference architecture, most modern applications run in containers, and often, those containers are managed through tools like Kubernetes. In this context, the team recommends delegating load balancing and scaling to the highest layer possible instead of using the Cluster API. For example, if you deploy the application to Kubernetes, use the load balancing and scaling built into Kubernetes. In our experience, this has been just as efficient or more efficient than trying to manage it at a lower level through tools like the Cluster API.</p>
-
-<h2>Threads versus processes</h2>
-
-<p>A common question is whether it is better to scale using threads or processes. Multiple threads within a single machine can typically be exploited within a single process or by starting multiple processes. Processes provide better isolation, but also lower opportunities to share resources and make communication between threads more costly. Using multiple threads within a process might be able to scale more efficiently within a single process, but it has the hard limit of only being able to scale to the resources provided by a single machine.</p>
-
-<p>As described in earlier sections, the team's experience is that using worker threads when needed but otherwise leaving load balancing and scaling to management layers outside of the application itself (for example, Kubernetes) results in the right balance between the use of threads and processes across the application.</p>
-
-<h2>Learn more about Node.js reference architecture</h2>
-
-<p>I hope that this quick overview of the <a href="https://github.com/nodeshift/nodejs-reference-architecture/blob/main/docs/functional-components/scaling-multi-threading.md">load balancing, scaling and multithreading</a> part of the Node.js reference architecture, along with the team discussions that led to that content, has been helpful, and that the information shared in the architecture helps you in your future implementations.</p>
-
-<p>We plan to cover new topics regularly for the Node.js reference architecture series. Until the next installment, we invite you to visit the <a href="https://github.com/nodeshift/nodejs-reference-architecture">Node.js reference architecture repository</a> on GitHub, where you will see the work we have done and future topics.</p>
-
-<p>To learn more about what Red Hat is up to on the Node.js front, check out our <a href="https://developers.redhat.com/topics/nodejs">Node.js page</a>.</p>
-The post <a href="https://developers.redhat.com/articles/2023/10/09/load-balancing-threading-and-scaling-nodejs" title="Load balancing, threading, and scaling in Node.js">Load balancing, threading, and scaling in Node.js</a> appeared first on <a href="https://developers.redhat.com/blog" title="Red Hat Developer">Red Hat Developer</a>.
-<br /><br /></summary>
+    <title>Quarkus: A recap of Quarkus Tools for IntelliJ's latest improvements</title>
+    <updated>2023-10-10T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/intellij-quarkus-recap/</id>
+    <link href="https://quarkus.io/blog/intellij-quarkus-recap/" rel="alternate"></link>
+    <summary type="html">Quarkus Tools for IntelliJ is a free and open source extension, helping users develop Quarkus applications by providing content-assist, validation, run configurations and many other features right from their favourite IDE. This extension is based on the LSP4MP (i.e. MicroProfile) and its Quarkus add-on, and the Qute language server. These...</summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Meet Keycloak at KubeCon Chicago in Nov 2023</title>
+    <updated>2023-10-10T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2023/10/keycloak-kubeconf-chicago</id>
+    <link href="https://www.keycloak.org/2023/10/keycloak-kubeconf-chicago" rel="alternate"></link>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>Red Hat Developer: An MIR-based JIT prototype for Ruby</title>
@@ -926,6 +855,77 @@ The post <a href="https://developers.redhat.com/articles/2023/10/09/load-balanci
 
 <p>I hope the Shopify YJIT team will implement the tracing JIT or someone within the Ruby community will take on this task someday. The Ruby community is a formidable driving force that contributes to the resilience of the Ruby project!</p>
 The post <a href="https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby" title="An MIR-based JIT prototype for Ruby">An MIR-based JIT prototype for Ruby</a> appeared first on <a href="https://developers.redhat.com/blog" title="Red Hat Developer">Red Hat Developer</a>.
+<br /><br /></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Load balancing, threading, and scaling in Node.js</title>
+    <updated>2023-10-09T07:00:00Z</updated>
+    <id>13a0b0fc-74fe-4f0a-9a6a-5c3d3a10edd0</id>
+    <link href="https://developers.redhat.com/articles/2023/10/09/load-balancing-threading-and-scaling-nodejs" rel="alternate"></link>
+    <summary type="html"><p>Many applications require more computation than can be handled by a single thread, CPU, process, or machine. This installment of the ongoing <a href="https://github.com/nodeshift/nodejs-reference-architecture">Node.js reference architecture</a> series covers the team's experience on how to satisfy the need for larger computational resources in your <a href="topics/nodejs">Node.js</a> application.</p>
+
+<p>Follow the series:</p>
+
+<ul><li aria-level="1">Part 1: <a href="https://developers.redhat.com/blog/2021/03/08/introduction-to-the-node-js-reference-architecture-part-1-overview">Overview of the Node.js reference architecture</a></li>
+	<li aria-level="1">Part 2: <a href="https://developer.ibm.com/blogs/nodejs-reference-architectire-pino-for-logging/">Logging in Node.js</a></li>
+	<li aria-level="1">Part 3: <a href="https://developers.redhat.com/articles/2021/05/17/introduction-nodejs-reference-architecture-part-3-code-consistency">Code consistency in Node.js</a></li>
+	<li aria-level="1">Part 4: <a href="https://developers.redhat.com/articles/2021/06/22/introduction-nodejs-reference-architecture-part-4-graphql-nodejs">GraphQL in Node.js</a></li>
+	<li aria-level="1">Part 5: <a href="https://developers.redhat.com/articles/2021/08/26/introduction-nodejs-reference-architecture-part-5-building-good-containers">Building good containers</a></li>
+	<li aria-level="1">Part 6: <a href="https://developers.redhat.com/articles/2021/12/03/introduction-nodejs-reference-architecture-part-6-choosing-web-frameworks">Choosing web frameworks</a></li>
+	<li aria-level="1">Part 7: <a href="https://developers.redhat.com/articles/2022/03/02/introduction-nodejs-reference-architecture-part-7-code-coverage">Code coverage</a></li>
+	<li aria-level="1">Part 8: <a href="https://developers.redhat.com/articles/2022/04/11/introduction-nodejs-reference-architecture-part-8-typescript">Typescript</a></li>
+	<li aria-level="1">Part 9: <a href="https://developers.redhat.com/articles/2022/08/09/8-elements-securing-nodejs-applications">Securing Node.js applications</a></li>
+	<li aria-level="1">Part 10: <a href="https://developers.redhat.com/articles/2022/11/03/nodejs-reference-architecture-part-10-accessibility">Accessibility</a></li>
+	<li aria-level="1">Part 11: <a href="https://developers.redhat.com/articles/2022/12/21/typical-development-workflows">Typical development workflows</a></li>
+	<li aria-level="1">Part 12: <a href="https://developers.redhat.com/articles/2023/02/22/installing-nodejs-modules-using-npm-registry">npm development</a></li>
+	<li aria-level="1">Part 13: <a href="https://developers.redhat.com/articles/2023/03/21/how-investigate-7-common-problems-production#">Problem determination</a></li>
+	<li aria-level="1">Part 14: <a href="https://developers.redhat.com/articles/2023/07/27/introduction-nodejs-reference-architecture-testing">Testing</a></li>
+	<li aria-level="1">Part 15: <a href="https://developers.redhat.com/articles/2023/07/31/how-handle-transactions-nodejs-reference-architecture">Transaction handling</a></li>
+	<li aria-level="1"><strong>Part 16: Load balancing, threading, and scaling</strong></li>
+</ul><h2>But Node.js is single threaded?</h2>
+
+<p>Node.js is said to be single-threaded. While not entirely true, it reflects that most work is done on a single thread running the event loop. The asynchronous nature of <a href="https://developers.redhat.com/topics/javascript">JavaScript</a> means that Node.js can handle a larger number of concurrent requests on that single thread. If that is the case, then why are we even talking about threading?</p>
+
+<p>While by default a Node.js process operates in a single-threaded model, current versions of Node.js support <a href="https://nodejs.org/api/worker_threads.html">worker threads </a>that you can use to start additional threads of execution, each with their own event loop.</p>
+
+<p>In addition, Node.js applications are often made up of multiple different <a href="https://developers.redhat.com/topics/microservices/">microservices</a> and multiple copies of each microservice, allowing the overall solution to leverage many concurrent threads available in a single computer or across a group of computers.</p>
+
+<p>The reality is that applications based on Node.js can and do leverage multiple threads of execution over one or more computers. How to balance this work across threads, processes, and computers and scale it in times of increased demand is an important topic for most deployments.</p>
+
+<h2>Keep it simple</h2>
+
+<p>The team's experience is that, when possible, applications should be designed so that a request to a microservice running in a <a href="https://developers.redhat.com/topics/containers">container</a> will need no more than a single thread of execution to complete in a reasonable time. If that is not possible, then worker threads are the recommended approach versus multiple processes running in a single container as there will be lower complexity and less overhead communicating between multiple threads of execution.</p>
+
+<p>Worker threads are also likely appropriate for desktop-type applications where it is known that you cannot scale beyond the resources of a single machine, and it is preferable to have the application show up as a single process instead of many individual processes.</p>
+
+<h2>Long-running requests</h2>
+
+<p>The team had a very interesting discussion around longer-running requests. Sometimes, you need to do computation that will take a while to complete, and you cannot break up that work.</p>
+
+<p>The discussion centered around the following question: If we have a separate microservice that handles longer running requests and it's okay for all requests of that type to be handled sequentially, can we just run those on the main thread loop?</p>
+
+<p>Most often, the answer turns out to be no because even in that case, you typically have other APIs like health and readiness APIs that need to respond in a reasonable amount of time when the microservice is running. If you have any request that is going to take a substantial amount of time versus completing quickly or blocking asynchronously so other work can execute on the main thread, you will need to use worker threads.</p>
+
+<h2>Load balancing and scaling</h2>
+
+<p>For requests that are completed in a timely manner, you might still need more CPU cycles than a single thread can provide in order to keep up with a larger number of requests. When implementing API requests in Node.js, they are most often designed to have no internal state, and multiple copies can be executed simultaneously. Node.js has long supported running multiple processes to allow concurrent execution of the requests through the <a href="https://nodejs.org/api/cluster.html">Cluster</a> API.</p>
+
+<p>As you have likely read in other parts of the Node.js reference architecture, most modern applications run in containers, and often, those containers are managed through tools like Kubernetes. In this context, the team recommends delegating load balancing and scaling to the highest layer possible instead of using the Cluster API. For example, if you deploy the application to Kubernetes, use the load balancing and scaling built into Kubernetes. In our experience, this has been just as efficient or more efficient than trying to manage it at a lower level through tools like the Cluster API.</p>
+
+<h2>Threads versus processes</h2>
+
+<p>A common question is whether it is better to scale using threads or processes. Multiple threads within a single machine can typically be exploited within a single process or by starting multiple processes. Processes provide better isolation, but also lower opportunities to share resources and make communication between threads more costly. Using multiple threads within a process might be able to scale more efficiently within a single process, but it has the hard limit of only being able to scale to the resources provided by a single machine.</p>
+
+<p>As described in earlier sections, the team's experience is that using worker threads when needed but otherwise leaving load balancing and scaling to management layers outside of the application itself (for example, Kubernetes) results in the right balance between the use of threads and processes across the application.</p>
+
+<h2>Learn more about Node.js reference architecture</h2>
+
+<p>I hope that this quick overview of the <a href="https://github.com/nodeshift/nodejs-reference-architecture/blob/main/docs/functional-components/scaling-multi-threading.md">load balancing, scaling and multithreading</a> part of the Node.js reference architecture, along with the team discussions that led to that content, has been helpful, and that the information shared in the architecture helps you in your future implementations.</p>
+
+<p>We plan to cover new topics regularly for the Node.js reference architecture series. Until the next installment, we invite you to visit the <a href="https://github.com/nodeshift/nodejs-reference-architecture">Node.js reference architecture repository</a> on GitHub, where you will see the work we have done and future topics.</p>
+
+<p>To learn more about what Red Hat is up to on the Node.js front, check out our <a href="https://developers.redhat.com/topics/nodejs">Node.js page</a>.</p>
+The post <a href="https://developers.redhat.com/articles/2023/10/09/load-balancing-threading-and-scaling-nodejs" title="Load balancing, threading, and scaling in Node.js">Load balancing, threading, and scaling in Node.js</a> appeared first on <a href="https://developers.redhat.com/blog" title="Red Hat Developer">Red Hat Developer</a>.
 <br /><br /></summary>
   </entry>
   <entry>
@@ -2162,6 +2162,13 @@ The post <a href="https://developers.redhat.com/articles/2023/10/03/beyond-loom-
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Testing virtual thread applications</title>
+    <updated>2023-10-02T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/virtual-threads-3/</id>
+    <link href="https://quarkus.io/blog/virtual-threads-3/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Quarkus: Testing virtual thread applications</title>
     <updated>2023-10-02T00:00:00Z</updated>
     <id>https://quarkus.io/blog/virtual-threads-3/</id>
@@ -2169,10 +2176,10 @@ The post <a href="https://developers.redhat.com/articles/2023/10/03/beyond-loom-
     <summary type="html">In a previous post, we have seen how to implement a CRUD application using virtual threads in Quarkus. The following video shows how to test this application and, specifically, how to detect pinning. The complete code of the application and the tests are available in the virtual threads demos repository....</summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Testing virtual thread applications</title>
-    <updated>2023-10-02T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/virtual-threads-3/</id>
-    <link href="https://quarkus.io/blog/virtual-threads-3/" rel="alternate"></link>
+    <title>JBoss Blogs: Live diff and update quarkus deployments in OpenShift using Jetbrains IDEA</title>
+    <updated>2023-09-28T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/live-diff-and-update-using-idea/</id>
+    <link href="https://quarkus.io/blog/live-diff-and-update-using-idea/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -2181,13 +2188,6 @@ The post <a href="https://developers.redhat.com/articles/2023/10/03/beyond-loom-
     <id>https://quarkus.io/blog/live-diff-and-update-using-idea/</id>
     <link href="https://quarkus.io/blog/live-diff-and-update-using-idea/" rel="alternate"></link>
     <summary type="html">Prerequisites OpenShift CLI, oc: installation instructions Kubernetes by Red Hat, Kubernetes Plugin for JetBrains IDEA Marketplace Quarkus CLI, Quarkus: Installation Instructions Optional: Source code for this blog post: https://github.com/adietish/openshift-quickstart IntelliJ Kubernetes Plugin This shows you how the Kubernetes Plugin for Jetbrains IDEA is a great companion when deploying quarkus apps...</summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Live diff and update quarkus deployments in OpenShift using Jetbrains IDEA</title>
-    <updated>2023-09-28T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/live-diff-and-update-using-idea/</id>
-    <link href="https://quarkus.io/blog/live-diff-and-update-using-idea/" rel="alternate"></link>
-    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: Just: a tool to store and execute your project commands</title>
@@ -2232,6 +2232,13 @@ The post <a href="https://developers.redhat.com/articles/2023/10/03/beyond-loom-
     <summary type="html">Observability in Quarkus Observability on a software system can be described as the capability to allow a human to ask and answer questions. To enable developers and support engineers in understanding how their applications behave, Quarkus 3.3 includes many improvements to its main observability related extensions: quarkus-opentelemetry (tracing) quarkus-micrometer (metrics)...</summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Observability in Quarkus 3</title>
+    <updated>2023-09-20T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-observability-3-3/</id>
+    <link href="https://quarkus.io/blog/quarkus-observability-3-3/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Quarkus: Quarkus 3.4.1 released - Redis 7.2 and Flyway changes</title>
     <updated>2023-09-20T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-4-1-released/</id>
@@ -2243,13 +2250,6 @@ The post <a href="https://developers.redhat.com/articles/2023/10/03/beyond-loom-
     <updated>2023-09-20T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-4-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-4-1-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Observability in Quarkus 3</title>
-    <updated>2023-09-20T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-observability-3-3/</id>
-    <link href="https://quarkus.io/blog/quarkus-observability-3-3/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
