@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-10-12T16:01:20Z</updated>
+  <updated>2023-10-12T18:15:44Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>JBoss Blogs: How to solve CVE-2023-44487</title>
+    <updated>2023-10-12T16:29:29Z</updated>
+    <id>https://www.mastertheboss.com/various-stuff/how-to-solve-cve-2023-44487/</id>
+    <link href="https://www.mastertheboss.com/various-stuff/how-to-solve-cve-2023-44487/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JBoss Blogs: Eclipse Vert.x 4.4.6 released!</title>
     <updated>2023-10-11T00:00:00Z</updated>
@@ -16,6 +23,227 @@
     <id>https://www.mastertheboss.com/jboss-frameworks/apigateway/getting-started-with-api-management/</id>
     <link href="https://www.mastertheboss.com/jboss-frameworks/apigateway/getting-started-with-api-management/" rel="alternate"></link>
     <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How to validate GitOps manifests</title>
+    <updated>2023-10-10T07:00:00Z</updated>
+    <id>95d3a2f7-477c-4c56-8894-124fa034c2c2</id>
+    <link href="https://developers.redhat.com/articles/2023/10/10/how-validate-gitops-manifests" rel="alternate"></link>
+    <summary type="html"><p>One of the major challenges of managing a cluster and application resources with GitOps is validating that changes to the GitOps manifests are correct. When making changes to objects directly on the cluster, the user is immediately presented with feedback when issues exist. The user is able to troubleshoot and resolve those issues with the knowledge of the context of the changes they just made. When working with GitOps, that feedback cycle is often delayed and users don't receive feedback on changes until they are applied to the cluster, which could be hours or even weeks depending on the approval lifecycle of a change.</p>
+
+<p>To reduce the number of errors in changes to a GitOps manifest and eliminate the dreaded <code>Unknown</code> state in an ArgoCD application, this article will discuss tools and best practices. We will discuss automating these validations with GitHub actions, but all of these validations can be configured with another CI tool of your choice.</p>
+
+<h2 id="yaml-linting">Using YAML linters</h2>
+
+<p>YAML is the basis of nearly all GitOps repos. As you would expect, YAML has specific syntax standards for validity. Additionally, there are many recommended best practices that may not be required but can help improve the consistency and readability of the YAML.</p>
+
+<p>YAML linters are a great tool to help validate requirements on a repo and enforce consistent style for some of the optional configurations. Many different YAML linter tools exists, but one that I recommend is <a href="https://github.com/adrienverge/yamllint">yamllint</a>. The <code>yamllint</code> is built with Python, making it easy to set up on most Linux and MacOS environments since Python is installed by default and easily installed on any Windows environment.</p>
+
+<p>To install <code>yamllint</code> you can run the following command with <code>pip</code>, the Python package management tool:</p>
+
+<pre>
+<code class="lang-sh">pip install --<span class="hljs-keyword">user</span> <span class="hljs-title">yamllint</span>
+</code></pre>
+
+<p>Once installed, users can use the <code>yamllint</code> cli tool to manually validate individual files:</p>
+
+<pre>
+<code class="lang-sh">yamllint <span class="hljs-keyword">my</span>-<span class="hljs-built_in">file</span>.yaml
+</code></pre>
+
+<p>Or an entire directory structure:</p>
+
+<pre>
+<code class="lang-sh">yamllint .
+</code></pre>
+
+<p>The <code>yamllint</code> provides a default configuration that may provide warnings for some style standards that you many not wish to enforce. The default options can easily be configured by creating a file called <code>.yamllint</code> in the root of the project. The following is a common configuration used in many GitOps repos:</p>
+
+<pre>
+<code class="lang-yaml"><span class="hljs-attribute">extends</span>: default
+
+<span class="less"><span class="hljs-attribute">rules</span>:
+  <span class="hljs-attribute">document-start</span>: disable
+  <span class="hljs-attribute">indentation</span>:
+    <span class="hljs-attribute">indent-sequences</span>: whatever
+  <span class="hljs-attribute">line-length</span>: disable
+  <span class="hljs-attribute">truthy</span>:
+    <span class="hljs-attribute">ignore</span>: .github/workflows/</span>
+</code></pre>
+
+<h3 id="automating-with-github-actions">Automating with GitHub actions</h3>
+
+<p>Running <code>yamllint</code> locally is a great option for developers to get feedback while making changes to a repo, however running <code>yamllint</code> directly in a CI tool such as GitHub actions can help enforce standards and prevent improperly formatted YAML from ever making it into the main branch.</p>
+
+<p>To add a yamllint GitHub action, we can utilize a pre-built GitHub action and create a file called <code>.github/workflows/validate-manifests.yaml</code> in your project containing the following:</p>
+
+<pre>
+<code class="lang-yaml"><span class="hljs-attribute">name</span>: Validate Manifests
+<span class="hljs-attribute">on</span>:
+  <span class="hljs-attribute">push</span>:
+    <span class="hljs-attribute">branches</span>:
+      - <span class="hljs-string">"*"</span>
+  <span class="hljs-attribute">pull_request</span>:
+    <span class="hljs-attribute">branches</span>:
+      - <span class="hljs-string">"*"</span>
+
+<span class="hljs-attribute">jobs</span>:
+  <span class="hljs-attribute">lint-yaml</span>:
+    <span class="hljs-attribute">runs-on</span>: ubuntu-latest
+    <span class="hljs-attribute">steps</span>:
+      - <span class="hljs-attribute">name</span>: Code Checkout
+        <span class="hljs-attribute">uses</span>: actions/checkout<span class="hljs-variable">@v3</span>
+      - <span class="hljs-attribute">name</span>: Validate YAML
+        <span class="hljs-attribute">uses</span>: ibiqlik/action-yamllint<span class="hljs-variable">@v3</span>
+        <span class="hljs-attribute">with</span>:
+          <span class="hljs-attribute">format</span>: github
+</code></pre>
+
+<p>One great feature of <code>yamllint</code> is that it has native integration with GitHub and can do annotations directly on the lines of code with issues, making it easier for developers to identify problems and resolve them (Figure 1).</p>
+
+
+<figure class="align-center" role="group"><div class="rhd-c-figure">
+  <article class="media media--type-image media--view-mode-article-content"><div class="field field--name-image field--type-image field--label-hidden field__items">
+  <a href="https://developers.redhat.com/sites/default/files/yamllint-annotation-error.png" data-featherlight="image"><img loading="lazy" src="https://developers.redhat.com/sites/default/files/styles/article_floated/public/yamllint-annotation-error.png?itok=_OHjlhTz" width="600" height="227" alt="A screenshot of a yamllint error Github annotation." typeof="Image" /></a>
+</div><div class="field field--name-field-caption field--type-string field--label-hidden field__items">
+      <div class="rhd-c-caption field__item">Figure 1: This illustrates a yamllint error GitHub annotation.</div>
+</div>
+      </article></div>
+<figcaption class="rhd-c-caption"></figcaption></figure><h2 id="what-this-is-good-for">The benefits of YAML linters</h2>
+
+<p>YAML linters are designed to enforce generic YAML standards and make sure that objects are properly structured based on those generic standards. YAML linters are great for identifying issues with misconfigurations in YAML, such as extra lines in files or incorrect tabbing in objects. YAML linters can be great for catching problems such as objects incorrectly copied and pasted into a repo or a field accidentally duplicated in the same object.</p>
+
+<p>YAML linters can also keep GitOps repos more consistent and enforce some chosen standards for all contributors to the repo, making the repo more readable and maintainable. However, YAML linters are generally not able to do any sort of deeper inspection of the objects, and they do not validate the object against the expected schema for that object type.</p>
+
+<h2 id="kustomize-validation">Kustomize validation</h2>
+
+<p>Kustomize is one of the most common tools found in a GitOps repo for helping to organize and deploy YAML objects. Repos can commonly contain dozen, if not hundreds of <code>kustomization.yaml</code> files that can be incorrectly configured and cause errors when you reach the deployment step if not validated beforehand.</p>
+
+<p>A simple validation can be performed using the <code>kustomize</code> CLI tool:</p>
+
+<pre>
+<code class="lang-sh">kustomize build path/<span class="hljs-keyword">to</span>/<span class="hljs-keyword">my</span>/folder
+</code></pre>
+
+<p>This command will attempt to render the folder using kustomize and display the final YAML objects. If it successfully renders, the <code>kustomization.yaml</code> file is valid. If it does not, kustomize will display an error to troubleshoot the issue.</p>
+
+<p>When making changes in kustomize, it can be easy to cause unforeseen problems. Therefore, it is always recommended to validate all kustomize resources in a repo, even those that you have not directly changed. A script that looks for all <code>kustomization.yaml</code> files in the repo, and attempts to run <code>kustomize build</code> for each folder can help to validate that no unintentional errors have been created. Fortunately, the Red Hat CoP has already created a <a href="https://github.com/redhat-cop/gitops-catalog/blob/main/scripts/validate_manifests.sh">script</a> to do exactly that. Copy the <code>validate_manifests.sh</code> directly into a GitOps repo. Generally, I store it in a scripts folder, but you can run the script with the following:</p>
+
+<pre>
+<code class="lang-sh">.<span class="hljs-regexp">/scripts/</span>validate_manifests.sh
+</code></pre>
+
+<h3 id="automating-with-github-actions">Automating with GitHub Actions</h3>
+
+<p>Just like the YAML lint, validating the kustomize in a CI tool is an important step to adding confidence to changes to a repo and ensuring that no errors are introduced into the main branch.</p>
+
+<p>Conveniently, GitHub Actions already has the kustomize tool built in so we can create a simple action to run the previously mentioned script by adding a new job to the same validation action we created before:</p>
+
+<pre>
+<code class="lang-yaml"><span class="hljs-attribute">jobs</span>:
+  <span class="hljs-attribute">lint-kustomize</span>:
+    <span class="hljs-attribute">runs-on</span>: ubuntu-latest
+    <span class="hljs-attribute">steps</span>:
+      - <span class="hljs-attribute">name</span>: Code Checkout
+        <span class="hljs-attribute">uses</span>: actions/checkout<span class="hljs-variable">@v3</span>
+      - <span class="hljs-attribute">name</span>: Verify Kustomize CLI Installation
+        <span class="hljs-attribute">run</span>: |
+          which kustomize
+          kustomize version
+      - <span class="hljs-attribute">name</span>: Validate Manifests
+        <span class="hljs-attribute">run</span>: |
+          ./scripts/validate_manifests.sh
+</code></pre>
+
+<h3 id="what-this-is-good-for">The benefits of Kustomize validation</h3>
+
+<p>Kustomize is a powerful tool, but one that is easy for human error to cause problems. This simple practice of validating every <code>kustomization.yaml</code> file in a repo can reduce the number of errors created by accidentally misspelling a filename or forgetting to update a filename in the <code>kustomization.yaml</code> file after renaming it. This kustomize check can also identify problems where objects are updated and any patches that impact those objects are no longer valid.</p>
+
+<p>Additional, this validation can help to ensure that you don't accidentally break dependencies where another <code>kustomization.yaml</code> file inherits from a folder you did change. You can quickly catch problems before changes are merged into the main branch, such as when an object is removed from a base folder and that same object is being referenced in the overlay.</p>
+
+<h2 id="validating-helm">Using the Helm tool</h2>
+
+<p>Helm is another popular tool that is utilized in GitOps repos for organizing complex applications. Helm is an extremely powerful tool but one that can be prone to errors due to its complex syntax and structure.</p>
+
+<p>Fortunately, Helm provides a built in tool to help validate charts within the CLI:</p>
+
+<pre>
+<code class="lang-sh">helm lint path/<span class="hljs-keyword">to</span>/<span class="hljs-keyword">my</span>/chart
+</code></pre>
+
+<p>Helm's linting capabilities will help to validate the template code to ensure that it is valid, verify all of the necessary values are present, and emit warnings for other recommendations.</p>
+
+<p>As with the kustomize script, we can automate validating all of the charts in the repo by searching for any <code>Chart.yaml</code> files. The following script can be created in a file called <code>validate_charts.sh</code>:</p>
+
+<pre>
+<code class="lang-sh"><span class="hljs-meta">#!/bin/sh
+</span>
+<span class="hljs-keyword">for</span> i <span class="hljs-keyword">in</span> `find <span class="hljs-string">"<span class="hljs-variable">${HELM_DIRS}</span>"</span> -name <span class="hljs-string">"Chart.yaml"</span> -exec dirname {} \;`;
+<span class="hljs-keyword">do</span>
+
+    <span class="hljs-built_in">echo</span>
+    <span class="hljs-built_in">echo</span> <span class="hljs-string">"Validating <span class="hljs-variable">$i</span>"</span>
+    <span class="hljs-built_in">echo</span>
+
+    helm lint <span class="hljs-variable">$i</span>
+
+    build_response=$?
+
+    <span class="hljs-keyword">if</span> [ <span class="hljs-variable">$build_response</span> <span class="hljs-_">-ne</span> 0 ]; <span class="hljs-keyword">then</span>
+        <span class="hljs-built_in">echo</span> <span class="hljs-string">"Error linting <span class="hljs-variable">$i</span>"</span>
+        <span class="hljs-built_in">exit</span> 1
+    <span class="hljs-keyword">fi</span>
+
+<span class="hljs-keyword">done</span>
+
+<span class="hljs-built_in">echo</span>
+<span class="hljs-built_in">echo</span> <span class="hljs-string">"Charts successfully validated!"</span>
+</code></pre>
+
+<p>You can easily validate all of the charts in a repository at once by running the following command:</p>
+
+<pre>
+<code class="lang-sh">.<span class="hljs-regexp">/scripts/</span>validate_charts.sh
+</code></pre>
+
+<p>This new script can be triggered from a GitHub Action just like the previous kustomize check. However in this case, helm is not built into the base action, so it must be installed as follows:</p>
+
+<pre>
+<code class="lang-yaml"><span class="hljs-attribute">jobs</span>:
+  <span class="hljs-attribute">helm-lint</span>:
+    <span class="hljs-attribute">runs-on</span>: ubuntu-latest
+    <span class="hljs-attribute">env</span>:
+      <span class="hljs-attribute">HELM_VERSION</span>: <span class="hljs-number">3.12</span>.<span class="hljs-number">3</span>
+      <span class="hljs-attribute">HELM_DIRS</span>: .
+    <span class="hljs-attribute">steps</span>:
+      - <span class="hljs-attribute">name</span>: Install Helm
+        <span class="hljs-attribute">run</span>: |
+          sudo curl -L -o /usr/bin/helm <span class="hljs-attribute">https</span>:<span class="hljs-comment">//get.helm.sh/helm-v${HELM_VERSION}-linux-amd64.tar.gz</span>
+          sudo chmod +x /usr/bin/helm
+      - <span class="hljs-attribute">name</span>: Code Checkout
+        <span class="hljs-attribute">uses</span>: actions/checkout<span class="hljs-variable">@v3</span>
+      - <span class="hljs-attribute">name</span>: Validate Charts
+        <span class="hljs-attribute">run</span>: |
+            ./scripts/validate_charts.sh
+</code></pre>
+
+<h3 id="what-this-is-good-for">The benefits of Helm lint</h3>
+
+<p>Helm linting can help to catch many issues. Helm is notorious for its complexity and the challenges that the templating language can introduce. You can catch common issues, such as misspelling a value name or incorrectly scoping a variable, with the Helm linting tool. Additionally, a Helm lint can catch other configuration issues in a chart such as an invalid reference in the <code>Chart.yaml</code> file.</p>
+
+<p>Helm linting does not do any validation on the YAML from the rendered charts. It only validates that the chart can be rendered. In some cases, it may be beneficial to apply additional validations on the rendered charts themselves.</p>
+
+<h2 id="next-steps-and-limitations">Next steps and limitations</h2>
+
+<p>The validations discussed are a great first step for improving the confidence of changes in a GitOps repo before deployment. Running these validations can help you avoid common mistakes in GitOps and allow you to catch and resolve problems before they are ever attempted to be validated against the cluster.</p>
+
+<p>One major limitation of these checks is the lack of validation of the objects being applied to a cluster. If a field only accepts a value of <code>true</code> or <code>false</code> the validations discussed today will not be able to identify an invalid configuration such as this.</p>
+
+<p>More specialized tools such as <code>kubeval</code> and <code>kubeconform</code> can help to validate standard Kubernetes objects, but they lack support for Red Hat OpenShift specific objects or CustomResources from Operators out of the box. <a href="https://cloud.redhat.com/blog/validating-openshift-manifests-in-a-gitops-world">Extracting schemas</a> for those objects is possible, which can help to extend validation of objects even beyond standard k8s objects.</p>
+
+<p>Additionally, you can perform validations directly against a target cluster itself using the <code>--dry-run=server</code> flag with <code>oc apply</code>. Using the dry-run flag allows the objects to be validated against the cluster itself and provides an even greater degree of confidence that objects applied to the cluster will be successful.</p>
+The post <a href="https://developers.redhat.com/articles/2023/10/10/how-validate-gitops-manifests" title="How to validate GitOps manifests">How to validate GitOps manifests</a> appeared first on <a href="https://developers.redhat.com/blog" title="Red Hat Developer">Red Hat Developer</a>.
+<br /><br /></summary>
   </entry>
   <entry>
     <title>Red Hat Developer: How custom SELinux policies secure servers and containers</title>
@@ -388,227 +616,6 @@ Ncat: bind to :::2567: Permission denied. QUITTING.</code></pre>
 
 <p>Furthermore, you have the option to obtain tailored <a href="https://developers.redhat.com/content-gateway/link/3874150">Red Hat Enterprise Linux images</a> designed for AWS, Google Cloud Platform, Microsoft Azure, and VMware, facilitating their seamless deployment on your chosen platform.</p>
 The post <a href="https://developers.redhat.com/articles/2023/10/10/how-custom-selinux-policies-secure-servers-and-containers" title="How custom SELinux policies secure servers and containers">How custom SELinux policies secure servers and containers</a> appeared first on <a href="https://developers.redhat.com/blog" title="Red Hat Developer">Red Hat Developer</a>.
-<br /><br /></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: How to validate GitOps manifests</title>
-    <updated>2023-10-10T07:00:00Z</updated>
-    <id>95d3a2f7-477c-4c56-8894-124fa034c2c2</id>
-    <link href="https://developers.redhat.com/articles/2023/10/10/how-validate-gitops-manifests" rel="alternate"></link>
-    <summary type="html"><p>One of the major challenges of managing a cluster and application resources with GitOps is validating that changes to the GitOps manifests are correct. When making changes to objects directly on the cluster, the user is immediately presented with feedback when issues exist. The user is able to troubleshoot and resolve those issues with the knowledge of the context of the changes they just made. When working with GitOps, that feedback cycle is often delayed and users don't receive feedback on changes until they are applied to the cluster, which could be hours or even weeks depending on the approval lifecycle of a change.</p>
-
-<p>To reduce the number of errors in changes to a GitOps manifest and eliminate the dreaded <code>Unknown</code> state in an ArgoCD application, this article will discuss tools and best practices. We will discuss automating these validations with GitHub actions, but all of these validations can be configured with another CI tool of your choice.</p>
-
-<h2 id="yaml-linting">Using YAML linters</h2>
-
-<p>YAML is the basis of nearly all GitOps repos. As you would expect, YAML has specific syntax standards for validity. Additionally, there are many recommended best practices that may not be required but can help improve the consistency and readability of the YAML.</p>
-
-<p>YAML linters are a great tool to help validate requirements on a repo and enforce consistent style for some of the optional configurations. Many different YAML linter tools exists, but one that I recommend is <a href="https://github.com/adrienverge/yamllint">yamllint</a>. The <code>yamllint</code> is built with Python, making it easy to set up on most Linux and MacOS environments since Python is installed by default and easily installed on any Windows environment.</p>
-
-<p>To install <code>yamllint</code> you can run the following command with <code>pip</code>, the Python package management tool:</p>
-
-<pre>
-<code class="lang-sh">pip install --<span class="hljs-keyword">user</span> <span class="hljs-title">yamllint</span>
-</code></pre>
-
-<p>Once installed, users can use the <code>yamllint</code> cli tool to manually validate individual files:</p>
-
-<pre>
-<code class="lang-sh">yamllint <span class="hljs-keyword">my</span>-<span class="hljs-built_in">file</span>.yaml
-</code></pre>
-
-<p>Or an entire directory structure:</p>
-
-<pre>
-<code class="lang-sh">yamllint .
-</code></pre>
-
-<p>The <code>yamllint</code> provides a default configuration that may provide warnings for some style standards that you many not wish to enforce. The default options can easily be configured by creating a file called <code>.yamllint</code> in the root of the project. The following is a common configuration used in many GitOps repos:</p>
-
-<pre>
-<code class="lang-yaml"><span class="hljs-attribute">extends</span>: default
-
-<span class="less"><span class="hljs-attribute">rules</span>:
-  <span class="hljs-attribute">document-start</span>: disable
-  <span class="hljs-attribute">indentation</span>:
-    <span class="hljs-attribute">indent-sequences</span>: whatever
-  <span class="hljs-attribute">line-length</span>: disable
-  <span class="hljs-attribute">truthy</span>:
-    <span class="hljs-attribute">ignore</span>: .github/workflows/</span>
-</code></pre>
-
-<h3 id="automating-with-github-actions">Automating with GitHub actions</h3>
-
-<p>Running <code>yamllint</code> locally is a great option for developers to get feedback while making changes to a repo, however running <code>yamllint</code> directly in a CI tool such as GitHub actions can help enforce standards and prevent improperly formatted YAML from ever making it into the main branch.</p>
-
-<p>To add a yamllint GitHub action, we can utilize a pre-built GitHub action and create a file called <code>.github/workflows/validate-manifests.yaml</code> in your project containing the following:</p>
-
-<pre>
-<code class="lang-yaml"><span class="hljs-attribute">name</span>: Validate Manifests
-<span class="hljs-attribute">on</span>:
-  <span class="hljs-attribute">push</span>:
-    <span class="hljs-attribute">branches</span>:
-      - <span class="hljs-string">"*"</span>
-  <span class="hljs-attribute">pull_request</span>:
-    <span class="hljs-attribute">branches</span>:
-      - <span class="hljs-string">"*"</span>
-
-<span class="hljs-attribute">jobs</span>:
-  <span class="hljs-attribute">lint-yaml</span>:
-    <span class="hljs-attribute">runs-on</span>: ubuntu-latest
-    <span class="hljs-attribute">steps</span>:
-      - <span class="hljs-attribute">name</span>: Code Checkout
-        <span class="hljs-attribute">uses</span>: actions/checkout<span class="hljs-variable">@v3</span>
-      - <span class="hljs-attribute">name</span>: Validate YAML
-        <span class="hljs-attribute">uses</span>: ibiqlik/action-yamllint<span class="hljs-variable">@v3</span>
-        <span class="hljs-attribute">with</span>:
-          <span class="hljs-attribute">format</span>: github
-</code></pre>
-
-<p>One great feature of <code>yamllint</code> is that it has native integration with GitHub and can do annotations directly on the lines of code with issues, making it easier for developers to identify problems and resolve them (Figure 1).</p>
-
-
-<figure class="align-center" role="group"><div class="rhd-c-figure">
-  <article class="media media--type-image media--view-mode-article-content"><div class="field field--name-image field--type-image field--label-hidden field__items">
-  <a href="https://developers.redhat.com/sites/default/files/yamllint-annotation-error.png" data-featherlight="image"><img loading="lazy" src="https://developers.redhat.com/sites/default/files/styles/article_floated/public/yamllint-annotation-error.png?itok=_OHjlhTz" width="600" height="227" alt="A screenshot of a yamllint error Github annotation." typeof="Image" /></a>
-</div><div class="field field--name-field-caption field--type-string field--label-hidden field__items">
-      <div class="rhd-c-caption field__item">Figure 1: This illustrates a yamllint error GitHub annotation.</div>
-</div>
-      </article></div>
-<figcaption class="rhd-c-caption"></figcaption></figure><h2 id="what-this-is-good-for">The benefits of YAML linters</h2>
-
-<p>YAML linters are designed to enforce generic YAML standards and make sure that objects are properly structured based on those generic standards. YAML linters are great for identifying issues with misconfigurations in YAML, such as extra lines in files or incorrect tabbing in objects. YAML linters can be great for catching problems such as objects incorrectly copied and pasted into a repo or a field accidentally duplicated in the same object.</p>
-
-<p>YAML linters can also keep GitOps repos more consistent and enforce some chosen standards for all contributors to the repo, making the repo more readable and maintainable. However, YAML linters are generally not able to do any sort of deeper inspection of the objects, and they do not validate the object against the expected schema for that object type.</p>
-
-<h2 id="kustomize-validation">Kustomize validation</h2>
-
-<p>Kustomize is one of the most common tools found in a GitOps repo for helping to organize and deploy YAML objects. Repos can commonly contain dozen, if not hundreds of <code>kustomization.yaml</code> files that can be incorrectly configured and cause errors when you reach the deployment step if not validated beforehand.</p>
-
-<p>A simple validation can be performed using the <code>kustomize</code> CLI tool:</p>
-
-<pre>
-<code class="lang-sh">kustomize build path/<span class="hljs-keyword">to</span>/<span class="hljs-keyword">my</span>/folder
-</code></pre>
-
-<p>This command will attempt to render the folder using kustomize and display the final YAML objects. If it successfully renders, the <code>kustomization.yaml</code> file is valid. If it does not, kustomize will display an error to troubleshoot the issue.</p>
-
-<p>When making changes in kustomize, it can be easy to cause unforeseen problems. Therefore, it is always recommended to validate all kustomize resources in a repo, even those that you have not directly changed. A script that looks for all <code>kustomization.yaml</code> files in the repo, and attempts to run <code>kustomize build</code> for each folder can help to validate that no unintentional errors have been created. Fortunately, the Red Hat CoP has already created a <a href="https://github.com/redhat-cop/gitops-catalog/blob/main/scripts/validate_manifests.sh">script</a> to do exactly that. Copy the <code>validate_manifests.sh</code> directly into a GitOps repo. Generally, I store it in a scripts folder, but you can run the script with the following:</p>
-
-<pre>
-<code class="lang-sh">.<span class="hljs-regexp">/scripts/</span>validate_manifests.sh
-</code></pre>
-
-<h3 id="automating-with-github-actions">Automating with GitHub Actions</h3>
-
-<p>Just like the YAML lint, validating the kustomize in a CI tool is an important step to adding confidence to changes to a repo and ensuring that no errors are introduced into the main branch.</p>
-
-<p>Conveniently, GitHub Actions already has the kustomize tool built in so we can create a simple action to run the previously mentioned script by adding a new job to the same validation action we created before:</p>
-
-<pre>
-<code class="lang-yaml"><span class="hljs-attribute">jobs</span>:
-  <span class="hljs-attribute">lint-kustomize</span>:
-    <span class="hljs-attribute">runs-on</span>: ubuntu-latest
-    <span class="hljs-attribute">steps</span>:
-      - <span class="hljs-attribute">name</span>: Code Checkout
-        <span class="hljs-attribute">uses</span>: actions/checkout<span class="hljs-variable">@v3</span>
-      - <span class="hljs-attribute">name</span>: Verify Kustomize CLI Installation
-        <span class="hljs-attribute">run</span>: |
-          which kustomize
-          kustomize version
-      - <span class="hljs-attribute">name</span>: Validate Manifests
-        <span class="hljs-attribute">run</span>: |
-          ./scripts/validate_manifests.sh
-</code></pre>
-
-<h3 id="what-this-is-good-for">The benefits of Kustomize validation</h3>
-
-<p>Kustomize is a powerful tool, but one that is easy for human error to cause problems. This simple practice of validating every <code>kustomization.yaml</code> file in a repo can reduce the number of errors created by accidentally misspelling a filename or forgetting to update a filename in the <code>kustomization.yaml</code> file after renaming it. This kustomize check can also identify problems where objects are updated and any patches that impact those objects are no longer valid.</p>
-
-<p>Additional, this validation can help to ensure that you don't accidentally break dependencies where another <code>kustomization.yaml</code> file inherits from a folder you did change. You can quickly catch problems before changes are merged into the main branch, such as when an object is removed from a base folder and that same object is being referenced in the overlay.</p>
-
-<h2 id="validating-helm">Using the Helm tool</h2>
-
-<p>Helm is another popular tool that is utilized in GitOps repos for organizing complex applications. Helm is an extremely powerful tool but one that can be prone to errors due to its complex syntax and structure.</p>
-
-<p>Fortunately, Helm provides a built in tool to help validate charts within the CLI:</p>
-
-<pre>
-<code class="lang-sh">helm lint path/<span class="hljs-keyword">to</span>/<span class="hljs-keyword">my</span>/chart
-</code></pre>
-
-<p>Helm's linting capabilities will help to validate the template code to ensure that it is valid, verify all of the necessary values are present, and emit warnings for other recommendations.</p>
-
-<p>As with the kustomize script, we can automate validating all of the charts in the repo by searching for any <code>Chart.yaml</code> files. The following script can be created in a file called <code>validate_charts.sh</code>:</p>
-
-<pre>
-<code class="lang-sh"><span class="hljs-meta">#!/bin/sh
-</span>
-<span class="hljs-keyword">for</span> i <span class="hljs-keyword">in</span> `find <span class="hljs-string">"<span class="hljs-variable">${HELM_DIRS}</span>"</span> -name <span class="hljs-string">"Chart.yaml"</span> -exec dirname {} \;`;
-<span class="hljs-keyword">do</span>
-
-    <span class="hljs-built_in">echo</span>
-    <span class="hljs-built_in">echo</span> <span class="hljs-string">"Validating <span class="hljs-variable">$i</span>"</span>
-    <span class="hljs-built_in">echo</span>
-
-    helm lint <span class="hljs-variable">$i</span>
-
-    build_response=$?
-
-    <span class="hljs-keyword">if</span> [ <span class="hljs-variable">$build_response</span> <span class="hljs-_">-ne</span> 0 ]; <span class="hljs-keyword">then</span>
-        <span class="hljs-built_in">echo</span> <span class="hljs-string">"Error linting <span class="hljs-variable">$i</span>"</span>
-        <span class="hljs-built_in">exit</span> 1
-    <span class="hljs-keyword">fi</span>
-
-<span class="hljs-keyword">done</span>
-
-<span class="hljs-built_in">echo</span>
-<span class="hljs-built_in">echo</span> <span class="hljs-string">"Charts successfully validated!"</span>
-</code></pre>
-
-<p>You can easily validate all of the charts in a repository at once by running the following command:</p>
-
-<pre>
-<code class="lang-sh">.<span class="hljs-regexp">/scripts/</span>validate_charts.sh
-</code></pre>
-
-<p>This new script can be triggered from a GitHub Action just like the previous kustomize check. However in this case, helm is not built into the base action, so it must be installed as follows:</p>
-
-<pre>
-<code class="lang-yaml"><span class="hljs-attribute">jobs</span>:
-  <span class="hljs-attribute">helm-lint</span>:
-    <span class="hljs-attribute">runs-on</span>: ubuntu-latest
-    <span class="hljs-attribute">env</span>:
-      <span class="hljs-attribute">HELM_VERSION</span>: <span class="hljs-number">3.12</span>.<span class="hljs-number">3</span>
-      <span class="hljs-attribute">HELM_DIRS</span>: .
-    <span class="hljs-attribute">steps</span>:
-      - <span class="hljs-attribute">name</span>: Install Helm
-        <span class="hljs-attribute">run</span>: |
-          sudo curl -L -o /usr/bin/helm <span class="hljs-attribute">https</span>:<span class="hljs-comment">//get.helm.sh/helm-v${HELM_VERSION}-linux-amd64.tar.gz</span>
-          sudo chmod +x /usr/bin/helm
-      - <span class="hljs-attribute">name</span>: Code Checkout
-        <span class="hljs-attribute">uses</span>: actions/checkout<span class="hljs-variable">@v3</span>
-      - <span class="hljs-attribute">name</span>: Validate Charts
-        <span class="hljs-attribute">run</span>: |
-            ./scripts/validate_charts.sh
-</code></pre>
-
-<h3 id="what-this-is-good-for">The benefits of Helm lint</h3>
-
-<p>Helm linting can help to catch many issues. Helm is notorious for its complexity and the challenges that the templating language can introduce. You can catch common issues, such as misspelling a value name or incorrectly scoping a variable, with the Helm linting tool. Additionally, a Helm lint can catch other configuration issues in a chart such as an invalid reference in the <code>Chart.yaml</code> file.</p>
-
-<p>Helm linting does not do any validation on the YAML from the rendered charts. It only validates that the chart can be rendered. In some cases, it may be beneficial to apply additional validations on the rendered charts themselves.</p>
-
-<h2 id="next-steps-and-limitations">Next steps and limitations</h2>
-
-<p>The validations discussed are a great first step for improving the confidence of changes in a GitOps repo before deployment. Running these validations can help you avoid common mistakes in GitOps and allow you to catch and resolve problems before they are ever attempted to be validated against the cluster.</p>
-
-<p>One major limitation of these checks is the lack of validation of the objects being applied to a cluster. If a field only accepts a value of <code>true</code> or <code>false</code> the validations discussed today will not be able to identify an invalid configuration such as this.</p>
-
-<p>More specialized tools such as <code>kubeval</code> and <code>kubeconform</code> can help to validate standard Kubernetes objects, but they lack support for Red Hat OpenShift specific objects or CustomResources from Operators out of the box. <a href="https://cloud.redhat.com/blog/validating-openshift-manifests-in-a-gitops-world">Extracting schemas</a> for those objects is possible, which can help to extend validation of objects even beyond standard k8s objects.</p>
-
-<p>Additionally, you can perform validations directly against a target cluster itself using the <code>--dry-run=server</code> flag with <code>oc apply</code>. Using the dry-run flag allows the objects to be validated against the cluster itself and provides an even greater degree of confidence that objects applied to the cluster will be successful.</p>
-The post <a href="https://developers.redhat.com/articles/2023/10/10/how-validate-gitops-manifests" title="How to validate GitOps manifests">How to validate GitOps manifests</a> appeared first on <a href="https://developers.redhat.com/blog" title="Red Hat Developer">Red Hat Developer</a>.
 <br /><br /></summary>
   </entry>
   <entry>
@@ -1425,6 +1432,13 @@ The post <a href="https://developers.redhat.com/articles/2023/10/05/how-migrate-
 <br /><br /></summary>
   </entry>
   <entry>
+    <title>Quarkus: Quarkus 3.4.2 released - Maintenance release</title>
+    <updated>2023-10-05T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-4-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-4-2-released/" rel="alternate"></link>
+    <summary type="html">Today, we released Quarkus 3.4.2, our first maintenance release for our 3.4 release train (we skipped 3.4.0). It includes a bunch of bugfixes, together with documentation improvements. Update To update to Quarkus 3.4.2, we recommend updating to the latest version of the Quarkus CLI and run: quarkus update To migrate...</summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Quarkus 3.4.2 released - Maintenance release</title>
     <updated>2023-10-05T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-4-2-released/</id>
@@ -1432,11 +1446,152 @@ The post <a href="https://developers.redhat.com/articles/2023/10/05/how-migrate-
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.4.2 released - Maintenance release</title>
-    <updated>2023-10-05T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-4-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-4-2-released/" rel="alternate"></link>
-    <summary type="html">Today, we released Quarkus 3.4.2, our first maintenance release for our 3.4 release train (we skipped 3.4.0). It includes a bunch of bugfixes, together with documentation improvements. Update To update to Quarkus 3.4.2, we recommend updating to the latest version of the Quarkus CLI and run: quarkus update To migrate...</summary>
+    <title>Red Hat Developer: About Argo CD ApplicationSet and SCM Provider generator</title>
+    <updated>2023-10-04T07:00:00Z</updated>
+    <id>eb3cab1e-7d1d-407e-815c-071817e984fe</id>
+    <link href="https://developers.redhat.com/articles/2023/10/04/about-argo-cd-applicationset-and-scm-provider-generator" rel="alternate"></link>
+    <summary type="html"><p>The ApplicationSet controller is a part of Argo CD that adds support for an <code>ApplicationSet</code> CustomResourceDefinition (CRD). The ApplicationSet controller helps to add <code>Application</code> automation and improve multicluster support and cluster multitenant support within Argo CD.</p>
+
+<p><code>ApplicationSet</code> provides the following benefits:</p>
+
+<ul><li aria-level="1">The ability to use a single <a href="https://developers.redhat.com/topics/kubernetes">Kubernetes</a> manifest to target multiple Kubernetes clusters and deploy multiple applications from one or multiple Git repositories with Argo CD.</li>
+	<li aria-level="1">Improved support for monorepos. In the context of Argo CD, a monorepo is multiple Argo CD <code>Application</code> resources defined within a single Git repository.</li>
+	<li aria-level="1">Within multitenant clusters, improves the ability of individual cluster tenants to deploy applications using Argo CD (without needing to involve privileged cluster administrators in enabling the destination clusters/namespaces).</li>
+</ul><p>You can view all the supported fields for <code>ApplicationSet</code> in the <a href="https://argo-cd.readthedocs.io/en/release-2.8/operator-manual/applicationset/applicationset-specification/">Argo CD documentation</a>.</p>
+
+<h2>ApplicationSet generators</h2>
+
+<p>Generators generate parameters and are rendered into the <code>template</code> field of the <code>ApplicationSet</code> resource. <code>ApplicationSet</code> supports a variety of generators, as described below:</p>
+
+<ul><li aria-level="1"><strong>List generator: </strong>Generates parameters based on an arbitrary list of key/value pairs.</li>
+	<li aria-level="1"><strong>Cluster generator:</strong> Allows you to target Argo CD applications to clusters based on the list of clusters defined within (and managed by) Argo CD.</li>
+	<li aria-level="1"><strong>Git generator:</strong> Allows you to create applications based on files within a Git repository or based on the directory structure of a Git repository.</li>
+	<li aria-level="1"><strong>Matrix generator:</strong> Can be used to combine the generated parameters of two separate generators.</li>
+	<li aria-level="1"><strong>Merge generator:</strong> Can be used to merge the generated parameters of two or more generators.</li>
+	<li aria-level="1"><strong>SCM Provider generator:</strong> Uses the API of a source code management (SCM) provider (e.g., GitHub) to discover repositories within an organization automatically.</li>
+	<li aria-level="1"><strong>Pull Request generator:</strong> Uses the API of a Source-Code-Management-as-a-Service (SCMaaS) provider (e.g., GitHub) to discover open pull requests within a repository automatically.</li>
+	<li aria-level="1"><strong>Cluster Decision Resource generator:</strong> Used to interface with Kubernetes custom resources that use custom resource-specific logic to decide which set of Argo CD clusters to deploy to.</li>
+	<li aria-level="1"><strong>Plug-in generator:</strong> Makes RPC HTTP requests to provide parameters.</li>
+</ul><p>This article focuses exclusively on the SCM Provider generator and its use cases.</p>
+
+<h2>Source code management</h2>
+
+<p>SCM is used to track modifications to a source code repository. SCM tracks a running history of changes to a code base and helps resolve conflicts when merging updates from multiple contributors. SCM is also synonymous with version control.</p>
+
+<p>As software projects grow in lines of code and contributor headcount, the costs of communication overhead and management complexity also grow. SCM is a critical tool to alleviate the organizational strain of growing development costs.</p>
+
+<h2>SCM Provider generator</h2>
+
+<p>The SCM Provider generator uses the API of a SCMaaS provider such as GitHub to discover repositories within an organization automatically. This fits well with GitOps layout patterns that split microservices across many repositories.</p>
+
+<p>As of Argo CD version 2.8, the supported SCM providers are:</p>
+
+<ul><li>GitHub</li>
+	<li>GitLab </li>
+	<li>Gitea</li>
+	<li>Bitbucket </li>
+	<li>Azure DevOps</li>
+	<li>Bitbucket Cloud</li>
+</ul><p>You can configure the ApplicationSet with SCM Provider as follows:</p>
+
+<pre>
+<code class="language-yaml">apiVersion: argoproj.io/v1alpha1
+kind: ApplicationSet
+metadata:
+  name: myapps
+spec:
+  generators:
+  - scmProvider:
+      # Which protocol to clone using.
+      cloneProtocol: ssh
+      # See below for provider specific options.
+      github:
+        # ...</code></pre>
+
+<p><code>cloneProtocol</code>: defines the protocol to use for the SCM URL. The default is provider-specific, but ssh if possible.</p>
+
+<p>The provider's parameters are described in the <a href="https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-SCM-Provider/">Argo CD documentation</a>. We will use GitHub for the example in this article.</p>
+
+<h3>GitHub</h3>
+
+<p>The GitHub mode uses the GitHub API to scan an organization in either github.com or GitHub Enterprise:</p>
+
+<pre>
+<code class="language-yaml">apiVersion: argoproj.io/v1alpha1
+kind: ApplicationSet
+metadata:
+  name: guestbook
+spec:
+  generators:
+  - scmProvider:
+      github:
+        organization: argoproj
+      cloneProtocol: https
+      filters:
+      - repositoryMatch: example-apps
+  template:
+    metadata:
+      name: '{{ repository }}-guestbook'
+    spec:
+      project: "default"
+      source:
+        repoURL: '{{ url }}'
+        targetRevision: '{{ branch }}'
+        path: guestbook
+      destination:
+        server: https://kubernetes.default.svc
+        namespace: guestbook</code></pre>
+
+<p>The parameters are explained below:</p>
+
+<ul><li><strong>Organization</strong>: In the example above, we used <code>argoproj</code>. If you have multiple organizations, use multiple generators.</li>
+	<li><strong>api</strong>: This field is optional; however, if you are using GitHub Enterprise, you will need to specify the URL to access the API. In our example, we are not using GitHub Enterprise.</li>
+	<li><strong>filters: </strong>SCM Provider supports multiple filters. We are using a <code>repositoryMatch</code> filter matching the repository with name <code>example-apps</code>. You can find more filters in the <a href="https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-SCM-Provider/#filters">documentation</a>.</li>
+</ul><h2>Use case</h2>
+
+<p>There is an e-commerce website with multiple services for orders, inventory, payments, etc.; each service is stored in a separate Git repository within the same organization. When we deploy the e-commerce website, we want all the services to be deployed simultaneously for the website to start successfully.</p>
+
+<p>In this case, we can use the SCM Provider generator to generate all the services belonging to the same organization. You can configure the <code>ApplicationSet</code> in the following format:</p>
+
+<pre>
+<code class="language-yaml">apiVersion: argoproj.io/v1alpha1
+kind: ApplicationSet
+metadata:
+  name: ecommerce-website
+spec:
+  generators:
+  - scmProvider:
+      github:
+        organization: ecommerceWebsite
+      cloneProtocol: https
+  template:
+    metadata:
+      name: '{{ repository }}'
+    spec:
+      project: "default"
+      source:
+        repoURL: '{{ url }}'
+        targetRevision: '{{ branch }}'
+        path: app
+      destination:
+        server: https://kubernetes.default.svc
+        namespace: ecomm</code></pre>
+
+<p>The ApplicationSet above will read all the repositories in the GitHub organization <strong>ecommerceWebsite</strong> and deploy all the services in the repositories within the path <code>app</code> in each repository.</p>
+
+<h3>Pros</h3>
+
+<p>Deploying multiple applications and services in the same organization is easy and quick. You can use the SCM Provider generator to allow you to dynamically generate ephemeral environments for testing or prod-like environments easily.</p>
+
+<h3>Cons</h3>
+
+<p>Once the entire organization is added to the SCM Provider generator, it will pick all the repositories matching the added filtering conditions. If you want to create a new repository within the same organization and do not want it to be deployed, you would need to ensure that the repository does not match any of the filtering conditions added to the SCM Provider generator. This becomes an additional effort if the SCM generator is not configured properly.</p>
+
+<h2>Conclusion</h2>
+
+<p>The <code>ApplicationSet</code> custom resource helps you easily and quickly manage multitenant or cluster application deployment. The SCM Provider generator is helpful when you want to manage all repositories of a known pattern within an organization and deploy resources to Argo CD by automatically identifying changes to any of the repositories in the organization.</p>
+The post <a href="https://developers.redhat.com/articles/2023/10/04/about-argo-cd-applicationset-and-scm-provider-generator" title="About Argo CD ApplicationSet and SCM Provider generator">About Argo CD ApplicationSet and SCM Provider generator</a> appeared first on <a href="https://developers.redhat.com/blog" title="Red Hat Developer">Red Hat Developer</a>.
+<br /><br /></summary>
   </entry>
   <entry>
     <title>Red Hat Developer: 5 steps to build a self-healing server with Alertmanager</title>
@@ -1660,154 +1815,6 @@ services:
 
 <p>Get started with Ansible Automation Platform by exploring interactive <a href="https://developers.redhat.com/products/ansible/getting-started">hands-on labs</a>. <a href="https://developers.redhat.com/products/ansible/download#ansibleways">Download</a> Ansible Automation Platform at no cost and begin your automation journey.</p>
 The post <a href="https://developers.redhat.com/articles/2023/10/04/5-steps-build-self-healing-server-alertmanager" title="5 steps to build a self-healing server with Alertmanager">5 steps to build a self-healing server with Alertmanager</a> appeared first on <a href="https://developers.redhat.com/blog" title="Red Hat Developer">Red Hat Developer</a>.
-<br /><br /></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: About Argo CD ApplicationSet and SCM Provider generator</title>
-    <updated>2023-10-04T07:00:00Z</updated>
-    <id>eb3cab1e-7d1d-407e-815c-071817e984fe</id>
-    <link href="https://developers.redhat.com/articles/2023/10/04/about-argo-cd-applicationset-and-scm-provider-generator" rel="alternate"></link>
-    <summary type="html"><p>The ApplicationSet controller is a part of Argo CD that adds support for an <code>ApplicationSet</code> CustomResourceDefinition (CRD). The ApplicationSet controller helps to add <code>Application</code> automation and improve multicluster support and cluster multitenant support within Argo CD.</p>
-
-<p><code>ApplicationSet</code> provides the following benefits:</p>
-
-<ul><li aria-level="1">The ability to use a single <a href="https://developers.redhat.com/topics/kubernetes">Kubernetes</a> manifest to target multiple Kubernetes clusters and deploy multiple applications from one or multiple Git repositories with Argo CD.</li>
-	<li aria-level="1">Improved support for monorepos. In the context of Argo CD, a monorepo is multiple Argo CD <code>Application</code> resources defined within a single Git repository.</li>
-	<li aria-level="1">Within multitenant clusters, improves the ability of individual cluster tenants to deploy applications using Argo CD (without needing to involve privileged cluster administrators in enabling the destination clusters/namespaces).</li>
-</ul><p>You can view all the supported fields for <code>ApplicationSet</code> in the <a href="https://argo-cd.readthedocs.io/en/release-2.8/operator-manual/applicationset/applicationset-specification/">Argo CD documentation</a>.</p>
-
-<h2>ApplicationSet generators</h2>
-
-<p>Generators generate parameters and are rendered into the <code>template</code> field of the <code>ApplicationSet</code> resource. <code>ApplicationSet</code> supports a variety of generators, as described below:</p>
-
-<ul><li aria-level="1"><strong>List generator: </strong>Generates parameters based on an arbitrary list of key/value pairs.</li>
-	<li aria-level="1"><strong>Cluster generator:</strong> Allows you to target Argo CD applications to clusters based on the list of clusters defined within (and managed by) Argo CD.</li>
-	<li aria-level="1"><strong>Git generator:</strong> Allows you to create applications based on files within a Git repository or based on the directory structure of a Git repository.</li>
-	<li aria-level="1"><strong>Matrix generator:</strong> Can be used to combine the generated parameters of two separate generators.</li>
-	<li aria-level="1"><strong>Merge generator:</strong> Can be used to merge the generated parameters of two or more generators.</li>
-	<li aria-level="1"><strong>SCM Provider generator:</strong> Uses the API of a source code management (SCM) provider (e.g., GitHub) to discover repositories within an organization automatically.</li>
-	<li aria-level="1"><strong>Pull Request generator:</strong> Uses the API of a Source-Code-Management-as-a-Service (SCMaaS) provider (e.g., GitHub) to discover open pull requests within a repository automatically.</li>
-	<li aria-level="1"><strong>Cluster Decision Resource generator:</strong> Used to interface with Kubernetes custom resources that use custom resource-specific logic to decide which set of Argo CD clusters to deploy to.</li>
-	<li aria-level="1"><strong>Plug-in generator:</strong> Makes RPC HTTP requests to provide parameters.</li>
-</ul><p>This article focuses exclusively on the SCM Provider generator and its use cases.</p>
-
-<h2>Source code management</h2>
-
-<p>SCM is used to track modifications to a source code repository. SCM tracks a running history of changes to a code base and helps resolve conflicts when merging updates from multiple contributors. SCM is also synonymous with version control.</p>
-
-<p>As software projects grow in lines of code and contributor headcount, the costs of communication overhead and management complexity also grow. SCM is a critical tool to alleviate the organizational strain of growing development costs.</p>
-
-<h2>SCM Provider generator</h2>
-
-<p>The SCM Provider generator uses the API of a SCMaaS provider such as GitHub to discover repositories within an organization automatically. This fits well with GitOps layout patterns that split microservices across many repositories.</p>
-
-<p>As of Argo CD version 2.8, the supported SCM providers are:</p>
-
-<ul><li>GitHub</li>
-	<li>GitLab </li>
-	<li>Gitea</li>
-	<li>Bitbucket </li>
-	<li>Azure DevOps</li>
-	<li>Bitbucket Cloud</li>
-</ul><p>You can configure the ApplicationSet with SCM Provider as follows:</p>
-
-<pre>
-<code class="language-yaml">apiVersion: argoproj.io/v1alpha1
-kind: ApplicationSet
-metadata:
-  name: myapps
-spec:
-  generators:
-  - scmProvider:
-      # Which protocol to clone using.
-      cloneProtocol: ssh
-      # See below for provider specific options.
-      github:
-        # ...</code></pre>
-
-<p><code>cloneProtocol</code>: defines the protocol to use for the SCM URL. The default is provider-specific, but ssh if possible.</p>
-
-<p>The provider's parameters are described in the <a href="https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-SCM-Provider/">Argo CD documentation</a>. We will use GitHub for the example in this article.</p>
-
-<h3>GitHub</h3>
-
-<p>The GitHub mode uses the GitHub API to scan an organization in either github.com or GitHub Enterprise:</p>
-
-<pre>
-<code class="language-yaml">apiVersion: argoproj.io/v1alpha1
-kind: ApplicationSet
-metadata:
-  name: guestbook
-spec:
-  generators:
-  - scmProvider:
-      github:
-        organization: argoproj
-      cloneProtocol: https
-      filters:
-      - repositoryMatch: example-apps
-  template:
-    metadata:
-      name: '{{ repository }}-guestbook'
-    spec:
-      project: "default"
-      source:
-        repoURL: '{{ url }}'
-        targetRevision: '{{ branch }}'
-        path: guestbook
-      destination:
-        server: https://kubernetes.default.svc
-        namespace: guestbook</code></pre>
-
-<p>The parameters are explained below:</p>
-
-<ul><li><strong>Organization</strong>: In the example above, we used <code>argoproj</code>. If you have multiple organizations, use multiple generators.</li>
-	<li><strong>api</strong>: This field is optional; however, if you are using GitHub Enterprise, you will need to specify the URL to access the API. In our example, we are not using GitHub Enterprise.</li>
-	<li><strong>filters: </strong>SCM Provider supports multiple filters. We are using a <code>repositoryMatch</code> filter matching the repository with name <code>example-apps</code>. You can find more filters in the <a href="https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-SCM-Provider/#filters">documentation</a>.</li>
-</ul><h2>Use case</h2>
-
-<p>There is an e-commerce website with multiple services for orders, inventory, payments, etc.; each service is stored in a separate Git repository within the same organization. When we deploy the e-commerce website, we want all the services to be deployed simultaneously for the website to start successfully.</p>
-
-<p>In this case, we can use the SCM Provider generator to generate all the services belonging to the same organization. You can configure the <code>ApplicationSet</code> in the following format:</p>
-
-<pre>
-<code class="language-yaml">apiVersion: argoproj.io/v1alpha1
-kind: ApplicationSet
-metadata:
-  name: ecommerce-website
-spec:
-  generators:
-  - scmProvider:
-      github:
-        organization: ecommerceWebsite
-      cloneProtocol: https
-  template:
-    metadata:
-      name: '{{ repository }}'
-    spec:
-      project: "default"
-      source:
-        repoURL: '{{ url }}'
-        targetRevision: '{{ branch }}'
-        path: app
-      destination:
-        server: https://kubernetes.default.svc
-        namespace: ecomm</code></pre>
-
-<p>The ApplicationSet above will read all the repositories in the GitHub organization <strong>ecommerceWebsite</strong> and deploy all the services in the repositories within the path <code>app</code> in each repository.</p>
-
-<h3>Pros</h3>
-
-<p>Deploying multiple applications and services in the same organization is easy and quick. You can use the SCM Provider generator to allow you to dynamically generate ephemeral environments for testing or prod-like environments easily.</p>
-
-<h3>Cons</h3>
-
-<p>Once the entire organization is added to the SCM Provider generator, it will pick all the repositories matching the added filtering conditions. If you want to create a new repository within the same organization and do not want it to be deployed, you would need to ensure that the repository does not match any of the filtering conditions added to the SCM Provider generator. This becomes an additional effort if the SCM generator is not configured properly.</p>
-
-<h2>Conclusion</h2>
-
-<p>The <code>ApplicationSet</code> custom resource helps you easily and quickly manage multitenant or cluster application deployment. The SCM Provider generator is helpful when you want to manage all repositories of a known pattern within an organization and deploy resources to Argo CD by automatically identifying changes to any of the repositories in the organization.</p>
-The post <a href="https://developers.redhat.com/articles/2023/10/04/about-argo-cd-applicationset-and-scm-provider-generator" title="About Argo CD ApplicationSet and SCM Provider generator">About Argo CD ApplicationSet and SCM Provider generator</a> appeared first on <a href="https://developers.redhat.com/blog" title="Red Hat Developer">Red Hat Developer</a>.
 <br /><br /></summary>
   </entry>
   <entry>
@@ -2176,18 +2183,18 @@ The post <a href="https://developers.redhat.com/articles/2023/10/03/beyond-loom-
     <summary type="html">In a previous post, we have seen how to implement a CRUD application using virtual threads in Quarkus. The following video shows how to test this application and, specifically, how to detect pinning. The complete code of the application and the tests are available in the virtual threads demos repository....</summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Live diff and update quarkus deployments in OpenShift using Jetbrains IDEA</title>
-    <updated>2023-09-28T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/live-diff-and-update-using-idea/</id>
-    <link href="https://quarkus.io/blog/live-diff-and-update-using-idea/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Live diff and update quarkus deployments in OpenShift using Jetbrains IDEA</title>
     <updated>2023-09-28T00:00:00Z</updated>
     <id>https://quarkus.io/blog/live-diff-and-update-using-idea/</id>
     <link href="https://quarkus.io/blog/live-diff-and-update-using-idea/" rel="alternate"></link>
     <summary type="html">Prerequisites OpenShift CLI, oc: installation instructions Kubernetes by Red Hat, Kubernetes Plugin for JetBrains IDEA Marketplace Quarkus CLI, Quarkus: Installation Instructions Optional: Source code for this blog post: https://github.com/adietish/openshift-quickstart IntelliJ Kubernetes Plugin This shows you how the Kubernetes Plugin for Jetbrains IDEA is a great companion when deploying quarkus apps...</summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Live diff and update quarkus deployments in OpenShift using Jetbrains IDEA</title>
+    <updated>2023-09-28T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/live-diff-and-update-using-idea/</id>
+    <link href="https://quarkus.io/blog/live-diff-and-update-using-idea/" rel="alternate"></link>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: Just: a tool to store and execute your project commands</title>
@@ -2225,20 +2232,6 @@ The post <a href="https://developers.redhat.com/articles/2023/10/03/beyond-loom-
     <summary type="html">Last week, we published a video demonstrating the creation of a CRUD application using virtual threads in Quarkus. It’s as simple as adding the @RunOnVirtualThread annotation on your HTTP resource (or your controller class if you use the Spring compatibility layer). This companion post explains how it works behind the...</summary>
   </entry>
   <entry>
-    <title>Quarkus: Observability in Quarkus 3</title>
-    <updated>2023-09-20T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-observability-3-3/</id>
-    <link href="https://quarkus.io/blog/quarkus-observability-3-3/" rel="alternate"></link>
-    <summary type="html">Observability in Quarkus Observability on a software system can be described as the capability to allow a human to ask and answer questions. To enable developers and support engineers in understanding how their applications behave, Quarkus 3.3 includes many improvements to its main observability related extensions: quarkus-opentelemetry (tracing) quarkus-micrometer (metrics)...</summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Observability in Quarkus 3</title>
-    <updated>2023-09-20T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-observability-3-3/</id>
-    <link href="https://quarkus.io/blog/quarkus-observability-3-3/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.4.1 released - Redis 7.2 and Flyway changes</title>
     <updated>2023-09-20T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-4-1-released/</id>
@@ -2246,10 +2239,24 @@ The post <a href="https://developers.redhat.com/articles/2023/10/03/beyond-loom-
     <summary type="html">It is our pleasure to announce the release of Quarkus 3.4.1. We skipped 3.4.0 as we needed a fix for CVE-2023-4853 in 3.4 too. Major changes are: Support for Redis 7.2 Adjustments on how to enable/activate Flyway This version also comes with bugfixes, performance improvements and documentation improvements. We currently...</summary>
   </entry>
   <entry>
+    <title>Quarkus: Observability in Quarkus 3</title>
+    <updated>2023-09-20T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-observability-3-3/</id>
+    <link href="https://quarkus.io/blog/quarkus-observability-3-3/" rel="alternate"></link>
+    <summary type="html">Observability in Quarkus Observability on a software system can be described as the capability to allow a human to ask and answer questions. To enable developers and support engineers in understanding how their applications behave, Quarkus 3.3 includes many improvements to its main observability related extensions: quarkus-opentelemetry (tracing) quarkus-micrometer (metrics)...</summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Quarkus 3.4.1 released - Redis 7.2 and Flyway changes</title>
     <updated>2023-09-20T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-4-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-4-1-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Observability in Quarkus 3</title>
+    <updated>2023-09-20T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-observability-3-3/</id>
+    <link href="https://quarkus.io/blog/quarkus-observability-3-3/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -2264,13 +2271,6 @@ The post <a href="https://developers.redhat.com/articles/2023/10/03/beyond-loom-
     <updated>2023-09-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/virtual-thread-1/</id>
     <link href="https://quarkus.io/blog/virtual-thread-1/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: How to upgrade to Quarkus 3</title>
-    <updated>2023-09-18T16:34:53Z</updated>
-    <id>https://www.mastertheboss.com/soa-cloud/quarkus/how-to-upgrade-to-quarkus-3/</id>
-    <link href="https://www.mastertheboss.com/soa-cloud/quarkus/how-to-upgrade-to-quarkus-3/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
