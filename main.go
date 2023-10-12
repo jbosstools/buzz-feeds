@@ -91,7 +91,7 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	if _, err := f.Write([]byte(html.UnescapeString(data))); err != nil {
+	if _, err := f.Write([]byte(data)); err != nil {
 		log.Fatalf("failed to write rss file: %s", err)
 	}
 	if err := f.Close(); err != nil {
