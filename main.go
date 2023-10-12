@@ -82,9 +82,10 @@ func main() {
 	}
 
 	// remove <?xml version="1.0" encoding="UTF-8"?>
-	data = strings.Replace(data, `<?xml version="1.0" encoding="UTF-8"?>`, "", 1)
+	// data = strings.Replace(data, `<?xml version="1.0" encoding="UTF-8"?>`, "", 1)
 	// remove xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	data = strings.Replace(data, `xmlns:content="http://purl.org/rss/1.0/modules/content/"`, "", 1)
+	// data = strings.Replace(data, `xmlns:content="http://purl.org/rss/1.0/modules/content/"`, "", 1)
+	
 
 	f, err := os.OpenFile("rss.xml", os.O_RDWR|os.O_CREATE|os.O_TRUNC, 0755)
 	if err != nil {
