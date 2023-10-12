@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-10-12T15:23:20Z</updated>
+  <updated>2023-10-12T15:31:29Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: Eclipse Vert.x 4.4.6 released!</title>
@@ -619,6 +619,13 @@ The post <a href="https://developers.redhat.com/articles/2023/10/10/how-validate
     <summary type="html">Quarkus Tools for IntelliJ is a free and open source extension, helping users develop Quarkus applications by providing content-assist, validation, run configurations and many other features right from their favourite IDE. This extension is based on the LSP4MP (i.e. MicroProfile) and its Quarkus add-on, and the Qute language server. These...</summary>
   </entry>
   <entry>
+    <title>Quarkus: Quarkus Newsletter #37 - October</title>
+    <updated>2023-10-10T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-37/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-37/" rel="alternate"></link>
+    <summary type="html">Read "Integrate your Quarkus application with GPT4All" by Alex Soto Bueno to explore how to integrate GPT4All into a Quarkus application so that you can query this service and return a response without any external resources. Go behind the scenes to learn how to create a CRUD application using virtual...</summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Quarkus Newsletter #37 - October</title>
     <updated>2023-10-10T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-37/</id>
@@ -638,13 +645,6 @@ The post <a href="https://developers.redhat.com/articles/2023/10/10/how-validate
     <id>https://quarkus.io/blog/intellij-quarkus-recap/</id>
     <link href="https://quarkus.io/blog/intellij-quarkus-recap/" rel="alternate"></link>
     <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus Newsletter #37 - October</title>
-    <updated>2023-10-10T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-37/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-37/" rel="alternate"></link>
-    <summary type="html">Read "Integrate your Quarkus application with GPT4All" by Alex Soto Bueno to explore how to integrate GPT4All into a Quarkus application so that you can query this service and return a response without any external resources. Go behind the scenes to learn how to create a CRUD application using virtual...</summary>
   </entry>
   <entry>
     <title>Red Hat Developer: Load balancing, threading, and scaling in Node.js</title>
@@ -950,6 +950,125 @@ The post <a href="https://developers.redhat.com/articles/2023/10/09/mir-based-ji
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Red Hat Developer: Try Camel on Quarkus in the Developer Sandbox for Red Hat OpenShift</title>
+    <updated>2023-10-06T07:00:00Z</updated>
+    <id>c7e19de1-859c-41da-bf71-75056f779eea</id>
+    <link href="https://developers.redhat.com/articles/2023/10/06/try-camel-quarkus-developer-sandbox-red-hat-openshift" rel="alternate"></link>
+    <summary type="html"><p>You can now try Apache Camel on <a href="https://developers.redhat.com/products/quarkus">Quarkus</a> in the <a href="https://developers.redhat.com/developer-sandbox/" target="_blank">Developer Sandbox for Red Hat OpenShift</a>, an <a href="https://developers.redhat.com/products/openshift/overview" target="_blank">OpenShift</a> environment you can access for a no-cost, hands-on experience in building and deploying cloud-native applications quickly. This article will guide you to the Developer Sandbox and through a Camel Quarkus integration in a fully web-based experience—no local installs needed.</p>
+
+<p>Camel Quarkus is the latest Camel runtime generation. It allows you to run integration processes with super-low memory usage, fast startup, and outstanding performance. The article <a href="https://developers.redhat.com/articles/2021/12/06/boost-apache-camel-performance-quarkus" target="_blank">Boost Apache Camel performance on Quarkus</a> introduces the topic well.</p>
+
+<p>To learn more about the various Camel runtimes available, read the 3-part series article <a href="https://developers.redhat.com/articles/2022/03/14/choose-best-camel-your-integration-ride-part-1" target="_blank">Choose the best Camel for your integration ride</a>.</p>
+
+<h2>REST and SOAP with Camel on Quarkus</h2>
+
+<p>One recent addition to Camel Quarkus is the ability to perform SOAP operations using Apache CXF, a well-known Java library historically used by Camel but only recently available for Quarkus. </p>
+
+<p>The demo defines a front-facing OpenAPI service called <strong>simple</strong>, which integrates with a back-end SOAP service. The code also includes the stub to simulate the SOAP endpoint. The flow showcases an adaptation layer from REST to SOAP. It’s a relatively simple use case but very common in the enterprise. It defines a REST API and hides a legacy service behind the scenes (Figure 1).</p>
+
+
+<figure class="align-center rhd-u-has-filter-caption" role="group"><div class="rhd-c-figure">
+  <article class="media media--type-image media--view-mode-article-content"><div class="field field--name-image field--type-image field--label-hidden field__items">
+  <a href="https://developers.redhat.com/sites/default/files/camel-quarkus.png" data-featherlight="image"><img loading="lazy" src="https://developers.redhat.com/sites/default/files/styles/article_floated/public/camel-quarkus.png?itok=VYw-sVLl" width="600" height="183" alt="Diagram showing the Camel on Quarkus flow from client to SOAP service." typeof="Image" /></a>
+</div>
+      </article></div>
+<figcaption class="rhd-c-caption">Figure 1: The Camel on Quarkus flow.</figcaption></figure><h3>Demo highlights</h3>
+
+<p>The big win for you is the chance to play the demo in a free-to-access environment from your browser and view/edit the code, and build, deploy, and test the application. Regarding Camel on Quarkus, the example stands out on various fronts.</p>
+
+<p>First of all, both REST and SOAP interfaces are implemented following a contract-first approach. In essence, we rely on the OpenAPI (REST) and WSDL (SOAP) definitions to auto-generate the application’s input/output interfaces. Figure 2 shows how a contract-first OpenAPI helps the developer; this is also valid for SOAP.</p>
+
+
+<figure class="rhd-u-has-filter-caption" role="group"><div class="rhd-c-figure">
+  <article class="media media--type-image media--view-mode-article-content"><div class="field field--name-image field--type-image field--label-hidden field__items">
+  <a href="https://developers.redhat.com/sites/default/files/camel-quarkus-2.png" data-featherlight="image"><img loading="lazy" src="https://developers.redhat.com/sites/default/files/styles/article_floated/public/camel-quarkus-2.png?itok=6koEsqNz" width="600" height="268" alt="Figure 2: Contract-first development." typeof="Image" /></a>
+</div>
+      </article></div>
+<figcaption class="rhd-c-caption">Figure 2: Contract-first development.</figcaption></figure><p>Another notable feature in the demo is data transformation. JSON input must be mapped to outgoing SOAP during the request flow and perform the reverse operation during the response flow. It is all done in a single transformation stylesheet using XSLTs, as in Figure 3.</p>
+
+
+<figure class="align-center rhd-u-has-filter-caption" role="group"><div class="rhd-c-figure">
+  <article class="media media--type-image media--view-mode-article-content"><div class="field field--name-image field--type-image field--label-hidden field__items">
+  <a href="https://developers.redhat.com/sites/default/files/camel-quarkus-3.png" data-featherlight="image"><img loading="lazy" src="https://developers.redhat.com/sites/default/files/styles/article_floated/public/camel-quarkus-3.png?itok=lzp0oY6p" width="600" height="192" alt="Diagram of the JSON / SOAP data mapping flow." typeof="Image" /></a>
+</div>
+      </article></div>
+<figcaption class="rhd-c-caption">Figure 3: JSON / SOAP data mapping operations.</figcaption></figure><p class="align-center">And finally, included in the code, you’ll find a test unit (JUnit) to validate the entire request/response flow (Figure 4). You will discover how to use Camel’s testing framework to dynamically spin up an actual SOAP back end to test against, trigger the processing flow, and tear it all down when done.</p>
+
+
+<figure class="align-center rhd-u-has-filter-caption" role="group"><div class="rhd-c-figure">
+  <article class="media media--type-image media--view-mode-article-content"><div class="field field--name-image field--type-image field--label-hidden field__items">
+  <a href="https://developers.redhat.com/sites/default/files/camel-quarkus-4.png" data-featherlight="image"><img loading="lazy" src="https://developers.redhat.com/sites/default/files/styles/article_floated/public/camel-quarkus-4.png?itok=7PtRDI9d" width="600" height="277" alt="The unit testing flow with Camel and JUnit." typeof="Image" /></a>
+</div>
+      </article></div>
+<figcaption class="rhd-c-caption">Figure 4: Unit testing with Camel.</figcaption></figure><p class="align-center">What is unique about Camel running on Quarkus, but also true for all runtimes, is how little code is required and how elegantly it is laid out. This simplicity guarantees economical, long-term, and sustainable support for your landscape of implemented Camel services.</p>
+
+<p>If you would like to see how all of this is done, jump straight into the Developer Sandbox to explore the code and execute it.</p>
+
+<h2>Access the Developer Sandbox</h2>
+
+<p>Follow these instructions to get started in the Developer Sandbox: <a href="https://developers.redhat.com/articles/2023/03/09/how-access-developer-sandbox-red-hat-openshift#" target="_blank">How to access the Developer Sandbox for Red Hat OpenShift</a></p>
+
+<p>Once you have your browser connected to the Developer Sandbox console, you’ll be all set to start the article’s tutorial.</p>
+
+<h2>Inside OpenShift Dev Spaces</h2>
+
+<p>The Developer Sandbox ships with an entire web-based IDE called <a href="https://developers.redhat.com/products/openshift-dev-spaces/overview" target="_blank">Red Hat OpenShift Dev Spaces</a> (formerly Red Hat CodeReady Workspaces).</p>
+
+<h3>Set up your dev environment with the Camel tutorials</h3>
+
+<p>The animated sequence in Figure 5 illustrates the actions to follow to open your development environment along with your tutorial instructions.</p>
+
+
+<figure class="align-center rhd-u-has-filter-caption" role="group"><div class="rhd-c-figure">
+  <article class="media media--type-image media--view-mode-article-content-full-width"><div class="field field--name-image field--type-image field--label-hidden field__items">
+  <a href="https://developers.redhat.com/sites/default/files/camel-quarkus-5.gif"><img loading="lazy" src="https://developers.redhat.com/sites/default/files/camel-quarkus-5.gif" width="839" height="417" alt="The steps for setting up your development environment in the OpenShift Dev Spaces user interface." typeof="Image" /></a>
+</div>
+      </article></div>
+<figcaption class="rhd-c-caption">Figure 5: The OpenShift Dev Spaces UI.</figcaption></figure><p class="align-center">Follow these steps:</p>
+
+<ol><li aria-level="1">From the web console, click the <strong>Applications</strong> icon as shown in Figure 5 (marked 1).</li>
+	<li aria-level="1">Select <strong>Red Hat OpenShift Dev Spaces</strong> (2). You will be prompted to log in and authorize access; select the <strong>Allow selected permissions</strong> option.</li>
+	<li aria-level="1">
+	<p>When the Create Workspace dashboard in OpenShift Dev Spaces opens, copy the snippet below:</p>
+
+	<pre>
+<code>https://github.com/RedHat-Middleware-Workshops/devsandbox-camel.git</code></pre>
+
+	<p>Then, paste it into the <strong>Git Repo URL</strong> field (3).</p>
+	</li>
+	<li aria-level="1">Click <strong>Create & Open</strong> (4).</li>
+	<li aria-level="1">When the workspace finishes provisioning and the IDE opens, click the deployable Endpoints accordion (5).</li>
+	<li aria-level="1">Then, click on the icon (6), which opens the tutorial in a new browser tab.</li>
+	<li aria-level="1">Choose the tutorial indicated in the next section.</li>
+</ol><h3>Start the Camel Quarkus tutorial</h3>
+
+<p>Select the <strong>Camel Quarkus - Rest/Soap Demo </strong>tile, highlighted in Figure 6.</p>
+
+
+<figure class="align-center rhd-u-has-filter-caption" role="group"><div class="rhd-c-figure">
+  <article class="media media--type-image media--view-mode-article-content"><div class="field field--name-image field--type-image field--label-hidden field__items">
+  <a href="https://developers.redhat.com/sites/default/files/camel-quarkus-soap.png" data-featherlight="image"><img loading="lazy" src="https://developers.redhat.com/sites/default/files/styles/article_floated/public/camel-quarkus-soap.png?itok=pE4rQF5L" width="600" height="359" alt="The Camel Quarkus - Rest/Soap Demo tile highlighted in the Solution Explorer." typeof="Image" /></a>
+</div>
+      </article></div>
+<figcaption class="rhd-c-caption">Figure 6: Locating the Camel Quarkus tutorial.</figcaption></figure><p>When you click on the tile, the Solution Explorer will show the lab introductions and the exercise chapters included, which you should be able to complete in around 15 minutes.</p>
+
+<p>Enjoy the Camel ride!</p>
+
+<h2>More Apache Camel resources</h2>
+
+<p>This article ends here, but this should only be the start of your journey with Apache Camel. The Developer Sandbox for Red Hat OpenShift gives you the opportunity to play on a <a href="https://developers.redhat.com/topics/kubernetes">Kubernetes</a>-based application platform with an integrated developer IDE (OpenShift Dev Spaces).</p>
+
+<p>We encourage you to check out the resources below to learn more about Camel and explore different ways to build applications with Apache Camel:</p>
+
+<ul><li aria-level="1">Play with more <a href="https://developers.redhat.com/articles/2023/03/09/accelerate-your-cloud-native-learning-access-red-hat-developer-sandbox">tutorials in the Developer Sandbox for Red Hat OpenShift</a>.</li>
+	<li aria-level="1">Learn more about the different Camel runtimes available by reading <a href="https://developers.redhat.com/articles/2022/03/14/choose-best-camel-your-integration-ride-part-1">Choose the best Camel for your integration ride</a>.</li>
+	<li aria-level="1">Read <a href="https://developers.redhat.com/articles/2021/12/06/boost-apache-camel-performance-quarkus">Boost Apache Camel performance with Quarkus</a> for a detailed look at Camel Quarkus.</li>
+	<li aria-level="1">Visit the <a href="https://developers.redhat.com/products/integration/overview">Red Hat Integration</a> page on developers.redhat.com to see complementary capabilities around Camel.</li>
+</ul>
+The post <a href="https://developers.redhat.com/articles/2023/10/06/try-camel-quarkus-developer-sandbox-red-hat-openshift" title="Try Camel on Quarkus in the Developer Sandbox for Red Hat OpenShift">Try Camel on Quarkus in the Developer Sandbox for Red Hat OpenShift</a> appeared first on <a href="https://developers.redhat.com/blog" title="Red Hat Developer">Red Hat Developer</a>.
+<br /><br /></summary>
+  </entry>
+  <entry>
     <title>Red Hat Developer: Use fwupd to deploy Linux firmware updates and more</title>
     <updated>2023-10-06T07:00:00Z</updated>
     <id>b2def651-6552-4b46-a5f6-ca44020e7973</id>
@@ -1115,125 +1234,6 @@ for attr in client.get_host_security_attrs(cancellable):
 
 <p>The fwupd project is a mature, safe, and reliable service that can easily be integrated into existing security endpoint solutions and deployment agents. Using three different methods, developers can enumerate devices, query security levels, and control the fwupd daemon to deploy firmware updates.</p>
 The post <a href="https://developers.redhat.com/articles/2023/10/06/use-fwupd-deploy-linux-firmware-updates-and-more" title="Use fwupd to deploy Linux firmware updates and more">Use fwupd to deploy Linux firmware updates and more</a> appeared first on <a href="https://developers.redhat.com/blog" title="Red Hat Developer">Red Hat Developer</a>.
-<br /><br /></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Try Camel on Quarkus in the Developer Sandbox for Red Hat OpenShift</title>
-    <updated>2023-10-06T07:00:00Z</updated>
-    <id>c7e19de1-859c-41da-bf71-75056f779eea</id>
-    <link href="https://developers.redhat.com/articles/2023/10/06/try-camel-quarkus-developer-sandbox-red-hat-openshift" rel="alternate"></link>
-    <summary type="html"><p>You can now try Apache Camel on <a href="https://developers.redhat.com/products/quarkus">Quarkus</a> in the <a href="https://developers.redhat.com/developer-sandbox/" target="_blank">Developer Sandbox for Red Hat OpenShift</a>, an <a href="https://developers.redhat.com/products/openshift/overview" target="_blank">OpenShift</a> environment you can access for a no-cost, hands-on experience in building and deploying cloud-native applications quickly. This article will guide you to the Developer Sandbox and through a Camel Quarkus integration in a fully web-based experience—no local installs needed.</p>
-
-<p>Camel Quarkus is the latest Camel runtime generation. It allows you to run integration processes with super-low memory usage, fast startup, and outstanding performance. The article <a href="https://developers.redhat.com/articles/2021/12/06/boost-apache-camel-performance-quarkus" target="_blank">Boost Apache Camel performance on Quarkus</a> introduces the topic well.</p>
-
-<p>To learn more about the various Camel runtimes available, read the 3-part series article <a href="https://developers.redhat.com/articles/2022/03/14/choose-best-camel-your-integration-ride-part-1" target="_blank">Choose the best Camel for your integration ride</a>.</p>
-
-<h2>REST and SOAP with Camel on Quarkus</h2>
-
-<p>One recent addition to Camel Quarkus is the ability to perform SOAP operations using Apache CXF, a well-known Java library historically used by Camel but only recently available for Quarkus. </p>
-
-<p>The demo defines a front-facing OpenAPI service called <strong>simple</strong>, which integrates with a back-end SOAP service. The code also includes the stub to simulate the SOAP endpoint. The flow showcases an adaptation layer from REST to SOAP. It’s a relatively simple use case but very common in the enterprise. It defines a REST API and hides a legacy service behind the scenes (Figure 1).</p>
-
-
-<figure class="align-center rhd-u-has-filter-caption" role="group"><div class="rhd-c-figure">
-  <article class="media media--type-image media--view-mode-article-content"><div class="field field--name-image field--type-image field--label-hidden field__items">
-  <a href="https://developers.redhat.com/sites/default/files/camel-quarkus.png" data-featherlight="image"><img loading="lazy" src="https://developers.redhat.com/sites/default/files/styles/article_floated/public/camel-quarkus.png?itok=VYw-sVLl" width="600" height="183" alt="Diagram showing the Camel on Quarkus flow from client to SOAP service." typeof="Image" /></a>
-</div>
-      </article></div>
-<figcaption class="rhd-c-caption">Figure 1: The Camel on Quarkus flow.</figcaption></figure><h3>Demo highlights</h3>
-
-<p>The big win for you is the chance to play the demo in a free-to-access environment from your browser and view/edit the code, and build, deploy, and test the application. Regarding Camel on Quarkus, the example stands out on various fronts.</p>
-
-<p>First of all, both REST and SOAP interfaces are implemented following a contract-first approach. In essence, we rely on the OpenAPI (REST) and WSDL (SOAP) definitions to auto-generate the application’s input/output interfaces. Figure 2 shows how a contract-first OpenAPI helps the developer; this is also valid for SOAP.</p>
-
-
-<figure class="rhd-u-has-filter-caption" role="group"><div class="rhd-c-figure">
-  <article class="media media--type-image media--view-mode-article-content"><div class="field field--name-image field--type-image field--label-hidden field__items">
-  <a href="https://developers.redhat.com/sites/default/files/camel-quarkus-2.png" data-featherlight="image"><img loading="lazy" src="https://developers.redhat.com/sites/default/files/styles/article_floated/public/camel-quarkus-2.png?itok=6koEsqNz" width="600" height="268" alt="Figure 2: Contract-first development." typeof="Image" /></a>
-</div>
-      </article></div>
-<figcaption class="rhd-c-caption">Figure 2: Contract-first development.</figcaption></figure><p>Another notable feature in the demo is data transformation. JSON input must be mapped to outgoing SOAP during the request flow and perform the reverse operation during the response flow. It is all done in a single transformation stylesheet using XSLTs, as in Figure 3.</p>
-
-
-<figure class="align-center rhd-u-has-filter-caption" role="group"><div class="rhd-c-figure">
-  <article class="media media--type-image media--view-mode-article-content"><div class="field field--name-image field--type-image field--label-hidden field__items">
-  <a href="https://developers.redhat.com/sites/default/files/camel-quarkus-3.png" data-featherlight="image"><img loading="lazy" src="https://developers.redhat.com/sites/default/files/styles/article_floated/public/camel-quarkus-3.png?itok=lzp0oY6p" width="600" height="192" alt="Diagram of the JSON / SOAP data mapping flow." typeof="Image" /></a>
-</div>
-      </article></div>
-<figcaption class="rhd-c-caption">Figure 3: JSON / SOAP data mapping operations.</figcaption></figure><p class="align-center">And finally, included in the code, you’ll find a test unit (JUnit) to validate the entire request/response flow (Figure 4). You will discover how to use Camel’s testing framework to dynamically spin up an actual SOAP back end to test against, trigger the processing flow, and tear it all down when done.</p>
-
-
-<figure class="align-center rhd-u-has-filter-caption" role="group"><div class="rhd-c-figure">
-  <article class="media media--type-image media--view-mode-article-content"><div class="field field--name-image field--type-image field--label-hidden field__items">
-  <a href="https://developers.redhat.com/sites/default/files/camel-quarkus-4.png" data-featherlight="image"><img loading="lazy" src="https://developers.redhat.com/sites/default/files/styles/article_floated/public/camel-quarkus-4.png?itok=7PtRDI9d" width="600" height="277" alt="The unit testing flow with Camel and JUnit." typeof="Image" /></a>
-</div>
-      </article></div>
-<figcaption class="rhd-c-caption">Figure 4: Unit testing with Camel.</figcaption></figure><p class="align-center">What is unique about Camel running on Quarkus, but also true for all runtimes, is how little code is required and how elegantly it is laid out. This simplicity guarantees economical, long-term, and sustainable support for your landscape of implemented Camel services.</p>
-
-<p>If you would like to see how all of this is done, jump straight into the Developer Sandbox to explore the code and execute it.</p>
-
-<h2>Access the Developer Sandbox</h2>
-
-<p>Follow these instructions to get started in the Developer Sandbox: <a href="https://developers.redhat.com/articles/2023/03/09/how-access-developer-sandbox-red-hat-openshift#" target="_blank">How to access the Developer Sandbox for Red Hat OpenShift</a></p>
-
-<p>Once you have your browser connected to the Developer Sandbox console, you’ll be all set to start the article’s tutorial.</p>
-
-<h2>Inside OpenShift Dev Spaces</h2>
-
-<p>The Developer Sandbox ships with an entire web-based IDE called <a href="https://developers.redhat.com/products/openshift-dev-spaces/overview" target="_blank">Red Hat OpenShift Dev Spaces</a> (formerly Red Hat CodeReady Workspaces).</p>
-
-<h3>Set up your dev environment with the Camel tutorials</h3>
-
-<p>The animated sequence in Figure 5 illustrates the actions to follow to open your development environment along with your tutorial instructions.</p>
-
-
-<figure class="align-center rhd-u-has-filter-caption" role="group"><div class="rhd-c-figure">
-  <article class="media media--type-image media--view-mode-article-content-full-width"><div class="field field--name-image field--type-image field--label-hidden field__items">
-  <a href="https://developers.redhat.com/sites/default/files/camel-quarkus-5.gif"><img loading="lazy" src="https://developers.redhat.com/sites/default/files/camel-quarkus-5.gif" width="839" height="417" alt="The steps for setting up your development environment in the OpenShift Dev Spaces user interface." typeof="Image" /></a>
-</div>
-      </article></div>
-<figcaption class="rhd-c-caption">Figure 5: The OpenShift Dev Spaces UI.</figcaption></figure><p class="align-center">Follow these steps:</p>
-
-<ol><li aria-level="1">From the web console, click the <strong>Applications</strong> icon as shown in Figure 5 (marked 1).</li>
-	<li aria-level="1">Select <strong>Red Hat OpenShift Dev Spaces</strong> (2). You will be prompted to log in and authorize access; select the <strong>Allow selected permissions</strong> option.</li>
-	<li aria-level="1">
-	<p>When the Create Workspace dashboard in OpenShift Dev Spaces opens, copy the snippet below:</p>
-
-	<pre>
-<code>https://github.com/RedHat-Middleware-Workshops/devsandbox-camel.git</code></pre>
-
-	<p>Then, paste it into the <strong>Git Repo URL</strong> field (3).</p>
-	</li>
-	<li aria-level="1">Click <strong>Create & Open</strong> (4).</li>
-	<li aria-level="1">When the workspace finishes provisioning and the IDE opens, click the deployable Endpoints accordion (5).</li>
-	<li aria-level="1">Then, click on the icon (6), which opens the tutorial in a new browser tab.</li>
-	<li aria-level="1">Choose the tutorial indicated in the next section.</li>
-</ol><h3>Start the Camel Quarkus tutorial</h3>
-
-<p>Select the <strong>Camel Quarkus - Rest/Soap Demo </strong>tile, highlighted in Figure 6.</p>
-
-
-<figure class="align-center rhd-u-has-filter-caption" role="group"><div class="rhd-c-figure">
-  <article class="media media--type-image media--view-mode-article-content"><div class="field field--name-image field--type-image field--label-hidden field__items">
-  <a href="https://developers.redhat.com/sites/default/files/camel-quarkus-soap.png" data-featherlight="image"><img loading="lazy" src="https://developers.redhat.com/sites/default/files/styles/article_floated/public/camel-quarkus-soap.png?itok=pE4rQF5L" width="600" height="359" alt="The Camel Quarkus - Rest/Soap Demo tile highlighted in the Solution Explorer." typeof="Image" /></a>
-</div>
-      </article></div>
-<figcaption class="rhd-c-caption">Figure 6: Locating the Camel Quarkus tutorial.</figcaption></figure><p>When you click on the tile, the Solution Explorer will show the lab introductions and the exercise chapters included, which you should be able to complete in around 15 minutes.</p>
-
-<p>Enjoy the Camel ride!</p>
-
-<h2>More Apache Camel resources</h2>
-
-<p>This article ends here, but this should only be the start of your journey with Apache Camel. The Developer Sandbox for Red Hat OpenShift gives you the opportunity to play on a <a href="https://developers.redhat.com/topics/kubernetes">Kubernetes</a>-based application platform with an integrated developer IDE (OpenShift Dev Spaces).</p>
-
-<p>We encourage you to check out the resources below to learn more about Camel and explore different ways to build applications with Apache Camel:</p>
-
-<ul><li aria-level="1">Play with more <a href="https://developers.redhat.com/articles/2023/03/09/accelerate-your-cloud-native-learning-access-red-hat-developer-sandbox">tutorials in the Developer Sandbox for Red Hat OpenShift</a>.</li>
-	<li aria-level="1">Learn more about the different Camel runtimes available by reading <a href="https://developers.redhat.com/articles/2022/03/14/choose-best-camel-your-integration-ride-part-1">Choose the best Camel for your integration ride</a>.</li>
-	<li aria-level="1">Read <a href="https://developers.redhat.com/articles/2021/12/06/boost-apache-camel-performance-quarkus">Boost Apache Camel performance with Quarkus</a> for a detailed look at Camel Quarkus.</li>
-	<li aria-level="1">Visit the <a href="https://developers.redhat.com/products/integration/overview">Red Hat Integration</a> page on developers.redhat.com to see complementary capabilities around Camel.</li>
-</ul>
-The post <a href="https://developers.redhat.com/articles/2023/10/06/try-camel-quarkus-developer-sandbox-red-hat-openshift" title="Try Camel on Quarkus in the Developer Sandbox for Red Hat OpenShift">Try Camel on Quarkus in the Developer Sandbox for Red Hat OpenShift</a> appeared first on <a href="https://developers.redhat.com/blog" title="Red Hat Developer">Red Hat Developer</a>.
 <br /><br /></summary>
   </entry>
   <entry>
@@ -1437,6 +1437,154 @@ The post <a href="https://developers.redhat.com/articles/2023/10/05/how-migrate-
     <id>https://quarkus.io/blog/quarkus-3-4-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-4-2-released/" rel="alternate"></link>
     <summary type="html">Today, we released Quarkus 3.4.2, our first maintenance release for our 3.4 release train (we skipped 3.4.0). It includes a bunch of bugfixes, together with documentation improvements. Update To update to Quarkus 3.4.2, we recommend updating to the latest version of the Quarkus CLI and run: quarkus update To migrate...</summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: About Argo CD ApplicationSet and SCM Provider generator</title>
+    <updated>2023-10-04T07:00:00Z</updated>
+    <id>eb3cab1e-7d1d-407e-815c-071817e984fe</id>
+    <link href="https://developers.redhat.com/articles/2023/10/04/about-argo-cd-applicationset-and-scm-provider-generator" rel="alternate"></link>
+    <summary type="html"><p>The ApplicationSet controller is a part of Argo CD that adds support for an <code>ApplicationSet</code> CustomResourceDefinition (CRD). The ApplicationSet controller helps to add <code>Application</code> automation and improve multicluster support and cluster multitenant support within Argo CD.</p>
+
+<p><code>ApplicationSet</code> provides the following benefits:</p>
+
+<ul><li aria-level="1">The ability to use a single <a href="https://developers.redhat.com/topics/kubernetes">Kubernetes</a> manifest to target multiple Kubernetes clusters and deploy multiple applications from one or multiple Git repositories with Argo CD.</li>
+	<li aria-level="1">Improved support for monorepos. In the context of Argo CD, a monorepo is multiple Argo CD <code>Application</code> resources defined within a single Git repository.</li>
+	<li aria-level="1">Within multitenant clusters, improves the ability of individual cluster tenants to deploy applications using Argo CD (without needing to involve privileged cluster administrators in enabling the destination clusters/namespaces).</li>
+</ul><p>You can view all the supported fields for <code>ApplicationSet</code> in the <a href="https://argo-cd.readthedocs.io/en/release-2.8/operator-manual/applicationset/applicationset-specification/">Argo CD documentation</a>.</p>
+
+<h2>ApplicationSet generators</h2>
+
+<p>Generators generate parameters and are rendered into the <code>template</code> field of the <code>ApplicationSet</code> resource. <code>ApplicationSet</code> supports a variety of generators, as described below:</p>
+
+<ul><li aria-level="1"><strong>List generator: </strong>Generates parameters based on an arbitrary list of key/value pairs.</li>
+	<li aria-level="1"><strong>Cluster generator:</strong> Allows you to target Argo CD applications to clusters based on the list of clusters defined within (and managed by) Argo CD.</li>
+	<li aria-level="1"><strong>Git generator:</strong> Allows you to create applications based on files within a Git repository or based on the directory structure of a Git repository.</li>
+	<li aria-level="1"><strong>Matrix generator:</strong> Can be used to combine the generated parameters of two separate generators.</li>
+	<li aria-level="1"><strong>Merge generator:</strong> Can be used to merge the generated parameters of two or more generators.</li>
+	<li aria-level="1"><strong>SCM Provider generator:</strong> Uses the API of a source code management (SCM) provider (e.g., GitHub) to discover repositories within an organization automatically.</li>
+	<li aria-level="1"><strong>Pull Request generator:</strong> Uses the API of a Source-Code-Management-as-a-Service (SCMaaS) provider (e.g., GitHub) to discover open pull requests within a repository automatically.</li>
+	<li aria-level="1"><strong>Cluster Decision Resource generator:</strong> Used to interface with Kubernetes custom resources that use custom resource-specific logic to decide which set of Argo CD clusters to deploy to.</li>
+	<li aria-level="1"><strong>Plug-in generator:</strong> Makes RPC HTTP requests to provide parameters.</li>
+</ul><p>This article focuses exclusively on the SCM Provider generator and its use cases.</p>
+
+<h2>Source code management</h2>
+
+<p>SCM is used to track modifications to a source code repository. SCM tracks a running history of changes to a code base and helps resolve conflicts when merging updates from multiple contributors. SCM is also synonymous with version control.</p>
+
+<p>As software projects grow in lines of code and contributor headcount, the costs of communication overhead and management complexity also grow. SCM is a critical tool to alleviate the organizational strain of growing development costs.</p>
+
+<h2>SCM Provider generator</h2>
+
+<p>The SCM Provider generator uses the API of a SCMaaS provider such as GitHub to discover repositories within an organization automatically. This fits well with GitOps layout patterns that split microservices across many repositories.</p>
+
+<p>As of Argo CD version 2.8, the supported SCM providers are:</p>
+
+<ul><li>GitHub</li>
+	<li>GitLab </li>
+	<li>Gitea</li>
+	<li>Bitbucket </li>
+	<li>Azure DevOps</li>
+	<li>Bitbucket Cloud</li>
+</ul><p>You can configure the ApplicationSet with SCM Provider as follows:</p>
+
+<pre>
+<code class="language-yaml">apiVersion: argoproj.io/v1alpha1
+kind: ApplicationSet
+metadata:
+  name: myapps
+spec:
+  generators:
+  - scmProvider:
+      # Which protocol to clone using.
+      cloneProtocol: ssh
+      # See below for provider specific options.
+      github:
+        # ...</code></pre>
+
+<p><code>cloneProtocol</code>: defines the protocol to use for the SCM URL. The default is provider-specific, but ssh if possible.</p>
+
+<p>The provider's parameters are described in the <a href="https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-SCM-Provider/">Argo CD documentation</a>. We will use GitHub for the example in this article.</p>
+
+<h3>GitHub</h3>
+
+<p>The GitHub mode uses the GitHub API to scan an organization in either github.com or GitHub Enterprise:</p>
+
+<pre>
+<code class="language-yaml">apiVersion: argoproj.io/v1alpha1
+kind: ApplicationSet
+metadata:
+  name: guestbook
+spec:
+  generators:
+  - scmProvider:
+      github:
+        organization: argoproj
+      cloneProtocol: https
+      filters:
+      - repositoryMatch: example-apps
+  template:
+    metadata:
+      name: '{{ repository }}-guestbook'
+    spec:
+      project: "default"
+      source:
+        repoURL: '{{ url }}'
+        targetRevision: '{{ branch }}'
+        path: guestbook
+      destination:
+        server: https://kubernetes.default.svc
+        namespace: guestbook</code></pre>
+
+<p>The parameters are explained below:</p>
+
+<ul><li><strong>Organization</strong>: In the example above, we used <code>argoproj</code>. If you have multiple organizations, use multiple generators.</li>
+	<li><strong>api</strong>: This field is optional; however, if you are using GitHub Enterprise, you will need to specify the URL to access the API. In our example, we are not using GitHub Enterprise.</li>
+	<li><strong>filters: </strong>SCM Provider supports multiple filters. We are using a <code>repositoryMatch</code> filter matching the repository with name <code>example-apps</code>. You can find more filters in the <a href="https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-SCM-Provider/#filters">documentation</a>.</li>
+</ul><h2>Use case</h2>
+
+<p>There is an e-commerce website with multiple services for orders, inventory, payments, etc.; each service is stored in a separate Git repository within the same organization. When we deploy the e-commerce website, we want all the services to be deployed simultaneously for the website to start successfully.</p>
+
+<p>In this case, we can use the SCM Provider generator to generate all the services belonging to the same organization. You can configure the <code>ApplicationSet</code> in the following format:</p>
+
+<pre>
+<code class="language-yaml">apiVersion: argoproj.io/v1alpha1
+kind: ApplicationSet
+metadata:
+  name: ecommerce-website
+spec:
+  generators:
+  - scmProvider:
+      github:
+        organization: ecommerceWebsite
+      cloneProtocol: https
+  template:
+    metadata:
+      name: '{{ repository }}'
+    spec:
+      project: "default"
+      source:
+        repoURL: '{{ url }}'
+        targetRevision: '{{ branch }}'
+        path: app
+      destination:
+        server: https://kubernetes.default.svc
+        namespace: ecomm</code></pre>
+
+<p>The ApplicationSet above will read all the repositories in the GitHub organization <strong>ecommerceWebsite</strong> and deploy all the services in the repositories within the path <code>app</code> in each repository.</p>
+
+<h3>Pros</h3>
+
+<p>Deploying multiple applications and services in the same organization is easy and quick. You can use the SCM Provider generator to allow you to dynamically generate ephemeral environments for testing or prod-like environments easily.</p>
+
+<h3>Cons</h3>
+
+<p>Once the entire organization is added to the SCM Provider generator, it will pick all the repositories matching the added filtering conditions. If you want to create a new repository within the same organization and do not want it to be deployed, you would need to ensure that the repository does not match any of the filtering conditions added to the SCM Provider generator. This becomes an additional effort if the SCM generator is not configured properly.</p>
+
+<h2>Conclusion</h2>
+
+<p>The <code>ApplicationSet</code> custom resource helps you easily and quickly manage multitenant or cluster application deployment. The SCM Provider generator is helpful when you want to manage all repositories of a known pattern within an organization and deploy resources to Argo CD by automatically identifying changes to any of the repositories in the organization.</p>
+The post <a href="https://developers.redhat.com/articles/2023/10/04/about-argo-cd-applicationset-and-scm-provider-generator" title="About Argo CD ApplicationSet and SCM Provider generator">About Argo CD ApplicationSet and SCM Provider generator</a> appeared first on <a href="https://developers.redhat.com/blog" title="Red Hat Developer">Red Hat Developer</a>.
+<br /><br /></summary>
   </entry>
   <entry>
     <title>Red Hat Developer: 5 steps to build a self-healing server with Alertmanager</title>
@@ -1660,154 +1808,6 @@ services:
 
 <p>Get started with Ansible Automation Platform by exploring interactive <a href="https://developers.redhat.com/products/ansible/getting-started">hands-on labs</a>. <a href="https://developers.redhat.com/products/ansible/download#ansibleways">Download</a> Ansible Automation Platform at no cost and begin your automation journey.</p>
 The post <a href="https://developers.redhat.com/articles/2023/10/04/5-steps-build-self-healing-server-alertmanager" title="5 steps to build a self-healing server with Alertmanager">5 steps to build a self-healing server with Alertmanager</a> appeared first on <a href="https://developers.redhat.com/blog" title="Red Hat Developer">Red Hat Developer</a>.
-<br /><br /></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: About Argo CD ApplicationSet and SCM Provider generator</title>
-    <updated>2023-10-04T07:00:00Z</updated>
-    <id>eb3cab1e-7d1d-407e-815c-071817e984fe</id>
-    <link href="https://developers.redhat.com/articles/2023/10/04/about-argo-cd-applicationset-and-scm-provider-generator" rel="alternate"></link>
-    <summary type="html"><p>The ApplicationSet controller is a part of Argo CD that adds support for an <code>ApplicationSet</code> CustomResourceDefinition (CRD). The ApplicationSet controller helps to add <code>Application</code> automation and improve multicluster support and cluster multitenant support within Argo CD.</p>
-
-<p><code>ApplicationSet</code> provides the following benefits:</p>
-
-<ul><li aria-level="1">The ability to use a single <a href="https://developers.redhat.com/topics/kubernetes">Kubernetes</a> manifest to target multiple Kubernetes clusters and deploy multiple applications from one or multiple Git repositories with Argo CD.</li>
-	<li aria-level="1">Improved support for monorepos. In the context of Argo CD, a monorepo is multiple Argo CD <code>Application</code> resources defined within a single Git repository.</li>
-	<li aria-level="1">Within multitenant clusters, improves the ability of individual cluster tenants to deploy applications using Argo CD (without needing to involve privileged cluster administrators in enabling the destination clusters/namespaces).</li>
-</ul><p>You can view all the supported fields for <code>ApplicationSet</code> in the <a href="https://argo-cd.readthedocs.io/en/release-2.8/operator-manual/applicationset/applicationset-specification/">Argo CD documentation</a>.</p>
-
-<h2>ApplicationSet generators</h2>
-
-<p>Generators generate parameters and are rendered into the <code>template</code> field of the <code>ApplicationSet</code> resource. <code>ApplicationSet</code> supports a variety of generators, as described below:</p>
-
-<ul><li aria-level="1"><strong>List generator: </strong>Generates parameters based on an arbitrary list of key/value pairs.</li>
-	<li aria-level="1"><strong>Cluster generator:</strong> Allows you to target Argo CD applications to clusters based on the list of clusters defined within (and managed by) Argo CD.</li>
-	<li aria-level="1"><strong>Git generator:</strong> Allows you to create applications based on files within a Git repository or based on the directory structure of a Git repository.</li>
-	<li aria-level="1"><strong>Matrix generator:</strong> Can be used to combine the generated parameters of two separate generators.</li>
-	<li aria-level="1"><strong>Merge generator:</strong> Can be used to merge the generated parameters of two or more generators.</li>
-	<li aria-level="1"><strong>SCM Provider generator:</strong> Uses the API of a source code management (SCM) provider (e.g., GitHub) to discover repositories within an organization automatically.</li>
-	<li aria-level="1"><strong>Pull Request generator:</strong> Uses the API of a Source-Code-Management-as-a-Service (SCMaaS) provider (e.g., GitHub) to discover open pull requests within a repository automatically.</li>
-	<li aria-level="1"><strong>Cluster Decision Resource generator:</strong> Used to interface with Kubernetes custom resources that use custom resource-specific logic to decide which set of Argo CD clusters to deploy to.</li>
-	<li aria-level="1"><strong>Plug-in generator:</strong> Makes RPC HTTP requests to provide parameters.</li>
-</ul><p>This article focuses exclusively on the SCM Provider generator and its use cases.</p>
-
-<h2>Source code management</h2>
-
-<p>SCM is used to track modifications to a source code repository. SCM tracks a running history of changes to a code base and helps resolve conflicts when merging updates from multiple contributors. SCM is also synonymous with version control.</p>
-
-<p>As software projects grow in lines of code and contributor headcount, the costs of communication overhead and management complexity also grow. SCM is a critical tool to alleviate the organizational strain of growing development costs.</p>
-
-<h2>SCM Provider generator</h2>
-
-<p>The SCM Provider generator uses the API of a SCMaaS provider such as GitHub to discover repositories within an organization automatically. This fits well with GitOps layout patterns that split microservices across many repositories.</p>
-
-<p>As of Argo CD version 2.8, the supported SCM providers are:</p>
-
-<ul><li>GitHub</li>
-	<li>GitLab </li>
-	<li>Gitea</li>
-	<li>Bitbucket </li>
-	<li>Azure DevOps</li>
-	<li>Bitbucket Cloud</li>
-</ul><p>You can configure the ApplicationSet with SCM Provider as follows:</p>
-
-<pre>
-<code class="language-yaml">apiVersion: argoproj.io/v1alpha1
-kind: ApplicationSet
-metadata:
-  name: myapps
-spec:
-  generators:
-  - scmProvider:
-      # Which protocol to clone using.
-      cloneProtocol: ssh
-      # See below for provider specific options.
-      github:
-        # ...</code></pre>
-
-<p><code>cloneProtocol</code>: defines the protocol to use for the SCM URL. The default is provider-specific, but ssh if possible.</p>
-
-<p>The provider's parameters are described in the <a href="https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-SCM-Provider/">Argo CD documentation</a>. We will use GitHub for the example in this article.</p>
-
-<h3>GitHub</h3>
-
-<p>The GitHub mode uses the GitHub API to scan an organization in either github.com or GitHub Enterprise:</p>
-
-<pre>
-<code class="language-yaml">apiVersion: argoproj.io/v1alpha1
-kind: ApplicationSet
-metadata:
-  name: guestbook
-spec:
-  generators:
-  - scmProvider:
-      github:
-        organization: argoproj
-      cloneProtocol: https
-      filters:
-      - repositoryMatch: example-apps
-  template:
-    metadata:
-      name: '{{ repository }}-guestbook'
-    spec:
-      project: "default"
-      source:
-        repoURL: '{{ url }}'
-        targetRevision: '{{ branch }}'
-        path: guestbook
-      destination:
-        server: https://kubernetes.default.svc
-        namespace: guestbook</code></pre>
-
-<p>The parameters are explained below:</p>
-
-<ul><li><strong>Organization</strong>: In the example above, we used <code>argoproj</code>. If you have multiple organizations, use multiple generators.</li>
-	<li><strong>api</strong>: This field is optional; however, if you are using GitHub Enterprise, you will need to specify the URL to access the API. In our example, we are not using GitHub Enterprise.</li>
-	<li><strong>filters: </strong>SCM Provider supports multiple filters. We are using a <code>repositoryMatch</code> filter matching the repository with name <code>example-apps</code>. You can find more filters in the <a href="https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-SCM-Provider/#filters">documentation</a>.</li>
-</ul><h2>Use case</h2>
-
-<p>There is an e-commerce website with multiple services for orders, inventory, payments, etc.; each service is stored in a separate Git repository within the same organization. When we deploy the e-commerce website, we want all the services to be deployed simultaneously for the website to start successfully.</p>
-
-<p>In this case, we can use the SCM Provider generator to generate all the services belonging to the same organization. You can configure the <code>ApplicationSet</code> in the following format:</p>
-
-<pre>
-<code class="language-yaml">apiVersion: argoproj.io/v1alpha1
-kind: ApplicationSet
-metadata:
-  name: ecommerce-website
-spec:
-  generators:
-  - scmProvider:
-      github:
-        organization: ecommerceWebsite
-      cloneProtocol: https
-  template:
-    metadata:
-      name: '{{ repository }}'
-    spec:
-      project: "default"
-      source:
-        repoURL: '{{ url }}'
-        targetRevision: '{{ branch }}'
-        path: app
-      destination:
-        server: https://kubernetes.default.svc
-        namespace: ecomm</code></pre>
-
-<p>The ApplicationSet above will read all the repositories in the GitHub organization <strong>ecommerceWebsite</strong> and deploy all the services in the repositories within the path <code>app</code> in each repository.</p>
-
-<h3>Pros</h3>
-
-<p>Deploying multiple applications and services in the same organization is easy and quick. You can use the SCM Provider generator to allow you to dynamically generate ephemeral environments for testing or prod-like environments easily.</p>
-
-<h3>Cons</h3>
-
-<p>Once the entire organization is added to the SCM Provider generator, it will pick all the repositories matching the added filtering conditions. If you want to create a new repository within the same organization and do not want it to be deployed, you would need to ensure that the repository does not match any of the filtering conditions added to the SCM Provider generator. This becomes an additional effort if the SCM generator is not configured properly.</p>
-
-<h2>Conclusion</h2>
-
-<p>The <code>ApplicationSet</code> custom resource helps you easily and quickly manage multitenant or cluster application deployment. The SCM Provider generator is helpful when you want to manage all repositories of a known pattern within an organization and deploy resources to Argo CD by automatically identifying changes to any of the repositories in the organization.</p>
-The post <a href="https://developers.redhat.com/articles/2023/10/04/about-argo-cd-applicationset-and-scm-provider-generator" title="About Argo CD ApplicationSet and SCM Provider generator">About Argo CD ApplicationSet and SCM Provider generator</a> appeared first on <a href="https://developers.redhat.com/blog" title="Red Hat Developer">Red Hat Developer</a>.
 <br /><br /></summary>
   </entry>
   <entry>
@@ -2211,13 +2211,6 @@ The post <a href="https://developers.redhat.com/articles/2023/10/03/beyond-loom-
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Writing CRUD applications using virtual threads</title>
-    <updated>2023-09-25T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/virtual-threads-2/</id>
-    <link href="https://quarkus.io/blog/virtual-threads-2/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Writing CRUD applications using virtual threads</title>
     <updated>2023-09-25T00:00:00Z</updated>
     <id>https://quarkus.io/blog/virtual-threads-2/</id>
@@ -2225,18 +2218,11 @@ The post <a href="https://developers.redhat.com/articles/2023/10/03/beyond-loom-
     <summary type="html">Last week, we published a video demonstrating the creation of a CRUD application using virtual threads in Quarkus. It’s as simple as adding the @RunOnVirtualThread annotation on your HTTP resource (or your controller class if you use the Spring compatibility layer). This companion post explains how it works behind the...</summary>
   </entry>
   <entry>
-    <title>Quarkus: Observability in Quarkus 3</title>
-    <updated>2023-09-20T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-observability-3-3/</id>
-    <link href="https://quarkus.io/blog/quarkus-observability-3-3/" rel="alternate"></link>
-    <summary type="html">Observability in Quarkus Observability on a software system can be described as the capability to allow a human to ask and answer questions. To enable developers and support engineers in understanding how their applications behave, Quarkus 3.3 includes many improvements to its main observability related extensions: quarkus-opentelemetry (tracing) quarkus-micrometer (metrics)...</summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.4.1 released - Redis 7.2 and Flyway changes</title>
-    <updated>2023-09-20T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-4-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-4-1-released/" rel="alternate"></link>
-    <summary type="html">It is our pleasure to announce the release of Quarkus 3.4.1. We skipped 3.4.0 as we needed a fix for CVE-2023-4853 in 3.4 too. Major changes are: Support for Redis 7.2 Adjustments on how to enable/activate Flyway This version also comes with bugfixes, performance improvements and documentation improvements. We currently...</summary>
+    <title>JBoss Blogs: Writing CRUD applications using virtual threads</title>
+    <updated>2023-09-25T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/virtual-threads-2/</id>
+    <link href="https://quarkus.io/blog/virtual-threads-2/" rel="alternate"></link>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: Quarkus 3.4.1 released - Redis 7.2 and Flyway changes</title>
@@ -2246,10 +2232,31 @@ The post <a href="https://developers.redhat.com/articles/2023/10/03/beyond-loom-
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Quarkus 3.4.1 released - Redis 7.2 and Flyway changes</title>
+    <updated>2023-09-20T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-4-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-4-1-released/" rel="alternate"></link>
+    <summary type="html">It is our pleasure to announce the release of Quarkus 3.4.1. We skipped 3.4.0 as we needed a fix for CVE-2023-4853 in 3.4 too. Major changes are: Support for Redis 7.2 Adjustments on how to enable/activate Flyway This version also comes with bugfixes, performance improvements and documentation improvements. We currently...</summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Observability in Quarkus 3</title>
+    <updated>2023-09-20T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-observability-3-3/</id>
+    <link href="https://quarkus.io/blog/quarkus-observability-3-3/" rel="alternate"></link>
+    <summary type="html">Observability in Quarkus Observability on a software system can be described as the capability to allow a human to ask and answer questions. To enable developers and support engineers in understanding how their applications behave, Quarkus 3.3 includes many improvements to its main observability related extensions: quarkus-opentelemetry (tracing) quarkus-micrometer (metrics)...</summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Observability in Quarkus 3</title>
     <updated>2023-09-20T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-observability-3-3/</id>
     <link href="https://quarkus.io/blog/quarkus-observability-3-3/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: When Quarkus meets Virtual Threads</title>
+    <updated>2023-09-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/virtual-thread-1/</id>
+    <link href="https://quarkus.io/blog/virtual-thread-1/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -2260,24 +2267,10 @@ The post <a href="https://developers.redhat.com/articles/2023/10/03/beyond-loom-
     <summary type="html">Java 21 offers a new feature that will reshape the development of concurrent applications in Java. For over two years, the Quarkus team explored integrating this new feature to ease the development of distributed applications, including microservices and event-driven applications. This blog post is the first part of a series...</summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: When Quarkus meets Virtual Threads</title>
-    <updated>2023-09-19T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/virtual-thread-1/</id>
-    <link href="https://quarkus.io/blog/virtual-thread-1/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: How to upgrade to Quarkus 3</title>
     <updated>2023-09-18T16:34:53Z</updated>
     <id>https://www.mastertheboss.com/soa-cloud/quarkus/how-to-upgrade-to-quarkus-3/</id>
     <link href="https://www.mastertheboss.com/soa-cloud/quarkus/how-to-upgrade-to-quarkus-3/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -2330,6 +2323,13 @@ The post <a href="https://developers.redhat.com/articles/2023/10/03/beyond-loom-
       
       
       The Hibernate 5.3 runtime provider now incorporates Hibernate Core version 5.3.30.Final...</summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Tools: JBoss Tools for Eclipse 2023-06M2</title>
@@ -3141,13 +3141,6 @@ The post <a href="https://developers.redhat.com/articles/2023/10/03/beyond-loom-
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
@@ -3170,6 +3163,13 @@ The post <a href="https://developers.redhat.com/articles/2023/10/03/beyond-loom-
       
       
       We highly recommand to download or update to...</summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Tools: JBoss Tools 4.21.2.AM1 for Eclipse 2021-09</title>
