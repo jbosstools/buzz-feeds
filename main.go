@@ -22,7 +22,7 @@ var (
 	urls = map[string]string{
 		"JBoss Tools":       "https://tools.jboss.org/blog/news.atom",
 		"JBoss Blogs":       "https://www.jboss.org/atom.xml",
-		"Red Hat Developer": "https://developers.redhat.com/blog/feed/",
+		//"Red Hat Developer": "https://developers.redhat.com/blog/feed/",
 		"Quarkus":           "https://quarkus.io/feed",
 	}
 )
@@ -85,15 +85,15 @@ func main() {
 	data = strings.Replace(data, `<?xml version="1.0" encoding="UTF-8"?>`, "", 1)
 	// below hacks for code inside summary..
 	// replace &
-	data = strings.Replace(data, "&amp;", "&amp;amp;", -1)
+	//data = strings.Replace(data, "&amp;", "&amp;amp;", -1)
 	// replace <<
-	data = strings.Replace(data, "&lt;&lt;", "&amp;lt;&amp;lt;", -1)
+	//data = strings.Replace(data, "&lt;&lt;", "&amp;lt;&amp;lt;", -1)
 	// replace less than ( not open bracket )
-	data = strings.Replace(data, " &lt; ", " &amp;lt; ", -1)
+	//data = strings.Replace(data, " &lt; ", " &amp;lt; ", -1)
 	// replace #<
-	data = strings.Replace(data, "#&lt;", "#&amp;lt;", -1)
+	//data = strings.Replace(data, "#&lt;", "#&amp;lt;", -1)
 	// replace <-
-	data = strings.Replace(data, "&lt;-", "&amp;lt;-", -1)
+	//data = strings.Replace(data, "&lt;-", "&amp;lt;-", -1)
 	
 
 	f, err := os.OpenFile("rss.xml", os.O_RDWR|os.O_CREATE|os.O_TRUNC, 0755)
