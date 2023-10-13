@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-10-13T09:20:44Z</updated>
+  <updated>2023-10-13T09:27:26Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: How to solve CVE-2023-44487</title>
@@ -1075,7 +1075,7 @@ client.install("362301da643102b9f38477387e2193e57abaa590",
                Fwupd.InstallFlags.ALLOW_REINSTALL,
                cancellable)
 print(dev.get_update_state())
-#<enum FWUPD_UPDATE_STATE_NEEDS_REBOOT of type Fwupd.UpdateState></code></pre>
+#&lt; enum FWUPD_UPDATE_STATE_NEEDS_REBOOT of type Fwupd.UpdateState></code></pre>
 
 <p>This shows deploying the update onto the local machine and then getting the device update state, which indicates that a reboot is required before the device version is updated to the new value. Notably, before deploying the update, fwupd will also check the contents of the EFI System Partition to ensure the update is safe to apply.</p>
 
