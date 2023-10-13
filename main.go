@@ -22,7 +22,7 @@ var (
 	urls = map[string]string{
 		"JBoss Tools":       "https://tools.jboss.org/blog/news.atom",
 		"JBoss Blogs":       "https://www.jboss.org/atom.xml",
-		//"Red Hat Developer": "https://developers.redhat.com/blog/feed/",
+		"Red Hat Developer": "https://developers.redhat.com/blog/feed/",
 		"Quarkus":           "https://quarkus.io/feed",
 	}
 )
@@ -70,7 +70,7 @@ func main() {
 		feed.Items = append(feed.Items, &feeds.Item{
 			Title:       items[i].Title,
 			Link:        &feeds.Link{Href: items[i].Link},
-			Description: items[i].Description,
+			Description: "",
 			Created:     *items[i].PublishedParsed,
 			Id:          items[i].GUID,
 		})
