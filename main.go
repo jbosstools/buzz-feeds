@@ -91,7 +91,9 @@ func main() {
 	// replace less than ( not open bracket )
 	data = strings.Replace(data, " &lt; ", " &amp;lt; ", -1)
 	// replace #<
-	data = strings.Replace(data, "#&lt;", "#&amp;lt; ", -1)
+	data = strings.Replace(data, "#&lt;", "#&amp;lt;", -1)
+	// replace <-
+	data = strings.Replace(data, "&lt;-", "&amp;lt;-", -1)
 	
 
 	f, err := os.OpenFile("rss.xml", os.O_RDWR|os.O_CREATE|os.O_TRUNC, 0755)
