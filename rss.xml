@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-10-13T06:16:47Z</updated>
+  <updated>2023-10-13T07:44:23Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: How to solve CVE-2023-44487</title>
@@ -281,7 +281,7 @@ Complete!</code></pre>
 <p><strong>2</strong>. Create a policy module file called private_files.te, where .te signifies type enforcement. Copy and paste the following content into the terminal to create the private_files.te file.</p>
 
 <pre>
-<code class="language-bash">cat <<'EOF' >> private_files.te
+<code class="language-bash">cat &lt;&lt;'EOF' >> private_files.te
 policy_module(private_files, 1.0)
 require {
 type unconfined_t;
@@ -406,7 +406,7 @@ allow unconfined_t private_files_t:dir read;</code></pre>
 <p><strong>14</strong>. Develop a bash script to facilitate all filesystem-related tasks seamlessly.</p>
 
 <pre>
-<code class="language-bash">cat << EOF >> test_script.sh
+<code class="language-bash">cat &lt;&lt; EOF >> test_script.sh
 ls -lZ /private
 chmod 1777 /private
 touch /private/file1
