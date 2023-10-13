@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-10-13T09:57:08Z</updated>
+  <updated>2023-10-13T10:03:37Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: How to solve CVE-2023-44487</title>
@@ -1309,8 +1309,8 @@ configuration logs README.md reports </code></pre>
 --- Migrating standalone server... 
 # # Migrate all configurations? yes/no? no
 Migrate configuration standalone-cameleon.xml ? yes/no? no 
-... Migrate configuration standalone_example.xml ? <----------------------- your yes/no? yes 
-# ... Migration Result: SUCCESS <---- success ... </code></pre>
+... Migrate configuration standalone_example.xml ? &lt;----------------------- your yes/no? yes 
+# ... Migration Result: SUCCESS &lt;---- success ... </code></pre>
 	</li>
 	<li>Wait for the migration to complete.</li>
 	<li>Review the migration output/log. The result file can be found in <code>$JBOSS_HOME/standalone/configuration/standalone_example.xml.beforeMigration | standalone_example.xml</code>.</li>
