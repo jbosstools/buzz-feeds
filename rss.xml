@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-10-13T10:19:32Z</updated>
+  <updated>2023-10-13T10:32:57Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: How to solve CVE-2023-44487</title>
@@ -25,17 +25,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus Newsletter #37 - October</title>
-    <updated>2023-10-10T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-37/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-37/" rel="alternate"></link>
+    <title>Red Hat Developer: How to validate GitOps manifests</title>
+    <updated>2023-10-10T07:00:00Z</updated>
+    <id>95d3a2f7-477c-4c56-8894-124fa034c2c2</id>
+    <link href="https://developers.redhat.com/articles/2023/10/10/how-validate-gitops-manifests" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Meet Keycloak at KubeCon Chicago in Nov 2023</title>
-    <updated>2023-10-10T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2023/10/keycloak-kubeconf-chicago</id>
-    <link href="https://www.keycloak.org/2023/10/keycloak-kubeconf-chicago" rel="alternate"></link>
+    <title>Red Hat Developer: How custom SELinux policies secure servers and containers</title>
+    <updated>2023-10-10T07:00:00Z</updated>
+    <id>d6e91ea0-1d78-423b-a69e-d1fcca624933</id>
+    <link href="https://developers.redhat.com/articles/2023/10/10/how-custom-selinux-policies-secure-servers-and-containers" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -46,18 +46,53 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: A recap of Quarkus Tools for IntelliJ's latest improvements</title>
+    <title>JBoss Blogs: Quarkus Newsletter #37 - October</title>
     <updated>2023-10-10T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/intellij-quarkus-recap/</id>
-    <link href="https://quarkus.io/blog/intellij-quarkus-recap/" rel="alternate"></link>
-    <summary type="html">Quarkus Tools for IntelliJ is a free and open source extension, helping users develop Quarkus applications by providing content-assist, validation, run configurations and many other features right from their favourite IDE. This extension is based on the LSP4MP (i.e. MicroProfile) and its Quarkus add-on, and the Qute language server. These...</summary>
+    <id>https://quarkus.io/blog/quarkus-newsletter-37/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-37/" rel="alternate"></link>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>Quarkus: Quarkus Newsletter #37 - October</title>
     <updated>2023-10-10T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-37/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-37/" rel="alternate"></link>
-    <summary type="html">Read "Integrate your Quarkus application with GPT4All" by Alex Soto Bueno to explore how to integrate GPT4All into a Quarkus application so that you can query this service and return a response without any external resources. Go behind the scenes to learn how to create a CRUD application using virtual...</summary>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: A recap of Quarkus Tools for IntelliJ's latest improvements</title>
+    <updated>2023-10-10T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/intellij-quarkus-recap/</id>
+    <link href="https://quarkus.io/blog/intellij-quarkus-recap/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Meet Keycloak at KubeCon Chicago in Nov 2023</title>
+    <updated>2023-10-10T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2023/10/keycloak-kubeconf-chicago</id>
+    <link href="https://www.keycloak.org/2023/10/keycloak-kubeconf-chicago" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: An MIR-based JIT prototype for Ruby</title>
+    <updated>2023-10-09T07:00:00Z</updated>
+    <id>d1945731-4f23-412d-9e73-1617566944e0</id>
+    <link href="https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Load balancing, threading, and scaling in Node.js</title>
+    <updated>2023-10-09T07:00:00Z</updated>
+    <id>13a0b0fc-74fe-4f0a-9a6a-5c3d3a10edd0</id>
+    <link href="https://developers.redhat.com/articles/2023/10/09/load-balancing-threading-and-scaling-nodejs" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Processing Kafka records on virtual threads</title>
+    <updated>2023-10-09T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/virtual-threads-4/</id>
+    <link href="https://quarkus.io/blog/virtual-threads-4/" rel="alternate"></link>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: Processing Kafka records on virtual threads</title>
@@ -67,17 +102,38 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Processing Kafka records on virtual threads</title>
-    <updated>2023-10-09T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/virtual-threads-4/</id>
-    <link href="https://quarkus.io/blog/virtual-threads-4/" rel="alternate"></link>
-    <summary type="html">In another blog post, we have seen how you can implement a CRUD application with Quarkus to utilize virtual threads. The virtual threads support in Quarkus is not limited to REST and HTTP. Many other parts support virtual threads, such as gRPC, scheduled tasks, and messaging. In this post, we...</summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: How to solve the error java.net.SocketException: Connection reset</title>
     <updated>2023-10-06T11:40:04Z</updated>
     <id>https://www.mastertheboss.com/java/how-to-solve-the-error-java-net-socketexception-connection-reset/</id>
     <link href="https://www.mastertheboss.com/java/how-to-solve-the-error-java-net-socketexception-connection-reset/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Use fwupd to deploy Linux firmware updates and more</title>
+    <updated>2023-10-06T07:00:00Z</updated>
+    <id>b2def651-6552-4b46-a5f6-ca44020e7973</id>
+    <link href="https://developers.redhat.com/articles/2023/10/06/use-fwupd-deploy-linux-firmware-updates-and-more" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Try Camel on Quarkus in the Developer Sandbox for Red Hat OpenShift</title>
+    <updated>2023-10-06T07:00:00Z</updated>
+    <id>c7e19de1-859c-41da-bf71-75056f779eea</id>
+    <link href="https://developers.redhat.com/articles/2023/10/06/try-camel-quarkus-developer-sandbox-red-hat-openshift" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How to migrate server configurations to JBoss EAP 7.4</title>
+    <updated>2023-10-05T07:00:00Z</updated>
+    <id>16dfcff2-b9bc-4c89-bd37-a38408e792e0</id>
+    <link href="https://developers.redhat.com/articles/2023/10/05/how-migrate-server-configurations-jboss-eap-74" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.4.2 released - Maintenance release</title>
+    <updated>2023-10-05T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-4-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-4-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -88,17 +144,31 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.4.2 released - Maintenance release</title>
-    <updated>2023-10-05T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-4-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-4-2-released/" rel="alternate"></link>
-    <summary type="html">Today, we released Quarkus 3.4.2, our first maintenance release for our 3.4 release train (we skipped 3.4.0). It includes a bunch of bugfixes, together with documentation improvements. Update To update to Quarkus 3.4.2, we recommend updating to the latest version of the Quarkus CLI and run: quarkus update To migrate...</summary>
+    <title>Red Hat Developer: About Argo CD ApplicationSet and SCM Provider generator</title>
+    <updated>2023-10-04T07:00:00Z</updated>
+    <id>eb3cab1e-7d1d-407e-815c-071817e984fe</id>
+    <link href="https://developers.redhat.com/articles/2023/10/04/about-argo-cd-applicationset-and-scm-provider-generator" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: 5 steps to build a self-healing server with Alertmanager</title>
+    <updated>2023-10-04T07:00:00Z</updated>
+    <id>ed9796c0-ae2f-4035-8f79-cd80e60a3cc1</id>
+    <link href="https://developers.redhat.com/articles/2023/10/04/5-steps-build-self-healing-server-alertmanager" rel="alternate"></link>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: Keycloak 22.0.4 released</title>
     <updated>2023-10-04T00:00:00Z</updated>
     <id>https://www.keycloak.org/2023/10/keycloak-2204-released</id>
     <link href="https://www.keycloak.org/2023/10/keycloak-2204-released" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Beyond Loom: Weaving new concurrency patterns</title>
+    <updated>2023-10-03T07:00:00Z</updated>
+    <id>887870d2-b12c-413c-bed4-c6040f0b4c21</id>
+    <link href="https://developers.redhat.com/articles/2023/10/03/beyond-loom-weaving-new-concurrency-patterns" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -109,14 +179,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Testing virtual thread applications</title>
+    <title>JBoss Blogs: Testing virtual thread applications</title>
     <updated>2023-10-02T00:00:00Z</updated>
     <id>https://quarkus.io/blog/virtual-threads-3/</id>
     <link href="https://quarkus.io/blog/virtual-threads-3/" rel="alternate"></link>
-    <summary type="html">In a previous post, we have seen how to implement a CRUD application using virtual threads in Quarkus. The following video shows how to test this application and, specifically, how to detect pinning. The complete code of the application and the tests are available in the virtual threads demos repository....</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Testing virtual thread applications</title>
+    <title>Quarkus: Testing virtual thread applications</title>
     <updated>2023-10-02T00:00:00Z</updated>
     <id>https://quarkus.io/blog/virtual-threads-3/</id>
     <link href="https://quarkus.io/blog/virtual-threads-3/" rel="alternate"></link>
@@ -127,7 +197,7 @@
     <updated>2023-09-28T00:00:00Z</updated>
     <id>https://quarkus.io/blog/live-diff-and-update-using-idea/</id>
     <link href="https://quarkus.io/blog/live-diff-and-update-using-idea/" rel="alternate"></link>
-    <summary type="html">Prerequisites OpenShift CLI, oc: installation instructions Kubernetes by Red Hat, Kubernetes Plugin for JetBrains IDEA Marketplace Quarkus CLI, Quarkus: Installation Instructions Optional: Source code for this blog post: https://github.com/adietish/openshift-quickstart IntelliJ Kubernetes Plugin This shows you how the Kubernetes Plugin for Jetbrains IDEA is a great companion when deploying quarkus apps...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: Live diff and update quarkus deployments in OpenShift using Jetbrains IDEA</title>
@@ -169,7 +239,21 @@
     <updated>2023-09-25T00:00:00Z</updated>
     <id>https://quarkus.io/blog/virtual-threads-2/</id>
     <link href="https://quarkus.io/blog/virtual-threads-2/" rel="alternate"></link>
-    <summary type="html">Last week, we published a video demonstrating the creation of a CRUD application using virtual threads in Quarkus. It’s as simple as adding the @RunOnVirtualThread annotation on your HTTP resource (or your controller class if you use the Spring compatibility layer). This companion post explains how it works behind the...</summary>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.4.1 released - Redis 7.2 and Flyway changes</title>
+    <updated>2023-09-20T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-4-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-4-1-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Observability in Quarkus 3</title>
+    <updated>2023-09-20T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-observability-3-3/</id>
+    <link href="https://quarkus.io/blog/quarkus-observability-3-3/" rel="alternate"></link>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: Quarkus 3.4.1 released - Redis 7.2 and Flyway changes</title>
@@ -186,25 +270,11 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Observability in Quarkus 3</title>
-    <updated>2023-09-20T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-observability-3-3/</id>
-    <link href="https://quarkus.io/blog/quarkus-observability-3-3/" rel="alternate"></link>
-    <summary type="html">Observability in Quarkus Observability on a software system can be described as the capability to allow a human to ask and answer questions. To enable developers and support engineers in understanding how their applications behave, Quarkus 3.3 includes many improvements to its main observability related extensions: quarkus-opentelemetry (tracing) quarkus-micrometer (metrics)...</summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.4.1 released - Redis 7.2 and Flyway changes</title>
-    <updated>2023-09-20T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-4-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-4-1-released/" rel="alternate"></link>
-    <summary type="html">It is our pleasure to announce the release of Quarkus 3.4.1. We skipped 3.4.0 as we needed a fix for CVE-2023-4853 in 3.4 too. Major changes are: Support for Redis 7.2 Adjustments on how to enable/activate Flyway This version also comes with bugfixes, performance improvements and documentation improvements. We currently...</summary>
-  </entry>
-  <entry>
     <title>Quarkus: When Quarkus meets Virtual Threads</title>
     <updated>2023-09-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/virtual-thread-1/</id>
     <link href="https://quarkus.io/blog/virtual-thread-1/" rel="alternate"></link>
-    <summary type="html">Java 21 offers a new feature that will reshape the development of concurrent applications in Java. For over two years, the Quarkus team explored integrating this new feature to ease the development of distributed applications, including microservices and event-driven applications. This blog post is the first part of a series...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: When Quarkus meets Virtual Threads</title>
@@ -214,57 +284,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-03</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
-    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
-    <summary type="html">Happy to announce 4.28.0.Final build for Eclipse 2023-06.
-      
-      
-      Downloads available at JBoss Tools 4.28.0 Final.
-      
-      
-      
-      
-      What is New?
-      
-      
-      Full info is at this page. Some highlights are below.
-      
-      
-      General
-      
-      Components Depreciation
-      
-      As communicated in a previous blog article, the following components are now deprecated:
-      
-      
-      
-      
-      Openshift CDK Tooling
-      
-      
-      Openshift Explorer view (already hidden by default) and wizards, targeting Openshift v3
-      
-      
-      
-      
-      The current openshift Application Explorer view, based on odo v3 is now the default supported tooling.
-      
-      Related JIRA: JBIDE-29044
-      
-      
-      
-      Hibernate Tools
-      
-      Runtime Provider Updates
-      
-      The Hibernate 6.2 runtime provider now incorporates Hibernate Core version 6.2.5.Final, Hibernate Ant version 6.2.5.Final and Hibernate Tools version 6.2.5.Final.
-      
-      
-      The Hibernate 5.3 runtime provider now incorporates Hibernate Core version 5.3.30.Final...</summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
@@ -272,53 +291,18 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-03</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Tools: JBoss Tools for Eclipse 2023-06M2</title>
     <updated>2023-06-05T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.28.0.am1.html</id>
     <link href="https://tools.jboss.org/blog/4.28.0.am1.html" rel="alternate"></link>
-    <summary type="html">Happy to announce 4.28.0.AM1 (Developer Milestone 1) build for Eclipse 2023-06M2.
-      
-      
-      Downloads available at JBoss Tools 4.28.0 AM1.
-      
-      
-      
-      
-      What is New?
-      
-      
-      Full info is at this page. Some highlights are below.
-      
-      
-      General
-      
-      Components Depreciation
-      
-      Fuse Tooling is now deprecated. More information here.
-      
-      
-      
-      Components Removal
-      
-      As previously announced here, we’ve removed the Central / update tab, SEAM and JSF support from JBossTools.
-      
-      
-      For central update tab, all the existing central extensions can be installed with the marketplace client, using the entries listed here.
-      
-      
-      
-      
-      Future releases cadences
-      
-      Starting from 4.28.0.Final, there will be no more .AM1 releases. The .Final releases can be now scheduled close to the Eclipse releases.
-      
-      
-      
-      Hibernate Tools
-      
-      Runtime Provider Updates
-      
-      The Hibernate...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: This Week in JBoss - June, 1st 2023</title>
@@ -346,48 +330,7 @@
     <updated>2023-04-07T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.27.0.final.html</id>
     <link href="https://tools.jboss.org/blog/4.27.0.final.html" rel="alternate"></link>
-    <summary type="html">Happy to announce 4.27.0.Final build for Eclipse 2023-03.
-      
-      
-      Downloads available at JBoss Tools 4.27.0 Final.
-      
-      
-      
-      
-      What is New?
-      
-      
-      Full info is at this page. Some highlights are below.
-      
-      
-      General
-      
-      We made several fixes in our server and javaee component to support jakarta namespaces.
-      
-      
-      
-      Hibernate Tools
-      
-      Runtime Provider Updates
-      
-      The Hibernate 6.2 runtime provider now incorporates Hibernate Core version 6.2.0.CR4, Hibernate Ant version 6.2.0.CR4 and Hibernate Tools version 6.2.0.CR4.
-      
-      
-      
-      
-      And more…​
-      
-      You can find more noteworthy updates in on this page.
-      
-      
-      Enjoy!
-      
-      
-      Stéphane Bouchet
-      
-      
-      
-      ...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: This Week in JBoss - April, 06 2023</title>
@@ -408,31 +351,7 @@
     <updated>2023-03-10T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.27.0.am1.html</id>
     <link href="https://tools.jboss.org/blog/4.27.0.am1.html" rel="alternate"></link>
-    <summary type="html">Happy to announce 4.27.0.AM1 (Developer Milestone 1) build for Eclipse 2023-03M3.
-      
-      
-      Downloads available at JBoss Tools 4.27.0 AM1.
-      
-      
-      
-      
-      What is New?
-      
-      
-      Full info is at this page. Some highlights are below.
-      
-      
-      General
-      
-      Components Depreciation
-      
-      As previously announced here, we’re in the process to remove the Central / update tab from JBossTools in next release. This work can be followed here.
-      
-      
-      That means that all the current extra features that can be installed via this tab needs to be available through a new channel. This channel already exists as p2 repo, but using Eclipse Marketplace Client is more close to what’s existing right now.
-      
-      
-      Most of those additional features...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: This Week in JBoss - 10th March 2023</title>
@@ -474,78 +393,7 @@
     <updated>2022-12-20T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.26.0.final.html</id>
     <link href="https://tools.jboss.org/blog/4.26.0.final.html" rel="alternate"></link>
-    <summary type="html">Happy to announce 4.26.0.Final build for Eclipse 2022-12.
-      
-      
-      Downloads available at JBoss Tools 4.26.0 Final.
-      
-      
-      
-      
-      What is New?
-      
-      
-      Full info is at this page. Some highlights are below.
-      
-      
-      General
-      
-      Components removal
-      
-      As planned and communicated in a previous blog article, the following components have been
-      removed from the JBoss Tools distribution:
-      
-      
-      
-      
-      Forge
-      
-      
-      Livereload
-      
-      
-      Angular
-      
-      
-      JSDT
-      
-      
-      
-      
-      Please note that the following components are obsoleted so they are still part of this JBoss
-      Tools distribution but they will be removed from the next JBoss Tools release:
-      
-      
-      
-      
-      WebServices
-      
-      
-      JSF
-      
-      
-      Seam
-      
-      
-      Batch
-      
-      
-      Visual Page Editor
-      
-      
-      Central installation
-      
-      
-      
-      
-      
-      
-      OpenShift
-      
-      OpenShift Application Explorer view based on odo 3.x
-      
-      The OpenShift Application Explorer view based based on odo 2.x in previous versions of
-      JBoss Tools. It already leverages the power...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: This Week in JBoss - December, 15th 2022</title>
@@ -566,63 +414,7 @@
     <updated>2022-11-23T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.26.0.am1.html</id>
     <link href="https://tools.jboss.org/blog/4.26.0.am1.html" rel="alternate"></link>
-    <summary type="html">Happy to announce 4.26.0.AM1 (Developer Milestone 1) build for Eclipse 2022-12M2.
-      
-      
-      Downloads available at JBoss Tools 4.26.0 AM1.
-      
-      
-      
-      
-      What is New?
-      
-      
-      Full info is at this page. Some highlights are below.
-      
-      
-      General
-      
-      Components Removal
-      
-      As previously announced, we removed some components in this release :
-      
-      
-      
-      
-      Forge
-      
-      
-      Livereload
-      
-      
-      Angular
-      
-      
-      JSDT
-      
-      
-      
-      
-      
-      
-      Hibernate Tools
-      
-      Runtime Provider Updates
-      
-      The Hibernate 6.1 runtime provider now incorporates Hibernate Core version 6.1.5.Final, Hibernate Ant version 6.1.5.Final and Hibernate Tools version 6.1.5.Final.
-      
-      
-      The Hibernate 5.6 runtime provider now incorporates Hibernate Core version 5.6.13.Final and Hibernate Tools version 5.6.13.Final.
-      
-      
-      The Hibernate 5.3 runtime provider now incorporates Hibernate Core version 5.3.28.Final and Hibernate Tools version 5.3.28.Final.
-      
-      
-      
-      
-      And more…​
-      
-      You can find more noteworthy updates in on this...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: This Week in JBoss - November, 18 2022</title>
@@ -636,22 +428,7 @@
     <updated>2022-11-09T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/2022-11-09-component-lifetime-policy.html</id>
     <link href="https://tools.jboss.org/blog/2022-11-09-component-lifetime-policy.html" rel="alternate"></link>
-    <summary type="html">JBoss Tools is a set of Eclipse plugins and features that can be installed from the
-      Eclipse marketplace.
-      
-      
-      It represents a huge code base and is divided into
-      bigger artificats that are called components. The component grouping of plugins and
-      features represents major and independant functionnality: there is one component for
-      OpenShift and another one for Quarkus for example.
-      
-      
-      So there are components that have been started a while ago as the JBoss Tools code base
-      is quite old and other ones that have been started quite recently (eg Quarkus).
-      
-      
-      So there are components that are related to a technology that is not anymore widely used
-      so the component...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: This Week in JBoss - November, 4 2022</title>
@@ -672,50 +449,7 @@
     <updated>2022-10-17T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.25.0.final.html</id>
     <link href="https://tools.jboss.org/blog/4.25.0.final.html" rel="alternate"></link>
-    <summary type="html">Happy to announce 4.25.0.Final build for Eclipse 2022-09.
-      
-      
-      Downloads available at JBoss Tools 4.25.0.Final.
-      
-      
-      
-      
-      What is New?
-      
-      
-      Full info is at this page. Some highlights are below.
-      
-      
-      General
-      
-      Java 17 requirement
-      
-      Java 17 is now a minimum requirement to run JBoss Tools.
-      JBoss Tools continues to support running servers and applications with older Java versions.
-      
-      
-      
-      
-      Quarkus Tools
-      
-      Improvement to the new Quarkus project wizard
-      
-      The Quarkus extension ecosystem is composed of extensions that are part of the platform and the others. The Quarkus project wizard has
-      been extended to allow exclusion of extensions that are not part of the platform.
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      Hibernate Tools
-      
-      New Runtime Provider
-      
-      A new runtime provider has been added for Hibernate...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: This Week in JBoss - 07 October 2022</title>
@@ -729,50 +463,7 @@
     <updated>2022-09-29T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.25.0.am1.html</id>
     <link href="https://tools.jboss.org/blog/4.25.0.am1.html" rel="alternate"></link>
-    <summary type="html">Happy to announce 4.25.0.AM1 (Developer Milestone 1) build for Eclipse 2022-09RC1.
-      
-      
-      Downloads available at JBoss Tools 4.25.0 AM1.
-      
-      
-      
-      
-      What is New?
-      
-      
-      Full info is at this page. Some highlights are below.
-      
-      
-      General
-      
-      Java 17 requirement
-      
-      Java 17 is now a minimum requirement to run JBoss Tools.
-      JBoss Tools continues to support running servers and applications with older Java versions.
-      
-      
-      
-      
-      Quarkus Tools
-      
-      Improvement to the new Quarkus project wizard
-      
-      The Quarkus extension ecosystem is composed of extensions that are part of the platform and the others. The Quarkus project wizard has
-      been extended to allow exclusion of extensions that are not part of the platform.
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      Hibernate Tools
-      
-      New Runtime Provider
-      
-      A new runtime provider has...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: This Week in JBoss - 22 September 2022</title>
@@ -821,33 +512,7 @@
     <updated>2022-07-04T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.24.0.final.html</id>
     <link href="https://tools.jboss.org/blog/4.24.0.final.html" rel="alternate"></link>
-    <summary type="html">Happy to announce 4.24.0.Final build for Eclipse 2022-06.
-      
-      
-      Downloads available at JBoss Tools 4.24.0.Final.
-      
-      
-      
-      
-      What is New?
-      
-      
-      Full info is at this page. Some highlights are below.
-      
-      
-      Quarkus Tools
-      
-      Improvement to the new Quarkus project wizard
-      
-      When the new Quarkus project wizard was initially design, there were a few Quarkus extensions so it was not difficult to find one from the
-      total list. Now that the Quarkus ecosystem is growing fast, it was difficult even of the extensions were grouped into categories.
-      
-      
-      In order to cope with this issue, the extensions and categories are now displayed in a tree (first level is categories, second level is
-      extensions).
-      
-      
-      This new tree...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: This Week in JBoss - June 30th 2022</title>
@@ -868,29 +533,7 @@
     <updated>2022-06-14T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.24.0.am1.html</id>
     <link href="https://tools.jboss.org/blog/4.24.0.am1.html" rel="alternate"></link>
-    <summary type="html">Happy to announce 4.24.0.AM1 (Developer Milestone 1) build for Eclipse 2022-06M2.
-      
-      
-      Downloads available at JBoss Tools 4.24.0 AM1.
-      
-      
-      
-      
-      What is New?
-      
-      
-      Full info is at this page. Some highlights are below.
-      
-      
-      Quarkus Tools
-      
-      Improvement to the new Quarkus project wizard
-      
-      When the new Quarkus project wizard was initially design, there were a few Quarkus extensions so it was not difficult to find one from the
-      total list. Now that the Quarkus ecosystem is growing fast, it was difficult even of the extensions were grouped into categories.
-      
-      
-      In order to cope with this issue, the extensions and categories are now displayed in a tree (first level is categories, second...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: This Week in JBoss - June 2nd 2022</title>
@@ -918,34 +561,7 @@
     <updated>2022-04-15T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.23.0.final.html</id>
     <link href="https://tools.jboss.org/blog/4.23.0.final.html" rel="alternate"></link>
-    <summary type="html">JBoss Tools 4.23.0
-      for Eclipse 2022-03 is here waiting for you. Check it out!
-      
-      
-      We highly recommand to download or update to this latest version.
-      
-      
-      
-      
-      Note for Red Hat CodeReady Studio users
-      
-      
-      The Red Hat CodeReady Studio product has reached end of life. The last release for the product was 12.21.3.GA. So there is no equivalent version of
-      Red Hat CodeReady Studio for this version of JBoss Tools. Existing users of Red Hat CodeReady Studio can upgrade to this version of JBoss Tools.
-      
-      
-      For more information, see this article
-      
-      
-      
-      
-      Installation
-      
-      
-      JBoss Tools or Bring-Your-Own-Eclipse (BYOE) CodeReady Studio require a bit more:
-      
-      
-      This release requires at least Eclipse 4.23 (2022-03)...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: This Week in JBoss - 07 April 2022</title>
@@ -966,51 +582,7 @@
     <updated>2022-03-24T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.23.0.am1.html</id>
     <link href="https://tools.jboss.org/blog/4.23.0.am1.html" rel="alternate"></link>
-    <summary type="html">Happy to announce 4.23.0.AM1 (Developer Milestone 1) build for Eclipse 2022-03RC1.
-      
-      
-      Downloads available at JBoss Tools 4.23.0 AM1.
-      
-      
-      
-      
-      What is New?
-      
-      
-      Full info is at this page. Some highlights are below.
-      
-      
-      Hibernate Tools
-      
-      Hibernate Runtime Provider Updates
-      
-      A number of additions and updates have been performed on the available Hibernate runtime  providers.
-      
-      
-      Runtime Provider Updates
-      
-      The Hibernate 6.0 runtime provider (Preview) now incorporates Hibernate Core version 6.0.0.CR1 and Hibernate Tools version 6.0.0.CR1.
-      
-      
-      The Hibernate 5.6 runtime provider now incorporates Hibernate Core version 5.6.5.Final and Hibernate Tools version 5.6.5.Final.
-      
-      
-      
-      
-      
-      And more…​
-      
-      You can find more noteworthy updates in on this page.
-      
-      
-      Enjoy!
-      
-      
-      Jeff Maury
-      
-      
-      
-      ...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: This Week in JBoss - 11 March 2022</title>
@@ -1038,40 +610,7 @@
     <updated>2022-02-08T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.21.3.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.21.3.ga.html" rel="alternate"></link>
-    <summary type="html">JBoss Tools 4.21.3 and
-      Red Hat CodeReady Studio 12.21.3
-      for Eclipse 2021-09 are here waiting for you. Check it out!
-      
-      
-      We’ve released new versions of JBoss Tools and Red Hat CodeReady Studio that switches the version of Apache Log4j to 2.17.1.
-      
-      
-      We highly recommand to download or update to this latest version.
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      Installation
-      
-      
-      Red Hat CodeReady Studio comes with everything pre-bundled in its installer. Simply download it from our Red Hat CodeReady product page and run it like this:
-      
-      
-      
-      java -jar codereadystudio-<installername>.jar
-      
-      
-      
-      JBoss Tools or Bring-Your-Own-Eclipse (BYOE) CodeReady Studio require a bit more:
-      
-      
-      This release requires at least Eclipse 4.21 (2021-09) but we recommend
-      using the latest Eclipse 4.21 2021-09...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: This Week in JBoss - January 27th 2022</title>
@@ -1081,30 +620,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
-    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
-    <summary type="html">Apache Log4j CVE-2021-44832 statement
-      
-      
-      A remote code execution vulnerability in the Apache Log4j 2 Java library when using a JDBC Appender with a JNDI LDAP data source URI (see https://logging.apache.org/log4j/2.x/index.html#News or https://nvd.nist.gov/vuln/detail/CVE-2021-44832) has been releaved to the public audience on Tuesday Dec 28th, 2021.
-      
-      
-      
-      
-      Apache Log4j CVE-2021-45105 statement
-      
-      
-      A denial of service vulnerability in the Apache Log4j 2 Java library (see https://logging.apache.org/log4j/2.x/index.html#News or https://nvd.nist.gov/vuln/detail/CVE-2021-45105) has been releaved to the public audience on Thursday Dec 30th, 2021.
-      
-      
-      We’ve released new versions of JBoss Tools and Red Hat CodeReady Studio that switches the version of Apache Log4j to 2.17.1.
-      
-      
-      We highly recommand to download or update to...</summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
@@ -1112,50 +627,18 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Tools: JBoss Tools 4.21.2.AM1 for Eclipse 2021-09</title>
     <updated>2021-12-22T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.21.2.am1.html</id>
     <link href="https://tools.jboss.org/blog/4.21.2.am1.html" rel="alternate"></link>
-    <summary type="html">Happy to announce 4.21.2.AM1 (Developer Milestone 1) build for Eclipse 2021-09.
-      
-      
-      Downloads available at JBoss Tools 4.21.2.AM1.
-      
-      
-      
-      
-      What is New?
-      
-      
-      Full info is at this page. Some highlights are below.
-      
-      
-      Quarkus Tools
-      
-      
-      
-      
-      
-      Quarkus stream selection in the new Quarkus project wizard
-      
-      
-      When a new Quarkus project/module is to be generated, it is now possible to select the Quarkus stream (see this article) on which the generated application will be based on.
-      
-      
-      By default, the recommended (latest release) will be selected but you can choose another one:
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      Enhanced code completion in Java files
-      
-      
-      When you want to define a fallback method thanks to the @Fallback annotation from MicroProfile Fault Tolerance,...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: This Week in JBoss - 20 December 2021</title>
@@ -1169,40 +652,7 @@
     <updated>2021-12-16T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.21.1.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.21.1.ga.html" rel="alternate"></link>
-    <summary type="html">Apache Log4j CVE-2021-44228 statement
-      
-      
-      A remote code execution vulnerability in the Apache Log4j 2 Java library dubbed Log4Shell (see https://logging.apache.org/log4j/2.x/index.html#News or https://nvd.nist.gov/vuln/detail/CVE-2021-44228) has been releaved to the public audience on Friday Dec 9th, 2021.
-      
-      
-      We’ve released new versions of JBoss Tools and Red Hat CodeReady Studio that switches the version of Apache Log4j to 2.16.0.
-      
-      
-      We highly recommand to download or update to this latest version.
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      Installation
-      
-      
-      Red Hat CodeReady Studio comes with everything pre-bundled in its installer. Simply download it from our Red Hat CodeReady product page and run it like this:
-      
-      
-      
-      java -jar codereadystudio-<installername>.jar
-      
-      
-      
-      JBoss Tools or Bring-Your-Own-Eclipse (BYOE) CodeReady Studio require a bit more:
-      
-      
-      This...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: This Week in JBoss - 2 December 2021</title>
@@ -1244,47 +694,7 @@
     <updated>2021-10-05T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.21.0.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.21.0.ga.html" rel="alternate"></link>
-    <summary type="html">JBoss Tools 4.21.0 and
-      Red Hat CodeReady Studio 12.21.0
-      for Eclipse 2021-09 are here waiting for you. Check it out!
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      Installation
-      
-      
-      Red Hat CodeReady Studio comes with everything pre-bundled in its installer. Simply download it from our Red Hat CodeReady product page and run it like this:
-      
-      
-      
-      java -jar codereadystudio-<installername>.jar
-      
-      
-      
-      JBoss Tools or Bring-Your-Own-Eclipse (BYOE) CodeReady Studio require a bit more:
-      
-      
-      This release requires at least Eclipse 4.21 (2021-09) but we recommend
-      using the latest Eclipse 4.21 2021-09 JEE Bundle
-      
-      
-      since then you get most of the dependencies preinstalled.
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      Java11 is now required to run Red Hat Developer Studio or JBoss Tools (this is a requirement from Eclipse 4.17). So...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: This Week in JBoss - 23 September 2021</title>
@@ -1305,32 +715,7 @@
     <updated>2021-09-07T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.21.0.am1.html</id>
     <link href="https://tools.jboss.org/blog/4.21.0.am1.html" rel="alternate"></link>
-    <summary type="html">Happy to announce 4.21.0.AM1 (Developer Milestone 1) build for Eclipse 2021-09.
-      
-      
-      Downloads available at JBoss Tools 4.21.0 AM1.
-      
-      
-      
-      
-      What is New?
-      
-      
-      Full info is at this page. Some highlights are below.
-      
-      
-      OpenShift
-      
-      Operator based services
-      
-      When developing cloud native applications on OpenShift, developer may need to
-      launch services (databases, messaging system,…​) that the application under
-      development may need to connect to. The OpenShift tooling allowed to launch such
-      services but it was based on the service catalog which is not available anymore on OpenShift 4.
-      
-      
-      The new feature is based on operators which is the devops way of installing and
-      managing software on Kubernetes clusters. So when you want to launch...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: This Week in JBoss - 27 August 2021</title>
@@ -1351,47 +736,7 @@
     <updated>2021-07-16T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.19.1.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.19.1.ga.html" rel="alternate"></link>
-    <summary type="html">JBoss Tools 4.19.1 and
-      Red Hat CodeReady Studio 12.19.1
-      for Eclipse 2021-03 are here waiting for you. Check it out!
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      Installation
-      
-      
-      Red Hat CodeReady Studio comes with everything pre-bundled in its installer. Simply download it from our Red Hat CodeReady product page and run it like this:
-      
-      
-      
-      java -jar codereadystudio-<installername>.jar
-      
-      
-      
-      JBoss Tools or Bring-Your-Own-Eclipse (BYOE) CodeReady Studio require a bit more:
-      
-      
-      This release requires at least Eclipse 4.19 (2021-03) but we recommend
-      using the latest Eclipse 4.19 2021-03 JEE Bundle
-      
-      
-      since then you get most of the dependencies preinstalled.
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      Java11 is now required to run Red Hat Developer Studio or JBoss Tools (this is a requirement from Eclipse 4.17). So...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: This Week in JBoss - 14 July 2021</title>
@@ -1419,41 +764,7 @@
     <updated>2021-06-15T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.19.1.am1.html</id>
     <link href="https://tools.jboss.org/blog/4.19.1.am1.html" rel="alternate"></link>
-    <summary type="html">Happy to announce 4.19.1.AM1 (Developer Milestone 1) build for Eclipse 2021-03.
-      
-      
-      Downloads available at JBoss Tools 4.19.1 AM1.
-      
-      
-      
-      
-      What is New?
-      
-      
-      Full info is at this page. Some highlights are below.
-      
-      
-      OpenShift
-      
-      Improved OpenShift Application explorer
-      
-      When the OpenShift cluster has no applications or projects, user is required to create them. However,
-      it may not be obvious for the user that the corresponding function is available from a sub menu of the
-      New context menu.
-      
-      
-      So now, a link will be provided within the tree with an explanation message.
-      
-      
-      If no projects are available, user will be guided to create one:
-      
-      
-      
-      
-      
-      
-      
-      If no applications are available in a project, user will...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: This Week in JBoss - 31 May 2021</title>
@@ -1474,45 +785,7 @@
     <updated>2021-04-20T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.19.0.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.19.0.ga.html" rel="alternate"></link>
-    <summary type="html">JBoss Tools 4.19.0 and
-      Red Hat CodeReady Studio 12.19
-      for Eclipse 2021-03 are here waiting for you. Check it out!
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      Installation
-      
-      
-      Red Hat CodeReady Studio comes with everything pre-bundled in its installer. Simply download it from our Red Hat CodeReady product page and run it like this:
-      
-      
-      
-      java -jar codereadystudio-<installername>.jar
-      
-      
-      
-      JBoss Tools or Bring-Your-Own-Eclipse (BYOE) CodeReady Studio require a bit more:
-      
-      
-      This release requires at least Eclipse 4.19 (2021-03) but we recommend
-      using the latest Eclipse 4.19 2021-03 JEE Bundle
-      since then you get most of the dependencies preinstalled.
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      Java11 is now required to run Red Hat Developer Studio or JBoss Tools (this is a requirement from Eclipse 4.17). So...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: This Week in JBoss - 8 April 2021</title>
@@ -1533,49 +806,7 @@
     <updated>2021-03-24T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.19.0.am1.html</id>
     <link href="https://tools.jboss.org/blog/4.19.0.am1.html" rel="alternate"></link>
-    <summary type="html">Happy to announce 4.19.0.AM1 (Developer Milestone 1) build for Eclipse 2021-03.
-      
-      
-      Downloads available at JBoss Tools 4.19.0 AM1.
-      
-      
-      
-      
-      What is New?
-      
-      
-      Full info is at this page. Some highlights are below.
-      
-      
-      OpenShift
-      
-      Browser based login to an OpenShift cluster
-      
-      When it comes to login to a cluster, OpenShift Tools supported two different authentication mechanisms:
-      
-      
-      
-      
-      user/password
-      
-      
-      token
-      
-      
-      
-      
-      The drawback is that it does not cover clusters where a more enhanced and modern authentication infrastructure is in place. So it is now possible to login to the cluster through an embedded web browser.
-      
-      
-      In order to use it, go to the Login context menu from the Application Explorer view:
-      
-      
-      
-      
-      
-      
-      
-      Click on the Retrieve...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: This Week in JBoss - 11 March 2021</title>
@@ -1610,45 +841,7 @@
     <updated>2021-01-26T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.18.0.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.18.0.ga.html" rel="alternate"></link>
-    <summary type="html">JBoss Tools 4.18.0 and
-      Red Hat CodeReady Studio 12.18
-      for Eclipse 2020-09 are here waiting for you. Check it out!
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      Installation
-      
-      
-      Red Hat CodeReady Studio comes with everything pre-bundled in its installer. Simply download it from our Red Hat CodeReady product page and run it like this:
-      
-      
-      
-      java -jar codereadystudio-<installername>.jar
-      
-      
-      
-      JBoss Tools or Bring-Your-Own-Eclipse (BYOE) CodeReady Studio require a bit more:
-      
-      
-      This release requires at least Eclipse 4.17 (2020-09) but we recommend
-      using the latest Eclipse 4.17 2020-09 JEE Bundle
-      since then you get most of the dependencies preinstalled.
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      Java11 is now required to run Red Hat Developer Studio or JBoss Tools (this is a requirement from Eclipse 4.17). So...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: This Week in JBoss: 14 January 2021</title>
@@ -1669,43 +862,7 @@
     <updated>2020-12-22T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.18.0.am1.html</id>
     <link href="https://tools.jboss.org/blog/4.18.0.am1.html" rel="alternate"></link>
-    <summary type="html">Happy to announce 4.18.0.AM1 (Developer Milestone 1) build for Eclipse 2020-09.
-      
-      
-      Downloads available at JBoss Tools 4.18.0 AM1.
-      
-      
-      
-      
-      What is New?
-      
-      
-      Full info is at this page. Some highlights are below.
-      
-      
-      Quarkus
-      
-      Support for codestarts in New Quarkus project wizard
-      
-      code.quarkus.io has added a new option codestart that allows extension that support
-      this new feature to contribute sample code in the generated project. It is enabled
-      by default and is accessible from the second step in the wizard:
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      OpenShift
-      
-      Devfile based deployments
-      
-      The Application Explorer view is now based on odo 2.x, which allows deployments
-      to be based on devfile (developer oriented manifest file). The components from
-      the default odo registry are listed...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: This Week in JBoss - 17 December 2020</title>
@@ -1747,45 +904,7 @@
     <updated>2020-10-13T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.17.0.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.17.0.ga.html" rel="alternate"></link>
-    <summary type="html">JBoss Tools 4.17.0 and
-      Red Hat CodeReady Studio 12.17
-      for Eclipse 2020-09 are here waiting for you. Check it out!
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      Installation
-      
-      
-      Red Hat CodeReady Studio comes with everything pre-bundled in its installer. Simply download it from our Red Hat CodeReady product page and run it like this:
-      
-      
-      
-      java -jar codereadystudio-<installername>.jar
-      
-      
-      
-      JBoss Tools or Bring-Your-Own-Eclipse (BYOE) CodeReady Studio require a bit more:
-      
-      
-      This release requires at least Eclipse 4.17 (2020-09) but we recommend
-      using the latest Eclipse 4.17 2020-06 JEE Bundle
-      since then you get most of the dependencies preinstalled.
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      Java11 is now required to run Red Hat Developer Studio or JBoss Tools (this is a requirement from Eclipse 4.17). So...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: This week in JBoss - 12th October 2020</title>
@@ -1813,54 +932,7 @@
     <updated>2020-09-15T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.17.0.am1.html</id>
     <link href="https://tools.jboss.org/blog/4.17.0.am1.html" rel="alternate"></link>
-    <summary type="html">Happy to announce 4.17.0.AM1 (Developer Milestone 1) build for Eclipse 2020-09.
-      
-      
-      Downloads available at JBoss Tools 4.17.0 AM1.
-      
-      
-      
-      
-      What is New?
-      
-      
-      Full info is at this page. Some highlights are below.
-      
-      
-      Quarkus
-      
-      Support for YAML configuration file
-      
-      Quarkus supports configuration through YAML format. For more information,
-      see the Quarkus documentation
-      
-      
-      In order to use it, follow the steps:
-      
-      
-      
-      
-      create a Quarkus project using the new Quarkus wizard
-      
-      
-      create a new application.yaml or application.yml next to the application.properties in src/main/resources
-      
-      
-      
-      
-      The editor will open and you will get content assist and syntax validation.
-      
-      
-      
-      
-      Hibernate Tools
-      
-      A number of additions and updates have been performed on the available Hibernate runtime  providers.
-      
-      
-      New Runtime Provider
-      
-      A new...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: JBoss Weekly Editorial 27 August 2020</title>
@@ -1888,38 +960,7 @@
     <updated>2020-07-21T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.16.0.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.16.0.ga.html" rel="alternate"></link>
-    <summary type="html">JBoss Tools 4.16.0 and
-      Red Hat CodeReady Studio 12.16
-      for Eclipse 2020-06 are here waiting for you. Check it out!
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      Installation
-      
-      
-      Red Hat CodeReady Studio comes with everything pre-bundled in its installer. Simply download it from our Red Hat CodeReady product page and run it like this:
-      
-      
-      
-      java -jar codereadystudio-<installername>.jar
-      
-      
-      
-      JBoss Tools or Bring-Your-Own-Eclipse (BYOE) CodeReady Studio require a bit more:
-      
-      
-      This release requires at least Eclipse 4.16 (2020-06) but we recommend
-      using the latest Eclipse 4.16 2020-06 JEE Bundle
-      since then you get most of the dependencies preinstalled.
-      
-      
-      Once you have installed Eclipse, you can either find us on the Eclipse Marketplace under "JBoss Tools" or "Red Hat CodeReady...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: This Week in JBoss - 9 July 2020: Over the (j)cliff!</title>
@@ -1940,54 +981,7 @@
     <updated>2020-06-24T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.16.0.am1.html</id>
     <link href="https://tools.jboss.org/blog/4.16.0.am1.html" rel="alternate"></link>
-    <summary type="html">Happy to announce 4.16.0.AM1 (Developer Milestone 1) build for Eclipse 2020-06.
-      
-      
-      Downloads available at JBoss Tools 4.16.0 AM1.
-      
-      
-      
-      
-      What is New?
-      
-      
-      Full info is at this page. Some highlights are below.
-      
-      
-      OpenShift
-      
-      Secure URL support
-      
-      It is now possible to create secured URLs in the Application Explorer View.
-      If you select this option, the created URL will be accessible through https.
-      
-      
-      
-      
-      
-      
-      
-      When such an URL is displayed in the tree, the icon now has a secure lock indicator.
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      Hibernate Tools
-      
-      Hibernate Runtime Provider Updates
-      
-      A number of additions and updates have been performed on the available Hibernate runtime  providers.
-      
-      
-      
-      Runtime Provider Updates
-      
-      The Hibernate 5.4 runtime provider now incorporates Hibernate Core version...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Blogs: This Week in JBoss - 11 June 2020</title>
@@ -2022,855 +1016,146 @@
     <updated>2020-04-28T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.15.0.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.15.0.ga.html" rel="alternate"></link>
-    <summary type="html">JBoss Tools 4.15.0 and
-      Red Hat CodeReady Studio 12.15
-      for Eclipse 2020-03 are here waiting for you. Check it out!
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      Installation
-      
-      
-      Red Hat CodeReady Studio comes with everything pre-bundled in its installer. Simply download it from our Red Hat CodeReady product page and run it like this:
-      
-      
-      
-      java -jar codereadystudio-<installername>.jar
-      
-      
-      
-      JBoss Tools or Bring-Your-Own-Eclipse (BYOE) CodeReady Studio require a bit more:
-      
-      
-      This release requires at least Eclipse 4.15 (2020-03) but we recommend
-      using the latest Eclipse 4.15 2020-03 JEE Bundle
-      since then you get most of the dependencies preinstalled.
-      
-      
-      Once you have installed Eclipse, you can either find us on the Eclipse Marketplace under "JBoss Tools" or "Red Hat CodeReady...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Tools: JBoss Tools 4.15.0.AM1 for Eclipse 2020-03</title>
     <updated>2020-03-31T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.15.0.am1.html</id>
     <link href="https://tools.jboss.org/blog/4.15.0.am1.html" rel="alternate"></link>
-    <summary type="html">Happy to announce 4.15.0.AM1 (Developer Milestone 1) build for Eclipse 2020-03.
-      
-      
-      Downloads available at JBoss Tools 4.15.0 AM1.
-      
-      
-      
-      
-      What is New?
-      
-      
-      Full info is at this page. Some highlights are below.
-      
-      
-      Please note that a regression has been found in the Fuse Tools. This is going
-      to be fixed for the release (4.15.0.Final). Please find more information in this
-      ticket.
-      
-      
-      Quarkus Tools
-      
-      Language support for Kubernetes, Openshift, S2i and Docker properties
-      
-      There is now completion, hover, documentation and validation for kubernetes.,
-      openshift., s2i., docker. properties
-      
-      
-      
-      
-      
-      
-      
-      Enter kubernetes prefix:
-      
-      
-      
-      
-      
-      
-      
-      Enter openshift prefix:
-      
-      
-      
-      
-      
-      
-      
-      Enter s2i prefix:
-      
-      
-      
-      
-      
-      
-      
-      
-      Language support for MicroProfile REST Client properties
-      
-      Likewise, there is now completion, hover, documentation and validation for the
-      MicroProfile properties from REST...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2019-12</title>
     <updated>2020-03-17T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.14.0.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.14.0.ga.html" rel="alternate"></link>
-    <summary type="html">JBoss Tools 4.14.0 and
-      Red Hat CodeReady Studio 12.14
-      for Eclipse 2019-12 are here waiting for you. Check it out!
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      Installation
-      
-      
-      Red Hat CodeReady Studio comes with everything pre-bundled in its installer. Simply download it from our Red Hat CodeReady product page and run it like this:
-      
-      
-      
-      java -jar codereadystudio-<installername>.jar
-      
-      
-      
-      JBoss Tools or Bring-Your-Own-Eclipse (BYOE) CodeReady Studio require a bit more:
-      
-      
-      This release requires at least Eclipse 4.14 (2019-12) but we recommend
-      using the latest Eclipse 4.14 2019-12 JEE Bundle
-      since then you get most of the dependencies preinstalled.
-      
-      
-      Once you have installed Eclipse, you can either find us on the Eclipse Marketplace under "JBoss Tools" or "Red Hat CodeReady...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Tools: JBoss Tools 4.14.0.AM1 for Eclipse 2019-12</title>
     <updated>2020-01-28T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.14.0.am1.html</id>
     <link href="https://tools.jboss.org/blog/4.14.0.am1.html" rel="alternate"></link>
-    <summary type="html">Happy to announce 4.14.0.AM1 (Developer Milestone 1) build for Eclipse 2019-12.
-      
-      
-      Downloads available at JBoss Tools 4.14.0 AM1.
-      
-      
-      
-      
-      What is New?
-      
-      
-      Full info is at this page. Some highlights are below.
-      
-      
-      Quarkus Tools
-      
-      Quarkus Tools added to JBoss Tools
-      
-      A new component has been added to JBoss Tools. Quarkus Tools. It aims at providing tools
-      for Quarkus applications developers. The initial set of features is:
-      
-      
-      
-      
-      Wizard for creating Quarkus projects based on code.quarkus.io
-      
-      
-      Code completion and syntax validation on application.properties
-      
-      
-      Launching your Quarkus application in Run/Debug mode
-      
-      
-      
-      
-      Quarkus project creation wizard
-      
-      A new wizard has been added to create a new Quarkus application project in your workspace.
-      In order to launch it, first...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2019-09</title>
     <updated>2019-11-05T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.13.0.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.13.0.ga.html" rel="alternate"></link>
-    <summary type="html">JBoss Tools 4.13.0 and Red Hat CodeReady Studio 12.13 for Eclipse 2019-09 are here waiting for you. Check it out!
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      Installation
-      
-      
-      Red Hat CodeReady Studio comes with everything pre-bundled in its installer. Simply download it from our Red Hat CodeReady product page and run it like this:
-      
-      
-      
-      java -jar codereadystudio-<installername>.jar
-      
-      
-      
-      JBoss Tools or Bring-Your-Own-Eclipse (BYOE) CodeReady Studio require a bit more:
-      
-      
-      This release requires at least Eclipse 4.13 (2019-09) but we recommend
-      using the latest Eclipse 4.13 2019-09 JEE Bundle since then you get most of the dependencies preinstalled.
-      
-      
-      Once you have installed Eclipse, you can either find us on the Eclipse Marketplace under "JBoss Tools" or...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2019-06</title>
     <updated>2019-07-08T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.12.0.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.12.0.ga.html" rel="alternate"></link>
-    <summary type="html">JBoss Tools 4.12.0 and Red Hat CodeReady Studio 12.12 for Eclipse 2019-06 are here waiting for you. Check it out!
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      Installation
-      
-      
-      Red Hat CodeReady Studio comes with everything pre-bundled in its installer. Simply download it from our Red Hat CodeReady product page and run it like this:
-      
-      
-      
-      java -jar codereadystudio-<installername>.jar
-      
-      
-      
-      JBoss Tools or Bring-Your-Own-Eclipse (BYOE) CodeReady Studio require a bit more:
-      
-      
-      This release requires at least Eclipse 4.12 (2019-06) but we recommend
-      using the latest Eclipse 4.12 2019-06 JEE Bundle since then you get most of the dependencies preinstalled.
-      
-      
-      Once you have installed Eclipse, you can either find us on the Eclipse Marketplace under "JBoss Tools" or...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Tools: JBoss Tools 4.12.0.AM1 for Eclipse 2019-06</title>
     <updated>2019-06-12T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.12.0.am1.html</id>
     <link href="https://tools.jboss.org/blog/4.12.0.am1.html" rel="alternate"></link>
-    <summary type="html">Happy to announce 4.12.0.AM1 (Developer Milestone 1) build for Eclipse 2019-06.
-      
-      
-      Downloads available at JBoss Tools 4.12.0 AM1.
-      
-      
-      
-      
-      What is New?
-      
-      
-      Full info is at this page. Some highlights are below.
-      
-      
-      Server Tools
-      
-      Wildfly 17 Server Adapter
-      
-      A server adapter has been added to work with Wildfly 17. It adds support for Java EE 8.
-      
-      
-      Enjoy!
-      
-      
-      Jeff Maury
-      
-      
-      
-      
-      ...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Tools: Integration Tooling for Eclipse 2019-03</title>
     <updated>2019-05-30T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/integration-stack-4.11.0.Final.html</id>
     <link href="https://tools.jboss.org/blog/integration-stack-4.11.0.Final.html" rel="alternate"></link>
-    <summary type="html">Check out our new branding for Eclipse 2019-03.  We’re now Red Hat CodeReady Studio 12 Integration Stack.
-      
-      
-      
-      
-      
-      
-      
-      JBoss Tools Integration Stack 4.11.0.Final / Red Hat CodeReady Studio Integration Stack 12.11.0.GA
-      
-      
-      
-      
-      
-      
-      
-      
-      All of the Integration Stack components have been verified to work with the same dependencies as JBoss Tools 4.11 and Red Hat CodeReady Studio 12.
-      
-      
-      
-      
-      
-      
-      
-      What’s new for this release?
-      
-      
-      DataVirtualization support from Teiid Designer is no longer available through the Integration Stack.  It can be installed directly from Teiid Designer
-      
-      
-      This release has an updated BPMN2 Modeler and jBPM/Drools/KIE.
-      
-      
-      Released Tooling Highlights
-      
-      Business Process and Rules Development
-      
-      BPMN2 Modeler Known Issues
-      
-      See the BPMN2 1.5.1.Final Known...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Tools: Quarkus</title>
     <updated>2019-05-13T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/quarkus.html</id>
     <link href="https://tools.jboss.org/blog/quarkus.html" rel="alternate"></link>
-    <summary type="html">You’ve probably heard about Quarkus, the Supersonic Subatomic Java framework tailored for Kubernetes and containers.
-      
-      
-      We wrote an article on how to create your first Quarkus project in an Eclipse based IDE (like Red Hat CodeReady Studio).
-      
-      
-      You can read it at https://developers.redhat.com/blog/2019/05/09/create-your-first-quarkus-project-with-eclipse-ide-red-hat-codeready-studio/
-      ...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2019-03</title>
     <updated>2019-04-01T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.11.0.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.11.0.ga.html" rel="alternate"></link>
-    <summary type="html">JBoss Tools 4.11.0 and Red Hat CodeReady Studio 12.11 for Eclipse 2019-03 are here waiting for you. Check it out!
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      Installation
-      
-      
-      Red Hat CodeReady Studio comes with everything pre-bundled in its installer. Simply download it from our Red Hat CodeReady product page and run it like this:
-      
-      
-      
-      java -jar devstudio-<installername>.jar
-      
-      
-      
-      JBoss Tools or Bring-Your-Own-Eclipse (BYOE) CodeReady Studio require a bit more:
-      
-      
-      This release requires at least Eclipse 4.11 (2019-03) but we recommend
-      using the latest Eclipse 4.11 2019-03 JEE Bundle since then you get most of the dependencies preinstalled.
-      
-      
-      Once you have installed Eclipse, you can either find us on the Eclipse Marketplace under "JBoss Tools" or...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Tools: Announcing IntelliJ OpenShift Connector</title>
     <updated>2019-03-11T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/ij-openshift-connector.html</id>
     <link href="https://tools.jboss.org/blog/ij-openshift-connector.html" rel="alternate"></link>
-    <summary type="html">We are extremely pleased to announce that the preview release of the Red Hat OpenShift Connector
-      for JetBrains products (IntelliJ IDEA, WebStorm,…​.) is now available. You can download the
-      OpenShift Connector plugin from the JetBrains marketplace
-      or install it directly from the plugins gallery in JetBrains products.
-      
-      
-      This article provides describes the features and benefits of the plugin and provides installation details.
-      It also provides a demo of how using the plugin improves the end-to-end experience of developing
-      and deploying Spring Boot applications to your OpenShift cluster.
-      
-      
-      
-      
-      Benefits of using the extension
-      
-      
-      Red Hat OpenShift is a container application platform that brings
-      the power of Kubernetes and containers to...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Tools: JBoss Tools 4.11.0.AM1 for Eclipse 2018-12</title>
     <updated>2019-02-26T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.11.0.am1.html</id>
     <link href="https://tools.jboss.org/blog/4.11.0.am1.html" rel="alternate"></link>
-    <summary type="html">Happy to announce 4.11.0.AM1 (Developer Milestone 1) build for Eclipse 2018-12.
-      
-      
-      Downloads available at JBoss Tools 4.11.0 AM1.
-      
-      
-      
-      
-      What is New?
-      
-      
-      Full info is at this page. Some highlights are below.
-      
-      
-      Server Tools
-      
-      EAP 7.2 Server Adapter
-      
-      A server adapter has been added to work with EAP 7.2.
-      
-      
-      
-      
-      OpenShift 3
-      
-      New OpenShift connection helper
-      
-      When you need to defined a new OpenShift connection, you need to provide the following information:
-      
-      
-      
-      
-      cluster URL
-      
-      
-      username and password or token
-      
-      
-      
-      
-      If you’ve already logged in your cluster through the OpenShift Web Console, you can copy an oc command
-      in the clipboard that contains both the cluster URL and your token.
-      
-      
-      So, from now, there is a new...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Tools: We are hiring</title>
     <updated>2019-01-17T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/we-are-hiring - again.html</id>
     <link href="https://tools.jboss.org/blog/we-are-hiring - again.html" rel="alternate"></link>
-    <summary type="html">The Developer Experience and Tooling group, of which JBoss Tools team is part,
-      is looking for an awesome developer. We are looking to continue
-      improving the usability for developers around various IDEs including Eclipse, VSCode and IntelliJ and around the Red Hat product line, including JBoss Middleware.
-      
-      
-      Topics range from Java to JavaScript, application servers to containers, source code tinkering to full blown CI/CD setups.
-      
-      
-      If you are into making developers life easier and like to be able to get involved in many different technologies and get them to work great together then do apply.
-      
-      
-      You can also ping me (jeffmaury@redhat.com) for questions.
-      
-      
-      The current list...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat Developer Studio for Eclipse 2018-09</title>
     <updated>2018-10-08T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.9.0.html</id>
     <link href="https://tools.jboss.org/blog/12.9.0.html" rel="alternate"></link>
-    <summary type="html">JBoss Tools 4.9.0 and Red Hat Developer Studio 12.9 for Eclipse 2018-09 are here waiting for you. Check it out!
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      Installation
-      
-      
-      Red Hat Developer Studio comes with everything pre-bundled in its installer. Simply download it from our Red Hat Developer product page and run it like this:
-      
-      
-      
-      java -jar devstudio-<installername>.jar
-      
-      
-      
-      JBoss Tools or Bring-Your-Own-Eclipse (BYOE) Developer Studio require a bit more:
-      
-      
-      This release requires at least Eclipse 4.9 (2018-09) but we recommend
-      using the latest Eclipse 4.9 2018-09 JEE Bundle since then you get most of the dependencies preinstalled.
-      
-      
-      Once you have installed Eclipse, you can either find us on the Eclipse Marketplace under "JBoss Tools" or...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Tools: JBoss Tools 4.9.0.AM3 for Eclipse 2018-09 M2</title>
     <updated>2018-09-11T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.9.0.am3.html</id>
     <link href="https://tools.jboss.org/blog/4.9.0.am3.html" rel="alternate"></link>
-    <summary type="html">Happy to announce 4.9.0.AM3 (Developer Milestone 3) build for Eclipse 2018-09 M2.
-      
-      
-      Downloads available at JBoss Tools 4.9.0 AM3.
-      
-      
-      
-      
-      What is New?
-      
-      
-      Full info is at this page. Some highlights are below.
-      
-      
-      General
-      
-      
-      
-      Server Tools
-      
-      Wildfly 14 Server Adapter
-      
-      A server adapter has been added to work with Wildfly 14. It adds support for Java EE 8.
-      
-      
-      
-      
-      Forge Tools
-      
-      Forge Runtime updated to 3.9.1.Final
-      
-      The included Forge runtime is now 3.9.1.Final. Read the official announcement here.
-      
-      
-      
-      
-      Fuse Tooling
-      
-      Know issues
-      
-      A regression has been introduced touching all functionalities using Jaxb. It includes:
-      
-      
-      
-      
-      Variable content display in debug
-      
-      
-      Data Transformation wizard
-      
-      
-      Tracing Camel route via Jolokia Connection
-      
-      
-      
-      
-      It may affect other functionalities. In this case, you will have...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Tools: JBoss Tools 4.9.0.AM2 for Eclipse 2018-09 M2</title>
     <updated>2018-08-21T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.9.0.am2.html</id>
     <link href="https://tools.jboss.org/blog/4.9.0.am2.html" rel="alternate"></link>
-    <summary type="html">Happy to announce 4.9.0.AM2 (Developer Milestone 2) build for Eclipse 2018-09 M2.
-      
-      
-      Downloads available at JBoss Tools 4.9.0 AM2.
-      
-      
-      
-      
-      What is New?
-      
-      
-      Full info is at this page. Some highlights are below.
-      
-      
-      General
-      
-      Eclipse 2018-09
-      
-      JBoss Tools is now targeting Eclipse 2018-09 M2.
-      
-      
-      
-      
-      Fuse Tooling
-      
-      WSDL to Camel REST DSL improvements
-      
-      The version of the library used to generate Camel REST DSL from WSDl files has been updated. It now covers more types of WSDL files. See https://github.com/jboss-fuse/wsdl2rest/milestone/3?closed=1 for the list of improvements.
-      
-      
-      
-      REST Editor tab improvements
-      
-      In the last milestone we began adding editing capabilities to the read-only REST tab to the route editor we added in the previous release....</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Tools: Integration Tooling for Eclipse Photon</title>
     <updated>2018-08-09T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/integration-stack-4.6.0.Final.html</id>
     <link href="https://tools.jboss.org/blog/integration-stack-4.6.0.Final.html" rel="alternate"></link>
-    <summary type="html">Try our leaner, complete Eclipse Photon and Red Hat Developer Studio 12 compatible integration tooling.
-      
-      
-      
-      
-      
-      
-      
-      JBoss Tools Integration Stack 4.6.0.Final / Red Hat Developer Studio Integration Stack 12.0.0.GA
-      
-      
-      
-      
-      
-      
-      
-      
-      All of the Integration Stack components have been verified to work with the same dependencies as JBoss Tools 4.6 and Red Hat Developer Studio 12.
-      
-      
-      
-      
-      
-      
-      
-      What’s new for this release?
-      
-      
-      This is the initial release in support of Eclipse Photon.  It syncs up with Developer Studio 12.0.0, JBoss Tools 4.6.0 and Eclipse 4.8.0 (Photon).  It is also a maintenance release for Teiid Designer and BRMS tooling.
-      
-      
-      Released Tooling Highlights
-      
-      Business Process and Rules Development
-      
-      BPMN2 Modeler Known...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat Developer Studio for Eclipse Photon</title>
     <updated>2018-07-17T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.0.0.ga-for-photon.html</id>
     <link href="https://tools.jboss.org/blog/12.0.0.ga-for-photon.html" rel="alternate"></link>
-    <summary type="html">JBoss Tools 4.6.0 and Red Hat Developer Studio 12.0 for Eclipse Photon are here waiting for you. Check it out!
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      Installation
-      
-      
-      Red Hat Developer Studio comes with everything pre-bundled in its installer. Simply download it from our Red Hat Developer product page and run it like this:
-      
-      
-      
-      java -jar devstudio-<installername>.jar
-      
-      
-      
-      JBoss Tools or Bring-Your-Own-Eclipse (BYOE) Developer Studio require a bit more:
-      
-      
-      This release requires at least Eclipse 4.8 (Photon) but we recommend
-      using the latest Eclipse 4.8 Photon JEE Bundle since then you get most of the dependencies preinstalled.
-      
-      
-      Once you have installed Eclipse, you can either find us on the Eclipse Marketplace under "JBoss Tools" or...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Tools: RHAMT Eclipse Plugin 4.1.0.Final has been released!</title>
     <updated>2018-07-17T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html</id>
     <link href="https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html" rel="alternate"></link>
-    <summary type="html">Happy to announce version 4.1.0.Final of the Red Hat Application Migration Toolkit (RHAMT) is now available.
-      
-      
-      
-      
-      Getting Started
-      
-      
-      Downloads available through JBoss Central and from the update site.
-      
-      
-      
-      
-      RHAMT in a Nutshel
-      
-      
-      RHAMT is an application migration and assessment tool. The migrations supported include application platform upgrades,
-      migrations to a cloud-native deployment environment, and also migrations from several commercial products to the
-      Red Hat JBoss Enterprise Application Platform.
-      
-      
-      
-      
-      What is New?
-      
-      
-      Eclipse Photon
-      
-      The tooling now targets Eclipse Photon.
-      
-      
-      
-      
-      
-      
-      
-      
-      Ignoring Patterns
-      
-      Specify locations of files to exclude from analysis (using regular expressions).
-      
-      
-      
-      
-      
-      
-      
-      
-      External Report
-      
-      The generated report has been moved out of Eclipse and into the browser.
-      
-      
-      
-      
-      
-      
-      
-      
-      Improved Ruleset Schema
-      
-      The XML ruleset schema has...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Tools: JBoss Tools 4.6.0.AM3 for Eclipse Photon.0.RC3</title>
     <updated>2018-06-19T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.6.0.am3-for-photon.0.rc3.html</id>
     <link href="https://tools.jboss.org/blog/4.6.0.am3-for-photon.0.rc3.html" rel="alternate"></link>
-    <summary type="html">Happy to announce 4.6.0.AM3 (Developer Milestone 3) build for Eclipse Photon.0.RC3.
-      
-      
-      Downloads available at JBoss Tools 4.6.0 AM3.
-      
-      
-      
-      
-      What is New?
-      
-      
-      Full info is at this page. Some highlights are below.
-      
-      
-      General
-      
-      Eclipse Photon
-      
-      JBoss Tools is now targeting Eclipse Photon RC3.
-      
-      
-      
-      
-      Fuse Tooling
-      
-      
-      
-      
-      
-      Camel URI completion with XML DSL
-      
-      
-      As announced here, it was already possible to have Camel URI completion with XML DSL in the source tab of the Camel Route editor by installing the Language Support for Apache Camel in your IDE.
-      
-      
-      This feature is now installed by default with Fuse Tooling!
-      
-      
-      
-      
-      
-      
-      
-      Now you have the choice to use the properties view with UI help to configure Camel...</summary>
+    <summary type="html"></summary>
   </entry>
   <entry>
     <title>JBoss Tools: JBoss Tools 4.6.0.AM2 for Eclipse Photon.0.M7</title>
     <updated>2018-05-29T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.6.0.am2-for-photon.0.m7.html</id>
     <link href="https://tools.jboss.org/blog/4.6.0.am2-for-photon.0.m7.html" rel="alternate"></link>
-    <summary type="html">Happy to announce 4.6.0.AM2 (Developer Milestone 2) build for Eclipse Photon.0.M7.
-      
-      
-      Downloads available at JBoss Tools 4.6.0 AM2.
-      
-      
-      
-      
-      What is New?
-      
-      
-      Full info is at this page. Some highlights are below.
-      
-      
-      General
-      
-      Eclipse Photon
-      
-      JBoss Tools is now targeting Eclipse Photon M7.
-      
-      
-      
-      
-      OpenShift
-      
-      Enhanced Spring Boot support for server adapter
-      
-      Spring Boot runtime was already supported by the OpenShift server adapter. However, it has one major limitation: files and
-      resources were synchronized between the local workstation and the remote pod(s) only for the main project. If your Spring Boot
-      application had dependencies that were present in the local workspace, any change to a file or resource of one of these dependencies
-      was...</summary>
+    <summary type="html"></summary>
   </entry>
 </feed>
