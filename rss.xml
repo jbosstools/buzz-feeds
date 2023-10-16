@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-10-16T06:12:41Z</updated>
+  <updated>2023-10-16T12:17:14Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>JBoss Blogs: New web app for SonataFlow deployments</title>
+    <updated>2023-10-16T09:39:18Z</updated>
+    <id>https://blog.kie.org/2023/10/new-web-app-for-sonataflow-deployments.html</id>
+    <link href="https://blog.kie.org/2023/10/new-web-app-for-sonataflow-deployments.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JBoss Blogs: Quarkus 3.4.3 released - Maintenance release</title>
     <updated>2023-10-13T00:00:00Z</updated>
@@ -53,7 +60,21 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: A recap of Quarkus Tools for IntelliJ's latest improvements</title>
+    <updated>2023-10-10T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/intellij-quarkus-recap/</id>
+    <link href="https://quarkus.io/blog/intellij-quarkus-recap/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Quarkus: Quarkus Newsletter #37 - October</title>
+    <updated>2023-10-10T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-37/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-37/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus Newsletter #37 - October</title>
     <updated>2023-10-10T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-37/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-37/" rel="alternate"></link>
@@ -67,31 +88,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus Newsletter #37 - October</title>
-    <updated>2023-10-10T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-37/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-37/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: A recap of Quarkus Tools for IntelliJ's latest improvements</title>
-    <updated>2023-10-10T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/intellij-quarkus-recap/</id>
-    <link href="https://quarkus.io/blog/intellij-quarkus-recap/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: A recap of Quarkus Tools for IntelliJ's latest improvements</title>
     <updated>2023-10-10T00:00:00Z</updated>
     <id>https://quarkus.io/blog/intellij-quarkus-recap/</id>
     <link href="https://quarkus.io/blog/intellij-quarkus-recap/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Load balancing, threading, and scaling in Node.js</title>
-    <updated>2023-10-09T07:00:00Z</updated>
-    <id>13a0b0fc-74fe-4f0a-9a6a-5c3d3a10edd0</id>
-    <link href="https://developers.redhat.com/articles/2023/10/09/load-balancing-threading-and-scaling-nodejs" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -102,14 +102,21 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Processing Kafka records on virtual threads</title>
+    <title>Red Hat Developer: Load balancing, threading, and scaling in Node.js</title>
+    <updated>2023-10-09T07:00:00Z</updated>
+    <id>13a0b0fc-74fe-4f0a-9a6a-5c3d3a10edd0</id>
+    <link href="https://developers.redhat.com/articles/2023/10/09/load-balancing-threading-and-scaling-nodejs" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Processing Kafka records on virtual threads</title>
     <updated>2023-10-09T00:00:00Z</updated>
     <id>https://quarkus.io/blog/virtual-threads-4/</id>
     <link href="https://quarkus.io/blog/virtual-threads-4/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Processing Kafka records on virtual threads</title>
+    <title>JBoss Blogs: Processing Kafka records on virtual threads</title>
     <updated>2023-10-09T00:00:00Z</updated>
     <id>https://quarkus.io/blog/virtual-threads-4/</id>
     <link href="https://quarkus.io/blog/virtual-threads-4/" rel="alternate"></link>
@@ -144,14 +151,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.4.2 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.4.2 released - Maintenance release</title>
     <updated>2023-10-05T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-4-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-4-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.4.2 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.4.2 released - Maintenance release</title>
     <updated>2023-10-05T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-4-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-4-2-released/" rel="alternate"></link>
@@ -256,14 +263,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Observability in Quarkus 3</title>
-    <updated>2023-09-20T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-observability-3-3/</id>
-    <link href="https://quarkus.io/blog/quarkus-observability-3-3/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.4.1 released - Redis 7.2 and Flyway changes</title>
+    <title>Quarkus: Quarkus 3.4.1 released - Redis 7.2 and Flyway changes</title>
     <updated>2023-09-20T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-4-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-4-1-released/" rel="alternate"></link>
@@ -277,10 +277,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.4.1 released - Redis 7.2 and Flyway changes</title>
+    <title>Quarkus: Observability in Quarkus 3</title>
     <updated>2023-09-20T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-4-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-4-1-released/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-observability-3-3/</id>
+    <link href="https://quarkus.io/blog/quarkus-observability-3-3/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
