@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-10-16T18:11:51Z</updated>
+  <updated>2023-10-17T00:39:54Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: New web app for SonataFlow deployments</title>
@@ -18,14 +18,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.4.3 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.4.3 released - Maintenance release</title>
     <updated>2023-10-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-4-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-4-3-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.4.3 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.4.3 released - Maintenance release</title>
     <updated>2023-10-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-4-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-4-3-released/" rel="alternate"></link>
@@ -88,17 +88,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Meet Keycloak at KubeCon Chicago in Nov 2023</title>
-    <updated>2023-10-10T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2023/10/keycloak-kubeconf-chicago</id>
-    <link href="https://www.keycloak.org/2023/10/keycloak-kubeconf-chicago" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: A recap of Quarkus Tools for IntelliJ's latest improvements</title>
     <updated>2023-10-10T00:00:00Z</updated>
     <id>https://quarkus.io/blog/intellij-quarkus-recap/</id>
     <link href="https://quarkus.io/blog/intellij-quarkus-recap/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Meet Keycloak at KubeCon Chicago in Nov 2023</title>
+    <updated>2023-10-10T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2023/10/keycloak-kubeconf-chicago</id>
+    <link href="https://www.keycloak.org/2023/10/keycloak-kubeconf-chicago" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -116,14 +116,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Processing Kafka records on virtual threads</title>
+    <title>Quarkus: Processing Kafka records on virtual threads</title>
     <updated>2023-10-09T00:00:00Z</updated>
     <id>https://quarkus.io/blog/virtual-threads-4/</id>
     <link href="https://quarkus.io/blog/virtual-threads-4/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Processing Kafka records on virtual threads</title>
+    <title>JBoss Blogs: Processing Kafka records on virtual threads</title>
     <updated>2023-10-09T00:00:00Z</updated>
     <id>https://quarkus.io/blog/virtual-threads-4/</id>
     <link href="https://quarkus.io/blog/virtual-threads-4/" rel="alternate"></link>
@@ -207,13 +207,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Testing virtual thread applications</title>
-    <updated>2023-10-02T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/virtual-threads-3/</id>
-    <link href="https://quarkus.io/blog/virtual-threads-3/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Testing virtual thread applications</title>
     <updated>2023-10-02T00:00:00Z</updated>
     <id>https://quarkus.io/blog/virtual-threads-3/</id>
@@ -221,14 +214,21 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Live diff and update quarkus deployments in OpenShift using Jetbrains IDEA</title>
+    <title>JBoss Blogs: Testing virtual thread applications</title>
+    <updated>2023-10-02T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/virtual-threads-3/</id>
+    <link href="https://quarkus.io/blog/virtual-threads-3/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Live diff and update quarkus deployments in OpenShift using Jetbrains IDEA</title>
     <updated>2023-09-28T00:00:00Z</updated>
     <id>https://quarkus.io/blog/live-diff-and-update-using-idea/</id>
     <link href="https://quarkus.io/blog/live-diff-and-update-using-idea/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Live diff and update quarkus deployments in OpenShift using Jetbrains IDEA</title>
+    <title>JBoss Blogs: Live diff and update quarkus deployments in OpenShift using Jetbrains IDEA</title>
     <updated>2023-09-28T00:00:00Z</updated>
     <id>https://quarkus.io/blog/live-diff-and-update-using-idea/</id>
     <link href="https://quarkus.io/blog/live-diff-and-update-using-idea/" rel="alternate"></link>
@@ -270,17 +270,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Observability in Quarkus 3</title>
-    <updated>2023-09-20T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-observability-3-3/</id>
-    <link href="https://quarkus.io/blog/quarkus-observability-3-3/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.4.1 released - Redis 7.2 and Flyway changes</title>
     <updated>2023-09-20T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-4-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-4-1-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Observability in Quarkus 3</title>
+    <updated>2023-09-20T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-observability-3-3/</id>
+    <link href="https://quarkus.io/blog/quarkus-observability-3-3/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
