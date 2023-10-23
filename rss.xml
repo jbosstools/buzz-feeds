@@ -1,13 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-10-23T12:16:42Z</updated>
+  <updated>2023-10-23T18:10:09Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
-    <title>JBoss Blogs: Addressing CVE-2023-44487: An Overview and Quarkus Solution</title>
-    <updated>2023-10-20T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/cve-2023-44487/</id>
-    <link href="https://quarkus.io/blog/cve-2023-44487/" rel="alternate"></link>
+    <title>JBoss Blogs: Creating a new subsystem in WildFly made simple</title>
+    <updated>2023-10-23T11:15:58Z</updated>
+    <id>https://www.mastertheboss.com/jbossas/jboss-configuration/creating-a-new-subsystem-in-wildfly-made-simple/</id>
+    <link href="https://www.mastertheboss.com/jbossas/jboss-configuration/creating-a-new-subsystem-in-wildfly-made-simple/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,10 +18,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Compiling virtual thread applications into native executables</title>
-    <updated>2023-10-19T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/virtual-threads-5/</id>
-    <link href="https://quarkus.io/blog/virtual-threads-5/" rel="alternate"></link>
+    <title>JBoss Blogs: Addressing CVE-2023-44487: An Overview and Quarkus Solution</title>
+    <updated>2023-10-20T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/cve-2023-44487/</id>
+    <link href="https://quarkus.io/blog/cve-2023-44487/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -29,6 +29,13 @@
     <updated>2023-10-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-7-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-2-7-final-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Compiling virtual thread applications into native executables</title>
+    <updated>2023-10-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/virtual-threads-5/</id>
+    <link href="https://quarkus.io/blog/virtual-threads-5/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -53,10 +60,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 2.16.12.Final released - Maintenance release</title>
+    <title>JBoss Blogs: Announcement: Discontinuation of Keycloak's Map Store</title>
     <updated>2023-10-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-2-16-12-final-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-2-16-12-final-released/" rel="alternate"></link>
+    <id>https://www.keycloak.org/2023/10/map-store-removal</id>
+    <link href="https://www.keycloak.org/2023/10/map-store-removal" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -67,10 +74,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Announcement: Discontinuation of Keycloak's Map Store</title>
+    <title>Quarkus: Quarkus 2.16.12.Final released - Maintenance release</title>
     <updated>2023-10-17T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2023/10/map-store-removal</id>
-    <link href="https://www.keycloak.org/2023/10/map-store-removal" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-2-16-12-final-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-2-16-12-final-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -144,10 +151,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus Newsletter #37 - October</title>
+    <title>JBoss Blogs: Meet Keycloak at KubeCon Chicago in Nov 2023</title>
     <updated>2023-10-10T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-37/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-37/" rel="alternate"></link>
+    <id>https://www.keycloak.org/2023/10/keycloak-kubeconf-chicago</id>
+    <link href="https://www.keycloak.org/2023/10/keycloak-kubeconf-chicago" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -158,17 +165,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Meet Keycloak at KubeCon Chicago in Nov 2023</title>
-    <updated>2023-10-10T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2023/10/keycloak-kubeconf-chicago</id>
-    <link href="https://www.keycloak.org/2023/10/keycloak-kubeconf-chicago" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: A recap of Quarkus Tools for IntelliJ's latest improvements</title>
     <updated>2023-10-10T00:00:00Z</updated>
     <id>https://quarkus.io/blog/intellij-quarkus-recap/</id>
     <link href="https://quarkus.io/blog/intellij-quarkus-recap/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus Newsletter #37 - October</title>
+    <updated>2023-10-10T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-37/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-37/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -207,17 +214,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Try Camel on Quarkus in the Developer Sandbox for Red Hat OpenShift</title>
-    <updated>2023-10-06T07:00:00Z</updated>
-    <id>c7e19de1-859c-41da-bf71-75056f779eea</id>
-    <link href="https://developers.redhat.com/articles/2023/10/06/try-camel-quarkus-developer-sandbox-red-hat-openshift" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Use fwupd to deploy Linux firmware updates and more</title>
     <updated>2023-10-06T07:00:00Z</updated>
     <id>b2def651-6552-4b46-a5f6-ca44020e7973</id>
     <link href="https://developers.redhat.com/articles/2023/10/06/use-fwupd-deploy-linux-firmware-updates-and-more" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Try Camel on Quarkus in the Developer Sandbox for Red Hat OpenShift</title>
+    <updated>2023-10-06T07:00:00Z</updated>
+    <id>c7e19de1-859c-41da-bf71-75056f779eea</id>
+    <link href="https://developers.redhat.com/articles/2023/10/06/try-camel-quarkus-developer-sandbox-red-hat-openshift" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -242,17 +249,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: 5 steps to build a self-healing server with Alertmanager</title>
-    <updated>2023-10-04T07:00:00Z</updated>
-    <id>ed9796c0-ae2f-4035-8f79-cd80e60a3cc1</id>
-    <link href="https://developers.redhat.com/articles/2023/10/04/5-steps-build-self-healing-server-alertmanager" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: About Argo CD ApplicationSet and SCM Provider generator</title>
     <updated>2023-10-04T07:00:00Z</updated>
     <id>eb3cab1e-7d1d-407e-815c-071817e984fe</id>
     <link href="https://developers.redhat.com/articles/2023/10/04/about-argo-cd-applicationset-and-scm-provider-generator" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: 5 steps to build a self-healing server with Alertmanager</title>
+    <updated>2023-10-04T07:00:00Z</updated>
+    <id>ed9796c0-ae2f-4035-8f79-cd80e60a3cc1</id>
+    <link href="https://developers.redhat.com/articles/2023/10/04/5-steps-build-self-healing-server-alertmanager" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -270,13 +277,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Virtual Threads with Quarkus made easy</title>
-    <updated>2023-10-02T13:43:50Z</updated>
-    <id>https://www.mastertheboss.com/soa-cloud/quarkus/virtual-threads-with-quarkus-made-easy/</id>
-    <link href="https://www.mastertheboss.com/soa-cloud/quarkus/virtual-threads-with-quarkus-made-easy/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Testing virtual thread applications</title>
     <updated>2023-10-02T00:00:00Z</updated>
     <id>https://quarkus.io/blog/virtual-threads-3/</id>
@@ -284,17 +284,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-03</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
-    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
     <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-03</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -620,17 +620,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
