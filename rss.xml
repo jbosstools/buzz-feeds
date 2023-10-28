@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-10-28T12:14:13Z</updated>
+  <updated>2023-10-28T18:09:47Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: Quarkus 3.5.0 released - Java 21, OIDC enhancements</title>
