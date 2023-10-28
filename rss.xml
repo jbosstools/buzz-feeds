@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-10-28T06:10:39Z</updated>
+  <updated>2023-10-28T12:14:13Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: Quarkus 3.5.0 released - Java 21, OIDC enhancements</title>
@@ -46,17 +46,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Compiling virtual thread applications into native executables</title>
-    <updated>2023-10-19T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/virtual-threads-5/</id>
-    <link href="https://quarkus.io/blog/virtual-threads-5/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.2.7.Final released - Maintenance release</title>
     <updated>2023-10-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-7-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-2-7-final-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Compiling virtual thread applications into native executables</title>
+    <updated>2023-10-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/virtual-threads-5/</id>
+    <link href="https://quarkus.io/blog/virtual-threads-5/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -81,10 +81,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 2.16.12.Final released - Maintenance release</title>
+    <title>JBoss Blogs: Announcement: Discontinuation of Keycloak's Map Store</title>
     <updated>2023-10-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-2-16-12-final-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-2-16-12-final-released/" rel="alternate"></link>
+    <id>https://www.keycloak.org/2023/10/map-store-removal</id>
+    <link href="https://www.keycloak.org/2023/10/map-store-removal" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -95,10 +95,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Announcement: Discontinuation of Keycloak's Map Store</title>
+    <title>JBoss Blogs: Quarkus 2.16.12.Final released - Maintenance release</title>
     <updated>2023-10-17T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2023/10/map-store-removal</id>
-    <link href="https://www.keycloak.org/2023/10/map-store-removal" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-2-16-12-final-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-2-16-12-final-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -116,14 +116,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.4.3 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.4.3 released - Maintenance release</title>
     <updated>2023-10-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-4-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-4-3-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.4.3 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.4.3 released - Maintenance release</title>
     <updated>2023-10-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-4-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-4-3-released/" rel="alternate"></link>
@@ -165,10 +165,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: A recap of Quarkus Tools for IntelliJ's latest improvements</title>
+    <title>JBoss Blogs: Quarkus Newsletter #37 - October</title>
     <updated>2023-10-10T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/intellij-quarkus-recap/</id>
-    <link href="https://quarkus.io/blog/intellij-quarkus-recap/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-newsletter-37/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-37/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -186,13 +186,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus Newsletter #37 - October</title>
-    <updated>2023-10-10T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-37/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-37/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Meet Keycloak at KubeCon Chicago in Nov 2023</title>
     <updated>2023-10-10T00:00:00Z</updated>
     <id>https://www.keycloak.org/2023/10/keycloak-kubeconf-chicago</id>
@@ -200,10 +193,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Load balancing, threading, and scaling in Node.js</title>
-    <updated>2023-10-09T07:00:00Z</updated>
-    <id>13a0b0fc-74fe-4f0a-9a6a-5c3d3a10edd0</id>
-    <link href="https://developers.redhat.com/articles/2023/10/09/load-balancing-threading-and-scaling-nodejs" rel="alternate"></link>
+    <title>JBoss Blogs: A recap of Quarkus Tools for IntelliJ's latest improvements</title>
+    <updated>2023-10-10T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/intellij-quarkus-recap/</id>
+    <link href="https://quarkus.io/blog/intellij-quarkus-recap/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -211,6 +204,13 @@
     <updated>2023-10-09T07:00:00Z</updated>
     <id>d1945731-4f23-412d-9e73-1617566944e0</id>
     <link href="https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Load balancing, threading, and scaling in Node.js</title>
+    <updated>2023-10-09T07:00:00Z</updated>
+    <id>13a0b0fc-74fe-4f0a-9a6a-5c3d3a10edd0</id>
+    <link href="https://developers.redhat.com/articles/2023/10/09/load-balancing-threading-and-scaling-nodejs" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -235,17 +235,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Try Camel on Quarkus in the Developer Sandbox for Red Hat OpenShift</title>
-    <updated>2023-10-06T07:00:00Z</updated>
-    <id>c7e19de1-859c-41da-bf71-75056f779eea</id>
-    <link href="https://developers.redhat.com/articles/2023/10/06/try-camel-quarkus-developer-sandbox-red-hat-openshift" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Use fwupd to deploy Linux firmware updates and more</title>
     <updated>2023-10-06T07:00:00Z</updated>
     <id>b2def651-6552-4b46-a5f6-ca44020e7973</id>
     <link href="https://developers.redhat.com/articles/2023/10/06/use-fwupd-deploy-linux-firmware-updates-and-more" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Try Camel on Quarkus in the Developer Sandbox for Red Hat OpenShift</title>
+    <updated>2023-10-06T07:00:00Z</updated>
+    <id>c7e19de1-859c-41da-bf71-75056f779eea</id>
+    <link href="https://developers.redhat.com/articles/2023/10/06/try-camel-quarkus-developer-sandbox-red-hat-openshift" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -284,17 +284,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-03</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
     <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
