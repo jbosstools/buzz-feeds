@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-10-30T06:12:05Z</updated>
+  <updated>2023-10-30T12:16:28Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>JBoss Blogs: How to enable access logs in WildFly / JBoss</title>
+    <updated>2023-10-30T09:38:22Z</updated>
+    <id>https://www.mastertheboss.com/web/jboss-web-server/how-do-you-configure-jboss-to-enable-http-logging/</id>
+    <link href="https://www.mastertheboss.com/web/jboss-web-server/how-do-you-configure-jboss-to-enable-http-logging/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JBoss Blogs: Quarkus 3.5.0 released - Java 21, OIDC enhancements</title>
     <updated>2023-10-25T00:00:00Z</updated>
@@ -214,13 +221,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Processing Kafka records on virtual threads</title>
-    <updated>2023-10-09T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/virtual-threads-4/</id>
-    <link href="https://quarkus.io/blog/virtual-threads-4/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Processing Kafka records on virtual threads</title>
     <updated>2023-10-09T00:00:00Z</updated>
     <id>https://quarkus.io/blog/virtual-threads-4/</id>
@@ -228,17 +228,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: How to solve the error java.net.SocketException: Connection reset</title>
-    <updated>2023-10-06T11:40:04Z</updated>
-    <id>https://www.mastertheboss.com/java/how-to-solve-the-error-java-net-socketexception-connection-reset/</id>
-    <link href="https://www.mastertheboss.com/java/how-to-solve-the-error-java-net-socketexception-connection-reset/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Use fwupd to deploy Linux firmware updates and more</title>
-    <updated>2023-10-06T07:00:00Z</updated>
-    <id>b2def651-6552-4b46-a5f6-ca44020e7973</id>
-    <link href="https://developers.redhat.com/articles/2023/10/06/use-fwupd-deploy-linux-firmware-updates-and-more" rel="alternate"></link>
+    <title>JBoss Blogs: Processing Kafka records on virtual threads</title>
+    <updated>2023-10-09T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/virtual-threads-4/</id>
+    <link href="https://quarkus.io/blog/virtual-threads-4/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -246,6 +239,13 @@
     <updated>2023-10-06T07:00:00Z</updated>
     <id>c7e19de1-859c-41da-bf71-75056f779eea</id>
     <link href="https://developers.redhat.com/articles/2023/10/06/try-camel-quarkus-developer-sandbox-red-hat-openshift" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Use fwupd to deploy Linux firmware updates and more</title>
+    <updated>2023-10-06T07:00:00Z</updated>
+    <id>b2def651-6552-4b46-a5f6-ca44020e7973</id>
+    <link href="https://developers.redhat.com/articles/2023/10/06/use-fwupd-deploy-linux-firmware-updates-and-more" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -263,17 +263,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: 5 steps to build a self-healing server with Alertmanager</title>
-    <updated>2023-10-04T07:00:00Z</updated>
-    <id>ed9796c0-ae2f-4035-8f79-cd80e60a3cc1</id>
-    <link href="https://developers.redhat.com/articles/2023/10/04/5-steps-build-self-healing-server-alertmanager" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: About Argo CD ApplicationSet and SCM Provider generator</title>
     <updated>2023-10-04T07:00:00Z</updated>
     <id>eb3cab1e-7d1d-407e-815c-071817e984fe</id>
     <link href="https://developers.redhat.com/articles/2023/10/04/about-argo-cd-applicationset-and-scm-provider-generator" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: 5 steps to build a self-healing server with Alertmanager</title>
+    <updated>2023-10-04T07:00:00Z</updated>
+    <id>ed9796c0-ae2f-4035-8f79-cd80e60a3cc1</id>
+    <link href="https://developers.redhat.com/articles/2023/10/04/5-steps-build-self-healing-server-alertmanager" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -284,17 +284,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-03</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
-    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
     <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-03</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
