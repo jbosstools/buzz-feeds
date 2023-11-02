@@ -1,8 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-11-02T06:11:34Z</updated>
+  <updated>2023-11-02T12:15:47Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>JBoss Blogs: Exploring why native executables produced with Mandrel 23.0 are bigger than those produced with Mandrel 22.3</title>
+    <updated>2023-11-02T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/mandrel-23-0-image-size-increase/</id>
+    <link href="https://quarkus.io/blog/mandrel-23-0-image-size-increase/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Exploring why native executables produced with Mandrel 23.0 are bigger than those produced with Mandrel 22.3</title>
+    <updated>2023-11-02T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/mandrel-23-0-image-size-increase/</id>
+    <link href="https://quarkus.io/blog/mandrel-23-0-image-size-increase/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JBoss Blogs: Redis Integration with Quarkus made simple</title>
     <updated>2023-11-01T12:19:39Z</updated>
@@ -53,13 +67,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Addressing CVE-2023-44487: An Overview and Quarkus Solution</title>
-    <updated>2023-10-20T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/cve-2023-44487/</id>
-    <link href="https://quarkus.io/blog/cve-2023-44487/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Addressing CVE-2023-44487: An Overview and Quarkus Solution</title>
     <updated>2023-10-20T00:00:00Z</updated>
     <id>https://quarkus.io/blog/cve-2023-44487/</id>
@@ -67,10 +74,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Compiling virtual thread applications into native executables</title>
-    <updated>2023-10-19T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/virtual-threads-5/</id>
-    <link href="https://quarkus.io/blog/virtual-threads-5/" rel="alternate"></link>
+    <title>Quarkus: Addressing CVE-2023-44487: An Overview and Quarkus Solution</title>
+    <updated>2023-10-20T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/cve-2023-44487/</id>
+    <link href="https://quarkus.io/blog/cve-2023-44487/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -88,6 +95,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Compiling virtual thread applications into native executables</title>
+    <updated>2023-10-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/virtual-threads-5/</id>
+    <link href="https://quarkus.io/blog/virtual-threads-5/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Quarkus 3.2.7.Final released - Maintenance release</title>
     <updated>2023-10-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-7-final-released/</id>
@@ -102,7 +116,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 2.16.12.Final released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 2.16.12.Final released - Maintenance release</title>
     <updated>2023-10-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-2-16-12-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-2-16-12-final-released/" rel="alternate"></link>
@@ -116,7 +130,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 2.16.12.Final released - Maintenance release</title>
+    <title>Quarkus: Quarkus 2.16.12.Final released - Maintenance release</title>
     <updated>2023-10-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-2-16-12-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-2-16-12-final-released/" rel="alternate"></link>
@@ -137,14 +151,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.4.3 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.4.3 released - Maintenance release</title>
     <updated>2023-10-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-4-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-4-3-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.4.3 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.4.3 released - Maintenance release</title>
     <updated>2023-10-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-4-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-4-3-released/" rel="alternate"></link>
@@ -172,13 +186,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How custom SELinux policies secure servers and containers</title>
-    <updated>2023-10-10T07:00:00Z</updated>
-    <id>d6e91ea0-1d78-423b-a69e-d1fcca624933</id>
-    <link href="https://developers.redhat.com/articles/2023/10/10/how-custom-selinux-policies-secure-servers-and-containers" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: How to validate GitOps manifests</title>
     <updated>2023-10-10T07:00:00Z</updated>
     <id>95d3a2f7-477c-4c56-8894-124fa034c2c2</id>
@@ -186,10 +193,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Meet Keycloak at KubeCon Chicago in Nov 2023</title>
-    <updated>2023-10-10T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2023/10/keycloak-kubeconf-chicago</id>
-    <link href="https://www.keycloak.org/2023/10/keycloak-kubeconf-chicago" rel="alternate"></link>
+    <title>Red Hat Developer: How custom SELinux policies secure servers and containers</title>
+    <updated>2023-10-10T07:00:00Z</updated>
+    <id>d6e91ea0-1d78-423b-a69e-d1fcca624933</id>
+    <link href="https://developers.redhat.com/articles/2023/10/10/how-custom-selinux-policies-secure-servers-and-containers" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -256,10 +263,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.4.2 released - Maintenance release</title>
-    <updated>2023-10-05T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-4-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-4-2-released/" rel="alternate"></link>
+    <title>Red Hat Developer: 5 steps to build a self-healing server with Alertmanager</title>
+    <updated>2023-10-04T07:00:00Z</updated>
+    <id>ed9796c0-ae2f-4035-8f79-cd80e60a3cc1</id>
+    <link href="https://developers.redhat.com/articles/2023/10/04/5-steps-build-self-healing-server-alertmanager" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -267,13 +274,6 @@
     <updated>2023-10-04T07:00:00Z</updated>
     <id>eb3cab1e-7d1d-407e-815c-071817e984fe</id>
     <link href="https://developers.redhat.com/articles/2023/10/04/about-argo-cd-applicationset-and-scm-provider-generator" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: 5 steps to build a self-healing server with Alertmanager</title>
-    <updated>2023-10-04T07:00:00Z</updated>
-    <id>ed9796c0-ae2f-4035-8f79-cd80e60a3cc1</id>
-    <link href="https://developers.redhat.com/articles/2023/10/04/5-steps-build-self-healing-server-alertmanager" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -620,17 +620,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
-    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
     <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
