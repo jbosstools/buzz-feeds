@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-11-06T12:17:23Z</updated>
+  <updated>2023-11-06T18:11:26Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: Q4 2023 RESTEasy Quarterly Releases</title>
@@ -15,6 +15,13 @@
     <updated>2023-11-02T00:00:00Z</updated>
     <id>https://quarkus.io/blog/mandrel-23-0-image-size-increase/</id>
     <link href="https://quarkus.io/blog/mandrel-23-0-image-size-increase/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.29.0.Final for Eclipse 2023-09</title>
+    <updated>2023-11-02T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.29.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.29.0.final.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -102,17 +109,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.2.7.Final released - Maintenance release</title>
-    <updated>2023-10-19T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-2-7-final-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-2-7-final-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Compiling virtual thread applications into native executables</title>
     <updated>2023-10-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/virtual-threads-5/</id>
     <link href="https://quarkus.io/blog/virtual-threads-5/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.2.7.Final released - Maintenance release</title>
+    <updated>2023-10-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-2-7-final-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-2-7-final-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -221,17 +228,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: An MIR-based JIT prototype for Ruby</title>
-    <updated>2023-10-09T07:00:00Z</updated>
-    <id>d1945731-4f23-412d-9e73-1617566944e0</id>
-    <link href="https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Load balancing, threading, and scaling in Node.js</title>
     <updated>2023-10-09T07:00:00Z</updated>
     <id>13a0b0fc-74fe-4f0a-9a6a-5c3d3a10edd0</id>
     <link href="https://developers.redhat.com/articles/2023/10/09/load-balancing-threading-and-scaling-nodejs" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: An MIR-based JIT prototype for Ruby</title>
+    <updated>2023-10-09T07:00:00Z</updated>
+    <id>d1945731-4f23-412d-9e73-1617566944e0</id>
+    <link href="https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -263,17 +270,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: 5 steps to build a self-healing server with Alertmanager</title>
-    <updated>2023-10-04T07:00:00Z</updated>
-    <id>ed9796c0-ae2f-4035-8f79-cd80e60a3cc1</id>
-    <link href="https://developers.redhat.com/articles/2023/10/04/5-steps-build-self-healing-server-alertmanager" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: About Argo CD ApplicationSet and SCM Provider generator</title>
     <updated>2023-10-04T07:00:00Z</updated>
     <id>eb3cab1e-7d1d-407e-815c-071817e984fe</id>
     <link href="https://developers.redhat.com/articles/2023/10/04/about-argo-cd-applicationset-and-scm-provider-generator" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: 5 steps to build a self-healing server with Alertmanager</title>
+    <updated>2023-10-04T07:00:00Z</updated>
+    <id>ed9796c0-ae2f-4035-8f79-cd80e60a3cc1</id>
+    <link href="https://developers.redhat.com/articles/2023/10/04/5-steps-build-self-healing-server-alertmanager" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -291,7 +298,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-03</title>
+    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
     <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
@@ -620,17 +627,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -1149,13 +1156,6 @@
     <updated>2018-06-19T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.6.0.am3-for-photon.0.rc3.html</id>
     <link href="https://tools.jboss.org/blog/4.6.0.am3-for-photon.0.rc3.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Tools: JBoss Tools 4.6.0.AM2 for Eclipse Photon.0.M7</title>
-    <updated>2018-05-29T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/4.6.0.am2-for-photon.0.m7.html</id>
-    <link href="https://tools.jboss.org/blog/4.6.0.am2-for-photon.0.m7.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
