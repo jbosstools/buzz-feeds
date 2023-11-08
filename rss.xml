@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-11-08T06:11:52Z</updated>
+  <updated>2023-11-08T12:15:43Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>JBoss Blogs: How to use Keycloak REST API</title>
+    <updated>2023-11-08T10:44:34Z</updated>
+    <id>https://www.mastertheboss.com/keycloak/how-to-use-keycloak-admin-rest-api/</id>
+    <link href="https://www.mastertheboss.com/keycloak/how-to-use-keycloak-admin-rest-api/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JBoss Blogs: Developing in the cloud with Eclipse Che</title>
     <updated>2023-11-07T05:00:00Z</updated>
@@ -102,21 +109,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Compiling virtual thread applications into native executables</title>
+    <title>JBoss Blogs: Compiling virtual thread applications into native executables</title>
     <updated>2023-10-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/virtual-threads-5/</id>
     <link href="https://quarkus.io/blog/virtual-threads-5/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.2.7.Final released - Maintenance release</title>
-    <updated>2023-10-19T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-2-7-final-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-2-7-final-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Compiling virtual thread applications into native executables</title>
+    <title>Quarkus: Compiling virtual thread applications into native executables</title>
     <updated>2023-10-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/virtual-threads-5/</id>
     <link href="https://quarkus.io/blog/virtual-threads-5/" rel="alternate"></link>
@@ -130,6 +130,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Quarkus 3.2.7.Final released - Maintenance release</title>
+    <updated>2023-10-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-2-7-final-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-2-7-final-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: WildFly 30 is released!</title>
     <updated>2023-10-18T00:00:00Z</updated>
     <id>https://wildfly.org//news/2023/10/18/WildFly30-Released/</id>
@@ -137,10 +144,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Announcement: Discontinuation of Keycloak's Map Store</title>
+    <title>Quarkus: Quarkus 2.16.12.Final released - Maintenance release</title>
     <updated>2023-10-17T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2023/10/map-store-removal</id>
-    <link href="https://www.keycloak.org/2023/10/map-store-removal" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-2-16-12-final-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-2-16-12-final-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -151,10 +158,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 2.16.12.Final released - Maintenance release</title>
+    <title>JBoss Blogs: Announcement: Discontinuation of Keycloak's Map Store</title>
     <updated>2023-10-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-2-16-12-final-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-2-16-12-final-released/" rel="alternate"></link>
+    <id>https://www.keycloak.org/2023/10/map-store-removal</id>
+    <link href="https://www.keycloak.org/2023/10/map-store-removal" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -172,14 +179,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.4.3 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.4.3 released - Maintenance release</title>
     <updated>2023-10-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-4-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-4-3-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.4.3 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.4.3 released - Maintenance release</title>
     <updated>2023-10-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-4-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-4-3-released/" rel="alternate"></link>
@@ -190,13 +197,6 @@
     <updated>2023-10-12T16:29:29Z</updated>
     <id>https://www.mastertheboss.com/various-stuff/how-to-solve-cve-2023-44487/</id>
     <link href="https://www.mastertheboss.com/various-stuff/how-to-solve-cve-2023-44487/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Eclipse Vert.x 4.4.6 released!</title>
-    <updated>2023-10-11T00:00:00Z</updated>
-    <id>https://vertx.io/blog/eclipse-vert-x-4-4-6</id>
-    <link href="https://vertx.io/blog/eclipse-vert-x-4-4-6" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
