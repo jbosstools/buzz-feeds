@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-11-14T00:40:03Z</updated>
+  <updated>2023-11-14T06:11:52Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Quarkus: Quarkus 3.5.1 released - Maintenance release</title>
@@ -18,13 +18,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Exploring why native executables produced with Mandrel 23.1 are bigger than those produced with Mandrel 23.0</title>
-    <updated>2023-11-08T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/mandrel-23-1-image-size-increase/</id>
-    <link href="https://quarkus.io/blog/mandrel-23-1-image-size-increase/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Quarkus 3.2.8.Final released - Maintenance release</title>
     <updated>2023-11-08T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-8-final-released/</id>
@@ -32,7 +25,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Exploring why native executables produced with Mandrel 23.1 are bigger than those produced with Mandrel 23.0</title>
+    <title>JBoss Blogs: Exploring why native executables produced with Mandrel 23.1 are bigger than those produced with Mandrel 23.0</title>
     <updated>2023-11-08T00:00:00Z</updated>
     <id>https://quarkus.io/blog/mandrel-23-1-image-size-increase/</id>
     <link href="https://quarkus.io/blog/mandrel-23-1-image-size-increase/" rel="alternate"></link>
@@ -43,6 +36,13 @@
     <updated>2023-11-08T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-8-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-2-8-final-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Exploring why native executables produced with Mandrel 23.1 are bigger than those produced with Mandrel 23.0</title>
+    <updated>2023-11-08T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/mandrel-23-1-image-size-increase/</id>
+    <link href="https://quarkus.io/blog/mandrel-23-1-image-size-increase/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -60,17 +60,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Exploring why native executables produced with Mandrel 23.0 are bigger than those produced with Mandrel 22.3</title>
-    <updated>2023-11-02T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/mandrel-23-0-image-size-increase/</id>
-    <link href="https://quarkus.io/blog/mandrel-23-0-image-size-increase/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.29.0.Final for Eclipse 2023-09</title>
     <updated>2023-11-02T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.29.0.final.html</id>
     <link href="https://tools.jboss.org/blog/4.29.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Exploring why native executables produced with Mandrel 23.0 are bigger than those produced with Mandrel 22.3</title>
+    <updated>2023-11-02T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/mandrel-23-0-image-size-increase/</id>
+    <link href="https://quarkus.io/blog/mandrel-23-0-image-size-increase/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -102,14 +102,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.5.0 released - Java 21, OIDC enhancements</title>
+    <title>JBoss Blogs: Quarkus 3.5.0 released - Java 21, OIDC enhancements</title>
     <updated>2023-10-25T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-5-0-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-5-0-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.5.0 released - Java 21, OIDC enhancements</title>
+    <title>Quarkus: Quarkus 3.5.0 released - Java 21, OIDC enhancements</title>
     <updated>2023-10-25T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-5-0-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-5-0-released/" rel="alternate"></link>
@@ -144,14 +144,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Compiling virtual thread applications into native executables</title>
-    <updated>2023-10-19T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/virtual-threads-5/</id>
-    <link href="https://quarkus.io/blog/virtual-threads-5/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.2.7.Final released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.2.7.Final released - Maintenance release</title>
     <updated>2023-10-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-7-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-2-7-final-released/" rel="alternate"></link>
@@ -165,10 +158,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.2.7.Final released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.2.7.Final released - Maintenance release</title>
     <updated>2023-10-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-7-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-2-7-final-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Compiling virtual thread applications into native executables</title>
+    <updated>2023-10-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/virtual-threads-5/</id>
+    <link href="https://quarkus.io/blog/virtual-threads-5/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -179,14 +179,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 2.16.12.Final released - Maintenance release</title>
+    <title>Quarkus: Quarkus 2.16.12.Final released - Maintenance release</title>
     <updated>2023-10-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-2-16-12-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-2-16-12-final-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 2.16.12.Final released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 2.16.12.Final released - Maintenance release</title>
     <updated>2023-10-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-2-16-12-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-2-16-12-final-released/" rel="alternate"></link>
@@ -235,13 +235,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Load balancing, threading, and scaling in Node.js</title>
-    <updated>2023-10-09T07:00:00Z</updated>
-    <id>13a0b0fc-74fe-4f0a-9a6a-5c3d3a10edd0</id>
-    <link href="https://developers.redhat.com/articles/2023/10/09/load-balancing-threading-and-scaling-nodejs" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: An MIR-based JIT prototype for Ruby</title>
     <updated>2023-10-09T07:00:00Z</updated>
     <id>d1945731-4f23-412d-9e73-1617566944e0</id>
@@ -249,10 +242,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Use fwupd to deploy Linux firmware updates and more</title>
-    <updated>2023-10-06T07:00:00Z</updated>
-    <id>b2def651-6552-4b46-a5f6-ca44020e7973</id>
-    <link href="https://developers.redhat.com/articles/2023/10/06/use-fwupd-deploy-linux-firmware-updates-and-more" rel="alternate"></link>
+    <title>Red Hat Developer: Load balancing, threading, and scaling in Node.js</title>
+    <updated>2023-10-09T07:00:00Z</updated>
+    <id>13a0b0fc-74fe-4f0a-9a6a-5c3d3a10edd0</id>
+    <link href="https://developers.redhat.com/articles/2023/10/09/load-balancing-threading-and-scaling-nodejs" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -260,6 +253,13 @@
     <updated>2023-10-06T07:00:00Z</updated>
     <id>c7e19de1-859c-41da-bf71-75056f779eea</id>
     <link href="https://developers.redhat.com/articles/2023/10/06/try-camel-quarkus-developer-sandbox-red-hat-openshift" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Use fwupd to deploy Linux firmware updates and more</title>
+    <updated>2023-10-06T07:00:00Z</updated>
+    <id>b2def651-6552-4b46-a5f6-ca44020e7973</id>
+    <link href="https://developers.redhat.com/articles/2023/10/06/use-fwupd-deploy-linux-firmware-updates-and-more" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -627,17 +627,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
-    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
     <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
