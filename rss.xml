@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-11-20T12:17:48Z</updated>
+  <updated>2023-11-20T18:12:00Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: Quarkus 3.2.9.Final released - Maintenance LTS release</title>
@@ -32,24 +32,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.5.2 released - Maintenance release</title>
-    <updated>2023-11-16T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-5-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-5-2-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: What's new in Vert.x 4.5</title>
     <updated>2023-11-16T00:00:00Z</updated>
     <id>https://vertx.io/blog/whats-new-in-vert-x-4-5</id>
     <link href="https://vertx.io/blog/whats-new-in-vert-x-4-5" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.5.2 released - Maintenance release</title>
-    <updated>2023-11-16T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-5-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-5-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -60,14 +46,28 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: When Quarkus meets LangChain4j</title>
+    <title>Quarkus: Quarkus 3.5.2 released - Maintenance release</title>
+    <updated>2023-11-16T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-5-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-5-2-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.5.2 released - Maintenance release</title>
+    <updated>2023-11-16T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-5-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-5-2-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: When Quarkus meets LangChain4j</title>
     <updated>2023-11-15T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-meets-langchain4j/</id>
     <link href="https://quarkus.io/blog/quarkus-meets-langchain4j/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: When Quarkus meets LangChain4j</title>
+    <title>Quarkus: When Quarkus meets LangChain4j</title>
     <updated>2023-11-15T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-meets-langchain4j/</id>
     <link href="https://quarkus.io/blog/quarkus-meets-langchain4j/" rel="alternate"></link>
@@ -116,7 +116,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.5.1 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.5.1 released - Maintenance release</title>
     <updated>2023-11-09T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-5-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-5-1-released/" rel="alternate"></link>
@@ -130,7 +130,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.5.1 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.5.1 released - Maintenance release</title>
     <updated>2023-11-09T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-5-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-5-1-released/" rel="alternate"></link>
@@ -144,17 +144,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.2.8.Final released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.2.8.Final released - Maintenance release</title>
     <updated>2023-11-08T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-8-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-2-8-final-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Exploring why native executables produced with Mandrel 23.1 are bigger than those produced with Mandrel 23.0</title>
+    <title>Quarkus: Quarkus 3.2.8.Final released - Maintenance release</title>
     <updated>2023-11-08T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/mandrel-23-1-image-size-increase/</id>
-    <link href="https://quarkus.io/blog/mandrel-23-1-image-size-increase/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-2-8-final-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-2-8-final-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -165,10 +165,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.2.8.Final released - Maintenance release</title>
+    <title>Quarkus: Exploring why native executables produced with Mandrel 23.1 are bigger than those produced with Mandrel 23.0</title>
     <updated>2023-11-08T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-2-8-final-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-2-8-final-released/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/mandrel-23-1-image-size-increase/</id>
+    <link href="https://quarkus.io/blog/mandrel-23-1-image-size-increase/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -186,6 +186,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Tools: JBoss Tools 4.29.0.Final for Eclipse 2023-09</title>
+    <updated>2023-11-02T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.29.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.29.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Exploring why native executables produced with Mandrel 23.0 are bigger than those produced with Mandrel 22.3</title>
     <updated>2023-11-02T00:00:00Z</updated>
     <id>https://quarkus.io/blog/mandrel-23-0-image-size-increase/</id>
@@ -197,13 +204,6 @@
     <updated>2023-11-02T00:00:00Z</updated>
     <id>https://quarkus.io/blog/mandrel-23-0-image-size-increase/</id>
     <link href="https://quarkus.io/blog/mandrel-23-0-image-size-increase/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Tools: JBoss Tools 4.29.0.Final for Eclipse 2023-09</title>
-    <updated>2023-11-02T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/4.29.0.final.html</id>
-    <link href="https://tools.jboss.org/blog/4.29.0.final.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -270,17 +270,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: 5 steps to build a self-healing server with Alertmanager</title>
-    <updated>2023-10-04T07:00:00Z</updated>
-    <id>ed9796c0-ae2f-4035-8f79-cd80e60a3cc1</id>
-    <link href="https://developers.redhat.com/articles/2023/10/04/5-steps-build-self-healing-server-alertmanager" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: About Argo CD ApplicationSet and SCM Provider generator</title>
     <updated>2023-10-04T07:00:00Z</updated>
     <id>eb3cab1e-7d1d-407e-815c-071817e984fe</id>
     <link href="https://developers.redhat.com/articles/2023/10/04/about-argo-cd-applicationset-and-scm-provider-generator" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: 5 steps to build a self-healing server with Alertmanager</title>
+    <updated>2023-10-04T07:00:00Z</updated>
+    <id>ed9796c0-ae2f-4035-8f79-cd80e60a3cc1</id>
+    <link href="https://developers.redhat.com/articles/2023/10/04/5-steps-build-self-healing-server-alertmanager" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -291,17 +291,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
-    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
     <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
