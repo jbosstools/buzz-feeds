@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-11-26T12:14:56Z</updated>
+  <updated>2023-11-26T18:10:08Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: Fastest way to sort an Array in Java</title>
@@ -102,17 +102,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.5.2 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.5.2 released - Maintenance release</title>
     <updated>2023-11-16T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-5-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-5-2-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Eclipse Vert.x 4.5.0 released!</title>
-    <updated>2023-11-16T00:00:00Z</updated>
-    <id>https://vertx.io/blog/eclipse-vert-x-4-5-0</id>
-    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-0" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -123,7 +116,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.5.2 released - Maintenance release</title>
+    <title>JBoss Blogs: Eclipse Vert.x 4.5.0 released!</title>
+    <updated>2023-11-16T00:00:00Z</updated>
+    <id>https://vertx.io/blog/eclipse-vert-x-4-5-0</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-0" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.5.2 released - Maintenance release</title>
     <updated>2023-11-16T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-5-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-5-2-released/" rel="alternate"></link>
@@ -137,13 +137,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Identity Propagation with OpenID Connect</title>
-    <updated>2023-11-15T00:00:00Z</updated>
-    <id>https://wildfly-security.github.io/wildfly-elytron/blog/wildfly-oidc-identity-propagation/</id>
-    <link href="https://wildfly-security.github.io/wildfly-elytron/blog/wildfly-oidc-identity-propagation/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: When Quarkus meets LangChain4j</title>
     <updated>2023-11-15T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-meets-langchain4j/</id>
@@ -151,14 +144,21 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus Newsletter #38 - November</title>
+    <title>JBoss Blogs: Identity Propagation with OpenID Connect</title>
+    <updated>2023-11-15T00:00:00Z</updated>
+    <id>https://wildfly-security.github.io/wildfly-elytron/blog/wildfly-oidc-identity-propagation/</id>
+    <link href="https://wildfly-security.github.io/wildfly-elytron/blog/wildfly-oidc-identity-propagation/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus Newsletter #38 - November</title>
     <updated>2023-11-14T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-38/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-38/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus Newsletter #38 - November</title>
+    <title>JBoss Blogs: Quarkus Newsletter #38 - November</title>
     <updated>2023-11-14T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-38/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-38/" rel="alternate"></link>
@@ -207,13 +207,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Exploring why native executables produced with Mandrel 23.0 are bigger than those produced with Mandrel 22.3</title>
-    <updated>2023-11-02T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/mandrel-23-0-image-size-increase/</id>
-    <link href="https://quarkus.io/blog/mandrel-23-0-image-size-increase/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.29.0.Final for Eclipse 2023-09</title>
     <updated>2023-11-02T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.29.0.final.html</id>
@@ -221,10 +214,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to validate GitOps manifests</title>
-    <updated>2023-10-10T07:00:00Z</updated>
-    <id>95d3a2f7-477c-4c56-8894-124fa034c2c2</id>
-    <link href="https://developers.redhat.com/articles/2023/10/10/how-validate-gitops-manifests" rel="alternate"></link>
+    <title>Quarkus: Exploring why native executables produced with Mandrel 23.0 are bigger than those produced with Mandrel 22.3</title>
+    <updated>2023-11-02T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/mandrel-23-0-image-size-increase/</id>
+    <link href="https://quarkus.io/blog/mandrel-23-0-image-size-increase/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -235,10 +228,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: An MIR-based JIT prototype for Ruby</title>
-    <updated>2023-10-09T07:00:00Z</updated>
-    <id>d1945731-4f23-412d-9e73-1617566944e0</id>
-    <link href="https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby" rel="alternate"></link>
+    <title>Red Hat Developer: How to validate GitOps manifests</title>
+    <updated>2023-10-10T07:00:00Z</updated>
+    <id>95d3a2f7-477c-4c56-8894-124fa034c2c2</id>
+    <link href="https://developers.redhat.com/articles/2023/10/10/how-validate-gitops-manifests" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -246,6 +239,13 @@
     <updated>2023-10-09T07:00:00Z</updated>
     <id>13a0b0fc-74fe-4f0a-9a6a-5c3d3a10edd0</id>
     <link href="https://developers.redhat.com/articles/2023/10/09/load-balancing-threading-and-scaling-nodejs" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: An MIR-based JIT prototype for Ruby</title>
+    <updated>2023-10-09T07:00:00Z</updated>
+    <id>d1945731-4f23-412d-9e73-1617566944e0</id>
+    <link href="https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
