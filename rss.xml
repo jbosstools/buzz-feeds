@@ -1,8 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-11-30T06:12:24Z</updated>
+  <updated>2023-11-30T12:16:49Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>JBoss Blogs: Java 17 will be the minimum version for Quarkus 3.7</title>
+    <updated>2023-11-30T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/java-17/</id>
+    <link href="https://quarkus.io/blog/java-17/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Java 17 will be the minimum version for Quarkus 3.7</title>
+    <updated>2023-11-30T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/java-17/</id>
+    <link href="https://quarkus.io/blog/java-17/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JBoss Blogs: Hibernate @SoftDelete Step-by-Step Guide</title>
     <updated>2023-11-29T16:06:30Z</updated>
@@ -15,13 +29,6 @@
     <updated>2023-11-29T14:52:37Z</updated>
     <id>https://www.mastertheboss.com/java/5-ways-to-emulate-default-parameter-values-in-java/</id>
     <link href="https://www.mastertheboss.com/java/5-ways-to-emulate-default-parameter-values-in-java/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Using distributed realm ignore-unavailable-realms attribute in Elytron</title>
-    <updated>2023-11-29T00:00:00Z</updated>
-    <id>https://wildfly-security.github.io/wildfly-elytron/blog/distributed-realm-ignore-unavailable-realms/</id>
-    <link href="https://wildfly-security.github.io/wildfly-elytron/blog/distributed-realm-ignore-unavailable-realms/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -43,6 +50,13 @@
     <updated>2023-11-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-6-0-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-6-0-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Using distributed realm ignore-unavailable-realms attribute in Elytron</title>
+    <updated>2023-11-29T00:00:00Z</updated>
+    <id>https://wildfly-security.github.io/wildfly-elytron/blog/distributed-realm-ignore-unavailable-realms/</id>
+    <link href="https://wildfly-security.github.io/wildfly-elytron/blog/distributed-realm-ignore-unavailable-realms/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -74,17 +88,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: SmallRye Stork Unwrapped: Exploring New Features and Enhancements</title>
-    <updated>2023-11-23T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/stork-latest-news/</id>
-    <link href="https://quarkus.io/blog/stork-latest-news/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Keycloak 23.0.0 released</title>
     <updated>2023-11-23T00:00:00Z</updated>
     <id>https://www.keycloak.org/2023/11/keycloak-2300-released</id>
     <link href="https://www.keycloak.org/2023/11/keycloak-2300-released" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: SmallRye Stork Unwrapped: Exploring New Features and Enhancements</title>
+    <updated>2023-11-23T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/stork-latest-news/</id>
+    <link href="https://quarkus.io/blog/stork-latest-news/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -151,10 +165,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.5.2 released - Maintenance release</title>
+    <title>JBoss Blogs: Change the default encoding of the audit log file in WildFly</title>
     <updated>2023-11-16T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-5-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-5-2-released/" rel="alternate"></link>
+    <id>https://wildfly-security.github.io/wildfly-elytron/blog/specify-file-audit-log-encoding/</id>
+    <link href="https://wildfly-security.github.io/wildfly-elytron/blog/specify-file-audit-log-encoding/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -162,13 +176,6 @@
     <updated>2023-11-16T00:00:00Z</updated>
     <id>https://vertx.io/blog/eclipse-vert-x-4-5-0</id>
     <link href="https://vertx.io/blog/eclipse-vert-x-4-5-0" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Change the default encoding of the audit log file in WildFly</title>
-    <updated>2023-11-16T00:00:00Z</updated>
-    <id>https://wildfly-security.github.io/wildfly-elytron/blog/specify-file-audit-log-encoding/</id>
-    <link href="https://wildfly-security.github.io/wildfly-elytron/blog/specify-file-audit-log-encoding/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -200,13 +207,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Exploring why native executables produced with Mandrel 23.1 are bigger than those produced with Mandrel 23.0</title>
-    <updated>2023-11-08T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/mandrel-23-1-image-size-increase/</id>
-    <link href="https://quarkus.io/blog/mandrel-23-1-image-size-increase/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.2.8.Final released - Maintenance release</title>
     <updated>2023-11-08T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-8-final-released/</id>
@@ -235,13 +235,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: An MIR-based JIT prototype for Ruby</title>
-    <updated>2023-10-09T07:00:00Z</updated>
-    <id>d1945731-4f23-412d-9e73-1617566944e0</id>
-    <link href="https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Load balancing, threading, and scaling in Node.js</title>
     <updated>2023-10-09T07:00:00Z</updated>
     <id>13a0b0fc-74fe-4f0a-9a6a-5c3d3a10edd0</id>
@@ -249,10 +242,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Use fwupd to deploy Linux firmware updates and more</title>
-    <updated>2023-10-06T07:00:00Z</updated>
-    <id>b2def651-6552-4b46-a5f6-ca44020e7973</id>
-    <link href="https://developers.redhat.com/articles/2023/10/06/use-fwupd-deploy-linux-firmware-updates-and-more" rel="alternate"></link>
+    <title>Red Hat Developer: An MIR-based JIT prototype for Ruby</title>
+    <updated>2023-10-09T07:00:00Z</updated>
+    <id>d1945731-4f23-412d-9e73-1617566944e0</id>
+    <link href="https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -260,6 +253,13 @@
     <updated>2023-10-06T07:00:00Z</updated>
     <id>c7e19de1-859c-41da-bf71-75056f779eea</id>
     <link href="https://developers.redhat.com/articles/2023/10/06/try-camel-quarkus-developer-sandbox-red-hat-openshift" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Use fwupd to deploy Linux firmware updates and more</title>
+    <updated>2023-10-06T07:00:00Z</updated>
+    <id>b2def651-6552-4b46-a5f6-ca44020e7973</id>
+    <link href="https://developers.redhat.com/articles/2023/10/06/use-fwupd-deploy-linux-firmware-updates-and-more" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -627,17 +627,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
