@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-12-02T12:14:42Z</updated>
+  <updated>2023-12-02T18:10:04Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: Testing JPA with TestContainers</title>
@@ -46,21 +46,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Using distributed realm ignore-unavailable-realms attribute in Elytron</title>
-    <updated>2023-11-29T00:00:00Z</updated>
-    <id>https://wildfly-security.github.io/wildfly-elytron/blog/distributed-realm-ignore-unavailable-realms/</id>
-    <link href="https://wildfly-security.github.io/wildfly-elytron/blog/distributed-realm-ignore-unavailable-realms/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Quarkus 3.6.0 released - SSE improvements, OIDC and security-related enhancements</title>
-    <updated>2023-11-29T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-6-0-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-6-0-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.6.0 released - SSE improvements, OIDC and security-related enhancements</title>
     <updated>2023-11-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-6-0-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-6-0-released/" rel="alternate"></link>
@@ -71,6 +57,20 @@
     <updated>2023-11-29T00:00:00Z</updated>
     <id>https://www.keycloak.org/2023/11/keycloak-2301-released</id>
     <link href="https://www.keycloak.org/2023/11/keycloak-2301-released" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.6.0 released - SSE improvements, OIDC and security-related enhancements</title>
+    <updated>2023-11-29T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-6-0-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-6-0-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Using distributed realm ignore-unavailable-realms attribute in Elytron</title>
+    <updated>2023-11-29T00:00:00Z</updated>
+    <id>https://wildfly-security.github.io/wildfly-elytron/blog/distributed-realm-ignore-unavailable-realms/</id>
+    <link href="https://wildfly-security.github.io/wildfly-elytron/blog/distributed-realm-ignore-unavailable-realms/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -130,14 +130,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.5.3 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.5.3 released - Maintenance release</title>
     <updated>2023-11-21T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-5-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-5-3-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.5.3 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.5.3 released - Maintenance release</title>
     <updated>2023-11-21T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-5-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-5-3-released/" rel="alternate"></link>
@@ -235,17 +235,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Load balancing, threading, and scaling in Node.js</title>
-    <updated>2023-10-09T07:00:00Z</updated>
-    <id>13a0b0fc-74fe-4f0a-9a6a-5c3d3a10edd0</id>
-    <link href="https://developers.redhat.com/articles/2023/10/09/load-balancing-threading-and-scaling-nodejs" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: An MIR-based JIT prototype for Ruby</title>
     <updated>2023-10-09T07:00:00Z</updated>
     <id>d1945731-4f23-412d-9e73-1617566944e0</id>
     <link href="https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Load balancing, threading, and scaling in Node.js</title>
+    <updated>2023-10-09T07:00:00Z</updated>
+    <id>13a0b0fc-74fe-4f0a-9a6a-5c3d3a10edd0</id>
+    <link href="https://developers.redhat.com/articles/2023/10/09/load-balancing-threading-and-scaling-nodejs" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
