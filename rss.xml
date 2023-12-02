@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-12-02T00:40:30Z</updated>
+  <updated>2023-12-02T06:11:11Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: Testing JPA with TestContainers</title>
@@ -46,10 +46,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Using distributed realm ignore-unavailable-realms attribute in Elytron</title>
+    <title>Quarkus: Quarkus 3.6.0 released - SSE improvements, OIDC and security-related enhancements</title>
     <updated>2023-11-29T00:00:00Z</updated>
-    <id>https://wildfly-security.github.io/wildfly-elytron/blog/distributed-realm-ignore-unavailable-realms/</id>
-    <link href="https://wildfly-security.github.io/wildfly-elytron/blog/distributed-realm-ignore-unavailable-realms/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-6-0-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-6-0-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -67,10 +67,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.6.0 released - SSE improvements, OIDC and security-related enhancements</title>
+    <title>JBoss Blogs: Using distributed realm ignore-unavailable-realms attribute in Elytron</title>
     <updated>2023-11-29T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-6-0-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-6-0-released/" rel="alternate"></link>
+    <id>https://wildfly-security.github.io/wildfly-elytron/blog/distributed-realm-ignore-unavailable-realms/</id>
+    <link href="https://wildfly-security.github.io/wildfly-elytron/blog/distributed-realm-ignore-unavailable-realms/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -95,14 +95,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: SmallRye Stork Unwrapped: Exploring New Features and Enhancements</title>
+    <title>Quarkus: SmallRye Stork Unwrapped: Exploring New Features and Enhancements</title>
     <updated>2023-11-23T00:00:00Z</updated>
     <id>https://quarkus.io/blog/stork-latest-news/</id>
     <link href="https://quarkus.io/blog/stork-latest-news/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: SmallRye Stork Unwrapped: Exploring New Features and Enhancements</title>
+    <title>JBoss Blogs: SmallRye Stork Unwrapped: Exploring New Features and Enhancements</title>
     <updated>2023-11-23T00:00:00Z</updated>
     <id>https://quarkus.io/blog/stork-latest-news/</id>
     <link href="https://quarkus.io/blog/stork-latest-news/" rel="alternate"></link>
@@ -130,14 +130,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.5.3 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.5.3 released - Maintenance release</title>
     <updated>2023-11-21T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-5-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-5-3-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.5.3 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.5.3 released - Maintenance release</title>
     <updated>2023-11-21T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-5-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-5-3-released/" rel="alternate"></link>
@@ -151,14 +151,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.2.9.Final released - Maintenance LTS release</title>
+    <title>Quarkus: Quarkus 3.2.9.Final released - Maintenance LTS release</title>
     <updated>2023-11-20T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-9-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-2-9-final-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.2.9.Final released - Maintenance LTS release</title>
+    <title>JBoss Blogs: Quarkus 3.2.9.Final released - Maintenance LTS release</title>
     <updated>2023-11-20T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-9-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-2-9-final-released/" rel="alternate"></link>
@@ -249,17 +249,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Try Camel on Quarkus in the Developer Sandbox for Red Hat OpenShift</title>
-    <updated>2023-10-06T07:00:00Z</updated>
-    <id>c7e19de1-859c-41da-bf71-75056f779eea</id>
-    <link href="https://developers.redhat.com/articles/2023/10/06/try-camel-quarkus-developer-sandbox-red-hat-openshift" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Use fwupd to deploy Linux firmware updates and more</title>
     <updated>2023-10-06T07:00:00Z</updated>
     <id>b2def651-6552-4b46-a5f6-ca44020e7973</id>
     <link href="https://developers.redhat.com/articles/2023/10/06/use-fwupd-deploy-linux-firmware-updates-and-more" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Try Camel on Quarkus in the Developer Sandbox for Red Hat OpenShift</title>
+    <updated>2023-10-06T07:00:00Z</updated>
+    <id>c7e19de1-859c-41da-bf71-75056f779eea</id>
+    <link href="https://developers.redhat.com/articles/2023/10/06/try-camel-quarkus-developer-sandbox-red-hat-openshift" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -291,17 +291,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
     <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
