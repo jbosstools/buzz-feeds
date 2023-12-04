@@ -1,8 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-12-04T06:12:47Z</updated>
+  <updated>2023-12-04T12:16:37Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Quarkus: Testing Quarkus with Citrus</title>
+    <updated>2023-12-04T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/testing-quarkus-with-citrus/</id>
+    <link href="https://quarkus.io/blog/testing-quarkus-with-citrus/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Testing Quarkus with Citrus</title>
+    <updated>2023-12-04T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/testing-quarkus-with-citrus/</id>
+    <link href="https://quarkus.io/blog/testing-quarkus-with-citrus/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JBoss Blogs: Testing JPA with TestContainers</title>
     <updated>2023-12-01T09:48:00Z</updated>
@@ -46,20 +60,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.6.0 released - SSE improvements, OIDC and security-related enhancements</title>
-    <updated>2023-11-29T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-6-0-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-6-0-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Keycloak 23.0.1 released</title>
-    <updated>2023-11-29T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2023/11/keycloak-2301-released</id>
-    <link href="https://www.keycloak.org/2023/11/keycloak-2301-released" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.6.0 released - SSE improvements, OIDC and security-related enhancements</title>
     <updated>2023-11-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-6-0-released/</id>
@@ -71,6 +71,20 @@
     <updated>2023-11-29T00:00:00Z</updated>
     <id>https://wildfly-security.github.io/wildfly-elytron/blog/distributed-realm-ignore-unavailable-realms/</id>
     <link href="https://wildfly-security.github.io/wildfly-elytron/blog/distributed-realm-ignore-unavailable-realms/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Keycloak 23.0.1 released</title>
+    <updated>2023-11-29T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2023/11/keycloak-2301-released</id>
+    <link href="https://www.keycloak.org/2023/11/keycloak-2301-released" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.6.0 released - SSE improvements, OIDC and security-related enhancements</title>
+    <updated>2023-11-29T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-6-0-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-6-0-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -95,13 +109,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: SmallRye Stork Unwrapped: Exploring New Features and Enhancements</title>
-    <updated>2023-11-23T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/stork-latest-news/</id>
-    <link href="https://quarkus.io/blog/stork-latest-news/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: SmallRye Stork Unwrapped: Exploring New Features and Enhancements</title>
     <updated>2023-11-23T00:00:00Z</updated>
     <id>https://quarkus.io/blog/stork-latest-news/</id>
@@ -113,6 +120,13 @@
     <updated>2023-11-23T00:00:00Z</updated>
     <id>https://www.keycloak.org/2023/11/keycloak-2300-released</id>
     <link href="https://www.keycloak.org/2023/11/keycloak-2300-released" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: SmallRye Stork Unwrapped: Exploring New Features and Enhancements</title>
+    <updated>2023-11-23T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/stork-latest-news/</id>
+    <link href="https://quarkus.io/blog/stork-latest-news/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -130,14 +144,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.5.3 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.5.3 released - Maintenance release</title>
     <updated>2023-11-21T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-5-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-5-3-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.5.3 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.5.3 released - Maintenance release</title>
     <updated>2023-11-21T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-5-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-5-3-released/" rel="alternate"></link>
@@ -151,14 +165,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.2.9.Final released - Maintenance LTS release</title>
+    <title>Quarkus: Quarkus 3.2.9.Final released - Maintenance LTS release</title>
     <updated>2023-11-20T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-9-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-2-9-final-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.2.9.Final released - Maintenance LTS release</title>
+    <title>JBoss Blogs: Quarkus 3.2.9.Final released - Maintenance LTS release</title>
     <updated>2023-11-20T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-9-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-2-9-final-released/" rel="alternate"></link>
@@ -169,13 +183,6 @@
     <updated>2023-11-17T18:42:28Z</updated>
     <id>https://www.mastertheboss.com/java-ee/jpa/writing-jpa-applications-using-java-records/</id>
     <link href="https://www.mastertheboss.com/java-ee/jpa/writing-jpa-applications-using-java-records/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Byteman 4.0.22 has been released</title>
-    <updated>2023-11-16T14:24:00Z</updated>
-    <id>http://bytemanblog.blogspot.com/2023/11/byteman-4022-has-been-released.html</id>
-    <link href="http://bytemanblog.blogspot.com/2023/11/byteman-4022-has-been-released.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -207,80 +214,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.2.8.Final released - Maintenance release</title>
-    <updated>2023-11-08T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-2-8-final-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-2-8-final-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.29.0.Final for Eclipse 2023-09</title>
     <updated>2023-11-02T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.29.0.final.html</id>
     <link href="https://tools.jboss.org/blog/4.29.0.final.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: How to validate GitOps manifests</title>
-    <updated>2023-10-10T07:00:00Z</updated>
-    <id>95d3a2f7-477c-4c56-8894-124fa034c2c2</id>
-    <link href="https://developers.redhat.com/articles/2023/10/10/how-validate-gitops-manifests" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: How custom SELinux policies secure servers and containers</title>
-    <updated>2023-10-10T07:00:00Z</updated>
-    <id>d6e91ea0-1d78-423b-a69e-d1fcca624933</id>
-    <link href="https://developers.redhat.com/articles/2023/10/10/how-custom-selinux-policies-secure-servers-and-containers" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: An MIR-based JIT prototype for Ruby</title>
-    <updated>2023-10-09T07:00:00Z</updated>
-    <id>d1945731-4f23-412d-9e73-1617566944e0</id>
-    <link href="https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Load balancing, threading, and scaling in Node.js</title>
-    <updated>2023-10-09T07:00:00Z</updated>
-    <id>13a0b0fc-74fe-4f0a-9a6a-5c3d3a10edd0</id>
-    <link href="https://developers.redhat.com/articles/2023/10/09/load-balancing-threading-and-scaling-nodejs" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Try Camel on Quarkus in the Developer Sandbox for Red Hat OpenShift</title>
-    <updated>2023-10-06T07:00:00Z</updated>
-    <id>c7e19de1-859c-41da-bf71-75056f779eea</id>
-    <link href="https://developers.redhat.com/articles/2023/10/06/try-camel-quarkus-developer-sandbox-red-hat-openshift" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Use fwupd to deploy Linux firmware updates and more</title>
-    <updated>2023-10-06T07:00:00Z</updated>
-    <id>b2def651-6552-4b46-a5f6-ca44020e7973</id>
-    <link href="https://developers.redhat.com/articles/2023/10/06/use-fwupd-deploy-linux-firmware-updates-and-more" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: How to migrate server configurations to JBoss EAP 7.4</title>
-    <updated>2023-10-05T07:00:00Z</updated>
-    <id>16dfcff2-b9bc-4c89-bd37-a38408e792e0</id>
-    <link href="https://developers.redhat.com/articles/2023/10/05/how-migrate-server-configurations-jboss-eap-74" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: 5 steps to build a self-healing server with Alertmanager</title>
-    <updated>2023-10-04T07:00:00Z</updated>
-    <id>ed9796c0-ae2f-4035-8f79-cd80e60a3cc1</id>
-    <link href="https://developers.redhat.com/articles/2023/10/04/5-steps-build-self-healing-server-alertmanager" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: About Argo CD ApplicationSet and SCM Provider generator</title>
-    <updated>2023-10-04T07:00:00Z</updated>
-    <id>eb3cab1e-7d1d-407e-815c-071817e984fe</id>
-    <link href="https://developers.redhat.com/articles/2023/10/04/about-argo-cd-applicationset-and-scm-provider-generator" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -291,10 +228,66 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
-    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
+    <title>Red Hat Developer: How to configure OpenShift application monitoring and alerts</title>
+    <updated>2023-10-03T07:00:00Z</updated>
+    <id>3215c4d7-d46a-4437-afc5-e741499bab08</id>
+    <link href="https://developers.redhat.com/articles/2023/10/03/how-configure-openshift-application-monitoring-and-alerts" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Deploy a highly available JBoss EAP application to Azure App Service</title>
+    <updated>2023-10-02T07:00:00Z</updated>
+    <id>b0807edb-9676-4e93-a180-a86d15ef5d8c</id>
+    <link href="https://developers.redhat.com/articles/2023/10/02/deploy-highly-available-jboss-eap-application-azure-app-service" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Boost Ansible developer experience with OpenShift Dev Spaces</title>
+    <updated>2023-10-02T07:00:00Z</updated>
+    <id>48b68943-3a92-47f4-85d2-1ef6d79adb73</id>
+    <link href="https://developers.redhat.com/articles/2023/10/02/boost-ansible-developer-experience-openshift-dev-spaces" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Put your coding skills to work at the CodeShift hackathon</title>
+    <updated>2023-09-29T07:00:00Z</updated>
+    <id>99a4237a-ca6d-4e8b-ae3b-400cd8adb69b</id>
+    <link href="https://developers.redhat.com/articles/2023/09/29/put-your-coding-skills-work-codeshift-hackathon" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How we solved a HotSpot performance puzzle</title>
+    <updated>2023-09-29T07:00:00Z</updated>
+    <id>60071fe9-2fd0-45b4-81b1-a90befe62705</id>
+    <link href="https://developers.redhat.com/articles/2023/09/29/how-we-solved-hotspot-performance-puzzle" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Automate your Git host key verification setup in Jenkins</title>
+    <updated>2023-09-28T07:00:00Z</updated>
+    <id>15141ac0-64e4-45b1-88c5-1725f9aa1377</id>
+    <link href="https://developers.redhat.com/articles/2023/09/28/automate-your-git-host-key-verification-setup-jenkins" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Parallel programming: When concurrency meets Murphy's law</title>
+    <updated>2023-09-27T07:00:00Z</updated>
+    <id>98b38adc-efc2-4129-a996-53abcae62ef7</id>
+    <link href="https://developers.redhat.com/articles/2023/09/27/parallel-programming-when-concurrency-meets-murphys-law" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How to install and use Podman Desktop on Windows</title>
+    <updated>2023-09-27T07:00:00Z</updated>
+    <id>de7795d2-3c81-4773-aaec-614ae16b10e4</id>
+    <link href="https://developers.redhat.com/articles/2023/09/27/how-install-and-use-podman-desktop-windows" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: What’s new in vSphere on RHEL image builder</title>
+    <updated>2023-09-26T07:00:00Z</updated>
+    <id>64dc81da-af3c-4d85-86eb-52476c1abf7a</id>
+    <link href="https://developers.redhat.com/articles/2023/09/26/whats-new-vsphere-rhel-image-builder" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -302,6 +295,13 @@
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
     <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -627,17 +627,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
-    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
     <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
