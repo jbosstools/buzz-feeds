@@ -1,13 +1,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-12-05T18:11:31Z</updated>
+  <updated>2023-12-06T00:42:15Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: WildFly Helm Charts with custom configuration</title>
     <updated>2023-12-05T12:32:54Z</updated>
     <id>https://www.mastertheboss.com/soa-cloud/openshift/wildfly-helm-charts-with-custom-configuration/</id>
     <link href="https://www.mastertheboss.com/soa-cloud/openshift/wildfly-helm-charts-with-custom-configuration/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: WildFly 30.0.1 is released!</title>
+    <updated>2023-12-05T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2023/12/05/WildFly3001-Released/</id>
+    <link href="https://wildfly.org//news/2023/12/05/WildFly3001-Released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -32,6 +39,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Java 17 will be the minimum version for Quarkus 3.7</title>
+    <updated>2023-11-30T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/java-17/</id>
+    <link href="https://quarkus.io/blog/java-17/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Java 17 will be the minimum version for Quarkus 3.7</title>
     <updated>2023-11-30T00:00:00Z</updated>
     <id>https://quarkus.io/blog/java-17/</id>
@@ -43,13 +57,6 @@
     <updated>2023-11-30T00:00:00Z</updated>
     <id>https://wildfly.org//news/2023/11/30/intro-to-the-various-java-based-k8s-oc-tools/</id>
     <link href="https://wildfly.org//news/2023/11/30/intro-to-the-various-java-based-k8s-oc-tools/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Java 17 will be the minimum version for Quarkus 3.7</title>
-    <updated>2023-11-30T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/java-17/</id>
-    <link href="https://quarkus.io/blog/java-17/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -74,17 +81,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Using distributed realm ignore-unavailable-realms attribute in Elytron</title>
-    <updated>2023-11-29T00:00:00Z</updated>
-    <id>https://wildfly-security.github.io/wildfly-elytron/blog/distributed-realm-ignore-unavailable-realms/</id>
-    <link href="https://wildfly-security.github.io/wildfly-elytron/blog/distributed-realm-ignore-unavailable-realms/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.6.0 released - SSE improvements, OIDC and security-related enhancements</title>
     <updated>2023-11-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-6-0-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-6-0-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Using distributed realm ignore-unavailable-realms attribute in Elytron</title>
+    <updated>2023-11-29T00:00:00Z</updated>
+    <id>https://wildfly-security.github.io/wildfly-elytron/blog/distributed-realm-ignore-unavailable-realms/</id>
+    <link href="https://wildfly-security.github.io/wildfly-elytron/blog/distributed-realm-ignore-unavailable-realms/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -116,7 +123,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: SmallRye Stork Unwrapped: Exploring New Features and Enhancements</title>
+    <title>Quarkus: SmallRye Stork Unwrapped: Exploring New Features and Enhancements</title>
     <updated>2023-11-23T00:00:00Z</updated>
     <id>https://quarkus.io/blog/stork-latest-news/</id>
     <link href="https://quarkus.io/blog/stork-latest-news/" rel="alternate"></link>
@@ -130,7 +137,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: SmallRye Stork Unwrapped: Exploring New Features and Enhancements</title>
+    <title>JBoss Blogs: SmallRye Stork Unwrapped: Exploring New Features and Enhancements</title>
     <updated>2023-11-23T00:00:00Z</updated>
     <id>https://quarkus.io/blog/stork-latest-news/</id>
     <link href="https://quarkus.io/blog/stork-latest-news/" rel="alternate"></link>
@@ -151,14 +158,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.5.3 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.5.3 released - Maintenance release</title>
     <updated>2023-11-21T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-5-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-5-3-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.5.3 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.5.3 released - Maintenance release</title>
     <updated>2023-11-21T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-5-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-5-3-released/" rel="alternate"></link>
@@ -169,13 +176,6 @@
     <updated>2023-11-20T17:31:58Z</updated>
     <id>https://www.mastertheboss.com/java/comparing-java-records-with-lombok/</id>
     <link href="https://www.mastertheboss.com/java/comparing-java-records-with-lombok/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.2.9.Final released - Maintenance LTS release</title>
-    <updated>2023-11-20T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-2-9-final-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-2-9-final-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -221,17 +221,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to validate GitOps manifests</title>
-    <updated>2023-10-10T07:00:00Z</updated>
-    <id>95d3a2f7-477c-4c56-8894-124fa034c2c2</id>
-    <link href="https://developers.redhat.com/articles/2023/10/10/how-validate-gitops-manifests" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: How custom SELinux policies secure servers and containers</title>
     <updated>2023-10-10T07:00:00Z</updated>
     <id>d6e91ea0-1d78-423b-a69e-d1fcca624933</id>
     <link href="https://developers.redhat.com/articles/2023/10/10/how-custom-selinux-policies-secure-servers-and-containers" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How to validate GitOps manifests</title>
+    <updated>2023-10-10T07:00:00Z</updated>
+    <id>95d3a2f7-477c-4c56-8894-124fa034c2c2</id>
+    <link href="https://developers.redhat.com/articles/2023/10/10/how-validate-gitops-manifests" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -249,17 +249,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Try Camel on Quarkus in the Developer Sandbox for Red Hat OpenShift</title>
-    <updated>2023-10-06T07:00:00Z</updated>
-    <id>c7e19de1-859c-41da-bf71-75056f779eea</id>
-    <link href="https://developers.redhat.com/articles/2023/10/06/try-camel-quarkus-developer-sandbox-red-hat-openshift" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Use fwupd to deploy Linux firmware updates and more</title>
     <updated>2023-10-06T07:00:00Z</updated>
     <id>b2def651-6552-4b46-a5f6-ca44020e7973</id>
     <link href="https://developers.redhat.com/articles/2023/10/06/use-fwupd-deploy-linux-firmware-updates-and-more" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Try Camel on Quarkus in the Developer Sandbox for Red Hat OpenShift</title>
+    <updated>2023-10-06T07:00:00Z</updated>
+    <id>c7e19de1-859c-41da-bf71-75056f779eea</id>
+    <link href="https://developers.redhat.com/articles/2023/10/06/try-camel-quarkus-developer-sandbox-red-hat-openshift" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -627,17 +627,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
-    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
     <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
