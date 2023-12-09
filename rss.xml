@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-12-09T12:15:10Z</updated>
+  <updated>2023-12-09T18:10:19Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: Shaping the Future of WildFly Community Social Media!</title>
@@ -53,14 +53,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Testing Quarkus with Citrus</title>
+    <title>JBoss Blogs: Testing Quarkus with Citrus</title>
     <updated>2023-12-04T00:00:00Z</updated>
     <id>https://quarkus.io/blog/testing-quarkus-with-citrus/</id>
     <link href="https://quarkus.io/blog/testing-quarkus-with-citrus/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Testing Quarkus with Citrus</title>
+    <title>Quarkus: Testing Quarkus with Citrus</title>
     <updated>2023-12-04T00:00:00Z</updated>
     <id>https://quarkus.io/blog/testing-quarkus-with-citrus/</id>
     <link href="https://quarkus.io/blog/testing-quarkus-with-citrus/" rel="alternate"></link>
@@ -74,10 +74,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Introduction to the various Java based Kubernetes/OpenShift tools and their usages in WildFly related projects</title>
+    <title>JBoss Blogs: Java 17 will be the minimum version for Quarkus 3.7</title>
     <updated>2023-11-30T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2023/11/30/intro-to-the-various-java-based-k8s-oc-tools/</id>
-    <link href="https://wildfly.org//news/2023/11/30/intro-to-the-various-java-based-k8s-oc-tools/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/java-17/</id>
+    <link href="https://quarkus.io/blog/java-17/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -88,10 +88,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Java 17 will be the minimum version for Quarkus 3.7</title>
+    <title>JBoss Blogs: Introduction to the various Java based Kubernetes/OpenShift tools and their usages in WildFly related projects</title>
     <updated>2023-11-30T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/java-17/</id>
-    <link href="https://quarkus.io/blog/java-17/" rel="alternate"></link>
+    <id>https://wildfly.org//news/2023/11/30/intro-to-the-various-java-based-k8s-oc-tools/</id>
+    <link href="https://wildfly.org//news/2023/11/30/intro-to-the-various-java-based-k8s-oc-tools/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -106,13 +106,6 @@
     <updated>2023-11-29T14:52:37Z</updated>
     <id>https://www.mastertheboss.com/java/5-ways-to-emulate-default-parameter-values-in-java/</id>
     <link href="https://www.mastertheboss.com/java/5-ways-to-emulate-default-parameter-values-in-java/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.6.0 released - SSE improvements, OIDC and security-related enhancements</title>
-    <updated>2023-11-29T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-6-0-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-6-0-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -137,6 +130,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Quarkus 3.6.0 released - SSE improvements, OIDC and security-related enhancements</title>
+    <updated>2023-11-29T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-6-0-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-6-0-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Kafka Streams Tutorial</title>
     <updated>2023-11-28T16:42:33Z</updated>
     <id>https://www.mastertheboss.com/soa-cloud/quarkus/kafka-streams-tutorial/</id>
@@ -158,7 +158,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: SmallRye Stork Unwrapped: Exploring New Features and Enhancements</title>
+    <title>JBoss Blogs: SmallRye Stork Unwrapped: Exploring New Features and Enhancements</title>
     <updated>2023-11-23T00:00:00Z</updated>
     <id>https://quarkus.io/blog/stork-latest-news/</id>
     <link href="https://quarkus.io/blog/stork-latest-news/" rel="alternate"></link>
@@ -172,7 +172,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: SmallRye Stork Unwrapped: Exploring New Features and Enhancements</title>
+    <title>Quarkus: SmallRye Stork Unwrapped: Exploring New Features and Enhancements</title>
     <updated>2023-11-23T00:00:00Z</updated>
     <id>https://quarkus.io/blog/stork-latest-news/</id>
     <link href="https://quarkus.io/blog/stork-latest-news/" rel="alternate"></link>
@@ -221,17 +221,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How custom SELinux policies secure servers and containers</title>
-    <updated>2023-10-10T07:00:00Z</updated>
-    <id>d6e91ea0-1d78-423b-a69e-d1fcca624933</id>
-    <link href="https://developers.redhat.com/articles/2023/10/10/how-custom-selinux-policies-secure-servers-and-containers" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: How to validate GitOps manifests</title>
     <updated>2023-10-10T07:00:00Z</updated>
     <id>95d3a2f7-477c-4c56-8894-124fa034c2c2</id>
     <link href="https://developers.redhat.com/articles/2023/10/10/how-validate-gitops-manifests" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How custom SELinux policies secure servers and containers</title>
+    <updated>2023-10-10T07:00:00Z</updated>
+    <id>d6e91ea0-1d78-423b-a69e-d1fcca624933</id>
+    <link href="https://developers.redhat.com/articles/2023/10/10/how-custom-selinux-policies-secure-servers-and-containers" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
