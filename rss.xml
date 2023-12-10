@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-12-10T06:11:06Z</updated>
+  <updated>2023-12-10T12:14:59Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: Monitoring WildFly with Prometheus and Grafana</title>
@@ -67,14 +67,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Testing Quarkus with Citrus</title>
+    <title>JBoss Blogs: Testing Quarkus with Citrus</title>
     <updated>2023-12-04T00:00:00Z</updated>
     <id>https://quarkus.io/blog/testing-quarkus-with-citrus/</id>
     <link href="https://quarkus.io/blog/testing-quarkus-with-citrus/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Testing Quarkus with Citrus</title>
+    <title>Quarkus: Testing Quarkus with Citrus</title>
     <updated>2023-12-04T00:00:00Z</updated>
     <id>https://quarkus.io/blog/testing-quarkus-with-citrus/</id>
     <link href="https://quarkus.io/blog/testing-quarkus-with-citrus/" rel="alternate"></link>
@@ -85,6 +85,13 @@
     <updated>2023-12-01T09:48:00Z</updated>
     <id>https://www.mastertheboss.com/various-stuff/testing-java/testcontainers-to-test-jpa-applications/</id>
     <link href="https://www.mastertheboss.com/various-stuff/testing-java/testcontainers-to-test-jpa-applications/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Java 17 will be the minimum version for Quarkus 3.7</title>
+    <updated>2023-11-30T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/java-17/</id>
+    <link href="https://quarkus.io/blog/java-17/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -102,13 +109,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Java 17 will be the minimum version for Quarkus 3.7</title>
-    <updated>2023-11-30T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/java-17/</id>
-    <link href="https://quarkus.io/blog/java-17/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Hibernate @SoftDelete Step-by-Step Guide</title>
     <updated>2023-11-29T16:06:30Z</updated>
     <id>https://www.mastertheboss.com/hibernate-jpa/quickstart-tutorials-hibernate-jpa/hibernate-softdelete-step-by-step-guide/</id>
@@ -123,20 +123,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Using distributed realm ignore-unavailable-realms attribute in Elytron</title>
-    <updated>2023-11-29T00:00:00Z</updated>
-    <id>https://wildfly-security.github.io/wildfly-elytron/blog/distributed-realm-ignore-unavailable-realms/</id>
-    <link href="https://wildfly-security.github.io/wildfly-elytron/blog/distributed-realm-ignore-unavailable-realms/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.6.0 released - SSE improvements, OIDC and security-related enhancements</title>
-    <updated>2023-11-29T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-6-0-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-6-0-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.6.0 released - SSE improvements, OIDC and security-related enhancements</title>
     <updated>2023-11-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-6-0-released/</id>
@@ -144,10 +130,24 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Using distributed realm ignore-unavailable-realms attribute in Elytron</title>
+    <updated>2023-11-29T00:00:00Z</updated>
+    <id>https://wildfly-security.github.io/wildfly-elytron/blog/distributed-realm-ignore-unavailable-realms/</id>
+    <link href="https://wildfly-security.github.io/wildfly-elytron/blog/distributed-realm-ignore-unavailable-realms/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Keycloak 23.0.1 released</title>
     <updated>2023-11-29T00:00:00Z</updated>
     <id>https://www.keycloak.org/2023/11/keycloak-2301-released</id>
     <link href="https://www.keycloak.org/2023/11/keycloak-2301-released" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.6.0 released - SSE improvements, OIDC and security-related enhancements</title>
+    <updated>2023-11-29T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-6-0-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-6-0-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -221,17 +221,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to validate GitOps manifests</title>
-    <updated>2023-10-10T07:00:00Z</updated>
-    <id>95d3a2f7-477c-4c56-8894-124fa034c2c2</id>
-    <link href="https://developers.redhat.com/articles/2023/10/10/how-validate-gitops-manifests" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: How custom SELinux policies secure servers and containers</title>
     <updated>2023-10-10T07:00:00Z</updated>
     <id>d6e91ea0-1d78-423b-a69e-d1fcca624933</id>
     <link href="https://developers.redhat.com/articles/2023/10/10/how-custom-selinux-policies-secure-servers-and-containers" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How to validate GitOps manifests</title>
+    <updated>2023-10-10T07:00:00Z</updated>
+    <id>95d3a2f7-477c-4c56-8894-124fa034c2c2</id>
+    <link href="https://developers.redhat.com/articles/2023/10/10/how-validate-gitops-manifests" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
