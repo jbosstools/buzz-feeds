@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-12-12T00:42:29Z</updated>
+  <updated>2023-12-12T06:12:04Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: Join Keycloak Developer Day: A Celebration of Innovation and Community!</title>
@@ -221,66 +221,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to validate GitOps manifests</title>
-    <updated>2023-10-10T07:00:00Z</updated>
-    <id>95d3a2f7-477c-4c56-8894-124fa034c2c2</id>
-    <link href="https://developers.redhat.com/articles/2023/10/10/how-validate-gitops-manifests" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: How custom SELinux policies secure servers and containers</title>
-    <updated>2023-10-10T07:00:00Z</updated>
-    <id>d6e91ea0-1d78-423b-a69e-d1fcca624933</id>
-    <link href="https://developers.redhat.com/articles/2023/10/10/how-custom-selinux-policies-secure-servers-and-containers" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: An MIR-based JIT prototype for Ruby</title>
-    <updated>2023-10-09T07:00:00Z</updated>
-    <id>d1945731-4f23-412d-9e73-1617566944e0</id>
-    <link href="https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Load balancing, threading, and scaling in Node.js</title>
-    <updated>2023-10-09T07:00:00Z</updated>
-    <id>13a0b0fc-74fe-4f0a-9a6a-5c3d3a10edd0</id>
-    <link href="https://developers.redhat.com/articles/2023/10/09/load-balancing-threading-and-scaling-nodejs" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Use fwupd to deploy Linux firmware updates and more</title>
-    <updated>2023-10-06T07:00:00Z</updated>
-    <id>b2def651-6552-4b46-a5f6-ca44020e7973</id>
-    <link href="https://developers.redhat.com/articles/2023/10/06/use-fwupd-deploy-linux-firmware-updates-and-more" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Try Camel on Quarkus in the Developer Sandbox for Red Hat OpenShift</title>
-    <updated>2023-10-06T07:00:00Z</updated>
-    <id>c7e19de1-859c-41da-bf71-75056f779eea</id>
-    <link href="https://developers.redhat.com/articles/2023/10/06/try-camel-quarkus-developer-sandbox-red-hat-openshift" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: How to migrate server configurations to JBoss EAP 7.4</title>
-    <updated>2023-10-05T07:00:00Z</updated>
-    <id>16dfcff2-b9bc-4c89-bd37-a38408e792e0</id>
-    <link href="https://developers.redhat.com/articles/2023/10/05/how-migrate-server-configurations-jboss-eap-74" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: 5 steps to build a self-healing server with Alertmanager</title>
-    <updated>2023-10-04T07:00:00Z</updated>
-    <id>ed9796c0-ae2f-4035-8f79-cd80e60a3cc1</id>
-    <link href="https://developers.redhat.com/articles/2023/10/04/5-steps-build-self-healing-server-alertmanager" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: About Argo CD ApplicationSet and SCM Provider generator</title>
-    <updated>2023-10-04T07:00:00Z</updated>
-    <id>eb3cab1e-7d1d-407e-815c-071817e984fe</id>
-    <link href="https://developers.redhat.com/articles/2023/10/04/about-argo-cd-applicationset-and-scm-provider-generator" rel="alternate"></link>
+    <title>Red Hat Developer: How to configure OpenShift application monitoring and alerts</title>
+    <updated>2023-10-03T07:00:00Z</updated>
+    <id>3215c4d7-d46a-4437-afc5-e741499bab08</id>
+    <link href="https://developers.redhat.com/articles/2023/10/03/how-configure-openshift-application-monitoring-and-alerts" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -288,6 +232,62 @@
     <updated>2023-10-03T07:00:00Z</updated>
     <id>887870d2-b12c-413c-bed4-c6040f0b4c21</id>
     <link href="https://developers.redhat.com/articles/2023/10/03/beyond-loom-weaving-new-concurrency-patterns" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Deploy a highly available JBoss EAP application to Azure App Service</title>
+    <updated>2023-10-02T07:00:00Z</updated>
+    <id>b0807edb-9676-4e93-a180-a86d15ef5d8c</id>
+    <link href="https://developers.redhat.com/articles/2023/10/02/deploy-highly-available-jboss-eap-application-azure-app-service" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Boost Ansible developer experience with OpenShift Dev Spaces</title>
+    <updated>2023-10-02T07:00:00Z</updated>
+    <id>48b68943-3a92-47f4-85d2-1ef6d79adb73</id>
+    <link href="https://developers.redhat.com/articles/2023/10/02/boost-ansible-developer-experience-openshift-dev-spaces" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How we solved a HotSpot performance puzzle</title>
+    <updated>2023-09-29T07:00:00Z</updated>
+    <id>60071fe9-2fd0-45b4-81b1-a90befe62705</id>
+    <link href="https://developers.redhat.com/articles/2023/09/29/how-we-solved-hotspot-performance-puzzle" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Put your coding skills to work at the CodeShift hackathon</title>
+    <updated>2023-09-29T07:00:00Z</updated>
+    <id>99a4237a-ca6d-4e8b-ae3b-400cd8adb69b</id>
+    <link href="https://developers.redhat.com/articles/2023/09/29/put-your-coding-skills-work-codeshift-hackathon" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Automate your Git host key verification setup in Jenkins</title>
+    <updated>2023-09-28T07:00:00Z</updated>
+    <id>15141ac0-64e4-45b1-88c5-1725f9aa1377</id>
+    <link href="https://developers.redhat.com/articles/2023/09/28/automate-your-git-host-key-verification-setup-jenkins" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Parallel programming: When concurrency meets Murphy's law</title>
+    <updated>2023-09-27T07:00:00Z</updated>
+    <id>98b38adc-efc2-4129-a996-53abcae62ef7</id>
+    <link href="https://developers.redhat.com/articles/2023/09/27/parallel-programming-when-concurrency-meets-murphys-law" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How to install and use Podman Desktop on Windows</title>
+    <updated>2023-09-27T07:00:00Z</updated>
+    <id>de7795d2-3c81-4773-aaec-614ae16b10e4</id>
+    <link href="https://developers.redhat.com/articles/2023/09/27/how-install-and-use-podman-desktop-windows" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: What’s new in vSphere on RHEL image builder</title>
+    <updated>2023-09-26T07:00:00Z</updated>
+    <id>64dc81da-af3c-4d85-86eb-52476c1abf7a</id>
+    <link href="https://developers.redhat.com/articles/2023/09/26/whats-new-vsphere-rhel-image-builder" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
