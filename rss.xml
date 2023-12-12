@@ -1,8 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-12-12T12:16:48Z</updated>
+  <updated>2023-12-12T18:11:35Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>JBoss Blogs: WildFly Bootable JAR Datasource configuration</title>
+    <updated>2023-12-12T16:02:59Z</updated>
+    <id>https://www.mastertheboss.com/uncategorised/wildfly-bootable-jar-datasource-configuration/</id>
+    <link href="https://www.mastertheboss.com/uncategorised/wildfly-bootable-jar-datasource-configuration/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Securing WildFly Apps with Auth0 on OpenShift</title>
+    <updated>2023-12-12T00:00:00Z</updated>
+    <id>https://wildfly-security.github.io/wildfly-elytron/blog/securing-wildfly-apps-auth0-openshift/</id>
+    <link href="https://wildfly-security.github.io/wildfly-elytron/blog/securing-wildfly-apps-auth0-openshift/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JBoss Blogs: Join Keycloak Developer Day: A Celebration of Innovation and Community!</title>
     <updated>2023-12-11T00:00:00Z</updated>
@@ -46,14 +60,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.6.1 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.6.1 released - Maintenance release</title>
     <updated>2023-12-06T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-6-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-6-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.6.1 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.6.1 released - Maintenance release</title>
     <updated>2023-12-06T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-6-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-6-1-released/" rel="alternate"></link>
@@ -95,13 +109,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Java 17 will be the minimum version for Quarkus 3.7</title>
-    <updated>2023-11-30T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/java-17/</id>
-    <link href="https://quarkus.io/blog/java-17/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Introduction to the various Java based Kubernetes/OpenShift tools and their usages in WildFly related projects</title>
     <updated>2023-11-30T00:00:00Z</updated>
     <id>https://wildfly.org//news/2023/11/30/intro-to-the-various-java-based-k8s-oc-tools/</id>
@@ -110,6 +117,13 @@
   </entry>
   <entry>
     <title>Quarkus: Java 17 will be the minimum version for Quarkus 3.7</title>
+    <updated>2023-11-30T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/java-17/</id>
+    <link href="https://quarkus.io/blog/java-17/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Java 17 will be the minimum version for Quarkus 3.7</title>
     <updated>2023-11-30T00:00:00Z</updated>
     <id>https://quarkus.io/blog/java-17/</id>
     <link href="https://quarkus.io/blog/java-17/" rel="alternate"></link>
@@ -137,13 +151,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Keycloak 23.0.1 released</title>
-    <updated>2023-11-29T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2023/11/keycloak-2301-released</id>
-    <link href="https://www.keycloak.org/2023/11/keycloak-2301-released" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Using distributed realm ignore-unavailable-realms attribute in Elytron</title>
     <updated>2023-11-29T00:00:00Z</updated>
     <id>https://wildfly-security.github.io/wildfly-elytron/blog/distributed-realm-ignore-unavailable-realms/</id>
@@ -158,17 +165,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Kafka Streams Tutorial</title>
-    <updated>2023-11-28T16:42:33Z</updated>
-    <id>https://www.mastertheboss.com/soa-cloud/quarkus/kafka-streams-tutorial/</id>
-    <link href="https://www.mastertheboss.com/soa-cloud/quarkus/kafka-streams-tutorial/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Installing additional feature packs in WildFly</title>
-    <updated>2023-11-27T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2023/11/27/prospero-add-feature-pack/</id>
-    <link href="https://wildfly.org//news/2023/11/27/prospero-add-feature-pack/" rel="alternate"></link>
+    <title>JBoss Blogs: Keycloak 23.0.1 released</title>
+    <updated>2023-11-29T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2023/11/keycloak-2301-released</id>
+    <link href="https://www.keycloak.org/2023/11/keycloak-2301-released" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
