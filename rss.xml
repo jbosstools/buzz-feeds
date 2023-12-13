@@ -1,15 +1,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-12-13T12:16:36Z</updated>
+  <updated>2023-12-13T18:09:54Z</updated>
   <link href="https://tools.jboss.org"></link>
-  <entry>
-    <title>Quarkus: Quarkus 3.6.3 released - Maintenance release</title>
-    <updated>2023-12-13T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-6-3-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-6-3-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>JBoss Blogs: Quarkus 3.6.3 released - Maintenance release</title>
     <updated>2023-12-13T00:00:00Z</updated>
@@ -18,10 +11,24 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Quarkus 3.6.3 released - Maintenance release</title>
+    <updated>2023-12-13T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-6-3-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-6-3-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: WildFly Bootable JAR Datasource configuration</title>
     <updated>2023-12-12T16:02:59Z</updated>
-    <id>https://www.mastertheboss.com/uncategorised/wildfly-bootable-jar-datasource-configuration/</id>
-    <link href="https://www.mastertheboss.com/uncategorised/wildfly-bootable-jar-datasource-configuration/" rel="alternate"></link>
+    <id>https://www.mastertheboss.com/eclipse/eclipse-microservices/wildfly-bootable-jar-datasource-configuration/</id>
+    <link href="https://www.mastertheboss.com/eclipse/eclipse-microservices/wildfly-bootable-jar-datasource-configuration/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus Newsletter #39 - December</title>
+    <updated>2023-12-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-39/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-39/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -29,6 +36,13 @@
     <updated>2023-12-12T00:00:00Z</updated>
     <id>https://wildfly-security.github.io/wildfly-elytron/blog/securing-wildfly-apps-auth0-openshift/</id>
     <link href="https://wildfly-security.github.io/wildfly-elytron/blog/securing-wildfly-apps-auth0-openshift/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus Newsletter #39 - December</title>
+    <updated>2023-12-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-39/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-39/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -74,14 +88,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.6.1 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.6.1 released - Maintenance release</title>
     <updated>2023-12-06T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-6-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-6-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.6.1 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.6.1 released - Maintenance release</title>
     <updated>2023-12-06T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-6-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-6-1-released/" rel="alternate"></link>
@@ -102,14 +116,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Testing Quarkus with Citrus</title>
+    <title>Quarkus: Testing Quarkus with Citrus</title>
     <updated>2023-12-04T00:00:00Z</updated>
     <id>https://quarkus.io/blog/testing-quarkus-with-citrus/</id>
     <link href="https://quarkus.io/blog/testing-quarkus-with-citrus/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Testing Quarkus with Citrus</title>
+    <title>JBoss Blogs: Testing Quarkus with Citrus</title>
     <updated>2023-12-04T00:00:00Z</updated>
     <id>https://quarkus.io/blog/testing-quarkus-with-citrus/</id>
     <link href="https://quarkus.io/blog/testing-quarkus-with-citrus/" rel="alternate"></link>
@@ -120,6 +134,13 @@
     <updated>2023-12-01T09:48:00Z</updated>
     <id>https://www.mastertheboss.com/various-stuff/testing-java/testcontainers-to-test-jpa-applications/</id>
     <link href="https://www.mastertheboss.com/various-stuff/testing-java/testcontainers-to-test-jpa-applications/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Java 17 will be the minimum version for Quarkus 3.7</title>
+    <updated>2023-11-30T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/java-17/</id>
+    <link href="https://quarkus.io/blog/java-17/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -134,13 +155,6 @@
     <updated>2023-11-30T00:00:00Z</updated>
     <id>https://wildfly.org//news/2023/11/30/intro-to-the-various-java-based-k8s-oc-tools/</id>
     <link href="https://wildfly.org//news/2023/11/30/intro-to-the-various-java-based-k8s-oc-tools/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Java 17 will be the minimum version for Quarkus 3.7</title>
-    <updated>2023-11-30T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/java-17/</id>
-    <link href="https://quarkus.io/blog/java-17/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -172,13 +186,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.6.0 released - SSE improvements, OIDC and security-related enhancements</title>
-    <updated>2023-11-29T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-6-0-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-6-0-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: SmallRye Stork Unwrapped: Exploring New Features and Enhancements</title>
     <updated>2023-11-23T00:00:00Z</updated>
     <id>https://quarkus.io/blog/stork-latest-news/</id>
@@ -204,13 +211,6 @@
     <updated>2023-11-16T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-5-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-5-2-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: When Quarkus meets LangChain4j</title>
-    <updated>2023-11-15T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-meets-langchain4j/</id>
-    <link href="https://quarkus.io/blog/quarkus-meets-langchain4j/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -249,17 +249,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Try Camel on Quarkus in the Developer Sandbox for Red Hat OpenShift</title>
-    <updated>2023-10-06T07:00:00Z</updated>
-    <id>c7e19de1-859c-41da-bf71-75056f779eea</id>
-    <link href="https://developers.redhat.com/articles/2023/10/06/try-camel-quarkus-developer-sandbox-red-hat-openshift" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Use fwupd to deploy Linux firmware updates and more</title>
     <updated>2023-10-06T07:00:00Z</updated>
     <id>b2def651-6552-4b46-a5f6-ca44020e7973</id>
     <link href="https://developers.redhat.com/articles/2023/10/06/use-fwupd-deploy-linux-firmware-updates-and-more" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Try Camel on Quarkus in the Developer Sandbox for Red Hat OpenShift</title>
+    <updated>2023-10-06T07:00:00Z</updated>
+    <id>c7e19de1-859c-41da-bf71-75056f779eea</id>
+    <link href="https://developers.redhat.com/articles/2023/10/06/try-camel-quarkus-developer-sandbox-red-hat-openshift" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -291,17 +291,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
     <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
