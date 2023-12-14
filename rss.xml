@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-12-14T06:12:18Z</updated>
+  <updated>2023-12-14T12:16:41Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>JBoss Blogs: Infinispan kNN Vector Search</title>
+    <updated>2023-12-13T19:37:00Z</updated>
+    <id>https://infinispan.org/blog/2023/12/13/infinispan-vector-search</id>
+    <link href="https://infinispan.org/blog/2023/12/13/infinispan-vector-search" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JBoss Blogs: Quarkus 3.6.3 released - Maintenance release</title>
     <updated>2023-12-13T00:00:00Z</updated>
@@ -32,13 +39,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Securing WildFly Apps with Auth0 on OpenShift</title>
-    <updated>2023-12-12T00:00:00Z</updated>
-    <id>https://wildfly-security.github.io/wildfly-elytron/blog/securing-wildfly-apps-auth0-openshift/</id>
-    <link href="https://wildfly-security.github.io/wildfly-elytron/blog/securing-wildfly-apps-auth0-openshift/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Quarkus Newsletter #39 - December</title>
     <updated>2023-12-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-39/</id>
@@ -50,6 +50,13 @@
     <updated>2023-12-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-39/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-39/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Securing WildFly Apps with Auth0 on OpenShift</title>
+    <updated>2023-12-12T00:00:00Z</updated>
+    <id>https://wildfly-security.github.io/wildfly-elytron/blog/securing-wildfly-apps-auth0-openshift/</id>
+    <link href="https://wildfly-security.github.io/wildfly-elytron/blog/securing-wildfly-apps-auth0-openshift/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -123,14 +130,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Testing Quarkus with Citrus</title>
+    <title>Quarkus: Testing Quarkus with Citrus</title>
     <updated>2023-12-04T00:00:00Z</updated>
     <id>https://quarkus.io/blog/testing-quarkus-with-citrus/</id>
     <link href="https://quarkus.io/blog/testing-quarkus-with-citrus/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Testing Quarkus with Citrus</title>
+    <title>JBoss Blogs: Testing Quarkus with Citrus</title>
     <updated>2023-12-04T00:00:00Z</updated>
     <id>https://quarkus.io/blog/testing-quarkus-with-citrus/</id>
     <link href="https://quarkus.io/blog/testing-quarkus-with-citrus/" rel="alternate"></link>
@@ -169,13 +176,6 @@
     <updated>2023-11-29T16:06:30Z</updated>
     <id>https://www.mastertheboss.com/hibernate-jpa/quickstart-tutorials-hibernate-jpa/hibernate-softdelete-step-by-step-guide/</id>
     <link href="https://www.mastertheboss.com/hibernate-jpa/quickstart-tutorials-hibernate-jpa/hibernate-softdelete-step-by-step-guide/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Default parameters for Java methods: 5 Approaches</title>
-    <updated>2023-11-29T14:52:37Z</updated>
-    <id>https://www.mastertheboss.com/java/5-ways-to-emulate-default-parameter-values-in-java/</id>
-    <link href="https://www.mastertheboss.com/java/5-ways-to-emulate-default-parameter-values-in-java/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -235,17 +235,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: An MIR-based JIT prototype for Ruby</title>
-    <updated>2023-10-09T07:00:00Z</updated>
-    <id>d1945731-4f23-412d-9e73-1617566944e0</id>
-    <link href="https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Load balancing, threading, and scaling in Node.js</title>
     <updated>2023-10-09T07:00:00Z</updated>
     <id>13a0b0fc-74fe-4f0a-9a6a-5c3d3a10edd0</id>
     <link href="https://developers.redhat.com/articles/2023/10/09/load-balancing-threading-and-scaling-nodejs" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: An MIR-based JIT prototype for Ruby</title>
+    <updated>2023-10-09T07:00:00Z</updated>
+    <id>d1945731-4f23-412d-9e73-1617566944e0</id>
+    <link href="https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
