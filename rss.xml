@@ -1,8 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-12-14T12:16:41Z</updated>
+  <updated>2023-12-14T18:11:38Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>JBoss Blogs: Containerizing virtual thread applications</title>
+    <updated>2023-12-14T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/virtual-threads-6/</id>
+    <link href="https://quarkus.io/blog/virtual-threads-6/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Containerizing virtual thread applications</title>
+    <updated>2023-12-14T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/virtual-threads-6/</id>
+    <link href="https://quarkus.io/blog/virtual-threads-6/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JBoss Blogs: Infinispan kNN Vector Search</title>
     <updated>2023-12-13T19:37:00Z</updated>
@@ -102,14 +116,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.6.1 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.6.1 released - Maintenance release</title>
     <updated>2023-12-06T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-6-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-6-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.6.1 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.6.1 released - Maintenance release</title>
     <updated>2023-12-06T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-6-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-6-1-released/" rel="alternate"></link>
@@ -130,14 +144,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Testing Quarkus with Citrus</title>
+    <title>JBoss Blogs: Testing Quarkus with Citrus</title>
     <updated>2023-12-04T00:00:00Z</updated>
     <id>https://quarkus.io/blog/testing-quarkus-with-citrus/</id>
     <link href="https://quarkus.io/blog/testing-quarkus-with-citrus/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Testing Quarkus with Citrus</title>
+    <title>Quarkus: Testing Quarkus with Citrus</title>
     <updated>2023-12-04T00:00:00Z</updated>
     <id>https://quarkus.io/blog/testing-quarkus-with-citrus/</id>
     <link href="https://quarkus.io/blog/testing-quarkus-with-citrus/" rel="alternate"></link>
@@ -151,13 +165,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Java 17 will be the minimum version for Quarkus 3.7</title>
-    <updated>2023-11-30T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/java-17/</id>
-    <link href="https://quarkus.io/blog/java-17/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Introduction to the various Java based Kubernetes/OpenShift tools and their usages in WildFly related projects</title>
     <updated>2023-11-30T00:00:00Z</updated>
     <id>https://wildfly.org//news/2023/11/30/intro-to-the-various-java-based-k8s-oc-tools/</id>
@@ -165,17 +172,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Java 17 will be the minimum version for Quarkus 3.7</title>
+    <title>JBoss Blogs: Java 17 will be the minimum version for Quarkus 3.7</title>
     <updated>2023-11-30T00:00:00Z</updated>
     <id>https://quarkus.io/blog/java-17/</id>
     <link href="https://quarkus.io/blog/java-17/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Hibernate @SoftDelete Step-by-Step Guide</title>
-    <updated>2023-11-29T16:06:30Z</updated>
-    <id>https://www.mastertheboss.com/hibernate-jpa/quickstart-tutorials-hibernate-jpa/hibernate-softdelete-step-by-step-guide/</id>
-    <link href="https://www.mastertheboss.com/hibernate-jpa/quickstart-tutorials-hibernate-jpa/hibernate-softdelete-step-by-step-guide/" rel="alternate"></link>
+    <title>Quarkus: Java 17 will be the minimum version for Quarkus 3.7</title>
+    <updated>2023-11-30T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/java-17/</id>
+    <link href="https://quarkus.io/blog/java-17/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -204,13 +211,6 @@
     <updated>2023-11-20T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-9-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-2-9-final-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.5.2 released - Maintenance release</title>
-    <updated>2023-11-16T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-5-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-5-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -270,17 +270,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: 5 steps to build a self-healing server with Alertmanager</title>
-    <updated>2023-10-04T07:00:00Z</updated>
-    <id>ed9796c0-ae2f-4035-8f79-cd80e60a3cc1</id>
-    <link href="https://developers.redhat.com/articles/2023/10/04/5-steps-build-self-healing-server-alertmanager" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: About Argo CD ApplicationSet and SCM Provider generator</title>
     <updated>2023-10-04T07:00:00Z</updated>
     <id>eb3cab1e-7d1d-407e-815c-071817e984fe</id>
     <link href="https://developers.redhat.com/articles/2023/10/04/about-argo-cd-applicationset-and-scm-provider-generator" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: 5 steps to build a self-healing server with Alertmanager</title>
+    <updated>2023-10-04T07:00:00Z</updated>
+    <id>ed9796c0-ae2f-4035-8f79-cd80e60a3cc1</id>
+    <link href="https://developers.redhat.com/articles/2023/10/04/5-steps-build-self-healing-server-alertmanager" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -291,17 +291,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
-    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
     <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
