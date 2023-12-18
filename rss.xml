@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-12-18T12:17:14Z</updated>
+  <updated>2023-12-18T18:11:38Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: How to run Vaadin in Jakarta EE Containers</title>
@@ -39,6 +39,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Infinispan 15.0.0.Dev06</title>
+    <updated>2023-12-14T00:00:00Z</updated>
+    <id>https://infinispan.org/blog/2023/12/13/infinispan-15dev06</id>
+    <link href="https://infinispan.org/blog/2023/12/13/infinispan-15dev06" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Containerizing virtual thread applications</title>
     <updated>2023-12-14T00:00:00Z</updated>
     <id>https://quarkus.io/blog/virtual-threads-6/</id>
@@ -60,7 +67,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.6.3 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.6.3 released - Maintenance release</title>
     <updated>2023-12-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-6-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-6-3-released/" rel="alternate"></link>
@@ -74,7 +81,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.6.3 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.6.3 released - Maintenance release</title>
     <updated>2023-12-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-6-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-6-3-released/" rel="alternate"></link>
@@ -88,6 +95,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Quarkus Newsletter #39 - December</title>
+    <updated>2023-12-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-39/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-39/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Securing WildFly Apps with Auth0 on OpenShift</title>
     <updated>2023-12-12T00:00:00Z</updated>
     <id>https://wildfly-security.github.io/wildfly-elytron/blog/securing-wildfly-apps-auth0-openshift/</id>
@@ -96,13 +110,6 @@
   </entry>
   <entry>
     <title>JBoss Blogs: Quarkus Newsletter #39 - December</title>
-    <updated>2023-12-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-39/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-39/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus Newsletter #39 - December</title>
     <updated>2023-12-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-39/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-39/" rel="alternate"></link>
@@ -165,13 +172,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: WildFly Helm Charts with custom configuration</title>
-    <updated>2023-12-05T12:32:54Z</updated>
-    <id>https://www.mastertheboss.com/soa-cloud/openshift/wildfly-helm-charts-with-custom-configuration/</id>
-    <link href="https://www.mastertheboss.com/soa-cloud/openshift/wildfly-helm-charts-with-custom-configuration/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Testing Quarkus with Citrus</title>
     <updated>2023-12-04T00:00:00Z</updated>
     <id>https://quarkus.io/blog/testing-quarkus-with-citrus/</id>
@@ -221,17 +221,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to validate GitOps manifests</title>
-    <updated>2023-10-10T07:00:00Z</updated>
-    <id>95d3a2f7-477c-4c56-8894-124fa034c2c2</id>
-    <link href="https://developers.redhat.com/articles/2023/10/10/how-validate-gitops-manifests" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: How custom SELinux policies secure servers and containers</title>
     <updated>2023-10-10T07:00:00Z</updated>
     <id>d6e91ea0-1d78-423b-a69e-d1fcca624933</id>
     <link href="https://developers.redhat.com/articles/2023/10/10/how-custom-selinux-policies-secure-servers-and-containers" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How to validate GitOps manifests</title>
+    <updated>2023-10-10T07:00:00Z</updated>
+    <id>95d3a2f7-477c-4c56-8894-124fa034c2c2</id>
+    <link href="https://developers.redhat.com/articles/2023/10/10/how-validate-gitops-manifests" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
