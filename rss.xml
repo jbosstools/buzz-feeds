@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-12-18T06:12:43Z</updated>
+  <updated>2023-12-18T12:17:14Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>JBoss Blogs: How to run Vaadin in Jakarta EE Containers</title>
+    <updated>2023-12-18T09:55:46Z</updated>
+    <id>https://www.mastertheboss.com/web/vaadin/how-to-run-vaadin-in-jakarta-ee-containers/</id>
+    <link href="https://www.mastertheboss.com/web/vaadin/how-to-run-vaadin-in-jakarta-ee-containers/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JBoss Blogs: Exploring OpenJDK 17 Images: A Comprehensive guide</title>
     <updated>2023-12-16T14:09:42Z</updated>
@@ -53,17 +60,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Eclipse Vert.x 4.5.1 released!</title>
-    <updated>2023-12-13T00:00:00Z</updated>
-    <id>https://vertx.io/blog/eclipse-vert-x-4-5-1</id>
-    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-1" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.6.3 released - Maintenance release</title>
     <updated>2023-12-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-6-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-6-3-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Eclipse Vert.x 4.5.1 released!</title>
+    <updated>2023-12-13T00:00:00Z</updated>
+    <id>https://vertx.io/blog/eclipse-vert-x-4-5-1</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-1" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -88,14 +95,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus Newsletter #39 - December</title>
+    <title>JBoss Blogs: Quarkus Newsletter #39 - December</title>
     <updated>2023-12-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-39/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-39/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus Newsletter #39 - December</title>
+    <title>Quarkus: Quarkus Newsletter #39 - December</title>
     <updated>2023-12-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-39/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-39/" rel="alternate"></link>
@@ -162,13 +169,6 @@
     <updated>2023-12-05T12:32:54Z</updated>
     <id>https://www.mastertheboss.com/soa-cloud/openshift/wildfly-helm-charts-with-custom-configuration/</id>
     <link href="https://www.mastertheboss.com/soa-cloud/openshift/wildfly-helm-charts-with-custom-configuration/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: WildFly 30.0.1 is released!</title>
-    <updated>2023-12-05T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2023/12/05/WildFly3001-Released/</id>
-    <link href="https://wildfly.org//news/2023/12/05/WildFly3001-Released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
