@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2023-12-18T18:11:38Z</updated>
+  <updated>2023-12-19T00:41:57Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: How to run Vaadin in Jakarta EE Containers</title>
@@ -67,6 +67,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Quarkus 3.6.3 released - Maintenance release</title>
+    <updated>2023-12-13T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-6-3-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-6-3-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Quarkus 3.6.3 released - Maintenance release</title>
     <updated>2023-12-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-6-3-released/</id>
@@ -78,13 +85,6 @@
     <updated>2023-12-13T00:00:00Z</updated>
     <id>https://vertx.io/blog/eclipse-vert-x-4-5-1</id>
     <link href="https://vertx.io/blog/eclipse-vert-x-4-5-1" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.6.3 released - Maintenance release</title>
-    <updated>2023-12-13T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-6-3-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-6-3-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -158,14 +158,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.6.1 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.6.1 released - Maintenance release</title>
     <updated>2023-12-06T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-6-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-6-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.6.1 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.6.1 released - Maintenance release</title>
     <updated>2023-12-06T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-6-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-6-1-released/" rel="alternate"></link>
@@ -221,17 +221,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How custom SELinux policies secure servers and containers</title>
-    <updated>2023-10-10T07:00:00Z</updated>
-    <id>d6e91ea0-1d78-423b-a69e-d1fcca624933</id>
-    <link href="https://developers.redhat.com/articles/2023/10/10/how-custom-selinux-policies-secure-servers-and-containers" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: How to validate GitOps manifests</title>
     <updated>2023-10-10T07:00:00Z</updated>
     <id>95d3a2f7-477c-4c56-8894-124fa034c2c2</id>
     <link href="https://developers.redhat.com/articles/2023/10/10/how-validate-gitops-manifests" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How custom SELinux policies secure servers and containers</title>
+    <updated>2023-10-10T07:00:00Z</updated>
+    <id>d6e91ea0-1d78-423b-a69e-d1fcca624933</id>
+    <link href="https://developers.redhat.com/articles/2023/10/10/how-custom-selinux-policies-secure-servers-and-containers" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
