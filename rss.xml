@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-01-30T18:11:03Z</updated>
+  <updated>2024-01-31T00:40:34Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>JBoss Blogs: Maven is using the wrong version: Explained</title>
+    <updated>2024-01-30T17:31:27Z</updated>
+    <id>https://www.mastertheboss.com/java/maven-is-using-the-wrong-version-explained/</id>
+    <link href="https://www.mastertheboss.com/java/maven-is-using-the-wrong-version-explained/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JBoss Blogs: How to use Hidden Classes in Java</title>
     <updated>2024-01-30T15:49:08Z</updated>
@@ -18,17 +25,24 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Eclipse Vert.x 4.5.2 released!</title>
+    <updated>2024-01-30T00:00:00Z</updated>
+    <id>https://vertx.io/blog/eclipse-vert-x-4-5-2</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-2" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Eclipse Vert.x 4.4.7 released!</title>
+    <updated>2024-01-30T00:00:00Z</updated>
+    <id>https://vertx.io/blog/eclipse-vert-x-4-4-7</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-4-4-7" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Modern Java Pocket Guide available</title>
     <updated>2024-01-29T08:27:50Z</updated>
     <id>https://www.mastertheboss.com/java/modern-java-pocket-guide-available/</id>
     <link href="https://www.mastertheboss.com/java/modern-java-pocket-guide-available/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: The developer's guide to Kubernetes Operators</title>
-    <updated>2024-01-29T07:00:00Z</updated>
-    <id>255cb02a-1ee0-4983-b4bf-2f338ca14c96</id>
-    <link href="https://developers.redhat.com/articles/2024/01/29/developers-guide-kubernetes-operators" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -39,10 +53,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: WildFly Glow, an evolution of WildFly provisioning</title>
-    <updated>2024-01-29T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/01/29/wildfly-glow/</id>
-    <link href="https://wildfly.org//news/2024/01/29/wildfly-glow/" rel="alternate"></link>
+    <title>Red Hat Developer: The developer's guide to Kubernetes Operators</title>
+    <updated>2024-01-29T07:00:00Z</updated>
+    <id>255cb02a-1ee0-4983-b4bf-2f338ca14c96</id>
+    <link href="https://developers.redhat.com/articles/2024/01/29/developers-guide-kubernetes-operators" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -50,6 +64,13 @@
     <updated>2024-01-29T00:00:00Z</updated>
     <id>https://www.keycloak.org/2024/01/keycloak-2305-released</id>
     <link href="https://www.keycloak.org/2024/01/keycloak-2305-released" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: WildFly Glow, an evolution of WildFly provisioning</title>
+    <updated>2024-01-29T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2024/01/29/wildfly-glow/</id>
+    <link href="https://wildfly.org//news/2024/01/29/wildfly-glow/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -74,17 +95,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: WildFly Guides</title>
-    <updated>2024-01-26T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/01/26/WildFly-Guides/</id>
-    <link href="https://wildfly.org//news/2024/01/26/WildFly-Guides/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.2.10.Final released - Maintenance LTS release</title>
     <updated>2024-01-26T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-10-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-2-10-final-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: WildFly Guides</title>
+    <updated>2024-01-26T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2024/01/26/WildFly-Guides/</id>
+    <link href="https://wildfly.org//news/2024/01/26/WildFly-Guides/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -95,17 +116,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Implement MLOps with Kubeflow Pipelines</title>
-    <updated>2024-01-25T07:00:00Z</updated>
-    <id>a2ae58f5-7c0b-45ea-a76a-91fb30ccd120</id>
-    <link href="https://developers.redhat.com/articles/2024/01/25/implement-mlops-kubeflow-pipelines" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Network observability with eBPF on single node OpenShift</title>
     <updated>2024-01-25T07:00:00Z</updated>
     <id>1255f610-5f17-4953-aff4-1a835c2e879c</id>
     <link href="https://developers.redhat.com/articles/2024/01/25/network-observability-ebpf-single-node-openshift" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Implement MLOps with Kubeflow Pipelines</title>
+    <updated>2024-01-25T07:00:00Z</updated>
+    <id>a2ae58f5-7c0b-45ea-a76a-91fb30ccd120</id>
+    <link href="https://developers.redhat.com/articles/2024/01/25/implement-mlops-kubeflow-pipelines" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -137,13 +158,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: resteasy-grpc: Handling arrays</title>
-    <updated>2024-01-23T00:00:00Z</updated>
-    <id>https://resteasy.dev/2024/01/23/grpc-jakarta-rs-arrays/</id>
-    <link href="https://resteasy.dev/2024/01/23/grpc-jakarta-rs-arrays/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.6.7 released - Maintenance release</title>
     <updated>2024-01-23T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-6-7-released/</id>
@@ -155,6 +169,13 @@
     <updated>2024-01-23T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-6-7-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-6-7-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: resteasy-grpc: Handling arrays</title>
+    <updated>2024-01-23T00:00:00Z</updated>
+    <id>https://resteasy.dev/2024/01/23/grpc-jakarta-rs-arrays/</id>
+    <link href="https://resteasy.dev/2024/01/23/grpc-jakarta-rs-arrays/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -193,13 +214,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus documentation, now with full-text search!</title>
-    <updated>2024-01-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/search-quarkus-io/</id>
-    <link href="https://quarkus.io/blog/search-quarkus-io/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Deploying a WildFly 30.0.1.Final cluster using Ansible</title>
     <updated>2024-01-18T00:00:00Z</updated>
     <id>https://wildfly.org//news/2024/01/18/ansible-wildfly/</id>
@@ -207,7 +221,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus documentation, now with full-text search!</title>
+    <title>Quarkus: Quarkus documentation, now with full-text search!</title>
     <updated>2024-01-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/search-quarkus-io/</id>
     <link href="https://quarkus.io/blog/search-quarkus-io/" rel="alternate"></link>
@@ -218,20 +232,6 @@
     <updated>2024-01-17T07:00:00Z</updated>
     <id>c111124b-248c-4e1c-8d4d-d72d3ac6ae63</id>
     <link href="https://developers.redhat.com/articles/2024/01/17/monolith-microservices-breaking-down-apps-useful-way" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: WildFly: How to store sessions in the Database</title>
-    <updated>2024-01-16T12:20:20Z</updated>
-    <id>https://www.mastertheboss.com/jbossas/jboss-cluster/wildfly-how-to-store-sessions-in-the-database/</id>
-    <link href="https://www.mastertheboss.com/jbossas/jboss-cluster/wildfly-how-to-store-sessions-in-the-database/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.6.6 released - Maintenance release</title>
-    <updated>2024-01-16T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-6-6-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-6-6-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -291,17 +291,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
     <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
