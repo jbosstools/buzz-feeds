@@ -1,8 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-02-01T12:15:13Z</updated>
+  <updated>2024-02-01T18:10:46Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: How to configure granular access in OpenShift Dev Spaces</title>
+    <updated>2024-02-01T14:00:00Z</updated>
+    <id>08a6220d-2337-477e-90eb-ebf455edffbd</id>
+    <link href="https://developers.redhat.com/articles/2024/02/01/how-configure-granular-access-openshift-dev-spaces" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How to deploy Meteor.js applications to OpenShift</title>
+    <updated>2024-02-01T14:00:00Z</updated>
+    <id>67dfddaf-e149-46cc-9ae8-fbb7c7b58314</id>
+    <link href="https://developers.redhat.com/articles/2024/02/01/how-deploy-meteorjs-applications-openshift" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JBoss Blogs: RabbitMQ with Docker: A Comprehensive Guide</title>
     <updated>2024-01-31T09:49:10Z</updated>
@@ -22,6 +36,27 @@
     <updated>2024-01-31T00:00:00Z</updated>
     <id>https://wildfly.org//news/2024/01/31/whats-new-in-provisioning/</id>
     <link href="https://wildfly.org//news/2024/01/31/whats-new-in-provisioning/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Using WildFly Glow to provision a WildFly server for a RESTEasy based project</title>
+    <updated>2024-01-31T00:00:00Z</updated>
+    <id>https://resteasy.dev/2024/01/31/resteasy-glow/</id>
+    <link href="https://resteasy.dev/2024/01/31/resteasy-glow/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.7 - Java 17 baseline, Hibernate ORM 6.4, @MeterTag...</title>
+    <updated>2024-01-31T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-7-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-7-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.7 - Java 17 baseline, Hibernate ORM 6.4, @MeterTag...</title>
+    <updated>2024-01-31T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-7-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-7-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -109,14 +144,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.2.10.Final released - Maintenance LTS release</title>
+    <title>JBoss Blogs: Quarkus 3.2.10.Final released - Maintenance LTS release</title>
     <updated>2024-01-26T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-10-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-2-10-final-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.2.10.Final released - Maintenance LTS release</title>
+    <title>Quarkus: Quarkus 3.2.10.Final released - Maintenance LTS release</title>
     <updated>2024-01-26T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-10-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-2-10-final-released/" rel="alternate"></link>
@@ -137,17 +172,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Network observability with eBPF on single node OpenShift</title>
-    <updated>2024-01-25T07:00:00Z</updated>
-    <id>1255f610-5f17-4953-aff4-1a835c2e879c</id>
-    <link href="https://developers.redhat.com/articles/2024/01/25/network-observability-ebpf-single-node-openshift" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Implement MLOps with Kubeflow Pipelines</title>
     <updated>2024-01-25T07:00:00Z</updated>
     <id>a2ae58f5-7c0b-45ea-a76a-91fb30ccd120</id>
     <link href="https://developers.redhat.com/articles/2024/01/25/implement-mlops-kubeflow-pipelines" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Network observability with eBPF on single node OpenShift</title>
+    <updated>2024-01-25T07:00:00Z</updated>
+    <id>1255f610-5f17-4953-aff4-1a835c2e879c</id>
+    <link href="https://developers.redhat.com/articles/2024/01/25/network-observability-ebpf-single-node-openshift" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -172,17 +207,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Speed up Java application startup time with AppCDS</title>
-    <updated>2024-01-23T07:00:00Z</updated>
-    <id>f5d600b4-8e6d-421c-a17c-b922b0674e37</id>
-    <link href="https://developers.redhat.com/articles/2024/01/23/speed-java-application-startup-time-appcds" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: resteasy-grpc: Handling arrays</title>
+    <title>Quarkus: Quarkus 3.6.7 released - Maintenance release</title>
     <updated>2024-01-23T00:00:00Z</updated>
-    <id>https://resteasy.dev/2024/01/23/grpc-jakarta-rs-arrays/</id>
-    <link href="https://resteasy.dev/2024/01/23/grpc-jakarta-rs-arrays/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-6-7-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-6-7-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -193,10 +221,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.6.7 released - Maintenance release</title>
+    <title>JBoss Blogs: resteasy-grpc: Handling arrays</title>
     <updated>2024-01-23T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-6-7-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-6-7-released/" rel="alternate"></link>
+    <id>https://resteasy.dev/2024/01/23/grpc-jakarta-rs-arrays/</id>
+    <link href="https://resteasy.dev/2024/01/23/grpc-jakarta-rs-arrays/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -204,27 +232,6 @@
     <updated>2024-01-22T21:33:26Z</updated>
     <id>https://www.mastertheboss.com/various-stuff/ansible/managing-git-repositories-with-ansible/</id>
     <link href="https://www.mastertheboss.com/various-stuff/ansible/managing-git-repositories-with-ansible/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Convert CentOS Linux to RHEL using Red Hat Insights</title>
-    <updated>2024-01-22T07:00:00Z</updated>
-    <id>ff32cd5a-3c01-477d-9ebc-a54847644345</id>
-    <link href="https://developers.redhat.com/articles/2024/01/22/convert-centos-linux-rhel-using-red-hat-insights" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Getting started with FlyWay Database Migrations</title>
-    <updated>2024-01-19T15:50:07Z</updated>
-    <id>https://www.mastertheboss.com/various-stuff/flyway/getting-started-with-flyway/</id>
-    <link href="https://www.mastertheboss.com/various-stuff/flyway/getting-started-with-flyway/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Infinispan RESP in action: Resque use case</title>
-    <updated>2024-01-19T00:00:00Z</updated>
-    <id>https://infinispan.org/blog/2024/01/18/infinispan-resp-resque-use-case</id>
-    <link href="https://infinispan.org/blog/2024/01/18/infinispan-resp-resque-use-case" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -277,13 +284,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.6.3 released - Maintenance release</title>
-    <updated>2023-12-13T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-6-3-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-6-3-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.29.0.Final for Eclipse 2023-09</title>
     <updated>2023-11-02T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.29.0.final.html</id>
@@ -291,17 +291,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
-    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
     <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
