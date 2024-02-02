@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-02-02T06:11:26Z</updated>
+  <updated>2024-02-02T12:14:59Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: How to configure granular access in OpenShift Dev Spaces</title>
@@ -32,10 +32,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Using WildFly Glow to provision a WildFly server for a RESTEasy based project</title>
+    <title>JBoss Blogs: What's new in WildFly provisioning</title>
     <updated>2024-01-31T00:00:00Z</updated>
-    <id>https://resteasy.dev/2024/01/31/resteasy-glow/</id>
-    <link href="https://resteasy.dev/2024/01/31/resteasy-glow/" rel="alternate"></link>
+    <id>https://wildfly.org//news/2024/01/31/whats-new-in-provisioning/</id>
+    <link href="https://wildfly.org//news/2024/01/31/whats-new-in-provisioning/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -46,10 +46,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: What's new in WildFly provisioning</title>
+    <title>JBoss Blogs: Using WildFly Glow to provision a WildFly server for a RESTEasy based project</title>
     <updated>2024-01-31T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/01/31/whats-new-in-provisioning/</id>
-    <link href="https://wildfly.org//news/2024/01/31/whats-new-in-provisioning/" rel="alternate"></link>
+    <id>https://resteasy.dev/2024/01/31/resteasy-glow/</id>
+    <link href="https://resteasy.dev/2024/01/31/resteasy-glow/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -81,17 +81,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Eclipse Vert.x 4.4.7 released!</title>
-    <updated>2024-01-30T00:00:00Z</updated>
-    <id>https://vertx.io/blog/eclipse-vert-x-4-4-7</id>
-    <link href="https://vertx.io/blog/eclipse-vert-x-4-4-7" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Eclipse Vert.x 4.5.2 released!</title>
     <updated>2024-01-30T00:00:00Z</updated>
     <id>https://vertx.io/blog/eclipse-vert-x-4-5-2</id>
     <link href="https://vertx.io/blog/eclipse-vert-x-4-5-2" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Eclipse Vert.x 4.4.7 released!</title>
+    <updated>2024-01-30T00:00:00Z</updated>
+    <id>https://vertx.io/blog/eclipse-vert-x-4-4-7</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-4-4-7" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -144,6 +144,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Quarkus 3.2.10.Final released - Maintenance LTS release</title>
+    <updated>2024-01-26T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-2-10-final-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-2-10-final-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: WildFly Guides</title>
     <updated>2024-01-26T00:00:00Z</updated>
     <id>https://wildfly.org//news/2024/01/26/WildFly-Guides/</id>
@@ -152,13 +159,6 @@
   </entry>
   <entry>
     <title>Quarkus: Quarkus 3.2.10.Final released - Maintenance LTS release</title>
-    <updated>2024-01-26T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-2-10-final-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-2-10-final-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.2.10.Final released - Maintenance LTS release</title>
     <updated>2024-01-26T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-10-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-2-10-final-released/" rel="alternate"></link>
@@ -214,17 +214,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: resteasy-grpc: Handling arrays</title>
-    <updated>2024-01-23T00:00:00Z</updated>
-    <id>https://resteasy.dev/2024/01/23/grpc-jakarta-rs-arrays/</id>
-    <link href="https://resteasy.dev/2024/01/23/grpc-jakarta-rs-arrays/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.6.7 released - Maintenance release</title>
     <updated>2024-01-23T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-6-7-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-6-7-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: resteasy-grpc: Handling arrays</title>
+    <updated>2024-01-23T00:00:00Z</updated>
+    <id>https://resteasy.dev/2024/01/23/grpc-jakarta-rs-arrays/</id>
+    <link href="https://resteasy.dev/2024/01/23/grpc-jakarta-rs-arrays/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -291,17 +291,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
-    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
     <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -627,17 +627,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
-    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
     <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
