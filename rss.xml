@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-02-08T06:12:13Z</updated>
+  <updated>2024-02-08T12:15:04Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: How to visualize your OpenSCAP compliance reports</title>
+    <updated>2024-02-08T07:00:00Z</updated>
+    <id>b16327bf-57a7-462e-a4bd-2069dbfacfe1</id>
+    <link href="https://developers.redhat.com/articles/2024/02/08/how-visualize-your-openscap-compliance-reports" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JBoss Blogs: Configuring WildFly stability levels</title>
     <updated>2024-02-07T18:06:49Z</updated>
@@ -95,17 +102,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Keycloak 23.0.6 released</title>
-    <updated>2024-02-02T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/02/keycloak-2306-released</id>
-    <link href="https://www.keycloak.org/2024/02/keycloak-2306-released" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Using Infinispan Server for your Redis clients</title>
     <updated>2024-02-02T00:00:00Z</updated>
     <id>https://infinispan.org/blog/2024/02/02/infinispan-server-redis-clients</id>
     <link href="https://infinispan.org/blog/2024/02/02/infinispan-server-redis-clients" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Keycloak 23.0.6 released</title>
+    <updated>2024-02-02T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/02/keycloak-2306-released</id>
+    <link href="https://www.keycloak.org/2024/02/keycloak-2306-released" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -197,13 +204,6 @@
     <updated>2024-01-29T08:27:50Z</updated>
     <id>https://www.mastertheboss.com/java/modern-java-pocket-guide-available/</id>
     <link href="https://www.mastertheboss.com/java/modern-java-pocket-guide-available/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: The developer's guide to Kubernetes Operators</title>
-    <updated>2024-01-29T07:00:00Z</updated>
-    <id>255cb02a-1ee0-4983-b4bf-2f338ca14c96</id>
-    <link href="https://developers.redhat.com/articles/2024/01/29/developers-guide-kubernetes-operators" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
