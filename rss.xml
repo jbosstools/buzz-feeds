@@ -1,20 +1,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-02-07T18:10:56Z</updated>
+  <updated>2024-02-08T00:39:06Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>JBoss Blogs: Configuring WildFly stability levels</title>
+    <updated>2024-02-07T18:06:49Z</updated>
+    <id>https://www.mastertheboss.com/jbossas/jboss-configuration/configuring-wildfly-stability-levels/</id>
+    <link href="https://www.mastertheboss.com/jbossas/jboss-configuration/configuring-wildfly-stability-levels/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Red Hat Developer: How to use LLMs in Java with LangChain4j and Quarkus</title>
     <updated>2024-02-07T07:00:00Z</updated>
     <id>67865431-234a-488f-a811-5f1e4679940b</id>
     <link href="https://developers.redhat.com/articles/2024/02/07/how-use-llms-java-langchain4j-and-quarkus" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Eclipse Vert.x 4.4.8 released!</title>
-    <updated>2024-02-07T00:00:00Z</updated>
-    <id>https://vertx.io/blog/eclipse-vert-x-4-4-8</id>
-    <link href="https://vertx.io/blog/eclipse-vert-x-4-4-8" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -25,10 +25,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to integrate Quarkus applications with OpenShift AI</title>
-    <updated>2024-02-06T07:00:00Z</updated>
-    <id>b242953f-63a0-40a5-be48-a16d40567e85</id>
-    <link href="https://developers.redhat.com/articles/2024/02/06/how-integrate-quarkus-applications-openshift-ai" rel="alternate"></link>
+    <title>JBoss Blogs: Eclipse Vert.x 4.4.8 released!</title>
+    <updated>2024-02-07T00:00:00Z</updated>
+    <id>https://vertx.io/blog/eclipse-vert-x-4-4-8</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-4-4-8" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -36,6 +36,13 @@
     <updated>2024-02-06T07:00:00Z</updated>
     <id>2f1a577f-f5c0-4c99-af1f-543854ea1d13</id>
     <link href="https://developers.redhat.com/articles/2024/02/06/security-policies-open-source-software" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How to integrate Quarkus applications with OpenShift AI</title>
+    <updated>2024-02-06T07:00:00Z</updated>
+    <id>b242953f-63a0-40a5-be48-a16d40567e85</id>
+    <link href="https://developers.redhat.com/articles/2024/02/06/how-integrate-quarkus-applications-openshift-ai" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -60,6 +67,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Vlog: Introduction to WildFly Glow</title>
+    <updated>2024-02-05T00:00:00Z</updated>
+    <id>https://www.youtube.com/watch?v=kt8pTDmTitw</id>
+    <link href="https://www.youtube.com/watch?v=kt8pTDmTitw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: WildFly testing with WildFly Glow</title>
     <updated>2024-02-05T00:00:00Z</updated>
     <id>https://wildfly.org//news/2024/02/05/testing-with-wildfly-glow/</id>
@@ -74,24 +88,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Vlog: Introduction to WildFly Glow</title>
-    <updated>2024-02-05T00:00:00Z</updated>
-    <id>https://www.youtube.com/watch?v=kt8pTDmTitw</id>
-    <link href="https://www.youtube.com/watch?v=kt8pTDmTitw" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: WildFly Glow: Next-Gen Evolution in Provisioning</title>
     <updated>2024-02-02T15:06:23Z</updated>
     <id>https://www.mastertheboss.com/jbossas/jboss-configuration/wildfly-glow-next-gen-evolution-in-provisioning/</id>
     <link href="https://www.mastertheboss.com/jbossas/jboss-configuration/wildfly-glow-next-gen-evolution-in-provisioning/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Using Infinispan Server for your Redis clients</title>
-    <updated>2024-02-02T00:00:00Z</updated>
-    <id>https://infinispan.org/blog/2024/02/02/infinispan-server-redis-clients</id>
-    <link href="https://infinispan.org/blog/2024/02/02/infinispan-server-redis-clients" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -102,10 +102,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to configure granular access in OpenShift Dev Spaces</title>
-    <updated>2024-02-01T14:00:00Z</updated>
-    <id>08a6220d-2337-477e-90eb-ebf455edffbd</id>
-    <link href="https://developers.redhat.com/articles/2024/02/01/how-configure-granular-access-openshift-dev-spaces" rel="alternate"></link>
+    <title>JBoss Blogs: Using Infinispan Server for your Redis clients</title>
+    <updated>2024-02-02T00:00:00Z</updated>
+    <id>https://infinispan.org/blog/2024/02/02/infinispan-server-redis-clients</id>
+    <link href="https://infinispan.org/blog/2024/02/02/infinispan-server-redis-clients" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -113,6 +113,13 @@
     <updated>2024-02-01T14:00:00Z</updated>
     <id>67dfddaf-e149-46cc-9ae8-fbb7c7b58314</id>
     <link href="https://developers.redhat.com/articles/2024/02/01/how-deploy-meteorjs-applications-openshift" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How to configure granular access in OpenShift Dev Spaces</title>
+    <updated>2024-02-01T14:00:00Z</updated>
+    <id>08a6220d-2337-477e-90eb-ebf455edffbd</id>
+    <link href="https://developers.redhat.com/articles/2024/02/01/how-configure-granular-access-openshift-dev-spaces" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -211,13 +218,6 @@
     <updated>2024-01-29T00:00:00Z</updated>
     <id>https://www.keycloak.org/2024/01/keycloak-2305-released</id>
     <link href="https://www.keycloak.org/2024/01/keycloak-2305-released" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: TestContainers made simple with JBang</title>
-    <updated>2024-01-26T17:35:41Z</updated>
-    <id>https://www.mastertheboss.com/various-stuff/testing-java/testcontainers-made-simple-with-jbang/</id>
-    <link href="https://www.mastertheboss.com/various-stuff/testing-java/testcontainers-made-simple-with-jbang/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -627,17 +627,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
