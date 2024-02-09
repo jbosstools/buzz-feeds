@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-02-08T18:10:45Z</updated>
+  <updated>2024-02-09T00:38:46Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: How to visualize your OpenSCAP compliance reports</title>
@@ -158,10 +158,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.7 - Java 17 baseline, Hibernate ORM 6.4, @MeterTag...</title>
+    <title>JBoss Blogs: What's new in WildFly provisioning</title>
     <updated>2024-01-31T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-7-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-7-released/" rel="alternate"></link>
+    <id>https://wildfly.org//news/2024/01/31/whats-new-in-provisioning/</id>
+    <link href="https://wildfly.org//news/2024/01/31/whats-new-in-provisioning/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -172,10 +172,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: What's new in WildFly provisioning</title>
+    <title>Quarkus: Quarkus 3.7 - Java 17 baseline, Hibernate ORM 6.4, @MeterTag...</title>
     <updated>2024-01-31T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/01/31/whats-new-in-provisioning/</id>
-    <link href="https://wildfly.org//news/2024/01/31/whats-new-in-provisioning/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-7-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-7-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -291,17 +291,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
-    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
     <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
