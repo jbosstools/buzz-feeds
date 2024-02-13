@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-02-12T18:09:54Z</updated>
+  <updated>2024-02-13T00:40:37Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: JBoss EAP 8 Top 10 New Features</title>
@@ -46,14 +46,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.7.2 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.7.2 released - Maintenance release</title>
     <updated>2024-02-08T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-7-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-7-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.7.2 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.7.2 released - Maintenance release</title>
     <updated>2024-02-08T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-7-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-7-2-released/" rel="alternate"></link>
@@ -88,17 +88,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Security policies in open source software</title>
-    <updated>2024-02-06T07:00:00Z</updated>
-    <id>2f1a577f-f5c0-4c99-af1f-543854ea1d13</id>
-    <link href="https://developers.redhat.com/articles/2024/02/06/security-policies-open-source-software" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: How to integrate Quarkus applications with OpenShift AI</title>
     <updated>2024-02-06T07:00:00Z</updated>
     <id>b242953f-63a0-40a5-be48-a16d40567e85</id>
     <link href="https://developers.redhat.com/articles/2024/02/06/how-integrate-quarkus-applications-openshift-ai" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Security policies in open source software</title>
+    <updated>2024-02-06T07:00:00Z</updated>
+    <id>2f1a577f-f5c0-4c99-af1f-543854ea1d13</id>
+    <link href="https://developers.redhat.com/articles/2024/02/06/security-policies-open-source-software" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -123,17 +123,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: WildFly testing with WildFly Glow</title>
-    <updated>2024-02-05T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/02/05/testing-with-wildfly-glow/</id>
-    <link href="https://wildfly.org//news/2024/02/05/testing-with-wildfly-glow/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Vlog: Introduction to WildFly Glow</title>
     <updated>2024-02-05T00:00:00Z</updated>
     <id>https://www.youtube.com/watch?v=kt8pTDmTitw</id>
     <link href="https://www.youtube.com/watch?v=kt8pTDmTitw" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: WildFly testing with WildFly Glow</title>
+    <updated>2024-02-05T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2024/02/05/testing-with-wildfly-glow/</id>
+    <link href="https://wildfly.org//news/2024/02/05/testing-with-wildfly-glow/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -151,17 +151,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Using Infinispan Server for your Redis clients</title>
-    <updated>2024-02-02T00:00:00Z</updated>
-    <id>https://infinispan.org/blog/2024/02/02/infinispan-server-redis-clients</id>
-    <link href="https://infinispan.org/blog/2024/02/02/infinispan-server-redis-clients" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Keycloak 23.0.6 released</title>
     <updated>2024-02-02T00:00:00Z</updated>
     <id>https://www.keycloak.org/2024/02/keycloak-2306-released</id>
     <link href="https://www.keycloak.org/2024/02/keycloak-2306-released" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Using Infinispan Server for your Redis clients</title>
+    <updated>2024-02-02T00:00:00Z</updated>
+    <id>https://infinispan.org/blog/2024/02/02/infinispan-server-redis-clients</id>
+    <link href="https://infinispan.org/blog/2024/02/02/infinispan-server-redis-clients" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -186,17 +186,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.7 - Java 17 baseline, Hibernate ORM 6.4, @MeterTag...</title>
-    <updated>2024-01-31T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-7-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-7-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: What's new in WildFly provisioning</title>
     <updated>2024-01-31T00:00:00Z</updated>
     <id>https://wildfly.org//news/2024/01/31/whats-new-in-provisioning/</id>
     <link href="https://wildfly.org//news/2024/01/31/whats-new-in-provisioning/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.7 - Java 17 baseline, Hibernate ORM 6.4, @MeterTag...</title>
+    <updated>2024-01-31T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-7-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-7-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -291,17 +291,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
     <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -627,17 +627,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
