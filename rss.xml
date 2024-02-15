@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-02-15T12:15:06Z</updated>
+  <updated>2024-02-15T18:11:29Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: Automate JBoss Web Server 6 deployment with the Red Hat Ansible Certified Content Collection for JWS</title>
@@ -50,6 +50,20 @@
     <updated>2024-02-13T07:00:00Z</updated>
     <id>01b77d2d-6db2-47fe-bd18-17fe3b79b62a</id>
     <link href="https://developers.redhat.com/articles/2024/02/13/connect-quarkus-app-external-sql-server-database" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus Newsletter #41 - February</title>
+    <updated>2024-02-13T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-41/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-41/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus Newsletter #41 - February</title>
+    <updated>2024-02-13T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-41/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-41/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -123,13 +137,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Eclipse Vert.x 4.5.3 released!</title>
-    <updated>2024-02-07T00:00:00Z</updated>
-    <id>https://vertx.io/blog/eclipse-vert-x-4-5-3</id>
-    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-3" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Eclipse Vert.x 4.4.8 released!</title>
     <updated>2024-02-07T00:00:00Z</updated>
     <id>https://vertx.io/blog/eclipse-vert-x-4-4-8</id>
@@ -137,10 +144,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Security policies in open source software</title>
-    <updated>2024-02-06T07:00:00Z</updated>
-    <id>2f1a577f-f5c0-4c99-af1f-543854ea1d13</id>
-    <link href="https://developers.redhat.com/articles/2024/02/06/security-policies-open-source-software" rel="alternate"></link>
+    <title>JBoss Blogs: Eclipse Vert.x 4.5.3 released!</title>
+    <updated>2024-02-07T00:00:00Z</updated>
+    <id>https://vertx.io/blog/eclipse-vert-x-4-5-3</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-3" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -148,6 +155,13 @@
     <updated>2024-02-06T07:00:00Z</updated>
     <id>b242953f-63a0-40a5-be48-a16d40567e85</id>
     <link href="https://developers.redhat.com/articles/2024/02/06/how-integrate-quarkus-applications-openshift-ai" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Security policies in open source software</title>
+    <updated>2024-02-06T07:00:00Z</updated>
+    <id>2f1a577f-f5c0-4c99-af1f-543854ea1d13</id>
+    <link href="https://developers.redhat.com/articles/2024/02/06/security-policies-open-source-software" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -207,13 +221,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.7 - Java 17 baseline, Hibernate ORM 6.4, @MeterTag...</title>
-    <updated>2024-01-31T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-7-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-7-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: What's new in WildFly provisioning</title>
     <updated>2024-01-31T00:00:00Z</updated>
     <id>https://wildfly.org//news/2024/01/31/whats-new-in-provisioning/</id>
@@ -228,10 +235,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Maven is using the wrong version: Explained</title>
-    <updated>2024-01-30T17:31:27Z</updated>
-    <id>https://www.mastertheboss.com/java/maven-is-using-the-wrong-version-explained/</id>
-    <link href="https://www.mastertheboss.com/java/maven-is-using-the-wrong-version-explained/" rel="alternate"></link>
+    <title>Quarkus: Quarkus 3.7 - Java 17 baseline, Hibernate ORM 6.4, @MeterTag...</title>
+    <updated>2024-01-31T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-7-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-7-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -274,13 +281,6 @@
     <updated>2024-01-10T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-6-5-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-6-5-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.6.4 released - Maintenance release</title>
-    <updated>2023-12-20T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-6-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-6-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
