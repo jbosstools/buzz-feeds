@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-02-15T06:11:42Z</updated>
+  <updated>2024-02-15T12:15:06Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: Automate JBoss Web Server 6 deployment with the Red Hat Ansible Certified Content Collection for JWS</title>
+    <updated>2024-02-15T07:00:00Z</updated>
+    <id>5971029e-4574-4bb4-bb54-549b3cbb7887</id>
+    <link href="https://developers.redhat.com/articles/2024/02/15/automate-jboss-web-server-6-deployment-red-hat-ansible-certified-content" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JBoss Blogs: How to check configuration changes in WildFly</title>
     <updated>2024-02-14T15:58:49Z</updated>
@@ -116,17 +123,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Eclipse Vert.x 4.4.8 released!</title>
-    <updated>2024-02-07T00:00:00Z</updated>
-    <id>https://vertx.io/blog/eclipse-vert-x-4-4-8</id>
-    <link href="https://vertx.io/blog/eclipse-vert-x-4-4-8" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Eclipse Vert.x 4.5.3 released!</title>
     <updated>2024-02-07T00:00:00Z</updated>
     <id>https://vertx.io/blog/eclipse-vert-x-4-5-3</id>
     <link href="https://vertx.io/blog/eclipse-vert-x-4-5-3" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Eclipse Vert.x 4.4.8 released!</title>
+    <updated>2024-02-07T00:00:00Z</updated>
+    <id>https://vertx.io/blog/eclipse-vert-x-4-4-8</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-4-4-8" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -148,13 +155,6 @@
     <updated>2024-02-05T17:33:59Z</updated>
     <id>https://www.mastertheboss.com/various-stuff/testing-java/junit-5-displayname-for-custom-test-names/</id>
     <link href="https://www.mastertheboss.com/various-stuff/testing-java/junit-5-displayname-for-custom-test-names/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: What's new in JBoss Enterprise Application Platform 8.0</title>
-    <updated>2024-02-05T14:00:00Z</updated>
-    <id>45c0a195-69f8-4b22-a8f4-620ca81b6251</id>
-    <link href="https://developers.redhat.com/articles/2024/02/05/whats-new-jboss-enterprise-application-platform-8" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -186,17 +186,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Keycloak 23.0.6 released</title>
-    <updated>2024-02-02T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/02/keycloak-2306-released</id>
-    <link href="https://www.keycloak.org/2024/02/keycloak-2306-released" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Using Infinispan Server for your Redis clients</title>
     <updated>2024-02-02T00:00:00Z</updated>
     <id>https://infinispan.org/blog/2024/02/02/infinispan-server-redis-clients</id>
     <link href="https://infinispan.org/blog/2024/02/02/infinispan-server-redis-clients" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Keycloak 23.0.6 released</title>
+    <updated>2024-02-02T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/02/keycloak-2306-released</id>
+    <link href="https://www.keycloak.org/2024/02/keycloak-2306-released" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
