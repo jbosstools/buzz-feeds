@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-02-20T12:15:08Z</updated>
+  <updated>2024-02-20T18:12:58Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: mass-prebuild: An open source journey of improvement and growth</title>
@@ -11,17 +11,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Palo Alto Networks' NGFW now supporting OVN-Kubernetes</title>
-    <updated>2024-02-19T07:00:00Z</updated>
-    <id>6576efbc-0f6c-425f-8f88-dad5eb14b818</id>
-    <link href="https://developers.redhat.com/articles/2024/02/19/palo-alto-networks-ngfw-now-supporting-ovn-kubernetes" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Red Hat OpenShift Dev Spaces security best practices</title>
     <updated>2024-02-19T07:00:00Z</updated>
     <id>e7a7ac01-bf0a-4dc5-b2cc-7b6baa5f1244</id>
     <link href="https://developers.redhat.com/articles/2024/02/19/red-hat-openshift-dev-spaces-security-best-practices" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Palo Alto Networks' NGFW now supporting OVN-Kubernetes</title>
+    <updated>2024-02-19T07:00:00Z</updated>
+    <id>6576efbc-0f6c-425f-8f88-dad5eb14b818</id>
+    <link href="https://developers.redhat.com/articles/2024/02/19/palo-alto-networks-ngfw-now-supporting-ovn-kubernetes" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -39,13 +39,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: A deep dive into Stakater's Multi-Tenant Operator</title>
-    <updated>2024-02-14T07:00:00Z</updated>
-    <id>85f1866a-02d5-425b-9383-982c7850c257</id>
-    <link href="https://developers.redhat.com/articles/2024/02/14/deep-dive-stakaters-multi-tenant-operator" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Intel GPUs and OVMS: A winning combination for deep learning efficiency</title>
     <updated>2024-02-14T07:00:00Z</updated>
     <id>969b9439-7894-4449-853d-d76235ed0bb5</id>
@@ -53,14 +46,21 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.7.3 released - Maintenance release</title>
+    <title>Red Hat Developer: A deep dive into Stakater's Multi-Tenant Operator</title>
+    <updated>2024-02-14T07:00:00Z</updated>
+    <id>85f1866a-02d5-425b-9383-982c7850c257</id>
+    <link href="https://developers.redhat.com/articles/2024/02/14/deep-dive-stakaters-multi-tenant-operator" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.7.3 released - Maintenance release</title>
     <updated>2024-02-14T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-7-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-7-3-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.7.3 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.7.3 released - Maintenance release</title>
     <updated>2024-02-14T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-7-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-7-3-released/" rel="alternate"></link>
@@ -74,14 +74,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus Newsletter #41 - February</title>
+    <title>Quarkus: Quarkus Newsletter #41 - February</title>
     <updated>2024-02-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-41/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-41/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus Newsletter #41 - February</title>
+    <title>JBoss Blogs: Quarkus Newsletter #41 - February</title>
     <updated>2024-02-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-41/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-41/" rel="alternate"></link>
@@ -95,17 +95,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Getting started with the Red Hat build of Keycloak 22</title>
-    <updated>2024-02-12T07:00:00Z</updated>
-    <id>3e03d834-e04b-4c65-ad55-cc92dff4a79e</id>
-    <link href="https://developers.redhat.com/articles/2024/02/12/getting-started-red-hat-build-keycloak-22" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Debug ACPI issues in Windows virtual machines on RHEL</title>
     <updated>2024-02-12T07:00:00Z</updated>
     <id>240e1e75-deaf-4d35-844d-65eb86deac6d</id>
     <link href="https://developers.redhat.com/articles/2024/02/12/debug-acpi-issues-windows-virtual-machines-rhel" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Getting started with the Red Hat build of Keycloak 22</title>
+    <updated>2024-02-12T07:00:00Z</updated>
+    <id>3e03d834-e04b-4c65-ad55-cc92dff4a79e</id>
+    <link href="https://developers.redhat.com/articles/2024/02/12/getting-started-red-hat-build-keycloak-22" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -221,6 +221,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Quarkus 3.7 - Java 17 baseline, Hibernate ORM 6.4, @MeterTag...</title>
+    <updated>2024-01-31T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-7-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-7-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: What's new in WildFly provisioning</title>
     <updated>2024-01-31T00:00:00Z</updated>
     <id>https://wildfly.org//news/2024/01/31/whats-new-in-provisioning/</id>
@@ -229,13 +236,6 @@
   </entry>
   <entry>
     <title>JBoss Blogs: Quarkus 3.7 - Java 17 baseline, Hibernate ORM 6.4, @MeterTag...</title>
-    <updated>2024-01-31T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-7-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-7-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.7 - Java 17 baseline, Hibernate ORM 6.4, @MeterTag...</title>
     <updated>2024-01-31T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-7-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-7-released/" rel="alternate"></link>
@@ -291,17 +291,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
     <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
