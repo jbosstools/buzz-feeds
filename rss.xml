@@ -1,13 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-02-22T12:14:46Z</updated>
+  <updated>2024-02-22T18:11:22Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
-    <title>Red Hat Developer: Best practices for OpenShift Data Foundation recovery resource planning</title>
-    <updated>2024-02-22T07:00:00Z</updated>
-    <id>bc7b7be0-93e4-45c4-aca3-c14b291b0e67</id>
-    <link href="https://developers.redhat.com/articles/2024/02/22/best-practices-openshift-data-foundation-recovery-resource-planning" rel="alternate"></link>
+    <title>JBoss Blogs: Writing Reactive Applications with WildFly</title>
+    <updated>2024-02-22T11:10:39Z</updated>
+    <id>https://www.mastertheboss.com/eclipse/eclipse-microservices/building-reactive-applications-with-wildfly/</id>
+    <link href="https://www.mastertheboss.com/eclipse/eclipse-microservices/building-reactive-applications-with-wildfly/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,6 +18,20 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Red Hat Developer: Best practices for OpenShift Data Foundation recovery resource planning</title>
+    <updated>2024-02-22T07:00:00Z</updated>
+    <id>bc7b7be0-93e4-45c4-aca3-c14b291b0e67</id>
+    <link href="https://developers.redhat.com/articles/2024/02/22/best-practices-openshift-data-foundation-recovery-resource-planning" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Eclipse Vert.x 4.5.4 released!</title>
+    <updated>2024-02-22T00:00:00Z</updated>
+    <id>https://vertx.io/blog/eclipse-vert-x-4-5-4</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-4" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Keycloak 23.0.7 released</title>
     <updated>2024-02-22T00:00:00Z</updated>
     <id>https://www.keycloak.org/2024/02/keycloak-2307-released</id>
@@ -25,17 +39,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Virtio live migration technical deep dive</title>
-    <updated>2024-02-21T07:00:00Z</updated>
-    <id>9caba004-251f-4030-92ba-bcc85a832992</id>
-    <link href="https://developers.redhat.com/articles/2024/02/21/virtio-live-migration-technical-deep-dive" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Run Node.js applications on the edge with RHEL and Fedora</title>
     <updated>2024-02-21T07:00:00Z</updated>
     <id>b9ba8cc3-36ba-4e26-808d-3058ffb18edb</id>
     <link href="https://developers.redhat.com/articles/2024/02/21/run-nodejs-applications-edge-rhel-and-fedora" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Virtio live migration technical deep dive</title>
+    <updated>2024-02-21T07:00:00Z</updated>
+    <id>9caba004-251f-4030-92ba-bcc85a832992</id>
+    <link href="https://developers.redhat.com/articles/2024/02/21/virtio-live-migration-technical-deep-dive" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -60,17 +74,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Palo Alto Networks' NGFW now supporting OVN-Kubernetes</title>
-    <updated>2024-02-19T07:00:00Z</updated>
-    <id>6576efbc-0f6c-425f-8f88-dad5eb14b818</id>
-    <link href="https://developers.redhat.com/articles/2024/02/19/palo-alto-networks-ngfw-now-supporting-ovn-kubernetes" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Red Hat OpenShift Dev Spaces security best practices</title>
     <updated>2024-02-19T07:00:00Z</updated>
     <id>e7a7ac01-bf0a-4dc5-b2cc-7b6baa5f1244</id>
     <link href="https://developers.redhat.com/articles/2024/02/19/red-hat-openshift-dev-spaces-security-best-practices" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Palo Alto Networks' NGFW now supporting OVN-Kubernetes</title>
+    <updated>2024-02-19T07:00:00Z</updated>
+    <id>6576efbc-0f6c-425f-8f88-dad5eb14b818</id>
+    <link href="https://developers.redhat.com/articles/2024/02/19/palo-alto-networks-ngfw-now-supporting-ovn-kubernetes" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -88,13 +102,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Intel GPUs and OVMS: A winning combination for deep learning efficiency</title>
-    <updated>2024-02-14T07:00:00Z</updated>
-    <id>969b9439-7894-4449-853d-d76235ed0bb5</id>
-    <link href="https://developers.redhat.com/articles/2024/02/14/intel-gpus-and-ovms-winning-combination-deep-learning-efficiency" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: A deep dive into Stakater's Multi-Tenant Operator</title>
     <updated>2024-02-14T07:00:00Z</updated>
     <id>85f1866a-02d5-425b-9383-982c7850c257</id>
@@ -102,14 +109,21 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.7.3 released - Maintenance release</title>
+    <title>Red Hat Developer: Intel GPUs and OVMS: A winning combination for deep learning efficiency</title>
+    <updated>2024-02-14T07:00:00Z</updated>
+    <id>969b9439-7894-4449-853d-d76235ed0bb5</id>
+    <link href="https://developers.redhat.com/articles/2024/02/14/intel-gpus-and-ovms-winning-combination-deep-learning-efficiency" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.7.3 released - Maintenance release</title>
     <updated>2024-02-14T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-7-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-7-3-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.7.3 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.7.3 released - Maintenance release</title>
     <updated>2024-02-14T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-7-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-7-3-released/" rel="alternate"></link>
@@ -193,10 +207,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: WildFly testing with WildFly Glow</title>
+    <title>JBoss Blogs: Using WildFly Glow to provision a WildFly server for a RESTEasy based project</title>
     <updated>2024-02-05T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/02/05/testing-with-wildfly-glow/</id>
-    <link href="https://wildfly.org//news/2024/02/05/testing-with-wildfly-glow/" rel="alternate"></link>
+    <id>https://resteasy.dev/2024/01/31/resteasy-glow/</id>
+    <link href="https://resteasy.dev/2024/01/31/resteasy-glow/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -207,10 +221,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Using WildFly Glow to provision a WildFly server for a RESTEasy based project</title>
+    <title>JBoss Blogs: WildFly testing with WildFly Glow</title>
     <updated>2024-02-05T00:00:00Z</updated>
-    <id>https://resteasy.dev/2024/01/31/resteasy-glow/</id>
-    <link href="https://resteasy.dev/2024/01/31/resteasy-glow/" rel="alternate"></link>
+    <id>https://wildfly.org//news/2024/02/05/testing-with-wildfly-glow/</id>
+    <link href="https://wildfly.org//news/2024/02/05/testing-with-wildfly-glow/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -221,24 +235,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Using Infinispan Server for your Redis clients</title>
-    <updated>2024-02-02T00:00:00Z</updated>
-    <id>https://infinispan.org/blog/2024/02/02/infinispan-server-redis-clients</id>
-    <link href="https://infinispan.org/blog/2024/02/02/infinispan-server-redis-clients" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Keycloak 23.0.6 released</title>
     <updated>2024-02-02T00:00:00Z</updated>
     <id>https://www.keycloak.org/2024/02/keycloak-2306-released</id>
     <link href="https://www.keycloak.org/2024/02/keycloak-2306-released" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: RabbitMQ with Docker: A Comprehensive Guide</title>
-    <updated>2024-01-31T09:49:10Z</updated>
-    <id>https://www.mastertheboss.com/rabbitmq/rabbitmq-with-docker-a-comprehensive-guide/</id>
-    <link href="https://www.mastertheboss.com/rabbitmq/rabbitmq-with-docker-a-comprehensive-guide/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -627,17 +627,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
-    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
     <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
