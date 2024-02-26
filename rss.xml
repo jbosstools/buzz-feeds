@@ -1,8 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-02-26T06:12:27Z</updated>
+  <updated>2024-02-26T12:15:50Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>JBoss Blogs: How to deploy WildFly Bootable JAR on OpenShift</title>
+    <updated>2024-02-26T09:27:26Z</updated>
+    <id>https://www.mastertheboss.com/eclipse/eclipse-microservices/how-to-deploy-wildfly-bootable-jar-on-openshift/</id>
+    <link href="https://www.mastertheboss.com/eclipse/eclipse-microservices/how-to-deploy-wildfly-bootable-jar-on-openshift/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How to install RHEL on the Marvell Octeon 10 DPU</title>
+    <updated>2024-02-26T07:00:00Z</updated>
+    <id>f5d9f956-5bc0-407a-9382-b2302a47d064</id>
+    <link href="https://developers.redhat.com/articles/2024/02/26/how-install-rhel-marvell-octeon-10-dpu" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JBoss Blogs: How to run WildFly on Openshift</title>
     <updated>2024-02-25T08:42:53Z</updated>
@@ -25,17 +39,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Run VMware Cloud Foundation 5.1 on OpenShift 4.13 with NVIDIA AI Enterprise</title>
-    <updated>2024-02-22T07:00:00Z</updated>
-    <id>307c0a46-bca5-46ee-b300-8a57ea4ef0cd</id>
-    <link href="https://developers.redhat.com/articles/2024/02/22/run-vmware-cloud-foundation-51-openshift-413-nvidia-ai-enterprise" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Best practices for OpenShift Data Foundation disaster recovery resource planning</title>
     <updated>2024-02-22T07:00:00Z</updated>
     <id>bc7b7be0-93e4-45c4-aca3-c14b291b0e67</id>
     <link href="https://developers.redhat.com/articles/2024/02/22/best-practices-openshift-data-foundation-disaster-recovery-resource-planning" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Run VMware Cloud Foundation 5.1 on OpenShift 4.13 with NVIDIA AI Enterprise</title>
+    <updated>2024-02-22T07:00:00Z</updated>
+    <id>307c0a46-bca5-46ee-b300-8a57ea4ef0cd</id>
+    <link href="https://developers.redhat.com/articles/2024/02/22/run-vmware-cloud-foundation-51-openshift-413-nvidia-ai-enterprise" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -67,14 +81,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.7.4 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.7.4 released - Maintenance release</title>
     <updated>2024-02-21T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-7-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-7-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.7.4 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.7.4 released - Maintenance release</title>
     <updated>2024-02-21T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-7-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-7-4-released/" rel="alternate"></link>
@@ -123,13 +137,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Intel GPUs and OVMS: A winning combination for deep learning efficiency</title>
-    <updated>2024-02-14T07:00:00Z</updated>
-    <id>969b9439-7894-4449-853d-d76235ed0bb5</id>
-    <link href="https://developers.redhat.com/articles/2024/02/14/intel-gpus-and-ovms-winning-combination-deep-learning-efficiency" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Quarkus 3.7.3 released - Maintenance release</title>
     <updated>2024-02-14T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-7-3-released/</id>
@@ -144,14 +151,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus Newsletter #41 - February</title>
+    <title>Quarkus: Quarkus Newsletter #41 - February</title>
     <updated>2024-02-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-41/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-41/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus Newsletter #41 - February</title>
+    <title>JBoss Blogs: Quarkus Newsletter #41 - February</title>
     <updated>2024-02-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-41/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-41/" rel="alternate"></link>
@@ -235,13 +242,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: WildFly testing with WildFly Glow</title>
-    <updated>2024-02-05T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/02/05/testing-with-wildfly-glow/</id>
-    <link href="https://wildfly.org//news/2024/02/05/testing-with-wildfly-glow/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.7 - Java 17 baseline, Hibernate ORM 6.4, @MeterTag...</title>
     <updated>2024-01-31T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-7-released/</id>
@@ -291,17 +291,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
     <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -627,17 +627,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
-    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
     <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
