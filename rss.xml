@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-02-27T12:14:51Z</updated>
+  <updated>2024-02-27T18:11:19Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: Network observability using TCP handshake round-trip time</title>
@@ -15,6 +15,13 @@
     <updated>2024-02-27T07:00:00Z</updated>
     <id>4d7dd7ef-8ca0-40b7-a4a0-d1da3e4dd6a7</id>
     <link href="https://developers.redhat.com/articles/2024/02/27/handling-fips-mode-upstream-projects-rhel" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: The road to generated SDKs with Kiota using Quarkus</title>
+    <updated>2024-02-27T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-kiota/</id>
+    <link href="https://quarkus.io/blog/quarkus-kiota/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -67,13 +74,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Best practices for OpenShift Data Foundation disaster recovery resource planning</title>
-    <updated>2024-02-22T07:00:00Z</updated>
-    <id>bc7b7be0-93e4-45c4-aca3-c14b291b0e67</id>
-    <link href="https://developers.redhat.com/articles/2024/02/22/best-practices-openshift-data-foundation-disaster-recovery-resource-planning" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Run VMware Cloud Foundation 5.1 on OpenShift 4.13 with NVIDIA AI Enterprise</title>
     <updated>2024-02-22T07:00:00Z</updated>
     <id>307c0a46-bca5-46ee-b300-8a57ea4ef0cd</id>
@@ -81,10 +81,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Eclipse Vert.x 4.5.4 released!</title>
-    <updated>2024-02-22T00:00:00Z</updated>
-    <id>https://vertx.io/blog/eclipse-vert-x-4-5-4</id>
-    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-4" rel="alternate"></link>
+    <title>Red Hat Developer: Best practices for OpenShift Data Foundation disaster recovery resource planning</title>
+    <updated>2024-02-22T07:00:00Z</updated>
+    <id>bc7b7be0-93e4-45c4-aca3-c14b291b0e67</id>
+    <link href="https://developers.redhat.com/articles/2024/02/22/best-practices-openshift-data-foundation-disaster-recovery-resource-planning" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -95,10 +95,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Run Node.js applications on the edge with RHEL and Fedora</title>
-    <updated>2024-02-21T07:00:00Z</updated>
-    <id>b9ba8cc3-36ba-4e26-808d-3058ffb18edb</id>
-    <link href="https://developers.redhat.com/articles/2024/02/21/run-nodejs-applications-edge-rhel-and-fedora" rel="alternate"></link>
+    <title>JBoss Blogs: Eclipse Vert.x 4.5.4 released!</title>
+    <updated>2024-02-22T00:00:00Z</updated>
+    <id>https://vertx.io/blog/eclipse-vert-x-4-5-4</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-4" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -106,6 +106,13 @@
     <updated>2024-02-21T07:00:00Z</updated>
     <id>9caba004-251f-4030-92ba-bcc85a832992</id>
     <link href="https://developers.redhat.com/articles/2024/02/21/virtio-live-migration-technical-deep-dive" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Run Node.js applications on the edge with RHEL and Fedora</title>
+    <updated>2024-02-21T07:00:00Z</updated>
+    <id>b9ba8cc3-36ba-4e26-808d-3058ffb18edb</id>
+    <link href="https://developers.redhat.com/articles/2024/02/21/run-nodejs-applications-edge-rhel-and-fedora" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -200,14 +207,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.7.2 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.7.2 released - Maintenance release</title>
     <updated>2024-02-08T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-7-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-7-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.7.2 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.7.2 released - Maintenance release</title>
     <updated>2024-02-08T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-7-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-7-2-released/" rel="alternate"></link>
@@ -239,13 +246,6 @@
     <updated>2024-02-05T17:33:59Z</updated>
     <id>https://www.mastertheboss.com/various-stuff/testing-java/junit-5-displayname-for-custom-test-names/</id>
     <link href="https://www.mastertheboss.com/various-stuff/testing-java/junit-5-displayname-for-custom-test-names/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Using WildFly Glow to provision a WildFly server for a RESTEasy based project</title>
-    <updated>2024-02-05T00:00:00Z</updated>
-    <id>https://resteasy.dev/2024/01/31/resteasy-glow/</id>
-    <link href="https://resteasy.dev/2024/01/31/resteasy-glow/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -291,17 +291,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
-    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
     <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -627,17 +627,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
-    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
     <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
