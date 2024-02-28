@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-02-27T18:11:19Z</updated>
+  <updated>2024-02-28T00:38:49Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: Network observability using TCP handshake round-trip time</title>
@@ -88,17 +88,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Keycloak 23.0.7 released</title>
-    <updated>2024-02-22T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/02/keycloak-2307-released</id>
-    <link href="https://www.keycloak.org/2024/02/keycloak-2307-released" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Eclipse Vert.x 4.5.4 released!</title>
     <updated>2024-02-22T00:00:00Z</updated>
     <id>https://vertx.io/blog/eclipse-vert-x-4-5-4</id>
     <link href="https://vertx.io/blog/eclipse-vert-x-4-5-4" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Keycloak 23.0.7 released</title>
+    <updated>2024-02-22T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/02/keycloak-2307-released</id>
+    <link href="https://www.keycloak.org/2024/02/keycloak-2307-released" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -116,14 +116,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.7.4 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.7.4 released - Maintenance release</title>
     <updated>2024-02-21T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-7-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-7-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.7.4 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.7.4 released - Maintenance release</title>
     <updated>2024-02-21T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-7-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-7-4-released/" rel="alternate"></link>
@@ -137,17 +137,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Palo Alto Networks' NGFW now supporting OVN-Kubernetes</title>
-    <updated>2024-02-19T07:00:00Z</updated>
-    <id>6576efbc-0f6c-425f-8f88-dad5eb14b818</id>
-    <link href="https://developers.redhat.com/articles/2024/02/19/palo-alto-networks-ngfw-now-supporting-ovn-kubernetes" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Red Hat OpenShift Dev Spaces security best practices</title>
     <updated>2024-02-19T07:00:00Z</updated>
     <id>e7a7ac01-bf0a-4dc5-b2cc-7b6baa5f1244</id>
     <link href="https://developers.redhat.com/articles/2024/02/19/red-hat-openshift-dev-spaces-security-best-practices" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Palo Alto Networks' NGFW now supporting OVN-Kubernetes</title>
+    <updated>2024-02-19T07:00:00Z</updated>
+    <id>6576efbc-0f6c-425f-8f88-dad5eb14b818</id>
+    <link href="https://developers.redhat.com/articles/2024/02/19/palo-alto-networks-ngfw-now-supporting-ovn-kubernetes" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -158,14 +158,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.7.3 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.7.3 released - Maintenance release</title>
     <updated>2024-02-14T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-7-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-7-3-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.7.3 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.7.3 released - Maintenance release</title>
     <updated>2024-02-14T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-7-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-7-3-released/" rel="alternate"></link>
@@ -228,17 +228,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Eclipse Vert.x 4.4.8 released!</title>
-    <updated>2024-02-07T00:00:00Z</updated>
-    <id>https://vertx.io/blog/eclipse-vert-x-4-4-8</id>
-    <link href="https://vertx.io/blog/eclipse-vert-x-4-4-8" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Eclipse Vert.x 4.5.3 released!</title>
     <updated>2024-02-07T00:00:00Z</updated>
     <id>https://vertx.io/blog/eclipse-vert-x-4-5-3</id>
     <link href="https://vertx.io/blog/eclipse-vert-x-4-5-3" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Eclipse Vert.x 4.4.8 released!</title>
+    <updated>2024-02-07T00:00:00Z</updated>
+    <id>https://vertx.io/blog/eclipse-vert-x-4-4-8</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-4-4-8" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -627,17 +627,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
