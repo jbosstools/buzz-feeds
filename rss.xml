@@ -1,13 +1,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-02-28T18:11:02Z</updated>
+  <updated>2024-02-29T00:39:09Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: Dynamically manage apps with the Argo CD plug-in generator</title>
     <updated>2024-02-28T07:00:00Z</updated>
     <id>65742a33-1db8-4527-9f39-9ab74ad7d08c</id>
     <link href="https://developers.redhat.com/articles/2024/02/28/dynamically-manage-apps-argo-cd-plug-generator" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.8 - Our new LTS version</title>
+    <updated>2024-02-28T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-8-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-8-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,10 +25,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Network observability using TCP handshake round-trip time</title>
-    <updated>2024-02-27T07:00:00Z</updated>
-    <id>7642f7d5-6cef-4a3a-86b6-7fee12f2ab3d</id>
-    <link href="https://developers.redhat.com/articles/2024/02/27/network-observability-using-tcp-handshake-round-trip-time" rel="alternate"></link>
+    <title>JBoss Blogs: WildFly 31.0.1 is released!</title>
+    <updated>2024-02-28T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2024/02/28/WildFly3101-Released/</id>
+    <link href="https://wildfly.org//news/2024/02/28/WildFly3101-Released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -29,6 +36,13 @@
     <updated>2024-02-27T07:00:00Z</updated>
     <id>4d7dd7ef-8ca0-40b7-a4a0-d1da3e4dd6a7</id>
     <link href="https://developers.redhat.com/articles/2024/02/27/handling-fips-mode-upstream-projects-rhel" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Network observability using TCP handshake round-trip time</title>
+    <updated>2024-02-27T07:00:00Z</updated>
+    <id>7642f7d5-6cef-4a3a-86b6-7fee12f2ab3d</id>
+    <link href="https://developers.redhat.com/articles/2024/02/27/network-observability-using-tcp-handshake-round-trip-time" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -102,13 +116,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Keycloak 23.0.7 released</title>
-    <updated>2024-02-22T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/02/keycloak-2307-released</id>
-    <link href="https://www.keycloak.org/2024/02/keycloak-2307-released" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Eclipse Vert.x 4.5.4 released!</title>
     <updated>2024-02-22T00:00:00Z</updated>
     <id>https://vertx.io/blog/eclipse-vert-x-4-5-4</id>
@@ -116,10 +123,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Run Node.js applications on the edge with RHEL and Fedora</title>
-    <updated>2024-02-21T07:00:00Z</updated>
-    <id>b9ba8cc3-36ba-4e26-808d-3058ffb18edb</id>
-    <link href="https://developers.redhat.com/articles/2024/02/21/run-nodejs-applications-edge-rhel-and-fedora" rel="alternate"></link>
+    <title>JBoss Blogs: Keycloak 23.0.7 released</title>
+    <updated>2024-02-22T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/02/keycloak-2307-released</id>
+    <link href="https://www.keycloak.org/2024/02/keycloak-2307-released" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -130,14 +137,21 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.7.4 released - Maintenance release</title>
+    <title>Red Hat Developer: Run Node.js applications on the edge with RHEL and Fedora</title>
+    <updated>2024-02-21T07:00:00Z</updated>
+    <id>b9ba8cc3-36ba-4e26-808d-3058ffb18edb</id>
+    <link href="https://developers.redhat.com/articles/2024/02/21/run-nodejs-applications-edge-rhel-and-fedora" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.7.4 released - Maintenance release</title>
     <updated>2024-02-21T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-7-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-7-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.7.4 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.7.4 released - Maintenance release</title>
     <updated>2024-02-21T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-7-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-7-4-released/" rel="alternate"></link>
@@ -235,24 +249,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Eclipse Vert.x 4.5.3 released!</title>
-    <updated>2024-02-07T00:00:00Z</updated>
-    <id>https://vertx.io/blog/eclipse-vert-x-4-5-3</id>
-    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-3" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Eclipse Vert.x 4.4.8 released!</title>
     <updated>2024-02-07T00:00:00Z</updated>
     <id>https://vertx.io/blog/eclipse-vert-x-4-4-8</id>
     <link href="https://vertx.io/blog/eclipse-vert-x-4-4-8" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: JUnit 5: Using Custom DisplayNames for Tests</title>
-    <updated>2024-02-05T17:33:59Z</updated>
-    <id>https://www.mastertheboss.com/various-stuff/testing-java/junit-5-displayname-for-custom-test-names/</id>
-    <link href="https://www.mastertheboss.com/various-stuff/testing-java/junit-5-displayname-for-custom-test-names/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -627,17 +627,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
