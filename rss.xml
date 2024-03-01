@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-02-29T18:11:48Z</updated>
+  <updated>2024-03-01T00:43:34Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: Deploying Microservices to OpenShift- Tutorial using Pedal</title>
@@ -18,10 +18,24 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Vlog: Securing WildFly Apps with Okta on OpenShift</title>
+    <updated>2024-02-29T00:00:00Z</updated>
+    <id>https://www.youtube.com/watch?v=usquALvL2qc</id>
+    <link href="https://www.youtube.com/watch?v=usquALvL2qc" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Red Hat Developer: Dynamically manage apps with the Argo CD plug-in generator</title>
     <updated>2024-02-28T07:00:00Z</updated>
     <id>65742a33-1db8-4527-9f39-9ab74ad7d08c</id>
     <link href="https://developers.redhat.com/articles/2024/02/28/dynamically-manage-apps-argo-cd-plug-generator" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.8 - Our new LTS version</title>
+    <updated>2024-02-28T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-8-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-8-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -39,10 +53,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.8 - Our new LTS version</title>
-    <updated>2024-02-28T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-8-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-8-released/" rel="alternate"></link>
+    <title>Red Hat Developer: Handling FIPS mode in upstream projects for RHEL</title>
+    <updated>2024-02-27T07:00:00Z</updated>
+    <id>4d7dd7ef-8ca0-40b7-a4a0-d1da3e4dd6a7</id>
+    <link href="https://developers.redhat.com/articles/2024/02/27/handling-fips-mode-upstream-projects-rhel" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -53,21 +67,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Handling FIPS mode in upstream projects for RHEL</title>
-    <updated>2024-02-27T07:00:00Z</updated>
-    <id>4d7dd7ef-8ca0-40b7-a4a0-d1da3e4dd6a7</id>
-    <link href="https://developers.redhat.com/articles/2024/02/27/handling-fips-mode-upstream-projects-rhel" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: The road to generated SDKs with Kiota using Quarkus</title>
+    <title>JBoss Blogs: The road to generated SDKs with Kiota using Quarkus</title>
     <updated>2024-02-27T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-kiota/</id>
     <link href="https://quarkus.io/blog/quarkus-kiota/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: The road to generated SDKs with Kiota using Quarkus</title>
+    <title>Quarkus: The road to generated SDKs with Kiota using Quarkus</title>
     <updated>2024-02-27T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-kiota/</id>
     <link href="https://quarkus.io/blog/quarkus-kiota/" rel="alternate"></link>
@@ -249,13 +256,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Eclipse Vert.x 4.4.8 released!</title>
-    <updated>2024-02-07T00:00:00Z</updated>
-    <id>https://vertx.io/blog/eclipse-vert-x-4-4-8</id>
-    <link href="https://vertx.io/blog/eclipse-vert-x-4-4-8" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.7 - Java 17 baseline, Hibernate ORM 6.4, @MeterTag...</title>
     <updated>2024-01-31T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-7-released/</id>
@@ -291,17 +291,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
     <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -627,17 +627,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
