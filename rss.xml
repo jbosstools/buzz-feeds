@@ -1,13 +1,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-03-01T18:11:24Z</updated>
+  <updated>2024-03-02T00:38:28Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: Getting started with GitHub Actions</title>
     <updated>2024-03-01T12:50:28Z</updated>
     <id>https://www.mastertheboss.com/ci-cd/getting-started-with-github-actions/</id>
     <link href="https://www.mastertheboss.com/ci-cd/getting-started-with-github-actions/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: How to contribute to WildFly</title>
+    <updated>2024-03-01T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2024/03/01/How-to-contribute-to-WildFly/</id>
+    <link href="https://wildfly.org//news/2024/03/01/How-to-contribute-to-WildFly/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -39,13 +46,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.8 - Our new LTS version</title>
-    <updated>2024-02-28T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-8-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-8-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: WildFly 31.0.1 is released!</title>
     <updated>2024-02-28T00:00:00Z</updated>
     <id>https://wildfly.org//news/2024/02/28/WildFly3101-Released/</id>
@@ -54,6 +54,13 @@
   </entry>
   <entry>
     <title>JBoss Blogs: Quarkus 3.8 - Our new LTS version</title>
+    <updated>2024-02-28T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-8-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-8-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.8 - Our new LTS version</title>
     <updated>2024-02-28T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-8-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-8-released/" rel="alternate"></link>
@@ -172,14 +179,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.7.4 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.7.4 released - Maintenance release</title>
     <updated>2024-02-21T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-7-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-7-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.7.4 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.7.4 released - Maintenance release</title>
     <updated>2024-02-21T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-7-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-7-4-released/" rel="alternate"></link>
@@ -193,13 +200,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.7.3 released - Maintenance release</title>
-    <updated>2024-02-14T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-7-3-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-7-3-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Quarkus 3.7.3 released - Maintenance release</title>
     <updated>2024-02-14T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-7-3-released/</id>
@@ -207,14 +207,21 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus Newsletter #41 - February</title>
+    <title>Quarkus: Quarkus 3.7.3 released - Maintenance release</title>
+    <updated>2024-02-14T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-7-3-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-7-3-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus Newsletter #41 - February</title>
     <updated>2024-02-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-41/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-41/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus Newsletter #41 - February</title>
+    <title>JBoss Blogs: Quarkus Newsletter #41 - February</title>
     <updated>2024-02-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-41/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-41/" rel="alternate"></link>
@@ -239,13 +246,6 @@
     <updated>2024-02-11T09:32:24Z</updated>
     <id>https://www.mastertheboss.com/jboss-frameworks/jboss-maven/creating-a-maven-archetype-for-wildfly/</id>
     <link href="https://www.mastertheboss.com/jboss-frameworks/jboss-maven/creating-a-maven-archetype-for-wildfly/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.7.2 released - Maintenance release</title>
-    <updated>2024-02-08T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-7-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-7-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
