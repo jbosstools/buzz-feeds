@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-03-04T18:11:26Z</updated>
+  <updated>2024-03-05T00:39:17Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: How to find WildFly REST Endpoints</title>
@@ -74,7 +74,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.8 - Our new LTS version</title>
+    <title>Quarkus: Quarkus 3.8 - Our new LTS version</title>
     <updated>2024-02-28T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-8-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-8-released/" rel="alternate"></link>
@@ -88,7 +88,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.8 - Our new LTS version</title>
+    <title>JBoss Blogs: Quarkus 3.8 - Our new LTS version</title>
     <updated>2024-02-28T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-8-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-8-released/" rel="alternate"></link>
@@ -172,17 +172,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Run VMware Cloud Foundation 5.1 on OpenShift 4.13 with NVIDIA AI Enterprise</title>
+    <title>Red Hat Developer: Run Red Hat OpenShift Container Platform 4.13 on VMware Cloud Foundation 5.1 with NVIDIA AI Enterprise</title>
     <updated>2024-02-22T07:00:00Z</updated>
     <id>307c0a46-bca5-46ee-b300-8a57ea4ef0cd</id>
-    <link href="https://developers.redhat.com/articles/2024/02/22/run-vmware-cloud-foundation-51-openshift-413-nvidia-ai-enterprise" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Eclipse Vert.x 4.5.4 released!</title>
-    <updated>2024-02-22T00:00:00Z</updated>
-    <id>https://vertx.io/blog/eclipse-vert-x-4-5-4</id>
-    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-4" rel="alternate"></link>
+    <link href="https://developers.redhat.com/articles/2024/02/22/run-red-hat-openshift-container-platform-413-vmware-cloud-foundation-51-nvidia" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -190,6 +183,13 @@
     <updated>2024-02-22T00:00:00Z</updated>
     <id>https://www.keycloak.org/2024/02/keycloak-2307-released</id>
     <link href="https://www.keycloak.org/2024/02/keycloak-2307-released" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Eclipse Vert.x 4.5.4 released!</title>
+    <updated>2024-02-22T00:00:00Z</updated>
+    <id>https://vertx.io/blog/eclipse-vert-x-4-5-4</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-4" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -291,17 +291,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
     <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -627,17 +627,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
-    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
     <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
