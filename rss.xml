@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-03-06T06:12:56Z</updated>
+  <updated>2024-03-06T12:16:41Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: How to use Helm charts to deploy Data Grid on OpenShift</title>
+    <updated>2024-03-06T07:00:00Z</updated>
+    <id>943a04bc-c495-44d4-8d18-f5a5117198d6</id>
+    <link href="https://developers.redhat.com/articles/2024/03/06/how-use-helm-charts-deploy-data-grid-openshift" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Red Hat Developer: How to use JBoss EAP 8.0's new provisioning system</title>
     <updated>2024-03-05T07:00:00Z</updated>
@@ -130,14 +137,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: The road to generated SDKs with Kiota using Quarkus</title>
+    <title>JBoss Blogs: The road to generated SDKs with Kiota using Quarkus</title>
     <updated>2024-02-27T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-kiota/</id>
     <link href="https://quarkus.io/blog/quarkus-kiota/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: The road to generated SDKs with Kiota using Quarkus</title>
+    <title>Quarkus: The road to generated SDKs with Kiota using Quarkus</title>
     <updated>2024-02-27T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-kiota/</id>
     <link href="https://quarkus.io/blog/quarkus-kiota/" rel="alternate"></link>
@@ -183,13 +190,6 @@
     <updated>2024-02-22T11:10:39Z</updated>
     <id>https://www.mastertheboss.com/eclipse/eclipse-microservices/building-reactive-applications-with-wildfly/</id>
     <link href="https://www.mastertheboss.com/eclipse/eclipse-microservices/building-reactive-applications-with-wildfly/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Run Red Hat OpenShift Container Platform 4.13 on VMware Cloud Foundation 5.1 with NVIDIA AI Enterprise</title>
-    <updated>2024-02-22T07:00:00Z</updated>
-    <id>307c0a46-bca5-46ee-b300-8a57ea4ef0cd</id>
-    <link href="https://developers.redhat.com/articles/2024/02/22/run-red-hat-openshift-container-platform-413-vmware-cloud-foundation-51-nvidia" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
