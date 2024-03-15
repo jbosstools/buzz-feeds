@@ -1,8 +1,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-03-15T06:11:58Z</updated>
+  <updated>2024-03-15T12:15:12Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: Empower conversational AI at scale with KServe</title>
+    <updated>2024-03-15T07:00:00Z</updated>
+    <id>76e84722-e0b5-4c43-8ab1-12524eaa73ce</id>
+    <link href="https://developers.redhat.com/articles/2024/03/15/empower-conversational-ai-scale-kserve" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.2.11.Final released - Maintenance LTS release</title>
+    <updated>2024-03-15T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-2-11-final-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-2-11-final-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.2.11.Final released - Maintenance LTS release</title>
+    <updated>2024-03-15T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-2-11-final-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-2-11-final-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Red Hat Developer: Standardization and innovation: Enemies or partners in crime?</title>
     <updated>2024-03-14T07:00:00Z</updated>
@@ -25,13 +46,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Save memory with OpenShift Virtualization using Free Page Reporting</title>
-    <updated>2024-03-13T07:00:00Z</updated>
-    <id>9b1f4ce8-c323-4119-8eb5-046d2a61366b</id>
-    <link href="https://developers.redhat.com/articles/2024/03/13/save-memory-openshift-virtualization-using-free-page-reporting" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Kafka tiered storage deep dive</title>
     <updated>2024-03-13T07:00:00Z</updated>
     <id>cb1323a4-598b-4dbc-935d-8eebaad1e5f9</id>
@@ -39,10 +53,24 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Red Hat Developer: Save memory with OpenShift Virtualization using Free Page Reporting</title>
+    <updated>2024-03-13T07:00:00Z</updated>
+    <id>9b1f4ce8-c323-4119-8eb5-046d2a61366b</id>
+    <link href="https://developers.redhat.com/articles/2024/03/13/save-memory-openshift-virtualization-using-free-page-reporting" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Quarkus Newsletter #42 - March</title>
     <updated>2024-03-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-42/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-42/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Infinispan 15.0.0.Final</title>
+    <updated>2024-03-13T00:00:00Z</updated>
+    <id>https://infinispan.org/blog/2024/03/13/infinispan-15</id>
+    <link href="https://infinispan.org/blog/2024/03/13/infinispan-15" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -60,10 +88,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Infinispan 15.0.0.Final</title>
-    <updated>2024-03-13T00:00:00Z</updated>
-    <id>https://infinispan.org/blog/2024/03/13/infinispan-15</id>
-    <link href="https://infinispan.org/blog/2024/03/13/infinispan-15" rel="alternate"></link>
+    <title>Red Hat Developer: Achieve more with less using Red Hat Developer Hub's self-service features</title>
+    <updated>2024-03-12T07:00:00Z</updated>
+    <id>721f8a8a-c6e1-4104-b201-c0a229e5aeb4</id>
+    <link href="https://developers.redhat.com/articles/2024/03/12/achieve-more-less-using-red-hat-developer-hubs-self-service-features" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -74,17 +102,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Achieve more with less using Red Hat Developer Hub's self-service features</title>
-    <updated>2024-03-12T07:00:00Z</updated>
-    <id>721f8a8a-c6e1-4104-b201-c0a229e5aeb4</id>
-    <link href="https://developers.redhat.com/articles/2024/03/12/achieve-more-less-using-red-hat-developer-hubs-self-service-features" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Hosting a React Application on WildFly</title>
     <updated>2024-03-08T00:00:00Z</updated>
     <id>http://lofthouse.dev/2024/03/07/hosting-a-react-application-on-wildfly/</id>
     <link href="http://lofthouse.dev/2024/03/07/hosting-a-react-application-on-wildfly/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.8.2 released - Maintenance release</title>
+    <updated>2024-03-07T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-8-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-8-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -96,13 +124,6 @@
   </entry>
   <entry>
     <title>JBoss Blogs: Quarkus 3.8.2 released - Maintenance release</title>
-    <updated>2024-03-07T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-8-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-8-2-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.8.2 released - Maintenance release</title>
     <updated>2024-03-07T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-8-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-8-2-released/" rel="alternate"></link>
@@ -141,13 +162,6 @@
     <updated>2024-03-04T12:02:21Z</updated>
     <id>https://www.mastertheboss.com/jboss-frameworks/resteasy/how-to-find-wildfly-rest-endpoints/</id>
     <link href="https://www.mastertheboss.com/jboss-frameworks/resteasy/how-to-find-wildfly-rest-endpoints/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Test Kubernetes performance and scale with kube-burner</title>
-    <updated>2024-03-04T07:00:00Z</updated>
-    <id>7b388ab2-041a-47ae-a424-9e0b291d2be4</id>
-    <link href="https://developers.redhat.com/articles/2024/03/04/test-kubernetes-performance-and-scale-kube-burner" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -193,17 +207,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.8 - Our new LTS version</title>
-    <updated>2024-02-28T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-8-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-8-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: WildFly 31.0.1 is released!</title>
     <updated>2024-02-28T00:00:00Z</updated>
     <id>https://wildfly.org//news/2024/02/28/WildFly3101-Released/</id>
     <link href="https://wildfly.org//news/2024/02/28/WildFly3101-Released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.8 - Our new LTS version</title>
+    <updated>2024-02-28T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-8-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-8-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -232,13 +246,6 @@
     <updated>2024-02-26T09:27:26Z</updated>
     <id>https://www.mastertheboss.com/eclipse/eclipse-microservices/how-to-deploy-wildfly-bootable-jar-on-openshift/</id>
     <link href="https://www.mastertheboss.com/eclipse/eclipse-microservices/how-to-deploy-wildfly-bootable-jar-on-openshift/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: How to run WildFly on Openshift</title>
-    <updated>2024-02-25T08:42:53Z</updated>
-    <id>https://www.mastertheboss.com/soa-cloud/openshift/using-wildfly-on-openshift/</id>
-    <link href="https://www.mastertheboss.com/soa-cloud/openshift/using-wildfly-on-openshift/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -274,13 +281,6 @@
     <updated>2024-01-31T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-7-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-7-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.2.10.Final released - Maintenance LTS release</title>
-    <updated>2024-01-26T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-2-10-final-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-2-10-final-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
