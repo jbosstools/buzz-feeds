@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-03-17T06:10:31Z</updated>
+  <updated>2024-03-17T12:14:51Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: How to use a Datasource in Quarkus</title>
@@ -32,17 +32,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to use Java container awareness in OpenShift 4</title>
-    <updated>2024-03-14T07:00:00Z</updated>
-    <id>4ff7241c-f709-4f2d-9a9e-addf632b85f2</id>
-    <link href="https://developers.redhat.com/articles/2024/03/14/how-use-java-container-awareness-openshift-4" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Standardization and innovation: Enemies or partners in crime?</title>
     <updated>2024-03-14T07:00:00Z</updated>
     <id>0f384911-a9e7-474c-8d1f-871c3f778e7d</id>
     <link href="https://developers.redhat.com/articles/2024/03/14/standardization-and-innovation-enemies-or-partners-crime" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How to use Java container awareness in OpenShift 4</title>
+    <updated>2024-03-14T07:00:00Z</updated>
+    <id>4ff7241c-f709-4f2d-9a9e-addf632b85f2</id>
+    <link href="https://developers.redhat.com/articles/2024/03/14/how-use-java-container-awareness-openshift-4" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -53,13 +53,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Kafka tiered storage deep dive</title>
-    <updated>2024-03-13T07:00:00Z</updated>
-    <id>cb1323a4-598b-4dbc-935d-8eebaad1e5f9</id>
-    <link href="https://developers.redhat.com/articles/2024/03/13/kafka-tiered-storage-deep-dive" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Save memory with OpenShift Virtualization using Free Page Reporting</title>
     <updated>2024-03-13T07:00:00Z</updated>
     <id>9b1f4ce8-c323-4119-8eb5-046d2a61366b</id>
@@ -67,17 +60,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Infinispan 15.0.0.Final</title>
-    <updated>2024-03-13T00:00:00Z</updated>
-    <id>https://infinispan.org/blog/2024/03/13/infinispan-15</id>
-    <link href="https://infinispan.org/blog/2024/03/13/infinispan-15" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus Newsletter #42 - March</title>
-    <updated>2024-03-13T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-42/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-42/" rel="alternate"></link>
+    <title>Red Hat Developer: Kafka tiered storage deep dive</title>
+    <updated>2024-03-13T07:00:00Z</updated>
+    <id>cb1323a4-598b-4dbc-935d-8eebaad1e5f9</id>
+    <link href="https://developers.redhat.com/articles/2024/03/13/kafka-tiered-storage-deep-dive" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -88,10 +74,24 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Quarkus Newsletter #42 - March</title>
+    <updated>2024-03-13T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-42/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-42/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Trying Out An Upcoming Security Feature for WildFly on OpenShift</title>
     <updated>2024-03-13T00:00:00Z</updated>
     <id>https://wildfly-security.github.io/wildfly-elytron/blog/in-progress-wildfly-feature-on-openshift/</id>
     <link href="https://wildfly-security.github.io/wildfly-elytron/blog/in-progress-wildfly-feature-on-openshift/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Infinispan 15.0.0.Final</title>
+    <updated>2024-03-13T00:00:00Z</updated>
+    <id>https://infinispan.org/blog/2024/03/13/infinispan-15</id>
+    <link href="https://infinispan.org/blog/2024/03/13/infinispan-15" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -116,7 +116,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.8.2 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.8.2 released - Maintenance release</title>
     <updated>2024-03-07T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-8-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-8-2-released/" rel="alternate"></link>
@@ -130,7 +130,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.8.2 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.8.2 released - Maintenance release</title>
     <updated>2024-03-07T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-8-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-8-2-released/" rel="alternate"></link>
@@ -144,17 +144,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Create an efficient Ansible development environment in VS Code IDE</title>
-    <updated>2024-03-05T07:00:00Z</updated>
-    <id>dbf674f5-9e4c-4430-ab94-75036f6344f0</id>
-    <link href="https://developers.redhat.com/articles/2024/03/05/create-efficient-ansible-development-environment-vs-code-ide" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: How to use JBoss EAP 8.0's new provisioning system</title>
     <updated>2024-03-05T07:00:00Z</updated>
     <id>d2e0b956-fcac-4f7a-b10a-c482a86fcb58</id>
     <link href="https://developers.redhat.com/articles/2024/03/05/how-use-jboss-eap-80s-new-provisioning-system" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Create an efficient Ansible development environment in VS Code IDE</title>
+    <updated>2024-03-05T07:00:00Z</updated>
+    <id>dbf674f5-9e4c-4430-ab94-75036f6344f0</id>
+    <link href="https://developers.redhat.com/articles/2024/03/05/create-efficient-ansible-development-environment-vs-code-ide" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -207,10 +207,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: WildFly 31.0.1 is released!</title>
+    <title>Quarkus: Quarkus 3.8 - Our new LTS version</title>
     <updated>2024-02-28T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/02/28/WildFly3101-Released/</id>
-    <link href="https://wildfly.org//news/2024/02/28/WildFly3101-Released/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-8-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-8-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -221,21 +221,21 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.8 - Our new LTS version</title>
+    <title>JBoss Blogs: WildFly 31.0.1 is released!</title>
     <updated>2024-02-28T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-8-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-8-released/" rel="alternate"></link>
+    <id>https://wildfly.org//news/2024/02/28/WildFly3101-Released/</id>
+    <link href="https://wildfly.org//news/2024/02/28/WildFly3101-Released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: The road to generated SDKs with Kiota using Quarkus</title>
+    <title>JBoss Blogs: The road to generated SDKs with Kiota using Quarkus</title>
     <updated>2024-02-27T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-kiota/</id>
     <link href="https://quarkus.io/blog/quarkus-kiota/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: The road to generated SDKs with Kiota using Quarkus</title>
+    <title>Quarkus: The road to generated SDKs with Kiota using Quarkus</title>
     <updated>2024-02-27T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-kiota/</id>
     <link href="https://quarkus.io/blog/quarkus-kiota/" rel="alternate"></link>
@@ -627,17 +627,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
-    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
     <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
