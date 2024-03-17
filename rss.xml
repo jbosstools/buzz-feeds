@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-03-16T18:10:47Z</updated>
+  <updated>2024-03-17T00:42:40Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: How to use a Datasource in Quarkus</title>
@@ -32,17 +32,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to use Java container awareness in OpenShift 4</title>
-    <updated>2024-03-14T07:00:00Z</updated>
-    <id>4ff7241c-f709-4f2d-9a9e-addf632b85f2</id>
-    <link href="https://developers.redhat.com/articles/2024/03/14/how-use-java-container-awareness-openshift-4" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Standardization and innovation: Enemies or partners in crime?</title>
     <updated>2024-03-14T07:00:00Z</updated>
     <id>0f384911-a9e7-474c-8d1f-871c3f778e7d</id>
     <link href="https://developers.redhat.com/articles/2024/03/14/standardization-and-innovation-enemies-or-partners-crime" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How to use Java container awareness in OpenShift 4</title>
+    <updated>2024-03-14T07:00:00Z</updated>
+    <id>4ff7241c-f709-4f2d-9a9e-addf632b85f2</id>
+    <link href="https://developers.redhat.com/articles/2024/03/14/how-use-java-container-awareness-openshift-4" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -67,24 +67,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Trying Out An Upcoming Security Feature for WildFly on OpenShift</title>
-    <updated>2024-03-13T00:00:00Z</updated>
-    <id>https://wildfly-security.github.io/wildfly-elytron/blog/in-progress-wildfly-feature-on-openshift/</id>
-    <link href="https://wildfly-security.github.io/wildfly-elytron/blog/in-progress-wildfly-feature-on-openshift/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Quarkus Newsletter #42 - March</title>
     <updated>2024-03-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-42/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-42/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Infinispan 15.0.0.Final</title>
-    <updated>2024-03-13T00:00:00Z</updated>
-    <id>https://infinispan.org/blog/2024/03/13/infinispan-15</id>
-    <link href="https://infinispan.org/blog/2024/03/13/infinispan-15" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -95,10 +81,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Understanding Templates in Stakater's Multi Tenancy Operator</title>
-    <updated>2024-03-12T07:00:00Z</updated>
-    <id>0824d6b5-31bf-409a-b757-a9441b94b703</id>
-    <link href="https://developers.redhat.com/articles/2024/03/12/understanding-templates-stakaters-multi-tenancy-operator" rel="alternate"></link>
+    <title>JBoss Blogs: Trying Out An Upcoming Security Feature for WildFly on OpenShift</title>
+    <updated>2024-03-13T00:00:00Z</updated>
+    <id>https://wildfly-security.github.io/wildfly-elytron/blog/in-progress-wildfly-feature-on-openshift/</id>
+    <link href="https://wildfly-security.github.io/wildfly-elytron/blog/in-progress-wildfly-feature-on-openshift/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Infinispan 15.0.0.Final</title>
+    <updated>2024-03-13T00:00:00Z</updated>
+    <id>https://infinispan.org/blog/2024/03/13/infinispan-15</id>
+    <link href="https://infinispan.org/blog/2024/03/13/infinispan-15" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -109,6 +102,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Red Hat Developer: Understanding Templates in Stakater's Multi Tenancy Operator</title>
+    <updated>2024-03-12T07:00:00Z</updated>
+    <id>0824d6b5-31bf-409a-b757-a9441b94b703</id>
+    <link href="https://developers.redhat.com/articles/2024/03/12/understanding-templates-stakaters-multi-tenancy-operator" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Hosting a React Application on WildFly</title>
     <updated>2024-03-08T00:00:00Z</updated>
     <id>http://lofthouse.dev/2024/03/07/hosting-a-react-application-on-wildfly/</id>
@@ -116,17 +116,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: WildFly - The GitOps Way</title>
-    <updated>2024-03-07T00:00:00Z</updated>
-    <id>https://jmesnil.net/weblog/2024/03/05/wildfly-gitops/</id>
-    <link href="https://jmesnil.net/weblog/2024/03/05/wildfly-gitops/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.8.2 released - Maintenance release</title>
     <updated>2024-03-07T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-8-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-8-2-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: WildFly - The GitOps Way</title>
+    <updated>2024-03-07T00:00:00Z</updated>
+    <id>https://jmesnil.net/weblog/2024/03/05/wildfly-gitops/</id>
+    <link href="https://jmesnil.net/weblog/2024/03/05/wildfly-gitops/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -144,17 +144,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Create an efficient Ansible development environment in VS Code IDE</title>
-    <updated>2024-03-05T07:00:00Z</updated>
-    <id>dbf674f5-9e4c-4430-ab94-75036f6344f0</id>
-    <link href="https://developers.redhat.com/articles/2024/03/05/create-efficient-ansible-development-environment-vs-code-ide" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: How to use JBoss EAP 8.0's new provisioning system</title>
     <updated>2024-03-05T07:00:00Z</updated>
     <id>d2e0b956-fcac-4f7a-b10a-c482a86fcb58</id>
     <link href="https://developers.redhat.com/articles/2024/03/05/how-use-jboss-eap-80s-new-provisioning-system" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Create an efficient Ansible development environment in VS Code IDE</title>
+    <updated>2024-03-05T07:00:00Z</updated>
+    <id>dbf674f5-9e4c-4430-ab94-75036f6344f0</id>
+    <link href="https://developers.redhat.com/articles/2024/03/05/create-efficient-ansible-development-environment-vs-code-ide" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -214,17 +214,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: WildFly 31.0.1 is released!</title>
-    <updated>2024-02-28T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/02/28/WildFly3101-Released/</id>
-    <link href="https://wildfly.org//news/2024/02/28/WildFly3101-Released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Quarkus 3.8 - Our new LTS version</title>
     <updated>2024-02-28T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-8-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-8-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: WildFly 31.0.1 is released!</title>
+    <updated>2024-02-28T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2024/02/28/WildFly3101-Released/</id>
+    <link href="https://wildfly.org//news/2024/02/28/WildFly3101-Released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -291,17 +291,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
     <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
