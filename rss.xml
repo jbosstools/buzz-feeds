@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-03-18T12:15:43Z</updated>
+  <updated>2024-03-18T18:11:04Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: Red Hat Trusted Profile Analyzer is now in tech preview</title>
+    <updated>2024-03-18T13:00:00Z</updated>
+    <id>dcf2cfd6-d435-491b-a4fc-b5a076f3571e</id>
+    <link href="https://developers.redhat.com/articles/2024/03/18/red-hat-trusted-profile-analyzer-now-tech-preview" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JBoss Blogs: Using SAML with Keycloak</title>
     <updated>2024-03-18T07:35:09Z</updated>
@@ -81,10 +88,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus Newsletter #42 - March</title>
+    <title>JBoss Blogs: Trying Out An Upcoming Security Feature for WildFly on OpenShift</title>
     <updated>2024-03-13T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-42/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-42/" rel="alternate"></link>
+    <id>https://wildfly-security.github.io/wildfly-elytron/blog/in-progress-wildfly-feature-on-openshift/</id>
+    <link href="https://wildfly-security.github.io/wildfly-elytron/blog/in-progress-wildfly-feature-on-openshift/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -95,10 +102,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Trying Out An Upcoming Security Feature for WildFly on OpenShift</title>
+    <title>JBoss Blogs: Quarkus Newsletter #42 - March</title>
     <updated>2024-03-13T00:00:00Z</updated>
-    <id>https://wildfly-security.github.io/wildfly-elytron/blog/in-progress-wildfly-feature-on-openshift/</id>
-    <link href="https://wildfly-security.github.io/wildfly-elytron/blog/in-progress-wildfly-feature-on-openshift/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-newsletter-42/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-42/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -155,13 +162,6 @@
     <updated>2024-03-06T07:00:00Z</updated>
     <id>943a04bc-c495-44d4-8d18-f5a5117198d6</id>
     <link href="https://developers.redhat.com/articles/2024/03/06/how-use-helm-charts-deploy-data-grid-openshift" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: How to use JBoss EAP 8.0's new provisioning system</title>
-    <updated>2024-03-05T07:00:00Z</updated>
-    <id>d2e0b956-fcac-4f7a-b10a-c482a86fcb58</id>
-    <link href="https://developers.redhat.com/articles/2024/03/05/how-use-jboss-eap-80s-new-provisioning-system" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
