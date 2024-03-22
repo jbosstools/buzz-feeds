@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-03-21T18:11:15Z</updated>
+  <updated>2024-03-22T00:39:19Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: How to run GitHub Actions locally</title>
@@ -22,6 +22,13 @@
     <updated>2024-03-21T07:00:00Z</updated>
     <id>06c32f8b-1ca8-484a-bfb7-e06f2af8285c</id>
     <link href="https://developers.redhat.com/articles/2024/03/21/implement-source-image-builds-azure-devops-pipeline" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Eclipse Vert.x 4.5.6 released!</title>
+    <updated>2024-03-21T00:00:00Z</updated>
+    <id>https://vertx.io/blog/eclipse-vert-x-4-5-6</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-6" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -60,13 +67,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Optimizing Quay/Clair: Database profiling results</title>
-    <updated>2024-03-19T07:00:00Z</updated>
-    <id>aa656170-d0af-49ce-8f3c-6b8174c2d317</id>
-    <link href="https://developers.redhat.com/articles/2024/03/19/optimizing-quayclair-database-profiling-results" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Optimizing Quay/Clair: Profiling, performance, and efficiency</title>
     <updated>2024-03-19T07:00:00Z</updated>
     <id>843cca29-b59f-4fdf-915d-231506503a3a</id>
@@ -74,10 +74,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.8.3 released - Maintenance release</title>
-    <updated>2024-03-19T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-8-3-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-8-3-released/" rel="alternate"></link>
+    <title>Red Hat Developer: Optimizing Quay/Clair: Database profiling results</title>
+    <updated>2024-03-19T07:00:00Z</updated>
+    <id>aa656170-d0af-49ce-8f3c-6b8174c2d317</id>
+    <link href="https://developers.redhat.com/articles/2024/03/19/optimizing-quayclair-database-profiling-results" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -92,6 +92,13 @@
     <updated>2024-03-19T00:00:00Z</updated>
     <id>https://wildfly.org//news/2024/03/19/WildFly-mini-conference-recap/</id>
     <link href="https://wildfly.org//news/2024/03/19/WildFly-mini-conference-recap/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.8.3 released - Maintenance release</title>
+    <updated>2024-03-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-8-3-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-8-3-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -165,13 +172,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus Newsletter #42 - March</title>
-    <updated>2024-03-13T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-42/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-42/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Trying Out An Upcoming Security Feature for WildFly on OpenShift</title>
     <updated>2024-03-13T00:00:00Z</updated>
     <id>https://wildfly-security.github.io/wildfly-elytron/blog/in-progress-wildfly-feature-on-openshift/</id>
@@ -179,10 +179,24 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Quarkus Newsletter #42 - March</title>
+    <updated>2024-03-13T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-42/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-42/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Hosting a React Application on WildFly</title>
     <updated>2024-03-08T00:00:00Z</updated>
     <id>http://lofthouse.dev/2024/03/07/hosting-a-react-application-on-wildfly/</id>
     <link href="http://lofthouse.dev/2024/03/07/hosting-a-react-application-on-wildfly/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: WildFly - The GitOps Way</title>
+    <updated>2024-03-07T00:00:00Z</updated>
+    <id>https://jmesnil.net/weblog/2024/03/05/wildfly-gitops/</id>
+    <link href="https://jmesnil.net/weblog/2024/03/05/wildfly-gitops/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -197,13 +211,6 @@
     <updated>2024-03-07T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-8-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-8-2-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: WildFly - The GitOps Way</title>
-    <updated>2024-03-07T00:00:00Z</updated>
-    <id>https://jmesnil.net/weblog/2024/03/05/wildfly-gitops/</id>
-    <link href="https://jmesnil.net/weblog/2024/03/05/wildfly-gitops/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -239,13 +246,6 @@
     <updated>2024-03-01T12:50:28Z</updated>
     <id>https://www.mastertheboss.com/ci-cd/getting-started-with-github-actions/</id>
     <link href="https://www.mastertheboss.com/ci-cd/getting-started-with-github-actions/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: How to contribute to WildFly</title>
-    <updated>2024-03-01T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/03/01/How-to-contribute-to-WildFly/</id>
-    <link href="https://wildfly.org//news/2024/03/01/How-to-contribute-to-WildFly/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
