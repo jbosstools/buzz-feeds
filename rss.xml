@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-03-26T18:11:32Z</updated>
+  <updated>2024-03-27T00:39:52Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: Getting Started with Jakarta Data API</title>
@@ -39,17 +39,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: RESTEasy 6.2.8.Final Release</title>
+    <updated>2024-03-22T18:11:11Z</updated>
+    <id>https://resteasy.dev/2024/03/22/6.2.8-releas/</id>
+    <link href="https://resteasy.dev/2024/03/22/6.2.8-releas/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: How to run GitHub Actions locally</title>
     <updated>2024-03-21T15:17:32Z</updated>
     <id>https://www.mastertheboss.com/ci-cd/how-to-run-github-actions-locally/</id>
     <link href="https://www.mastertheboss.com/ci-cd/how-to-run-github-actions-locally/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Benchmark Cyclone DDS in CentOS Stream 9 VMs for low latency</title>
-    <updated>2024-03-21T07:00:00Z</updated>
-    <id>393c0a78-a4d0-423e-ad01-f704b54d989e</id>
-    <link href="https://developers.redhat.com/articles/2024/03/21/benchmark-cyclone-dds-centos-stream-9-vms-low-latency" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -60,17 +60,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Red Hat Developer: Benchmark Cyclone DDS in CentOS Stream 9 VMs for low latency</title>
+    <updated>2024-03-21T07:00:00Z</updated>
+    <id>393c0a78-a4d0-423e-ad01-f704b54d989e</id>
+    <link href="https://developers.redhat.com/articles/2024/03/21/benchmark-cyclone-dds-centos-stream-9-vms-low-latency" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Eclipse Vert.x 4.5.6 released!</title>
     <updated>2024-03-21T00:00:00Z</updated>
     <id>https://vertx.io/blog/eclipse-vert-x-4-5-6</id>
     <link href="https://vertx.io/blog/eclipse-vert-x-4-5-6" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Evolving Quarkus extension naming for clarity</title>
-    <updated>2024-03-21T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/the-big-rename/</id>
-    <link href="https://quarkus.io/blog/the-big-rename/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -81,10 +81,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Using Kuadrant Gateway API policies with Gatekeeper policies</title>
-    <updated>2024-03-20T07:00:00Z</updated>
-    <id>752edb9f-3db0-4abc-afc2-777c857ff4ef</id>
-    <link href="https://developers.redhat.com/articles/2024/03/20/using-kuadrant-gateway-api-policies-gatekeeper-policies" rel="alternate"></link>
+    <title>Quarkus: Evolving Quarkus extension naming for clarity</title>
+    <updated>2024-03-21T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/the-big-rename/</id>
+    <link href="https://quarkus.io/blog/the-big-rename/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -92,6 +92,13 @@
     <updated>2024-03-20T07:00:00Z</updated>
     <id>1edc2259-2997-4963-89d7-11658ec714a8</id>
     <link href="https://developers.redhat.com/articles/2024/03/20/whats-new-network-observability-15" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Using Kuadrant Gateway API policies with Gatekeeper policies</title>
+    <updated>2024-03-20T07:00:00Z</updated>
+    <id>752edb9f-3db0-4abc-afc2-777c857ff4ef</id>
+    <link href="https://developers.redhat.com/articles/2024/03/20/using-kuadrant-gateway-api-policies-gatekeeper-policies" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -123,7 +130,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.8.3 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.8.3 released - Maintenance release</title>
     <updated>2024-03-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-8-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-8-3-released/" rel="alternate"></link>
@@ -137,7 +144,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.8.3 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.8.3 released - Maintenance release</title>
     <updated>2024-03-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-8-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-8-3-released/" rel="alternate"></link>
@@ -186,21 +193,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Infinispan 15.0.0.Final</title>
-    <updated>2024-03-13T00:00:00Z</updated>
-    <id>https://infinispan.org/blog/2024/03/12/infinispan-15</id>
-    <link href="https://infinispan.org/blog/2024/03/12/infinispan-15" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus Newsletter #42 - March</title>
-    <updated>2024-03-13T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-42/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-42/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus Newsletter #42 - March</title>
     <updated>2024-03-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-42/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-42/" rel="alternate"></link>
@@ -214,10 +207,31 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Quarkus Newsletter #42 - March</title>
+    <updated>2024-03-13T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-42/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-42/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Infinispan 15.0.0.Final</title>
+    <updated>2024-03-13T00:00:00Z</updated>
+    <id>https://infinispan.org/blog/2024/03/12/infinispan-15</id>
+    <link href="https://infinispan.org/blog/2024/03/12/infinispan-15" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Hosting a React Application on WildFly</title>
     <updated>2024-03-08T00:00:00Z</updated>
     <id>http://lofthouse.dev/2024/03/07/hosting-a-react-application-on-wildfly/</id>
     <link href="http://lofthouse.dev/2024/03/07/hosting-a-react-application-on-wildfly/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.8.2 released - Maintenance release</title>
+    <updated>2024-03-07T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-8-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-8-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -232,20 +246,6 @@
     <updated>2024-03-07T00:00:00Z</updated>
     <id>https://jmesnil.net/weblog/2024/03/05/wildfly-gitops/</id>
     <link href="https://jmesnil.net/weblog/2024/03/05/wildfly-gitops/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.8.2 released - Maintenance release</title>
-    <updated>2024-03-07T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-8-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-8-2-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Keycloak 24.0.1 released</title>
-    <updated>2024-03-05T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/03/keycloak-2401-released</id>
-    <link href="https://www.keycloak.org/2024/03/keycloak-2401-released" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -291,17 +291,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
-    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
     <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
