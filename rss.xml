@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-04-01T12:16:58Z</updated>
+  <updated>2024-04-01T18:11:00Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: Secure JBoss EAP apps with Microsoft Entra ID & OpenID Connect</title>
@@ -25,17 +25,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Eclipse Vert.x 4.4.9 released!</title>
-    <updated>2024-03-28T00:00:00Z</updated>
-    <id>https://vertx.io/blog/eclipse-vert-x-4-4-9</id>
-    <link href="https://vertx.io/blog/eclipse-vert-x-4-4-9" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Vlog: WildFly Glow, direct deployment to OpenShift</title>
     <updated>2024-03-28T00:00:00Z</updated>
     <id>https://youtu.be/GkfSHiqyBDU</id>
     <link href="https://youtu.be/GkfSHiqyBDU" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Eclipse Vert.x 4.4.9 released!</title>
+    <updated>2024-03-28T00:00:00Z</updated>
+    <id>https://vertx.io/blog/eclipse-vert-x-4-4-9</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-4-4-9" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -60,20 +60,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Use OIDC Proxy to integrate OIDC service endpoints with custom GPT</title>
-    <updated>2024-03-27T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/oidc-proxy/</id>
-    <link href="https://quarkus.io/blog/oidc-proxy/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Eclipse Vert.x 4.5.7 released!</title>
-    <updated>2024-03-27T00:00:00Z</updated>
-    <id>https://vertx.io/blog/eclipse-vert-x-4-5-7</id>
-    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-7" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Quarkus 3.9 - Big Reactive Rename</title>
     <updated>2024-03-27T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-1-released/</id>
@@ -85,6 +71,20 @@
     <updated>2024-03-27T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-9-1-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Eclipse Vert.x 4.5.7 released!</title>
+    <updated>2024-03-27T00:00:00Z</updated>
+    <id>https://vertx.io/blog/eclipse-vert-x-4-5-7</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-7" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Use OIDC Proxy to integrate OIDC service endpoints with custom GPT</title>
+    <updated>2024-03-27T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/oidc-proxy/</id>
+    <link href="https://quarkus.io/blog/oidc-proxy/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -144,13 +144,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Benchmark Cyclone DDS in CentOS Stream 9 VMs for low latency</title>
-    <updated>2024-03-21T07:00:00Z</updated>
-    <id>393c0a78-a4d0-423e-ad01-f704b54d989e</id>
-    <link href="https://developers.redhat.com/articles/2024/03/21/benchmark-cyclone-dds-centos-stream-9-vms-low-latency" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Implement Source-to-Image builds in an Azure DevOps pipeline</title>
     <updated>2024-03-21T07:00:00Z</updated>
     <id>06c32f8b-1ca8-484a-bfb7-e06f2af8285c</id>
@@ -158,10 +151,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Evolving Quarkus extension naming for clarity</title>
+    <title>Red Hat Developer: Benchmark Cyclone DDS in CentOS Stream 9 VMs for low latency</title>
+    <updated>2024-03-21T07:00:00Z</updated>
+    <id>393c0a78-a4d0-423e-ad01-f704b54d989e</id>
+    <link href="https://developers.redhat.com/articles/2024/03/21/benchmark-cyclone-dds-centos-stream-9-vms-low-latency" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Eclipse Vert.x 4.5.6 released!</title>
     <updated>2024-03-21T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/the-big-rename/</id>
-    <link href="https://quarkus.io/blog/the-big-rename/" rel="alternate"></link>
+    <id>https://vertx.io/blog/eclipse-vert-x-4-5-6</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-6" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -172,10 +172,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Eclipse Vert.x 4.5.6 released!</title>
+    <title>Quarkus: Evolving Quarkus extension naming for clarity</title>
     <updated>2024-03-21T00:00:00Z</updated>
-    <id>https://vertx.io/blog/eclipse-vert-x-4-5-6</id>
-    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-6" rel="alternate"></link>
+    <id>https://quarkus.io/blog/the-big-rename/</id>
+    <link href="https://quarkus.io/blog/the-big-rename/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -207,10 +207,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.8.3 released - Maintenance release</title>
+    <title>JBoss Blogs: WildFly Mini Conference Recap</title>
     <updated>2024-03-19T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-8-3-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-8-3-released/" rel="alternate"></link>
+    <id>https://wildfly.org//news/2024/03/19/WildFly-mini-conference-recap/</id>
+    <link href="https://wildfly.org//news/2024/03/19/WildFly-mini-conference-recap/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -221,10 +221,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: WildFly Mini Conference Recap</title>
+    <title>Quarkus: Quarkus 3.8.3 released - Maintenance release</title>
     <updated>2024-03-19T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/03/19/WildFly-mini-conference-recap/</id>
-    <link href="https://wildfly.org//news/2024/03/19/WildFly-mini-conference-recap/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-8-3-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-8-3-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -627,17 +627,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
-    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
     <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
