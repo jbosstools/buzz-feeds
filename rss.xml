@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-04-03T12:16:01Z</updated>
+  <updated>2024-04-03T18:11:12Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: Improvements to static analysis in the GCC 14 compiler</title>
@@ -29,6 +29,13 @@
     <updated>2024-04-03T00:00:00Z</updated>
     <id>https://quarkus.io/blog/changing-loggers-level-from-unleash/</id>
     <link href="https://quarkus.io/blog/changing-loggers-level-from-unleash/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.9.2 released - Maintenance release</title>
+    <updated>2024-04-03T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-9-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-9-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -102,7 +109,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.9 - Big Reactive Rename</title>
+    <title>Quarkus: Use OIDC Proxy to integrate OIDC service endpoints with custom GPT</title>
+    <updated>2024-03-27T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/oidc-proxy/</id>
+    <link href="https://quarkus.io/blog/oidc-proxy/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.9 - Big Reactive Rename</title>
     <updated>2024-03-27T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-9-1-released/" rel="alternate"></link>
@@ -116,14 +130,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Use OIDC Proxy to integrate OIDC service endpoints with custom GPT</title>
-    <updated>2024-03-27T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/oidc-proxy/</id>
-    <link href="https://quarkus.io/blog/oidc-proxy/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.9 - Big Reactive Rename</title>
+    <title>JBoss Blogs: Quarkus 3.9 - Big Reactive Rename</title>
     <updated>2024-03-27T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-9-1-released/" rel="alternate"></link>
@@ -193,6 +200,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Eclipse Vert.x 4.5.6 released!</title>
+    <updated>2024-03-21T00:00:00Z</updated>
+    <id>https://vertx.io/blog/eclipse-vert-x-4-5-6</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-6" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Evolving Quarkus extension naming for clarity</title>
     <updated>2024-03-21T00:00:00Z</updated>
     <id>https://quarkus.io/blog/the-big-rename/</id>
@@ -207,13 +221,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Eclipse Vert.x 4.5.6 released!</title>
-    <updated>2024-03-21T00:00:00Z</updated>
-    <id>https://vertx.io/blog/eclipse-vert-x-4-5-6</id>
-    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-6" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Infinispan Operator 2.4.0</title>
     <updated>2024-03-20T00:00:00Z</updated>
     <id>https://infinispan.org/blog/2024/03/19/infinispan-resp-resque-use-case</id>
@@ -221,14 +228,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.8.3 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.8.3 released - Maintenance release</title>
     <updated>2024-03-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-8-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-8-3-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.8.3 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.8.3 released - Maintenance release</title>
     <updated>2024-03-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-8-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-8-3-released/" rel="alternate"></link>
@@ -277,13 +284,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: The road to generated SDKs with Kiota using Quarkus</title>
-    <updated>2024-02-27T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-kiota/</id>
-    <link href="https://quarkus.io/blog/quarkus-kiota/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.29.0.Final for Eclipse 2023-09</title>
     <updated>2023-11-02T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.29.0.final.html</id>
@@ -291,17 +291,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
-    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
     <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
