@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-04-05T18:11:22Z</updated>
+  <updated>2024-04-06T00:39:23Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: Enable GPU acceleration with the Kernel Module Management Operator</title>
+    <updated>2024-04-05T19:00:00Z</updated>
+    <id>80e1dd2b-9eba-48f2-aa8f-c5359635080e</id>
+    <link href="https://developers.redhat.com/articles/2024/04/05/enable-gpu-acceleration-kernel-module-management-operator" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JBoss Blogs: Infinispan 15 tracing news</title>
     <updated>2024-04-05T00:00:00Z</updated>
@@ -25,13 +32,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to add debug support for Go stripped binaries</title>
-    <updated>2024-04-03T07:00:00Z</updated>
-    <id>29f06dce-0a8a-4c3d-b2b0-e5952a359a10</id>
-    <link href="https://developers.redhat.com/articles/2024/04/03/how-add-debug-support-go-stripped-binaries" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Improvements to static analysis in the GCC 14 compiler</title>
     <updated>2024-04-03T07:00:00Z</updated>
     <id>37e9b438-8c34-4fae-a57c-e1ddb61ab500</id>
@@ -39,17 +39,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.9.2 released - Maintenance release</title>
-    <updated>2024-04-03T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-9-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-9-2-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.9.2 released - Maintenance release</title>
-    <updated>2024-04-03T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-9-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-9-2-released/" rel="alternate"></link>
+    <title>Red Hat Developer: How to add debug support for Go stripped binaries</title>
+    <updated>2024-04-03T07:00:00Z</updated>
+    <id>29f06dce-0a8a-4c3d-b2b0-e5952a359a10</id>
+    <link href="https://developers.redhat.com/articles/2024/04/03/how-add-debug-support-go-stripped-binaries" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -60,10 +53,24 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Quarkus 3.9.2 released - Maintenance release</title>
+    <updated>2024-04-03T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-9-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-9-2-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Quarkus: Changing the Quarkus loggers level from Unleash</title>
     <updated>2024-04-03T00:00:00Z</updated>
     <id>https://quarkus.io/blog/changing-loggers-level-from-unleash/</id>
     <link href="https://quarkus.io/blog/changing-loggers-level-from-unleash/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.9.2 released - Maintenance release</title>
+    <updated>2024-04-03T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-9-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-9-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -95,17 +102,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Vlog: WildFly Glow, direct deployment to OpenShift</title>
-    <updated>2024-03-28T00:00:00Z</updated>
-    <id>https://youtu.be/GkfSHiqyBDU</id>
-    <link href="https://youtu.be/GkfSHiqyBDU" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Eclipse Vert.x 4.4.9 released!</title>
     <updated>2024-03-28T00:00:00Z</updated>
     <id>https://vertx.io/blog/eclipse-vert-x-4-4-9</id>
     <link href="https://vertx.io/blog/eclipse-vert-x-4-4-9" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Vlog: WildFly Glow, direct deployment to OpenShift</title>
+    <updated>2024-03-28T00:00:00Z</updated>
+    <id>https://youtu.be/GkfSHiqyBDU</id>
+    <link href="https://youtu.be/GkfSHiqyBDU" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -130,17 +137,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Use OIDC Proxy to integrate OIDC service endpoints with custom GPT</title>
+    <title>Quarkus: Use OIDC Proxy to integrate OIDC service endpoints with custom GPT</title>
     <updated>2024-03-27T00:00:00Z</updated>
     <id>https://quarkus.io/blog/oidc-proxy/</id>
     <link href="https://quarkus.io/blog/oidc-proxy/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Eclipse Vert.x 4.5.7 released!</title>
-    <updated>2024-03-27T00:00:00Z</updated>
-    <id>https://vertx.io/blog/eclipse-vert-x-4-5-7</id>
-    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-7" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -151,7 +151,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Use OIDC Proxy to integrate OIDC service endpoints with custom GPT</title>
+    <title>JBoss Blogs: Use OIDC Proxy to integrate OIDC service endpoints with custom GPT</title>
     <updated>2024-03-27T00:00:00Z</updated>
     <id>https://quarkus.io/blog/oidc-proxy/</id>
     <link href="https://quarkus.io/blog/oidc-proxy/" rel="alternate"></link>
@@ -162,6 +162,13 @@
     <updated>2024-03-27T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-9-1-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Eclipse Vert.x 4.5.7 released!</title>
+    <updated>2024-03-27T00:00:00Z</updated>
+    <id>https://vertx.io/blog/eclipse-vert-x-4-5-7</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-7" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -214,14 +221,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Benchmark Cyclone DDS in CentOS Stream 9 VMs for low latency</title>
-    <updated>2024-03-21T07:00:00Z</updated>
-    <id>393c0a78-a4d0-423e-ad01-f704b54d989e</id>
-    <link href="https://developers.redhat.com/articles/2024/03/21/benchmark-cyclone-dds-centos-stream-9-vms-low-latency" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Evolving Quarkus extension naming for clarity</title>
+    <title>JBoss Blogs: Evolving Quarkus extension naming for clarity</title>
     <updated>2024-03-21T00:00:00Z</updated>
     <id>https://quarkus.io/blog/the-big-rename/</id>
     <link href="https://quarkus.io/blog/the-big-rename/" rel="alternate"></link>
@@ -235,7 +235,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Evolving Quarkus extension naming for clarity</title>
+    <title>Quarkus: Evolving Quarkus extension naming for clarity</title>
     <updated>2024-03-21T00:00:00Z</updated>
     <id>https://quarkus.io/blog/the-big-rename/</id>
     <link href="https://quarkus.io/blog/the-big-rename/" rel="alternate"></link>
