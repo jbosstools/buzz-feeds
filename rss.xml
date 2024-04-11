@@ -1,10 +1,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-04-11T12:15:49Z</updated>
+  <updated>2024-04-11T18:11:14Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
-    <title>JBoss Blogs: Simplifying to migration to Jakarta EE with tools</title>
+    <title>JBoss Blogs: A Beginner’s Guide to Ansible Ad Hoc Commands</title>
+    <updated>2024-04-11T11:32:24Z</updated>
+    <id>https://www.mastertheboss.com/various-stuff/ansible/a-beginners-guide-to-ansible-ad-hoc-commands/</id>
+    <link href="https://www.mastertheboss.com/various-stuff/ansible/a-beginners-guide-to-ansible-ad-hoc-commands/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Simplifying migration to Jakarta EE with tools</title>
     <updated>2024-04-11T08:44:37Z</updated>
     <id>https://www.mastertheboss.com/java-ee/jakarta-ee/simplifying-to-migration-to-jakarta-ee-with-tools/</id>
     <link href="https://www.mastertheboss.com/java-ee/jakarta-ee/simplifying-to-migration-to-jakarta-ee-with-tools/" rel="alternate"></link>
@@ -25,14 +32,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.9.3 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.9.3 released - Maintenance release</title>
     <updated>2024-04-10T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-9-3-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.9.3 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.9.3 released - Maintenance release</title>
     <updated>2024-04-10T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-9-3-released/" rel="alternate"></link>
@@ -81,13 +88,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to add debug support for Go stripped binaries</title>
-    <updated>2024-04-03T07:00:00Z</updated>
-    <id>29f06dce-0a8a-4c3d-b2b0-e5952a359a10</id>
-    <link href="https://developers.redhat.com/articles/2024/04/03/how-add-debug-support-go-stripped-binaries" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Improvements to static analysis in the GCC 14 compiler</title>
     <updated>2024-04-03T07:00:00Z</updated>
     <id>37e9b438-8c34-4fae-a57c-e1ddb61ab500</id>
@@ -95,10 +95,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.9.2 released - Maintenance release</title>
-    <updated>2024-04-03T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-9-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-9-2-released/" rel="alternate"></link>
+    <title>Red Hat Developer: How to add debug support for Go stripped binaries</title>
+    <updated>2024-04-03T07:00:00Z</updated>
+    <id>29f06dce-0a8a-4c3d-b2b0-e5952a359a10</id>
+    <link href="https://developers.redhat.com/articles/2024/04/03/how-add-debug-support-go-stripped-binaries" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -109,6 +109,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Quarkus 3.9.2 released - Maintenance release</title>
+    <updated>2024-04-03T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-9-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-9-2-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Changing the Quarkus loggers level from Unleash</title>
     <updated>2024-04-03T00:00:00Z</updated>
     <id>https://quarkus.io/blog/changing-loggers-level-from-unleash/</id>
@@ -116,7 +123,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.9.2 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.9.2 released - Maintenance release</title>
     <updated>2024-04-03T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-9-2-released/" rel="alternate"></link>
@@ -193,10 +200,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Eclipse Vert.x 4.5.7 released!</title>
+    <title>JBoss Blogs: Quarkus 3.9 - Big Reactive Rename</title>
     <updated>2024-03-27T00:00:00Z</updated>
-    <id>https://vertx.io/blog/eclipse-vert-x-4-5-7</id>
-    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-7" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-9-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-9-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -207,10 +214,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.9 - Big Reactive Rename</title>
+    <title>JBoss Blogs: Eclipse Vert.x 4.5.7 released!</title>
     <updated>2024-03-27T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-9-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-9-1-released/" rel="alternate"></link>
+    <id>https://vertx.io/blog/eclipse-vert-x-4-5-7</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-7" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -239,13 +246,6 @@
     <updated>2024-03-25T17:08:32Z</updated>
     <id>https://www.mastertheboss.com/keycloak/how-to-create-a-keycloak-provider/</id>
     <link href="https://www.mastertheboss.com/keycloak/how-to-create-a-keycloak-provider/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Keycloak 24.0.2 released</title>
-    <updated>2024-03-25T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/03/keycloak-2402-released</id>
-    <link href="https://www.keycloak.org/2024/03/keycloak-2402-released" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
