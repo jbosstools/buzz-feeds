@@ -1,13 +1,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-04-12T12:15:38Z</updated>
+  <updated>2024-04-12T18:09:57Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
-    <title>Red Hat Developer: Event-Driven Ansible rulebook for automation</title>
-    <updated>2024-04-12T07:00:00Z</updated>
-    <id>20fc0b60-1f0c-4170-b41c-78c579490fcf</id>
-    <link href="https://developers.redhat.com/articles/2024/04/12/event-driven-ansible-rulebook-automation" rel="alternate"></link>
+    <title>Red Hat Developer: Modernization - A reference appraoch, where to begin and how</title>
+    <updated>2024-04-12T13:03:29Z</updated>
+    <id>b91f5368-3214-4dbb-9122-d40b8287c1cc</id>
+    <link href="https://developers.redhat.com/articles/2024/04/12/modernization-reference-appraoch-where-begin-and-how" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Modernization - Managing Data during the process</title>
+    <updated>2024-04-12T12:33:22Z</updated>
+    <id>f3978cd8-0be5-4dcf-8a16-10fc045c4286</id>
+    <link href="https://developers.redhat.com/articles/2024/04/12/modernization-managing-data-during-process" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -15,6 +22,13 @@
     <updated>2024-04-12T07:00:00Z</updated>
     <id>d596a2eb-4987-42c7-a07c-016f283da5b8</id>
     <link href="https://developers.redhat.com/articles/2024/04/12/how-create-automation-mesh-ansible-controller" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Event-Driven Ansible rulebook for automation</title>
+    <updated>2024-04-12T07:00:00Z</updated>
+    <id>20fc0b60-1f0c-4170-b41c-78c579490fcf</id>
+    <link href="https://developers.redhat.com/articles/2024/04/12/event-driven-ansible-rulebook-automation" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -57,6 +71,13 @@
     <updated>2024-04-10T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-9-3-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Understand modernization of a traditional Java application with an example</title>
+    <updated>2024-04-08T18:08:47Z</updated>
+    <id>b90c0c44-b345-449d-8ad6-04ae1995f469</id>
+    <link href="https://developers.redhat.com/articles/2024/04/08/understand-modernization-traditional-java-application-example" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -144,20 +165,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Customize AWS cloud images with RHEL image builder and Packit</title>
-    <updated>2024-04-02T14:00:00Z</updated>
-    <id>9b61fb1e-9012-4216-9fc3-b1bf45d85f07</id>
-    <link href="https://developers.redhat.com/articles/2024/04/02/customize-aws-cloud-images-rhel-image-builder-and-packit" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Secure JBoss EAP apps with Microsoft Entra ID & OpenID Connect</title>
-    <updated>2024-04-01T07:00:00Z</updated>
-    <id>f152e694-10b2-45c8-8ee2-ca166ca5c93d</id>
-    <link href="https://developers.redhat.com/articles/2024/04/01/secure-jboss-eap-apps-microsoft-entra-id-openid-connect" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: How to replace Java Security Manager</title>
     <updated>2024-03-29T14:49:27Z</updated>
     <id>https://www.mastertheboss.com/java/how-to-replace-java-security-manager/</id>
@@ -165,10 +172,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Packet capture using Network Observability eBPF Agent</title>
-    <updated>2024-03-28T14:00:00Z</updated>
-    <id>1436d8ea-2740-42a2-ae76-77d9e38bb08f</id>
-    <link href="https://developers.redhat.com/articles/2024/03/28/packet-capture-using-network-observability-ebpf-agent" rel="alternate"></link>
+    <title>JBoss Blogs: Eclipse Vert.x 4.4.9 released!</title>
+    <updated>2024-03-28T00:00:00Z</updated>
+    <id>https://vertx.io/blog/eclipse-vert-x-4-4-9</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-4-4-9" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -176,13 +183,6 @@
     <updated>2024-03-28T00:00:00Z</updated>
     <id>https://youtu.be/GkfSHiqyBDU</id>
     <link href="https://youtu.be/GkfSHiqyBDU" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Eclipse Vert.x 4.4.9 released!</title>
-    <updated>2024-03-28T00:00:00Z</updated>
-    <id>https://vertx.io/blog/eclipse-vert-x-4-4-9</id>
-    <link href="https://vertx.io/blog/eclipse-vert-x-4-4-9" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -200,13 +200,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Use OIDC Proxy to integrate OIDC service endpoints with custom GPT</title>
-    <updated>2024-03-27T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/oidc-proxy/</id>
-    <link href="https://quarkus.io/blog/oidc-proxy/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.9 - Big Reactive Rename</title>
     <updated>2024-03-27T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-1-released/</id>
@@ -221,6 +214,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Eclipse Vert.x 4.5.7 released!</title>
+    <updated>2024-03-27T00:00:00Z</updated>
+    <id>https://vertx.io/blog/eclipse-vert-x-4-5-7</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-7" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Quarkus 3.9 - Big Reactive Rename</title>
     <updated>2024-03-27T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-1-released/</id>
@@ -228,10 +228,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Eclipse Vert.x 4.5.7 released!</title>
+    <title>Quarkus: Use OIDC Proxy to integrate OIDC service endpoints with custom GPT</title>
     <updated>2024-03-27T00:00:00Z</updated>
-    <id>https://vertx.io/blog/eclipse-vert-x-4-5-7</id>
-    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-7" rel="alternate"></link>
+    <id>https://quarkus.io/blog/oidc-proxy/</id>
+    <link href="https://quarkus.io/blog/oidc-proxy/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -627,17 +627,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
