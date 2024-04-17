@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-04-17T12:16:10Z</updated>
+  <updated>2024-04-17T18:11:55Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: Synchronize instance tags from Amazon EC2 and Microsoft Azure with Red Hat Insights</title>
@@ -18,10 +18,24 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Quarkus 3.8.4 released - Maintenance release</title>
+    <updated>2024-04-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Quarkus: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
     <updated>2024-04-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-2-12-final-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.8.4 released - Maintenance release</title>
+    <updated>2024-04-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -60,13 +74,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Keycloak 24.0.3 released</title>
-    <updated>2024-04-16T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/04/keycloak-2403-released</id>
-    <link href="https://www.keycloak.org/2024/04/keycloak-2403-released" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus Newsletter #43 - April</title>
     <updated>2024-04-16T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-43/</id>
@@ -74,10 +81,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Patch updates on RHEL servers with Ansible Automation Platform 2.4</title>
-    <updated>2024-04-15T07:00:00Z</updated>
-    <id>5a535088-5c6e-485d-b978-b368d3ba9679</id>
-    <link href="https://developers.redhat.com/articles/2024/04/15/patch-updates-rhel-servers-ansible-automation-platform-24" rel="alternate"></link>
+    <title>JBoss Blogs: Keycloak 24.0.3 released</title>
+    <updated>2024-04-16T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/04/keycloak-2403-released</id>
+    <link href="https://www.keycloak.org/2024/04/keycloak-2403-released" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -85,6 +92,13 @@
     <updated>2024-04-15T07:00:00Z</updated>
     <id>87f48fb2-1046-45cd-9a0a-862a19513c5a</id>
     <link href="https://developers.redhat.com/articles/2024/04/15/red-hat-build-keycloak-high-availability-simplified-approach" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Patch updates on RHEL servers with Ansible Automation Platform 2.4</title>
+    <updated>2024-04-15T07:00:00Z</updated>
+    <id>5a535088-5c6e-485d-b978-b368d3ba9679</id>
+    <link href="https://developers.redhat.com/articles/2024/04/15/patch-updates-rhel-servers-ansible-automation-platform-24" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -193,10 +207,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Changing the Quarkus loggers level from Unleash</title>
+    <title>JBoss Blogs: Quarkus 3.9.2 released - Maintenance release</title>
     <updated>2024-04-03T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/changing-loggers-level-from-unleash/</id>
-    <link href="https://quarkus.io/blog/changing-loggers-level-from-unleash/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-9-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-9-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -214,10 +228,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.9.2 released - Maintenance release</title>
+    <title>JBoss Blogs: Changing the Quarkus loggers level from Unleash</title>
     <updated>2024-04-03T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-9-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-9-2-released/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/changing-loggers-level-from-unleash/</id>
+    <link href="https://quarkus.io/blog/changing-loggers-level-from-unleash/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -239,13 +253,6 @@
     <updated>2024-03-28T00:00:00Z</updated>
     <id>https://vertx.io/blog/eclipse-vert-x-4-4-9</id>
     <link href="https://vertx.io/blog/eclipse-vert-x-4-4-9" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: How to install KeyCloak with Ansible</title>
-    <updated>2024-03-27T13:24:35Z</updated>
-    <id>https://www.mastertheboss.com/various-stuff/ansible/how-to-install-keycloak-with-ansible/</id>
-    <link href="https://www.mastertheboss.com/various-stuff/ansible/how-to-install-keycloak-with-ansible/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -274,13 +281,6 @@
     <updated>2024-03-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-8-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-8-3-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.2.11.Final released - Maintenance LTS release</title>
-    <updated>2024-03-15T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-2-11-final-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-2-11-final-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
