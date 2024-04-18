@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-04-17T18:11:55Z</updated>
+  <updated>2024-04-18T00:40:12Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: Synchronize instance tags from Amazon EC2 and Microsoft Azure with Red Hat Insights</title>
@@ -18,7 +18,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.8.4 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.8.4 released - Maintenance release</title>
     <updated>2024-04-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
@@ -32,7 +32,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.8.4 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.8.4 released - Maintenance release</title>
     <updated>2024-04-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
@@ -53,13 +53,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to monitor OpenShift using the Datadog Operator</title>
-    <updated>2024-04-16T07:00:00Z</updated>
-    <id>d254131b-230e-417c-88ce-16c0f9e6785f</id>
-    <link href="https://developers.redhat.com/articles/2024/04/16/how-monitor-openshift-using-datadog-operator" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Containerize Node.js applications at the edge on RHEL and Fedora</title>
     <updated>2024-04-16T07:00:00Z</updated>
     <id>439ec80a-7e42-4ad5-952b-dd6a65335107</id>
@@ -67,17 +60,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus Newsletter #43 - April</title>
-    <updated>2024-04-16T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-43/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-43/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus Newsletter #43 - April</title>
-    <updated>2024-04-16T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-43/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-43/" rel="alternate"></link>
+    <title>Red Hat Developer: How to monitor OpenShift using the Datadog Operator</title>
+    <updated>2024-04-16T07:00:00Z</updated>
+    <id>d254131b-230e-417c-88ce-16c0f9e6785f</id>
+    <link href="https://developers.redhat.com/articles/2024/04/16/how-monitor-openshift-using-datadog-operator" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -88,10 +74,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Red Hat build of Keycloak high availability: A simplified approach</title>
-    <updated>2024-04-15T07:00:00Z</updated>
-    <id>87f48fb2-1046-45cd-9a0a-862a19513c5a</id>
-    <link href="https://developers.redhat.com/articles/2024/04/15/red-hat-build-keycloak-high-availability-simplified-approach" rel="alternate"></link>
+    <title>Quarkus: Quarkus Newsletter #43 - April</title>
+    <updated>2024-04-16T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-43/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-43/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus Newsletter #43 - April</title>
+    <updated>2024-04-16T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-43/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-43/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -99,6 +92,13 @@
     <updated>2024-04-15T07:00:00Z</updated>
     <id>5a535088-5c6e-485d-b978-b368d3ba9679</id>
     <link href="https://developers.redhat.com/articles/2024/04/15/patch-updates-rhel-servers-ansible-automation-platform-24" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Red Hat build of Keycloak high availability: A simplified approach</title>
+    <updated>2024-04-15T07:00:00Z</updated>
+    <id>87f48fb2-1046-45cd-9a0a-862a19513c5a</id>
+    <link href="https://developers.redhat.com/articles/2024/04/15/red-hat-build-keycloak-high-availability-simplified-approach" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -116,17 +116,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Modernization - Managing Data during the process</title>
+    <title>Red Hat Developer: Modernization: Managing data during the process</title>
     <updated>2024-04-12T12:33:22Z</updated>
     <id>f3978cd8-0be5-4dcf-8a16-10fc045c4286</id>
     <link href="https://developers.redhat.com/articles/2024/04/12/modernization-managing-data-during-process" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: How to create an automation mesh with Ansible controller</title>
-    <updated>2024-04-12T07:00:00Z</updated>
-    <id>d596a2eb-4987-42c7-a07c-016f283da5b8</id>
-    <link href="https://developers.redhat.com/articles/2024/04/12/how-create-automation-mesh-ansible-controller" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -134,6 +127,13 @@
     <updated>2024-04-12T07:00:00Z</updated>
     <id>20fc0b60-1f0c-4170-b41c-78c579490fcf</id>
     <link href="https://developers.redhat.com/articles/2024/04/12/event-driven-ansible-rulebook-automation" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How to create an automation mesh with Ansible controller</title>
+    <updated>2024-04-12T07:00:00Z</updated>
+    <id>d596a2eb-4987-42c7-a07c-016f283da5b8</id>
+    <link href="https://developers.redhat.com/articles/2024/04/12/how-create-automation-mesh-ansible-controller" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -165,14 +165,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.9.3 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.9.3 released - Maintenance release</title>
     <updated>2024-04-10T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-9-3-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.9.3 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.9.3 released - Maintenance release</title>
     <updated>2024-04-10T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-9-3-released/" rel="alternate"></link>
@@ -214,10 +214,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.9.2 released - Maintenance release</title>
+    <title>JBoss Blogs: Changing the Quarkus loggers level from Unleash</title>
     <updated>2024-04-03T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-9-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-9-2-released/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/changing-loggers-level-from-unleash/</id>
+    <link href="https://quarkus.io/blog/changing-loggers-level-from-unleash/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -228,10 +228,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Changing the Quarkus loggers level from Unleash</title>
+    <title>Quarkus: Quarkus 3.9.2 released - Maintenance release</title>
     <updated>2024-04-03T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/changing-loggers-level-from-unleash/</id>
-    <link href="https://quarkus.io/blog/changing-loggers-level-from-unleash/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-9-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-9-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -242,17 +242,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Vlog: WildFly Glow, direct deployment to OpenShift</title>
-    <updated>2024-03-28T00:00:00Z</updated>
-    <id>https://youtu.be/GkfSHiqyBDU</id>
-    <link href="https://youtu.be/GkfSHiqyBDU" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Eclipse Vert.x 4.4.9 released!</title>
     <updated>2024-03-28T00:00:00Z</updated>
     <id>https://vertx.io/blog/eclipse-vert-x-4-4-9</id>
     <link href="https://vertx.io/blog/eclipse-vert-x-4-4-9" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Vlog: WildFly Glow, direct deployment to OpenShift</title>
+    <updated>2024-03-28T00:00:00Z</updated>
+    <id>https://youtu.be/GkfSHiqyBDU</id>
+    <link href="https://youtu.be/GkfSHiqyBDU" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -291,17 +291,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
-    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
     <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -627,17 +627,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
