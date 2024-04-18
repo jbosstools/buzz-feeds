@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-04-18T06:12:42Z</updated>
+  <updated>2024-04-18T12:15:37Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: Synchronize instance tags from Amazon EC2 and Microsoft Azure with Red Hat Insights</title>
@@ -18,6 +18,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Quarkus 3.8.4 released - Maintenance release</title>
+    <updated>2024-04-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Quarkus 3.8.4 released - Maintenance release</title>
     <updated>2024-04-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
@@ -29,13 +36,6 @@
     <updated>2024-04-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-2-12-final-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.8.4 released - Maintenance release</title>
-    <updated>2024-04-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -67,6 +67,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Quarkus Newsletter #43 - April</title>
+    <updated>2024-04-16T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-43/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-43/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Quarkus: Quarkus Newsletter #43 - April</title>
     <updated>2024-04-16T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-43/</id>
@@ -78,13 +85,6 @@
     <updated>2024-04-16T00:00:00Z</updated>
     <id>https://www.keycloak.org/2024/04/keycloak-2403-released</id>
     <link href="https://www.keycloak.org/2024/04/keycloak-2403-released" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus Newsletter #43 - April</title>
-    <updated>2024-04-16T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-43/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-43/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -123,17 +123,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Event-Driven Ansible rulebook for automation</title>
-    <updated>2024-04-12T07:00:00Z</updated>
-    <id>20fc0b60-1f0c-4170-b41c-78c579490fcf</id>
-    <link href="https://developers.redhat.com/articles/2024/04/12/event-driven-ansible-rulebook-automation" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: How to create an automation mesh with Ansible controller</title>
     <updated>2024-04-12T07:00:00Z</updated>
     <id>d596a2eb-4987-42c7-a07c-016f283da5b8</id>
     <link href="https://developers.redhat.com/articles/2024/04/12/how-create-automation-mesh-ansible-controller" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Event-Driven Ansible rulebook for automation</title>
+    <updated>2024-04-12T07:00:00Z</updated>
+    <id>20fc0b60-1f0c-4170-b41c-78c579490fcf</id>
+    <link href="https://developers.redhat.com/articles/2024/04/12/event-driven-ansible-rulebook-automation" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -165,14 +165,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.9.3 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.9.3 released - Maintenance release</title>
     <updated>2024-04-10T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-9-3-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.9.3 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.9.3 released - Maintenance release</title>
     <updated>2024-04-10T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-9-3-released/" rel="alternate"></link>
@@ -214,17 +214,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Changing the Quarkus loggers level from Unleash</title>
-    <updated>2024-04-03T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/changing-loggers-level-from-unleash/</id>
-    <link href="https://quarkus.io/blog/changing-loggers-level-from-unleash/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Quarkus 3.9.2 released - Maintenance release</title>
     <updated>2024-04-03T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-9-2-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Changing the Quarkus loggers level from Unleash</title>
+    <updated>2024-04-03T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/changing-loggers-level-from-unleash/</id>
+    <link href="https://quarkus.io/blog/changing-loggers-level-from-unleash/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -291,17 +291,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
-    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
     <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -627,17 +627,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
-    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
     <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
