@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-04-21T06:12:41Z</updated>
+  <updated>2024-04-21T12:15:46Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: How to debug Quarkus applications</title>
