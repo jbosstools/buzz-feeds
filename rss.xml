@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-04-24T06:14:23Z</updated>
+  <updated>2024-04-24T12:19:08Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Quarkus: Obtaining heap dump on OutOfMemoryError with Quarkus native</title>
