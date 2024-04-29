@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-04-29T12:17:04Z</updated>
+  <updated>2024-04-29T18:11:28Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: Secure WildFly applications with OpenID Connect</title>
@@ -46,7 +46,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Create a Red Hat OpenShift AI environment</title>
+    <title>Red Hat Developer: Create an OpenShift AI environment with Snorkel</title>
     <updated>2024-04-26T07:00:00Z</updated>
     <id>58c8c5ed-8551-4c77-a9d5-f348390db450</id>
     <link href="https://developers.redhat.com/articles/2024/04/26/create-red-hat-openshift-ai-environment" rel="alternate"></link>
