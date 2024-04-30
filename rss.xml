@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-04-30T12:15:24Z</updated>
+  <updated>2024-04-30T18:13:42Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: Modernization - Rehost to OpenShift using ArgoCD - Pedal based guide</title>
+    <updated>2024-04-30T16:27:06Z</updated>
+    <id>6ea16f17-34d2-4c93-9540-f41051c28a88</id>
+    <link href="https://developers.redhat.com/articles/2024/04/30/modernization-rehost-openshift-using-argocd-pedal-based-guide" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JBoss Blogs: Configuring a Caching Realm with Elytron</title>
     <updated>2024-04-30T10:19:47Z</updated>
@@ -22,6 +29,27 @@
     <updated>2024-04-30T07:00:00Z</updated>
     <id>618e4cde-f678-4c57-b88d-66f650de3eb5</id>
     <link href="https://developers.redhat.com/articles/2024/04/30/some-more-c-12" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.10 - Hibernate Search standalone POJO mapper, Flyway 10, security enhancements</title>
+    <updated>2024-04-30T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-10-0-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-10-0-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Vlog: WildFly Glow, WildFly 32 deployment to OpenShift with database access</title>
+    <updated>2024-04-30T00:00:00Z</updated>
+    <id>https://www.youtube.com/watch?v=z9JnweD4zQQ</id>
+    <link href="https://www.youtube.com/watch?v=z9JnweD4zQQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.10 - Hibernate Search standalone POJO mapper, Flyway 10, security enhancements</title>
+    <updated>2024-04-30T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-10-0-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-10-0-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -46,14 +74,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.9.5 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.9.5 released - Maintenance release</title>
     <updated>2024-04-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-5-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-9-5-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.9.5 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.9.5 released - Maintenance release</title>
     <updated>2024-04-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-5-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-9-5-released/" rel="alternate"></link>
@@ -67,13 +95,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to share secrets across Red Hat OpenShift projects</title>
-    <updated>2024-04-26T07:00:00Z</updated>
-    <id>130c8280-e342-447d-9398-87d0da97d07e</id>
-    <link href="https://developers.redhat.com/articles/2024/04/26/how-share-secrets-across-red-hat-openshift-projects" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Create an OpenShift AI environment with Snorkel</title>
     <updated>2024-04-26T07:00:00Z</updated>
     <id>58c8c5ed-8551-4c77-a9d5-f348390db450</id>
@@ -81,14 +102,21 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Indexing rollover with Quarkus and Hibernate Search</title>
+    <title>Red Hat Developer: How to share secrets across Red Hat OpenShift projects</title>
+    <updated>2024-04-26T07:00:00Z</updated>
+    <id>130c8280-e342-447d-9398-87d0da97d07e</id>
+    <link href="https://developers.redhat.com/articles/2024/04/26/how-share-secrets-across-red-hat-openshift-projects" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Indexing rollover with Quarkus and Hibernate Search</title>
     <updated>2024-04-25T00:00:00Z</updated>
     <id>https://quarkus.io/blog/search-indexing-rollover/</id>
     <link href="https://quarkus.io/blog/search-indexing-rollover/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Indexing rollover with Quarkus and Hibernate Search</title>
+    <title>JBoss Blogs: Indexing rollover with Quarkus and Hibernate Search</title>
     <updated>2024-04-25T00:00:00Z</updated>
     <id>https://quarkus.io/blog/search-indexing-rollover/</id>
     <link href="https://quarkus.io/blog/search-indexing-rollover/" rel="alternate"></link>
@@ -109,14 +137,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Obtaining heap dump on OutOfMemoryError with Quarkus native</title>
+    <title>JBoss Blogs: Obtaining heap dump on OutOfMemoryError with Quarkus native</title>
     <updated>2024-04-23T00:00:00Z</updated>
     <id>https://quarkus.io/blog/heapdump-oome-native/</id>
     <link href="https://quarkus.io/blog/heapdump-oome-native/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Obtaining heap dump on OutOfMemoryError with Quarkus native</title>
+    <title>Quarkus: Obtaining heap dump on OutOfMemoryError with Quarkus native</title>
     <updated>2024-04-23T00:00:00Z</updated>
     <id>https://quarkus.io/blog/heapdump-oome-native/</id>
     <link href="https://quarkus.io/blog/heapdump-oome-native/" rel="alternate"></link>
@@ -130,14 +158,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Ship.Cars leverages Quarkus to reach its goals</title>
+    <title>JBoss Blogs: Ship.Cars leverages Quarkus to reach its goals</title>
     <updated>2024-04-22T00:00:00Z</updated>
     <id>https://quarkus.io/blog/ship-cars-leverages-quarkus-to-reach-its-goals/</id>
     <link href="https://quarkus.io/blog/ship-cars-leverages-quarkus-to-reach-its-goals/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Ship.Cars leverages Quarkus to reach its goals</title>
+    <title>Quarkus: Ship.Cars leverages Quarkus to reach its goals</title>
     <updated>2024-04-22T00:00:00Z</updated>
     <id>https://quarkus.io/blog/ship-cars-leverages-quarkus-to-reach-its-goals/</id>
     <link href="https://quarkus.io/blog/ship-cars-leverages-quarkus-to-reach-its-goals/" rel="alternate"></link>
@@ -158,6 +186,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
+    <updated>2024-04-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/</id>
+    <link href="https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Quarkus 3.9.4 released - Maintenance release</title>
     <updated>2024-04-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
@@ -172,24 +207,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
-    <updated>2024-04-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/</id>
-    <link href="https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
     <updated>2024-04-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/</id>
     <link href="https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Synchronize instance tags from Amazon EC2 and Microsoft Azure with Red Hat Insights</title>
-    <updated>2024-04-17T07:00:00Z</updated>
-    <id>255642ce-124f-466c-a3ad-8193e30d94a1</id>
-    <link href="https://developers.redhat.com/articles/2024/04/17/synchronize-instance-tags-amazon-ec2-and-microsoft-azure-red-hat-insights" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -200,13 +221,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.8.4 released - Maintenance release</title>
-    <updated>2024-04-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
     <updated>2024-04-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
@@ -214,10 +228,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
+    <title>Quarkus: Quarkus 3.8.4 released - Maintenance release</title>
     <updated>2024-04-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-2-12-final-released/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -228,17 +242,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
+    <updated>2024-04-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-2-12-final-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Speed your migration to JBoss EAP 8 with Windup</title>
     <updated>2024-04-16T15:41:07Z</updated>
     <id>https://www.mastertheboss.com/jboss-frameworks/windup/speed-your-migration-to-jboss-eap-8-with-windup/</id>
     <link href="https://www.mastertheboss.com/jboss-frameworks/windup/speed-your-migration-to-jboss-eap-8-with-windup/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus Newsletter #43 - April</title>
-    <updated>2024-04-16T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-43/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-43/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -256,31 +270,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Quarkus Newsletter #43 - April</title>
+    <updated>2024-04-16T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-43/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-43/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Recap from KubeCon + CloudNativeCon Europe 2024</title>
     <updated>2024-04-15T00:00:00Z</updated>
     <id>https://www.keycloak.org/2024/04/keycloak-at-kubecon-eu-2024-recap</id>
     <link href="https://www.keycloak.org/2024/04/keycloak-at-kubecon-eu-2024-recap" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: A Beginner’s Guide to Ansible Ad Hoc Commands</title>
-    <updated>2024-04-11T11:32:24Z</updated>
-    <id>https://www.mastertheboss.com/various-stuff/ansible/a-beginners-guide-to-ansible-ad-hoc-commands/</id>
-    <link href="https://www.mastertheboss.com/various-stuff/ansible/a-beginners-guide-to-ansible-ad-hoc-commands/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Simplifying migration to Jakarta EE with tools</title>
-    <updated>2024-04-11T08:44:37Z</updated>
-    <id>https://www.mastertheboss.com/java-ee/jakarta-ee/simplifying-to-migration-to-jakarta-ee-with-tools/</id>
-    <link href="https://www.mastertheboss.com/java-ee/jakarta-ee/simplifying-to-migration-to-jakarta-ee-with-tools/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.9.3 released - Maintenance release</title>
-    <updated>2024-04-10T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-9-3-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-9-3-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
