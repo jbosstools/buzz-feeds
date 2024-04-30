@@ -1,20 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-04-30T00:40:51Z</updated>
+  <updated>2024-04-30T06:12:16Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: Secure WildFly applications with OpenID Connect</title>
     <updated>2024-04-29T07:48:03Z</updated>
     <id>https://www.mastertheboss.com/jbossas/jboss-security/secure-wildfly-applications-with-openid-connect/</id>
     <link href="https://www.mastertheboss.com/jbossas/jboss-security/secure-wildfly-applications-with-openid-connect/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: How to install single node OpenShift on AWS</title>
-    <updated>2024-04-29T07:00:00Z</updated>
-    <id>0f274513-5cd2-45b1-ad0f-9e6b7de4fcee</id>
-    <link href="https://developers.redhat.com/articles/2024/04/29/how-install-single-node-openshift-aws" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -25,14 +18,21 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.9.5 released - Maintenance release</title>
+    <title>Red Hat Developer: How to install single node OpenShift on AWS</title>
+    <updated>2024-04-29T07:00:00Z</updated>
+    <id>0f274513-5cd2-45b1-ad0f-9e6b7de4fcee</id>
+    <link href="https://developers.redhat.com/articles/2024/04/29/how-install-single-node-openshift-aws" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.9.5 released - Maintenance release</title>
     <updated>2024-04-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-5-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-9-5-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.9.5 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.9.5 released - Maintenance release</title>
     <updated>2024-04-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-5-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-9-5-released/" rel="alternate"></link>
@@ -60,6 +60,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: WildFly 32 is released!</title>
+    <updated>2024-04-25T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2024/04/25/WildFly32-Released/</id>
+    <link href="https://wildfly.org//news/2024/04/25/WildFly32-Released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Indexing rollover with Quarkus and Hibernate Search</title>
     <updated>2024-04-25T00:00:00Z</updated>
     <id>https://quarkus.io/blog/search-indexing-rollover/</id>
@@ -71,13 +78,6 @@
     <updated>2024-04-25T00:00:00Z</updated>
     <id>https://quarkus.io/blog/search-indexing-rollover/</id>
     <link href="https://quarkus.io/blog/search-indexing-rollover/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: WildFly 32 is released!</title>
-    <updated>2024-04-25T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/04/25/WildFly32-Released/</id>
-    <link href="https://wildfly.org//news/2024/04/25/WildFly32-Released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -109,14 +109,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Ship.Cars leverages Quarkus to reach its goals</title>
+    <title>JBoss Blogs: Ship.Cars leverages Quarkus to reach its goals</title>
     <updated>2024-04-22T00:00:00Z</updated>
     <id>https://quarkus.io/blog/ship-cars-leverages-quarkus-to-reach-its-goals/</id>
     <link href="https://quarkus.io/blog/ship-cars-leverages-quarkus-to-reach-its-goals/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Ship.Cars leverages Quarkus to reach its goals</title>
+    <title>Quarkus: Ship.Cars leverages Quarkus to reach its goals</title>
     <updated>2024-04-22T00:00:00Z</updated>
     <id>https://quarkus.io/blog/ship-cars-leverages-quarkus-to-reach-its-goals/</id>
     <link href="https://quarkus.io/blog/ship-cars-leverages-quarkus-to-reach-its-goals/" rel="alternate"></link>
@@ -144,14 +144,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.9.4 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.9.4 released - Maintenance release</title>
     <updated>2024-04-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-9-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.9.4 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.9.4 released - Maintenance release</title>
     <updated>2024-04-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-9-4-released/" rel="alternate"></link>
@@ -179,14 +179,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.8.4 released - Maintenance release</title>
-    <updated>2024-04-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
+    <title>Quarkus: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
     <updated>2024-04-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-2-12-final-released/" rel="alternate"></link>
@@ -200,10 +193,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
+    <title>JBoss Blogs: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
     <updated>2024-04-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-2-12-final-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.8.4 released - Maintenance release</title>
+    <updated>2024-04-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -228,6 +228,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Quarkus Newsletter #43 - April</title>
+    <updated>2024-04-16T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-43/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-43/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Quarkus Newsletter #43 - April</title>
     <updated>2024-04-16T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-43/</id>
@@ -239,13 +246,6 @@
     <updated>2024-04-16T00:00:00Z</updated>
     <id>https://www.keycloak.org/2024/04/keycloak-2403-released</id>
     <link href="https://www.keycloak.org/2024/04/keycloak-2403-released" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus Newsletter #43 - April</title>
-    <updated>2024-04-16T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-43/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-43/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
