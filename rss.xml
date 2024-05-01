@@ -1,13 +1,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-05-01T12:17:11Z</updated>
+  <updated>2024-05-01T18:11:56Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
-    <title>Red Hat Developer: Red Hat OpenShift AI installation and setup</title>
-    <updated>2024-05-01T07:00:00Z</updated>
-    <id>67c07bd1-0951-430c-8220-1f8ab10475bb</id>
-    <link href="https://developers.redhat.com/articles/2024/05/01/red-hat-openshift-ai-installation-and-setup" rel="alternate"></link>
+    <title>JBoss Blogs: How to start WildFly with a custom Banner</title>
+    <updated>2024-05-01T13:57:57Z</updated>
+    <id>https://www.mastertheboss.com/jbossas/jboss-configuration/how-to-start-wildfly-with-a-custom-banner/</id>
+    <link href="https://www.mastertheboss.com/jbossas/jboss-configuration/how-to-start-wildfly-with-a-custom-banner/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: What's new in Red Hat Enterprise Linux 9.4?</title>
+    <updated>2024-05-01T13:45:00Z</updated>
+    <id>02fe2c2a-c77c-4765-bbab-1482c2b7b62f</id>
+    <link href="https://developers.redhat.com/articles/2024/05/01/whats-new-red-hat-enterprise-linux-94" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -15,6 +22,13 @@
     <updated>2024-05-01T07:00:00Z</updated>
     <id>6b8fcbab-d096-406f-971e-e17dc9570560</id>
     <link href="https://developers.redhat.com/articles/2024/05/01/canary-deployment-strategy-argo-rollouts" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Red Hat OpenShift AI installation and setup</title>
+    <updated>2024-05-01T07:00:00Z</updated>
+    <id>67c07bd1-0951-430c-8220-1f8ab10475bb</id>
+    <link href="https://developers.redhat.com/articles/2024/05/01/red-hat-openshift-ai-installation-and-setup" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -53,17 +67,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Vlog: WildFly Glow, WildFly 32 deployment to OpenShift with database access</title>
-    <updated>2024-04-30T00:00:00Z</updated>
-    <id>https://www.youtube.com/watch?v=z9JnweD4zQQ</id>
-    <link href="https://www.youtube.com/watch?v=z9JnweD4zQQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Quarkus 3.10 - Hibernate Search standalone POJO mapper, Flyway 10, security enhancements</title>
     <updated>2024-04-30T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-10-0-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-10-0-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Vlog: WildFly Glow, WildFly 32 deployment to OpenShift with database access</title>
+    <updated>2024-04-30T00:00:00Z</updated>
+    <id>https://www.youtube.com/watch?v=z9JnweD4zQQ</id>
+    <link href="https://www.youtube.com/watch?v=z9JnweD4zQQ" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -144,13 +158,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: APIs without borders: The world of locationless API management</title>
-    <updated>2024-04-24T18:45:00Z</updated>
-    <id>5e4d4e9b-d1fa-4962-a354-f678754d86b0</id>
-    <link href="https://developers.redhat.com/articles/2024/04/24/apis-without-borders-world-locationless-api-management" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Obtaining heap dump on OutOfMemoryError with Quarkus native</title>
     <updated>2024-04-23T00:00:00Z</updated>
     <id>https://quarkus.io/blog/heapdump-oome-native/</id>
@@ -193,13 +200,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.9.4 released - Maintenance release</title>
-    <updated>2024-04-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-9-4-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
     <updated>2024-04-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/</id>
@@ -214,17 +214,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Quarkus 3.9.4 released - Maintenance release</title>
+    <updated>2024-04-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-9-4-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: How to configure Keycloak Log Level</title>
     <updated>2024-04-17T06:45:16Z</updated>
     <id>https://www.mastertheboss.com/keycloak/how-to-configure-keycloak-log-level/</id>
     <link href="https://www.mastertheboss.com/keycloak/how-to-configure-keycloak-log-level/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.8.4 released - Maintenance release</title>
-    <updated>2024-04-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -235,13 +235,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.8.4 released - Maintenance release</title>
-    <updated>2024-04-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
     <updated>2024-04-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
@@ -249,17 +242,24 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Quarkus 3.8.4 released - Maintenance release</title>
+    <updated>2024-04-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.8.4 released - Maintenance release</title>
+    <updated>2024-04-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Speed your migration to JBoss EAP 8 with Windup</title>
     <updated>2024-04-16T15:41:07Z</updated>
     <id>https://www.mastertheboss.com/jboss-frameworks/windup/speed-your-migration-to-jboss-eap-8-with-windup/</id>
     <link href="https://www.mastertheboss.com/jboss-frameworks/windup/speed-your-migration-to-jboss-eap-8-with-windup/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Keycloak 24.0.3 released</title>
-    <updated>2024-04-16T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/04/keycloak-2403-released</id>
-    <link href="https://www.keycloak.org/2024/04/keycloak-2403-released" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -277,10 +277,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Recap from KubeCon + CloudNativeCon Europe 2024</title>
-    <updated>2024-04-15T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/04/keycloak-at-kubecon-eu-2024-recap</id>
-    <link href="https://www.keycloak.org/2024/04/keycloak-at-kubecon-eu-2024-recap" rel="alternate"></link>
+    <title>JBoss Blogs: Keycloak 24.0.3 released</title>
+    <updated>2024-04-16T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/04/keycloak-2403-released</id>
+    <link href="https://www.keycloak.org/2024/04/keycloak-2403-released" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -291,17 +291,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
     <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
