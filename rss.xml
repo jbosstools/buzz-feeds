@@ -1,8 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-05-01T06:13:24Z</updated>
+  <updated>2024-05-01T12:17:11Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: Red Hat OpenShift AI installation and setup</title>
+    <updated>2024-05-01T07:00:00Z</updated>
+    <id>67c07bd1-0951-430c-8220-1f8ab10475bb</id>
+    <link href="https://developers.redhat.com/articles/2024/05/01/red-hat-openshift-ai-installation-and-setup" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Canary deployment strategy with Argo Rollouts</title>
+    <updated>2024-05-01T07:00:00Z</updated>
+    <id>6b8fcbab-d096-406f-971e-e17dc9570560</id>
+    <link href="https://developers.redhat.com/articles/2024/05/01/canary-deployment-strategy-argo-rollouts" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Red Hat Developer: Modernization - Rehost to OpenShift using ArgoCD - Pedal based guide</title>
     <updated>2024-04-30T16:27:06Z</updated>
@@ -18,17 +32,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Efficient image builds with FUSE in Red Hat OpenShift Dev Spaces</title>
-    <updated>2024-04-30T07:00:00Z</updated>
-    <id>663be67c-4825-4c93-9895-4acee6e5d197</id>
-    <link href="https://developers.redhat.com/articles/2024/04/30/efficient-image-builds-fuse-red-hat-openshift-dev-spaces" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Some more C# 12</title>
     <updated>2024-04-30T07:00:00Z</updated>
     <id>618e4cde-f678-4c57-b88d-66f650de3eb5</id>
     <link href="https://developers.redhat.com/articles/2024/04/30/some-more-c-12" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Efficient image builds with FUSE in Red Hat OpenShift Dev Spaces</title>
+    <updated>2024-04-30T07:00:00Z</updated>
+    <id>663be67c-4825-4c93-9895-4acee6e5d197</id>
+    <link href="https://developers.redhat.com/articles/2024/04/30/efficient-image-builds-fuse-red-hat-openshift-dev-spaces" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -60,17 +74,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to install single node OpenShift on bare metal</title>
-    <updated>2024-04-29T07:00:00Z</updated>
-    <id>be6d693a-0df4-4f38-b54c-2defb39e727d</id>
-    <link href="https://developers.redhat.com/articles/2024/04/29/how-install-single-node-openshift-bare-metal" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: How to install single node OpenShift on AWS</title>
     <updated>2024-04-29T07:00:00Z</updated>
     <id>0f274513-5cd2-45b1-ad0f-9e6b7de4fcee</id>
     <link href="https://developers.redhat.com/articles/2024/04/29/how-install-single-node-openshift-aws" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How to install single node OpenShift on bare metal</title>
+    <updated>2024-04-29T07:00:00Z</updated>
+    <id>be6d693a-0df4-4f38-b54c-2defb39e727d</id>
+    <link href="https://developers.redhat.com/articles/2024/04/29/how-install-single-node-openshift-bare-metal" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -95,17 +109,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Create an OpenShift AI environment with Snorkel</title>
-    <updated>2024-04-26T07:00:00Z</updated>
-    <id>58c8c5ed-8551-4c77-a9d5-f348390db450</id>
-    <link href="https://developers.redhat.com/articles/2024/04/26/create-red-hat-openshift-ai-environment" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: How to share secrets across Red Hat OpenShift projects</title>
     <updated>2024-04-26T07:00:00Z</updated>
     <id>130c8280-e342-447d-9398-87d0da97d07e</id>
     <link href="https://developers.redhat.com/articles/2024/04/26/how-share-secrets-across-red-hat-openshift-projects" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Create an OpenShift AI environment with Snorkel</title>
+    <updated>2024-04-26T07:00:00Z</updated>
+    <id>58c8c5ed-8551-4c77-a9d5-f348390db450</id>
+    <link href="https://developers.redhat.com/articles/2024/04/26/create-red-hat-openshift-ai-environment" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -116,17 +130,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Indexing rollover with Quarkus and Hibernate Search</title>
-    <updated>2024-04-25T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/search-indexing-rollover/</id>
-    <link href="https://quarkus.io/blog/search-indexing-rollover/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: WildFly 32 is released!</title>
     <updated>2024-04-25T00:00:00Z</updated>
     <id>https://wildfly.org//news/2024/04/25/WildFly32-Released/</id>
     <link href="https://wildfly.org//news/2024/04/25/WildFly32-Released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Indexing rollover with Quarkus and Hibernate Search</title>
+    <updated>2024-04-25T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/search-indexing-rollover/</id>
+    <link href="https://quarkus.io/blog/search-indexing-rollover/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -151,13 +165,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: C# 12: Collection expressions and primary constructors</title>
-    <updated>2024-04-22T07:00:00Z</updated>
-    <id>6458f6ae-515b-4f74-9861-913eaf8635c5</id>
-    <link href="https://developers.redhat.com/articles/2024/04/22/c-12-collection-expressions-and-primary-constructors" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Ship.Cars leverages Quarkus to reach its goals</title>
     <updated>2024-04-22T00:00:00Z</updated>
     <id>https://quarkus.io/blog/ship-cars-leverages-quarkus-to-reach-its-goals/</id>
@@ -176,20 +183,6 @@
     <updated>2024-04-19T08:24:14Z</updated>
     <id>https://www.mastertheboss.com/soa-cloud/quarkus/how-to-debug-quarkus-applications/</id>
     <link href="https://www.mastertheboss.com/soa-cloud/quarkus/how-to-debug-quarkus-applications/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Red Hat Trusted Software Supply Chain is now available</title>
-    <updated>2024-04-18T12:27:00Z</updated>
-    <id>2c923162-748e-4d09-b609-dabe3c942837</id>
-    <link href="https://developers.redhat.com/articles/2024/04/18/red-hat-trusted-software-supply-chain-now-available" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
-    <updated>2024-04-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/</id>
-    <link href="https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -214,6 +207,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
+    <updated>2024-04-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/</id>
+    <link href="https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: How to configure Keycloak Log Level</title>
     <updated>2024-04-17T06:45:16Z</updated>
     <id>https://www.mastertheboss.com/keycloak/how-to-configure-keycloak-log-level/</id>
@@ -221,7 +221,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
+    <title>JBoss Blogs: Quarkus 3.8.4 released - Maintenance release</title>
+    <updated>2024-04-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
     <updated>2024-04-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-2-12-final-released/" rel="alternate"></link>
@@ -235,14 +242,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.8.4 released - Maintenance release</title>
-    <updated>2024-04-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
+    <title>Quarkus: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
     <updated>2024-04-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-2-12-final-released/" rel="alternate"></link>
@@ -291,17 +291,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
-    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
     <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -627,17 +627,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
-    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
     <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
