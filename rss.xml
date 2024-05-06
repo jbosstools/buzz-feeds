@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-05-05T18:10:56Z</updated>
+  <updated>2024-05-06T00:42:35Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: Deploy computer vision applications at the edge with MicroShift</title>
@@ -39,17 +39,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Model training in Red Hat OpenShift AI</title>
-    <updated>2024-05-02T07:00:00Z</updated>
-    <id>629e04a1-0abc-431f-95e1-eea557232858</id>
-    <link href="https://developers.redhat.com/articles/2024/05/02/model-training-red-hat-openshift-ai" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Prepare and label custom datasets with Label Studio</title>
     <updated>2024-05-02T07:00:00Z</updated>
     <id>211b46b0-1367-455c-8842-74b41ef77d16</id>
     <link href="https://developers.redhat.com/articles/2024/05/02/prepare-and-label-custom-datasets-label-studio" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Model training in Red Hat OpenShift AI</title>
+    <updated>2024-05-02T07:00:00Z</updated>
+    <id>629e04a1-0abc-431f-95e1-eea557232858</id>
+    <link href="https://developers.redhat.com/articles/2024/05/02/model-training-red-hat-openshift-ai" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -123,6 +123,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Quarkus 3.9.5 released - Maintenance release</title>
+    <updated>2024-04-29T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-9-5-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-9-5-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Infinispan at Devoxx France 2024</title>
     <updated>2024-04-29T00:00:00Z</updated>
     <id>https://infinispan.org/blog/2024/04/28/infinispan-devoxx-france</id>
@@ -131,13 +138,6 @@
   </entry>
   <entry>
     <title>JBoss Blogs: Quarkus 3.9.5 released - Maintenance release</title>
-    <updated>2024-04-29T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-9-5-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-9-5-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.9.5 released - Maintenance release</title>
     <updated>2024-04-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-5-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-9-5-released/" rel="alternate"></link>
@@ -158,13 +158,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Indexing rollover with Quarkus and Hibernate Search</title>
-    <updated>2024-04-25T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/search-indexing-rollover/</id>
-    <link href="https://quarkus.io/blog/search-indexing-rollover/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: WildFly 32 is released!</title>
     <updated>2024-04-25T00:00:00Z</updated>
     <id>https://wildfly.org//news/2024/04/25/WildFly32-Released/</id>
@@ -172,14 +165,21 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Obtaining heap dump on OutOfMemoryError with Quarkus native</title>
+    <title>JBoss Blogs: Indexing rollover with Quarkus and Hibernate Search</title>
+    <updated>2024-04-25T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/search-indexing-rollover/</id>
+    <link href="https://quarkus.io/blog/search-indexing-rollover/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Obtaining heap dump on OutOfMemoryError with Quarkus native</title>
     <updated>2024-04-23T00:00:00Z</updated>
     <id>https://quarkus.io/blog/heapdump-oome-native/</id>
     <link href="https://quarkus.io/blog/heapdump-oome-native/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Obtaining heap dump on OutOfMemoryError with Quarkus native</title>
+    <title>JBoss Blogs: Obtaining heap dump on OutOfMemoryError with Quarkus native</title>
     <updated>2024-04-23T00:00:00Z</updated>
     <id>https://quarkus.io/blog/heapdump-oome-native/</id>
     <link href="https://quarkus.io/blog/heapdump-oome-native/" rel="alternate"></link>
@@ -207,13 +207,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.9.4 released - Maintenance release</title>
-    <updated>2024-04-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-9-4-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
     <updated>2024-04-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/</id>
@@ -221,10 +214,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
+    <title>JBoss Blogs: Quarkus 3.9.4 released - Maintenance release</title>
     <updated>2024-04-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/</id>
-    <link href="https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-9-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -235,17 +228,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
+    <updated>2024-04-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/</id>
+    <link href="https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: How to configure Keycloak Log Level</title>
     <updated>2024-04-17T06:45:16Z</updated>
     <id>https://www.mastertheboss.com/keycloak/how-to-configure-keycloak-log-level/</id>
     <link href="https://www.mastertheboss.com/keycloak/how-to-configure-keycloak-log-level/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.8.4 released - Maintenance release</title>
-    <updated>2024-04-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -270,6 +263,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Quarkus 3.8.4 released - Maintenance release</title>
+    <updated>2024-04-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Speed your migration to JBoss EAP 8 with Windup</title>
     <updated>2024-04-16T15:41:07Z</updated>
     <id>https://www.mastertheboss.com/jboss-frameworks/windup/speed-your-migration-to-jboss-eap-8-with-windup/</id>
@@ -291,17 +291,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
-    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
     <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
