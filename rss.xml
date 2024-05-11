@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-05-10T18:12:28Z</updated>
+  <updated>2024-05-11T00:41:17Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: Updated version of WildFly Administration guide available!</title>
@@ -25,13 +25,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Keycloak 24.0.4 released</title>
-    <updated>2024-05-08T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/05/keycloak-2404-released</id>
-    <link href="https://www.keycloak.org/2024/05/keycloak-2404-released" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Infinispan 15.0.3.Final</title>
     <updated>2024-05-08T00:00:00Z</updated>
     <id>https://infinispan.org/blog/2024/05/08/infinispan-15</id>
@@ -39,10 +32,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: InstructLab: Advancing generative AI through open source</title>
-    <updated>2024-05-07T14:00:00Z</updated>
-    <id>56ff36af-898c-42cf-ac51-7c94e65c50e8</id>
-    <link href="https://developers.redhat.com/articles/2024/05/07/instructlab-open-source-generative-ai" rel="alternate"></link>
+    <title>JBoss Blogs: Keycloak 24.0.4 released</title>
+    <updated>2024-05-08T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/05/keycloak-2404-released</id>
+    <link href="https://www.keycloak.org/2024/05/keycloak-2404-released" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -53,10 +46,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Introducing image mode for RHEL and bootable containers in Podman Desktop</title>
-    <updated>2024-05-07T13:30:00Z</updated>
-    <id>03c90bf3-7769-470e-8a6a-f8f37ad2dfb5</id>
-    <link href="https://developers.redhat.com/articles/2024/05/07/image-mode-rhel-bootable-containers" rel="alternate"></link>
+    <title>Red Hat Developer: InstructLab: Advancing generative AI through open source</title>
+    <updated>2024-05-07T14:00:00Z</updated>
+    <id>56ff36af-898c-42cf-ac51-7c94e65c50e8</id>
+    <link href="https://developers.redhat.com/articles/2024/05/07/instructlab-open-source-generative-ai" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -67,10 +60,24 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: AI Lab Recipes</title>
+    <title>Red Hat Developer: Podman Desktop brings the Red Hat Developer Subscription to your fingertips</title>
     <updated>2024-05-07T13:30:00Z</updated>
-    <id>2050f7db-7445-468e-a70d-578c6ab393c4</id>
-    <link href="https://developers.redhat.com/articles/2024/05/07/podman-ai-lab-recipes" rel="alternate"></link>
+    <id>a27d0a2f-06c6-42b7-83b8-8f1ca7c79921</id>
+    <link href="https://developers.redhat.com/articles/2024/05/07/podman-desktop-red-hat-developer-subscription" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Introducing image mode for RHEL and bootable containers in Podman Desktop</title>
+    <updated>2024-05-07T13:30:00Z</updated>
+    <id>03c90bf3-7769-470e-8a6a-f8f37ad2dfb5</id>
+    <link href="https://developers.redhat.com/articles/2024/05/07/image-mode-rhel-bootable-containers" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Announcing image mode for Red Hat Enterprise Linux</title>
+    <updated>2024-05-07T13:30:00Z</updated>
+    <id>df0bb59e-3a11-47ac-8d05-6a97bf98b99a</id>
+    <link href="https://developers.redhat.com/articles/2024/05/07/announcing-image-mode-red-hat-enterprise-linux" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -81,17 +88,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Podman Desktop brings the Red Hat Developer Subscription to your fingertips</title>
+    <title>Red Hat Developer: AI Lab Recipes</title>
     <updated>2024-05-07T13:30:00Z</updated>
-    <id>a27d0a2f-06c6-42b7-83b8-8f1ca7c79921</id>
-    <link href="https://developers.redhat.com/articles/2024/05/07/podman-desktop-red-hat-developer-subscription" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Announcing image mode for Red Hat Enterprise Linux</title>
-    <updated>2024-05-07T13:30:00Z</updated>
-    <id>df0bb59e-3a11-47ac-8d05-6a97bf98b99a</id>
-    <link href="https://developers.redhat.com/articles/2024/05/07/announcing-image-mode-red-hat-enterprise-linux" rel="alternate"></link>
+    <id>2050f7db-7445-468e-a70d-578c6ab393c4</id>
+    <link href="https://developers.redhat.com/articles/2024/05/07/podman-ai-lab-recipes" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -130,14 +130,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.10 - Hibernate Search standalone POJO mapper, Flyway 10, security enhancements</title>
+    <title>Quarkus: Quarkus 3.10 - Hibernate Search standalone POJO mapper, Flyway 10, security enhancements</title>
     <updated>2024-04-30T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-10-0-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-10-0-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.10 - Hibernate Search standalone POJO mapper, Flyway 10, security enhancements</title>
+    <title>JBoss Blogs: Quarkus 3.10 - Hibernate Search standalone POJO mapper, Flyway 10, security enhancements</title>
     <updated>2024-04-30T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-10-0-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-10-0-released/" rel="alternate"></link>
@@ -214,14 +214,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Ship.Cars leverages Quarkus to reach its goals</title>
+    <title>Quarkus: Ship.Cars leverages Quarkus to reach its goals</title>
     <updated>2024-04-22T00:00:00Z</updated>
     <id>https://quarkus.io/blog/ship-cars-leverages-quarkus-to-reach-its-goals/</id>
     <link href="https://quarkus.io/blog/ship-cars-leverages-quarkus-to-reach-its-goals/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Ship.Cars leverages Quarkus to reach its goals</title>
+    <title>JBoss Blogs: Ship.Cars leverages Quarkus to reach its goals</title>
     <updated>2024-04-22T00:00:00Z</updated>
     <id>https://quarkus.io/blog/ship-cars-leverages-quarkus-to-reach-its-goals/</id>
     <link href="https://quarkus.io/blog/ship-cars-leverages-quarkus-to-reach-its-goals/" rel="alternate"></link>
@@ -235,13 +235,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.9.4 released - Maintenance release</title>
-    <updated>2024-04-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-9-4-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.9.4 released - Maintenance release</title>
     <updated>2024-04-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
@@ -249,14 +242,21 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
+    <title>JBoss Blogs: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
     <updated>2024-04-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/</id>
     <link href="https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
+    <title>JBoss Blogs: Quarkus 3.9.4 released - Maintenance release</title>
+    <updated>2024-04-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-9-4-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
     <updated>2024-04-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/</id>
     <link href="https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/" rel="alternate"></link>
@@ -291,17 +291,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
     <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
