@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-05-12T12:17:18Z</updated>
+  <updated>2024-05-12T18:12:46Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: Good Strategy vs Bad Strategy</title>
@@ -46,13 +46,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: InstructLab: Advancing generative AI through open source</title>
-    <updated>2024-05-07T14:00:00Z</updated>
-    <id>56ff36af-898c-42cf-ac51-7c94e65c50e8</id>
-    <link href="https://developers.redhat.com/articles/2024/05/07/instructlab-open-source-generative-ai" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Apply generative AI to app modernization with Konveyor AI</title>
     <updated>2024-05-07T14:00:00Z</updated>
     <id>4d2c2efd-c82c-47f7-b58d-858c7e654153</id>
@@ -60,17 +53,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Podman Desktop brings the Red Hat Developer Subscription to your fingertips</title>
-    <updated>2024-05-07T13:30:00Z</updated>
-    <id>a27d0a2f-06c6-42b7-83b8-8f1ca7c79921</id>
-    <link href="https://developers.redhat.com/articles/2024/05/07/podman-desktop-red-hat-developer-subscription" rel="alternate"></link>
+    <title>Red Hat Developer: InstructLab: Advancing generative AI through open source</title>
+    <updated>2024-05-07T14:00:00Z</updated>
+    <id>56ff36af-898c-42cf-ac51-7c94e65c50e8</id>
+    <link href="https://developers.redhat.com/articles/2024/05/07/instructlab-open-source-generative-ai" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Introducing image mode for RHEL and bootable containers in Podman Desktop</title>
+    <title>Red Hat Developer: Introducing Podman AI Lab: Developer tooling for working with LLMs</title>
     <updated>2024-05-07T13:30:00Z</updated>
-    <id>03c90bf3-7769-470e-8a6a-f8f37ad2dfb5</id>
-    <link href="https://developers.redhat.com/articles/2024/05/07/image-mode-rhel-bootable-containers" rel="alternate"></link>
+    <id>2d88ce7a-84ae-428a-8915-a7a29d519ddf</id>
+    <link href="https://developers.redhat.com/articles/2024/05/07/introducing-podman-ai-lab" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -81,10 +74,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Introducing Podman AI Lab: Developer tooling for working with LLMs</title>
+    <title>Red Hat Developer: Introducing image mode for RHEL and bootable containers in Podman Desktop</title>
     <updated>2024-05-07T13:30:00Z</updated>
-    <id>2d88ce7a-84ae-428a-8915-a7a29d519ddf</id>
-    <link href="https://developers.redhat.com/articles/2024/05/07/introducing-podman-ai-lab" rel="alternate"></link>
+    <id>03c90bf3-7769-470e-8a6a-f8f37ad2dfb5</id>
+    <link href="https://developers.redhat.com/articles/2024/05/07/image-mode-rhel-bootable-containers" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Podman Desktop brings the Red Hat Developer Subscription to your fingertips</title>
+    <updated>2024-05-07T13:30:00Z</updated>
+    <id>a27d0a2f-06c6-42b7-83b8-8f1ca7c79921</id>
+    <link href="https://developers.redhat.com/articles/2024/05/07/podman-desktop-red-hat-developer-subscription" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -158,6 +158,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Quarkus 3.9.5 released - Maintenance release</title>
+    <updated>2024-04-29T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-9-5-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-9-5-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Quarkus: Quarkus 3.9.5 released - Maintenance release</title>
     <updated>2024-04-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-5-released/</id>
@@ -172,17 +179,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.9.5 released - Maintenance release</title>
-    <updated>2024-04-29T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-9-5-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-9-5-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Product-Market Fit Framework for B2B Startups</title>
     <updated>2024-04-28T18:35:00Z</updated>
     <id>http://www.ofbizian.com/2024/04/product-market-fit-framework-for-b2b.html</id>
     <link href="http://www.ofbizian.com/2024/04/product-market-fit-framework-for-b2b.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Indexing rollover with Quarkus and Hibernate Search</title>
+    <updated>2024-04-25T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/search-indexing-rollover/</id>
+    <link href="https://quarkus.io/blog/search-indexing-rollover/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -197,13 +204,6 @@
     <updated>2024-04-25T00:00:00Z</updated>
     <id>https://wildfly.org//news/2024/04/25/WildFly32-Released/</id>
     <link href="https://wildfly.org//news/2024/04/25/WildFly32-Released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Indexing rollover with Quarkus and Hibernate Search</title>
-    <updated>2024-04-25T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/search-indexing-rollover/</id>
-    <link href="https://quarkus.io/blog/search-indexing-rollover/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -249,17 +249,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.9.4 released - Maintenance release</title>
-    <updated>2024-04-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-9-4-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
     <updated>2024-04-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/</id>
     <link href="https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.9.4 released - Maintenance release</title>
+    <updated>2024-04-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-9-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -627,17 +627,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
-    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
     <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
