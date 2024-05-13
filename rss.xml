@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-05-13T06:13:12Z</updated>
+  <updated>2024-05-13T12:17:33Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>JBoss Blogs: Connecting to Keycloak from Node.js Adapter</title>
+    <updated>2024-05-13T07:23:45Z</updated>
+    <id>https://www.mastertheboss.com/keycloak/connecting-to-keycloak-from-node-js-adapter/</id>
+    <link href="https://www.mastertheboss.com/keycloak/connecting-to-keycloak-from-node-js-adapter/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JBoss Blogs: Good Strategy vs Bad Strategy</title>
     <updated>2024-05-12T09:26:00Z</updated>
@@ -18,17 +25,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Red Hat OpenShift 101 for OpenStack admins: Configuration</title>
-    <updated>2024-05-08T07:00:00Z</updated>
-    <id>d0cc3216-c93b-486e-be44-1676b31c2701</id>
-    <link href="https://developers.redhat.com/articles/2024/05/08/red-hat-openshift-101-openstack-admins-configuration" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Red Hat OpenShift 101 for OpenStack admins: Data plane deployment</title>
     <updated>2024-05-08T07:00:00Z</updated>
     <id>412fb258-691e-42bc-bade-a3e4f97bf082</id>
     <link href="https://developers.redhat.com/articles/2024/05/08/red-hat-openshift-101-openstack-admins-data-plane-deployment" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Red Hat OpenShift 101 for OpenStack admins: Configuration</title>
+    <updated>2024-05-08T07:00:00Z</updated>
+    <id>d0cc3216-c93b-486e-be44-1676b31c2701</id>
+    <link href="https://developers.redhat.com/articles/2024/05/08/red-hat-openshift-101-openstack-admins-configuration" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -88,17 +95,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Announcing image mode for Red Hat Enterprise Linux</title>
-    <updated>2024-05-07T13:30:00Z</updated>
-    <id>df0bb59e-3a11-47ac-8d05-6a97bf98b99a</id>
-    <link href="https://developers.redhat.com/articles/2024/05/07/announcing-image-mode-red-hat-enterprise-linux" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Introducing image mode for RHEL and bootable containers in Podman Desktop</title>
     <updated>2024-05-07T13:30:00Z</updated>
     <id>03c90bf3-7769-470e-8a6a-f8f37ad2dfb5</id>
     <link href="https://developers.redhat.com/articles/2024/05/07/image-mode-rhel-bootable-containers" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Announcing image mode for Red Hat Enterprise Linux</title>
+    <updated>2024-05-07T13:30:00Z</updated>
+    <id>df0bb59e-3a11-47ac-8d05-6a97bf98b99a</id>
+    <link href="https://developers.redhat.com/articles/2024/05/07/announcing-image-mode-red-hat-enterprise-linux" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -239,13 +246,6 @@
     <updated>2024-04-19T08:24:14Z</updated>
     <id>https://www.mastertheboss.com/soa-cloud/quarkus/how-to-debug-quarkus-applications/</id>
     <link href="https://www.mastertheboss.com/soa-cloud/quarkus/how-to-debug-quarkus-applications/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.9.4 released - Maintenance release</title>
-    <updated>2024-04-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-9-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -627,17 +627,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
-    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
     <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
