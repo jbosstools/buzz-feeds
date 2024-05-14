@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-05-14T06:14:08Z</updated>
+  <updated>2024-05-14T12:17:53Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: Use OperatorPolicy to manage Kubernetes-native applications</title>
+    <updated>2024-05-14T07:00:00Z</updated>
+    <id>d75884c5-59f1-4ef4-ba18-cea735c9f6ba</id>
+    <link href="https://developers.redhat.com/articles/2024/05/14/use-operatorpolicy-manage-kubernetes-native-applications" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JBoss Blogs: Connecting to Keycloak from Node.js Adapter</title>
     <updated>2024-05-13T07:23:45Z</updated>
@@ -53,13 +60,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: InstructLab: Advancing generative AI through open source</title>
-    <updated>2024-05-07T14:00:00Z</updated>
-    <id>56ff36af-898c-42cf-ac51-7c94e65c50e8</id>
-    <link href="https://developers.redhat.com/articles/2024/05/07/instructlab-open-source-generative-ai" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Apply generative AI to app modernization with Konveyor AI</title>
     <updated>2024-05-07T14:00:00Z</updated>
     <id>4d2c2efd-c82c-47f7-b58d-858c7e654153</id>
@@ -67,17 +67,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Podman Desktop brings the Red Hat Developer Subscription to your fingertips</title>
-    <updated>2024-05-07T13:30:00Z</updated>
-    <id>a27d0a2f-06c6-42b7-83b8-8f1ca7c79921</id>
-    <link href="https://developers.redhat.com/articles/2024/05/07/podman-desktop-red-hat-developer-subscription" rel="alternate"></link>
+    <title>Red Hat Developer: InstructLab: Advancing generative AI through open source</title>
+    <updated>2024-05-07T14:00:00Z</updated>
+    <id>56ff36af-898c-42cf-ac51-7c94e65c50e8</id>
+    <link href="https://developers.redhat.com/articles/2024/05/07/instructlab-open-source-generative-ai" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: AI Lab Recipes</title>
+    <title>Red Hat Developer: Introducing Podman AI Lab: Developer tooling for working with LLMs</title>
     <updated>2024-05-07T13:30:00Z</updated>
-    <id>2050f7db-7445-468e-a70d-578c6ab393c4</id>
-    <link href="https://developers.redhat.com/articles/2024/05/07/podman-ai-lab-recipes" rel="alternate"></link>
+    <id>2d88ce7a-84ae-428a-8915-a7a29d519ddf</id>
+    <link href="https://developers.redhat.com/articles/2024/05/07/introducing-podman-ai-lab" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -102,10 +102,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Introducing Podman AI Lab: Developer tooling for working with LLMs</title>
+    <title>Red Hat Developer: AI Lab Recipes</title>
     <updated>2024-05-07T13:30:00Z</updated>
-    <id>2d88ce7a-84ae-428a-8915-a7a29d519ddf</id>
-    <link href="https://developers.redhat.com/articles/2024/05/07/introducing-podman-ai-lab" rel="alternate"></link>
+    <id>2050f7db-7445-468e-a70d-578c6ab393c4</id>
+    <link href="https://developers.redhat.com/articles/2024/05/07/podman-ai-lab-recipes" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
