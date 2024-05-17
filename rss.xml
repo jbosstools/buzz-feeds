@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-05-16T18:11:46Z</updated>
+  <updated>2024-05-17T00:42:35Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: Using OpenShift 4's inspect for middleware troubleshooting</title>
@@ -46,7 +46,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.10.1 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.10.1 released - Maintenance release</title>
     <updated>2024-05-15T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-10-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-10-1-released/" rel="alternate"></link>
@@ -60,7 +60,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.10.1 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.10.1 released - Maintenance release</title>
     <updated>2024-05-15T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-10-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-10-1-released/" rel="alternate"></link>
@@ -102,17 +102,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Red Hat OpenShift 101 for OpenStack admins: Configuration</title>
-    <updated>2024-05-08T07:00:00Z</updated>
-    <id>d0cc3216-c93b-486e-be44-1676b31c2701</id>
-    <link href="https://developers.redhat.com/articles/2024/05/08/red-hat-openshift-101-openstack-admins-configuration" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Red Hat OpenShift 101 for OpenStack admins: Data plane deployment</title>
     <updated>2024-05-08T07:00:00Z</updated>
     <id>412fb258-691e-42bc-bade-a3e4f97bf082</id>
     <link href="https://developers.redhat.com/articles/2024/05/08/red-hat-openshift-101-openstack-admins-data-plane-deployment" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Red Hat OpenShift 101 for OpenStack admins: Configuration</title>
+    <updated>2024-05-08T07:00:00Z</updated>
+    <id>d0cc3216-c93b-486e-be44-1676b31c2701</id>
+    <link href="https://developers.redhat.com/articles/2024/05/08/red-hat-openshift-101-openstack-admins-configuration" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -151,6 +151,20 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Dynamic client SSL context that automatically delegates to different SSLContexts based on the host and port of the peer</title>
+    <updated>2024-05-07T00:00:00Z</updated>
+    <id>https://wildfly-security.github.io/wildfly-elytron/blog/dynamic-client-ssl-context/</id>
+    <link href="https://wildfly-security.github.io/wildfly-elytron/blog/dynamic-client-ssl-context/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Caching realm now automatically tries to authenticate users with the underlying realm if authentication with cached credentials fails</title>
+    <updated>2024-05-06T00:00:00Z</updated>
+    <id>https://wildfly-security.github.io/wildfly-elytron/blog/caching-security-realm-authenticate-with-underlying-realm-on-failure/</id>
+    <link href="https://wildfly-security.github.io/wildfly-elytron/blog/caching-security-realm-authenticate-with-underlying-realm-on-failure/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: How to provision WildFly with Ansible</title>
     <updated>2024-05-02T12:24:06Z</updated>
     <id>https://www.mastertheboss.com/howto/jboss-config/provisioning-wildfly-10-with-ansible/</id>
@@ -172,13 +186,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Vlog: WildFly Glow, WildFly 32 deployment to OpenShift with database access</title>
-    <updated>2024-04-30T00:00:00Z</updated>
-    <id>https://www.youtube.com/watch?v=z9JnweD4zQQ</id>
-    <link href="https://www.youtube.com/watch?v=z9JnweD4zQQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.10 - Hibernate Search standalone POJO mapper, Flyway 10, security enhancements</title>
     <updated>2024-04-30T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-10-0-released/</id>
@@ -193,10 +200,24 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Vlog: WildFly Glow, WildFly 32 deployment to OpenShift with database access</title>
+    <updated>2024-04-30T00:00:00Z</updated>
+    <id>https://www.youtube.com/watch?v=z9JnweD4zQQ</id>
+    <link href="https://www.youtube.com/watch?v=z9JnweD4zQQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Secure WildFly applications with OpenID Connect</title>
     <updated>2024-04-29T07:48:03Z</updated>
     <id>https://www.mastertheboss.com/jbossas/jboss-security/secure-wildfly-applications-with-openid-connect/</id>
     <link href="https://www.mastertheboss.com/jbossas/jboss-security/secure-wildfly-applications-with-openid-connect/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.9.5 released - Maintenance release</title>
+    <updated>2024-04-29T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-9-5-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-9-5-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -214,31 +235,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.9.5 released - Maintenance release</title>
-    <updated>2024-04-29T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-9-5-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-9-5-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Product-Market Fit Framework for B2B Startups</title>
     <updated>2024-04-28T18:35:00Z</updated>
     <id>http://www.ofbizian.com/2024/04/product-market-fit-framework-for-b2b.html</id>
     <link href="http://www.ofbizian.com/2024/04/product-market-fit-framework-for-b2b.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: WildFly 32 is released!</title>
-    <updated>2024-04-25T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/04/25/WildFly32-Released/</id>
-    <link href="https://wildfly.org//news/2024/04/25/WildFly32-Released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Indexing rollover with Quarkus and Hibernate Search</title>
-    <updated>2024-04-25T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/search-indexing-rollover/</id>
-    <link href="https://quarkus.io/blog/search-indexing-rollover/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -571,17 +571,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
     <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
