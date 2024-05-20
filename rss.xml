@@ -1,8 +1,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-05-20T06:13:22Z</updated>
+  <updated>2024-05-20T12:19:17Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: OpenShift Virtualization for vSphere admins: A change in the traditional storage paradigm</title>
+    <updated>2024-05-20T07:00:00Z</updated>
+    <id>f3f4031d-3e05-42c1-b6ad-49b83fee322f</id>
+    <link href="https://developers.redhat.com/articles/2024/05/20/openshift-virtualization-vsphere-admins-change-traditional-storage-paradigm" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Extend Red Hat Insights client to execute custom automation</title>
+    <updated>2024-05-20T07:00:00Z</updated>
+    <id>1d5f945e-262d-44f1-b8da-7c6d91e561ce</id>
+    <link href="https://developers.redhat.com/articles/2024/05/20/extend-red-hat-insights-client-execute-custom-automation" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Application binary interface compatibility testing with libabigail</title>
+    <updated>2024-05-20T07:00:00Z</updated>
+    <id>11adf510-3ef9-4090-9b93-5e930f22613e</id>
+    <link href="https://developers.redhat.com/articles/2024/05/20/application-binary-interface-compatibility-testing-libabigail" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Red Hat Developer: How we used Java Flight Recorder to resolve authentication issues</title>
     <updated>2024-05-17T07:00:00Z</updated>
@@ -18,17 +39,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: OpenShift Virtualization for vSphere admins: Introduction to network configurations</title>
-    <updated>2024-05-16T07:00:00Z</updated>
-    <id>4924d39a-ff9c-406b-966c-7de5ad3e96b3</id>
-    <link href="https://developers.redhat.com/articles/2024/05/16/openshift-virtualization-vsphere-admins-introduction-network-configurations" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Using OpenShift 4's inspect for middleware troubleshooting</title>
     <updated>2024-05-16T07:00:00Z</updated>
     <id>58486283-3376-4c2e-a2bd-f400e5f1c1c8</id>
     <link href="https://developers.redhat.com/articles/2024/05/16/using-openshift-4s-inspect-middleware-troubleshooting" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: OpenShift Virtualization for vSphere admins: Introduction to network configurations</title>
+    <updated>2024-05-16T07:00:00Z</updated>
+    <id>4924d39a-ff9c-406b-966c-7de5ad3e96b3</id>
+    <link href="https://developers.redhat.com/articles/2024/05/16/openshift-virtualization-vsphere-admins-introduction-network-configurations" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -60,6 +81,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Quarkus Newsletter #44 - May</title>
+    <updated>2024-05-15T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-44/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-44/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Quarkus: Quarkus 3.10.1 released - Maintenance release</title>
     <updated>2024-05-15T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-10-1-released/</id>
@@ -68,13 +96,6 @@
   </entry>
   <entry>
     <title>Quarkus: Quarkus Newsletter #44 - May</title>
-    <updated>2024-05-15T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-44/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-44/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus Newsletter #44 - May</title>
     <updated>2024-05-15T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-44/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-44/" rel="alternate"></link>
@@ -116,31 +137,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Red Hat OpenShift 101 for OpenStack admins: Configuration</title>
-    <updated>2024-05-08T07:00:00Z</updated>
-    <id>d0cc3216-c93b-486e-be44-1676b31c2701</id>
-    <link href="https://developers.redhat.com/articles/2024/05/08/red-hat-openshift-101-openstack-admins-configuration" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Keycloak 24.0.4 released</title>
     <updated>2024-05-08T00:00:00Z</updated>
     <id>https://www.keycloak.org/2024/05/keycloak-2404-released</id>
     <link href="https://www.keycloak.org/2024/05/keycloak-2404-released" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: InstructLab: Advancing generative AI through open source</title>
-    <updated>2024-05-07T14:00:00Z</updated>
-    <id>56ff36af-898c-42cf-ac51-7c94e65c50e8</id>
-    <link href="https://developers.redhat.com/articles/2024/05/07/instructlab-open-source-generative-ai" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Apply generative AI to app modernization with Konveyor AI</title>
-    <updated>2024-05-07T14:00:00Z</updated>
-    <id>4d2c2efd-c82c-47f7-b58d-858c7e654153</id>
-    <link href="https://developers.redhat.com/articles/2024/05/07/modernize-apps-konveyor-ai" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -193,13 +193,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Vlog: WildFly Glow, WildFly 32 deployment to OpenShift with database access</title>
-    <updated>2024-04-30T00:00:00Z</updated>
-    <id>https://www.youtube.com/watch?v=z9JnweD4zQQ</id>
-    <link href="https://www.youtube.com/watch?v=z9JnweD4zQQ" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.10 - Hibernate Search standalone POJO mapper, Flyway 10, security enhancements</title>
     <updated>2024-04-30T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-10-0-released/</id>
@@ -207,17 +200,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Vlog: WildFly Glow, WildFly 32 deployment to OpenShift with database access</title>
+    <updated>2024-04-30T00:00:00Z</updated>
+    <id>https://www.youtube.com/watch?v=z9JnweD4zQQ</id>
+    <link href="https://www.youtube.com/watch?v=z9JnweD4zQQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Secure WildFly applications with OpenID Connect</title>
     <updated>2024-04-29T07:48:03Z</updated>
     <id>https://www.mastertheboss.com/jbossas/jboss-security/secure-wildfly-applications-with-openid-connect/</id>
     <link href="https://www.mastertheboss.com/jbossas/jboss-security/secure-wildfly-applications-with-openid-connect/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Infinispan at Devoxx France 2024</title>
-    <updated>2024-04-29T00:00:00Z</updated>
-    <id>https://infinispan.org/blog/2024/04/28/infinispan-devoxx-france</id>
-    <link href="https://infinispan.org/blog/2024/04/28/infinispan-devoxx-france" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -232,6 +225,13 @@
     <updated>2024-04-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-5-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-9-5-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Infinispan at Devoxx France 2024</title>
+    <updated>2024-04-29T00:00:00Z</updated>
+    <id>https://infinispan.org/blog/2024/04/28/infinispan-devoxx-france</id>
+    <link href="https://infinispan.org/blog/2024/04/28/infinispan-devoxx-france" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -263,13 +263,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.9.4 released - Maintenance release</title>
-    <updated>2024-04-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-9-4-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
     <updated>2024-04-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/</id>
@@ -277,10 +270,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
-    <updated>2024-04-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-2-12-final-released/" rel="alternate"></link>
+    <title>Quarkus: Quarkus 3.9.4 released - Maintenance release</title>
+    <updated>2024-04-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-9-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -288,6 +281,13 @@
     <updated>2024-04-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
+    <updated>2024-04-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-2-12-final-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -571,17 +571,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
-    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
     <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -907,17 +907,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
