@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-05-21T12:17:11Z</updated>
+  <updated>2024-05-21T18:12:06Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: Native memory tracking in GraalVM Native Image</title>
+    <updated>2024-05-21T07:00:00Z</updated>
+    <id>ed9656d0-43bb-416f-b522-3f0b1e344f38</id>
+    <link href="https://developers.redhat.com/articles/2024/05/21/native-memory-tracking-graalvm-native-image" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Red Hat Developer: Improve basic programming safety with Rust lang</title>
     <updated>2024-05-21T07:00:00Z</updated>
@@ -11,10 +18,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Native memory tracking in GraalVM Native Image</title>
-    <updated>2024-05-21T07:00:00Z</updated>
-    <id>ed9656d0-43bb-416f-b522-3f0b1e344f38</id>
-    <link href="https://developers.redhat.com/articles/2024/05/21/native-memory-tracking-graalvm-native-image" rel="alternate"></link>
+    <title>Red Hat Developer: Application binary interface compatibility testing with libabigail</title>
+    <updated>2024-05-20T07:00:00Z</updated>
+    <id>11adf510-3ef9-4090-9b93-5e930f22613e</id>
+    <link href="https://developers.redhat.com/articles/2024/05/20/application-binary-interface-compatibility-testing-libabigail" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -29,13 +36,6 @@
     <updated>2024-05-20T07:00:00Z</updated>
     <id>f3f4031d-3e05-42c1-b6ad-49b83fee322f</id>
     <link href="https://developers.redhat.com/articles/2024/05/20/openshift-virtualization-vsphere-admins-change-traditional-storage-paradigm" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Application binary interface compatibility testing with libabigail</title>
-    <updated>2024-05-20T07:00:00Z</updated>
-    <id>11adf510-3ef9-4090-9b93-5e930f22613e</id>
-    <link href="https://developers.redhat.com/articles/2024/05/20/application-binary-interface-compatibility-testing-libabigail" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -88,13 +88,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.10.1 released - Maintenance release</title>
-    <updated>2024-05-15T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-10-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-10-1-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Quarkus Newsletter #44 - May</title>
     <updated>2024-05-15T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-44/</id>
@@ -106,6 +99,13 @@
     <updated>2024-05-15T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-44/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-44/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.10.1 released - Maintenance release</title>
+    <updated>2024-05-15T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-10-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-10-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -144,17 +144,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: High availability in Keycloak 24</title>
-    <updated>2024-05-07T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/05/keycloak-at-devoxx-france-2024-recap</id>
-    <link href="https://www.keycloak.org/2024/05/keycloak-at-devoxx-france-2024-recap" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Dynamic client SSL context that automatically delegates to different SSLContexts based on the host and port of the peer</title>
     <updated>2024-05-07T00:00:00Z</updated>
     <id>https://wildfly-security.github.io/wildfly-elytron/blog/dynamic-client-ssl-context/</id>
     <link href="https://wildfly-security.github.io/wildfly-elytron/blog/dynamic-client-ssl-context/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: High availability in Keycloak 24</title>
+    <updated>2024-05-07T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/05/keycloak-at-devoxx-france-2024-recap</id>
+    <link href="https://www.keycloak.org/2024/05/keycloak-at-devoxx-france-2024-recap" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -186,7 +186,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.10 - Hibernate Search standalone POJO mapper, Flyway 10, security enhancements</title>
+    <title>JBoss Blogs: Quarkus 3.10 - Hibernate Search standalone POJO mapper, Flyway 10, security enhancements</title>
     <updated>2024-04-30T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-10-0-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-10-0-released/" rel="alternate"></link>
@@ -200,7 +200,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.10 - Hibernate Search standalone POJO mapper, Flyway 10, security enhancements</title>
+    <title>Quarkus: Quarkus 3.10 - Hibernate Search standalone POJO mapper, Flyway 10, security enhancements</title>
     <updated>2024-04-30T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-10-0-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-10-0-released/" rel="alternate"></link>
@@ -214,13 +214,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.9.5 released - Maintenance release</title>
-    <updated>2024-04-29T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-9-5-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-9-5-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Infinispan at Devoxx France 2024</title>
     <updated>2024-04-29T00:00:00Z</updated>
     <id>https://infinispan.org/blog/2024/04/29/infinispan-devoxx-france</id>
@@ -229,6 +222,13 @@
   </entry>
   <entry>
     <title>Quarkus: Quarkus 3.9.5 released - Maintenance release</title>
+    <updated>2024-04-29T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-9-5-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-9-5-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.9.5 released - Maintenance release</title>
     <updated>2024-04-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-5-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-9-5-released/" rel="alternate"></link>
@@ -277,17 +277,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.8.4 released - Maintenance release</title>
-    <updated>2024-04-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
     <updated>2024-04-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-2-12-final-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.8.4 released - Maintenance release</title>
+    <updated>2024-04-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -571,17 +571,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
     <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
