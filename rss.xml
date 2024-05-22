@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-05-22T12:17:51Z</updated>
+  <updated>2024-05-22T18:12:37Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: Advanced container management at the edge for Node.js apps</title>
@@ -22,6 +22,13 @@
     <updated>2024-05-22T07:00:00Z</updated>
     <id>df098c45-b3b3-4179-9e8a-3392e93fb731</id>
     <link href="https://developers.redhat.com/articles/2024/05/22/ai-fundamentals" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.10.2 released - Maintenance release</title>
+    <updated>2024-05-22T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-10-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-10-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -67,17 +74,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Red Hat Developer: What's new in the Red Hat build of Quarkus 3.8</title>
+    <updated>2024-05-17T20:35:26Z</updated>
+    <id>7622980d-b48e-4b2f-a84b-1cc7c946794c</id>
+    <link href="https://developers.redhat.com/articles/2024/05/17/whats-new-red-hat-build-quarkus-38" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Red Hat Developer: How we used Java Flight Recorder to resolve authentication issues</title>
     <updated>2024-05-17T07:00:00Z</updated>
     <id>eb85c8e1-8ec7-4295-b52e-0540a373140d</id>
     <link href="https://developers.redhat.com/articles/2024/05/17/how-we-used-java-flight-recorder-resolve-authentication-issues" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: OpenShift Virtualization for vSphere admins: Introduction to network configurations</title>
-    <updated>2024-05-16T07:00:00Z</updated>
-    <id>4924d39a-ff9c-406b-966c-7de5ad3e96b3</id>
-    <link href="https://developers.redhat.com/articles/2024/05/16/openshift-virtualization-vsphere-admins-introduction-network-configurations" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -95,17 +102,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.10.1 released - Maintenance release</title>
-    <updated>2024-05-15T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-10-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-10-1-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Quarkus Newsletter #44 - May</title>
     <updated>2024-05-15T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-44/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-44/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.10.1 released - Maintenance release</title>
+    <updated>2024-05-15T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-10-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-10-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -193,17 +200,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.10 - Hibernate Search standalone POJO mapper, Flyway 10, security enhancements</title>
-    <updated>2024-04-30T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-10-0-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-10-0-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Vlog: WildFly Glow, WildFly 32 deployment to OpenShift with database access</title>
     <updated>2024-04-30T00:00:00Z</updated>
     <id>https://www.youtube.com/watch?v=z9JnweD4zQQ</id>
     <link href="https://www.youtube.com/watch?v=z9JnweD4zQQ" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.10 - Hibernate Search standalone POJO mapper, Flyway 10, security enhancements</title>
+    <updated>2024-04-30T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-10-0-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-10-0-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -263,17 +270,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.9.4 released - Maintenance release</title>
-    <updated>2024-04-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-9-4-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
     <updated>2024-04-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/</id>
     <link href="https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.9.4 released - Maintenance release</title>
+    <updated>2024-04-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-9-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -554,13 +561,6 @@
     <updated>2023-11-15T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-meets-langchain4j/</id>
     <link href="https://quarkus.io/blog/quarkus-meets-langchain4j/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus Newsletter #38 - November</title>
-    <updated>2023-11-14T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-38/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-38/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
