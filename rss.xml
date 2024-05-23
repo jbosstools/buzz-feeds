@@ -1,13 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-05-23T12:18:41Z</updated>
+  <updated>2024-05-23T18:12:19Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
-    <title>Red Hat Developer: OpenShift Virtualization for VMware vSphere admins: Disaster and site recovery</title>
-    <updated>2024-05-23T07:00:00Z</updated>
-    <id>c724ccd6-3b6b-4679-8c6a-3541dd2bf6e7</id>
-    <link href="https://developers.redhat.com/articles/2024/05/24/virtualization-vsphere-disaster-recovery" rel="alternate"></link>
+    <title>JBoss Blogs: Custom WildFly distributions using Channels</title>
+    <updated>2024-05-23T16:29:46Z</updated>
+    <id>https://www.mastertheboss.com/jbossas/jboss-configuration/custom-wildfly-distributions-using-channels/</id>
+    <link href="https://www.mastertheboss.com/jbossas/jboss-configuration/custom-wildfly-distributions-using-channels/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -22,6 +22,13 @@
     <updated>2024-05-23T07:00:00Z</updated>
     <id>e8fa57ec-4e86-49e9-b732-e8ac2fd534f5</id>
     <link href="https://developers.redhat.com/articles/2024/04/23/migrate-sso-red-hat-build-keycloak" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: OpenShift Virtualization for VMware vSphere admins: Disaster and site recovery</title>
+    <updated>2024-05-23T07:00:00Z</updated>
+    <id>c724ccd6-3b6b-4679-8c6a-3541dd2bf6e7</id>
+    <link href="https://developers.redhat.com/articles/2024/05/24/virtualization-vsphere-disaster-recovery" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -46,14 +53,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.10.2 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.10.2 released - Maintenance release</title>
     <updated>2024-05-22T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-10-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-10-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.10.2 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.10.2 released - Maintenance release</title>
     <updated>2024-05-22T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-10-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-10-2-released/" rel="alternate"></link>
@@ -67,17 +74,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Native memory tracking in GraalVM Native Image</title>
-    <updated>2024-05-21T07:00:00Z</updated>
-    <id>ed9656d0-43bb-416f-b522-3f0b1e344f38</id>
-    <link href="https://developers.redhat.com/articles/2024/05/21/native-memory-tracking-graalvm-native-image" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Improve basic programming safety with Rust lang</title>
     <updated>2024-05-21T07:00:00Z</updated>
     <id>4922761c-f16d-4c24-b321-34af7cda0a73</id>
     <link href="https://developers.redhat.com/articles/2024/05/21/improve-basic-programming-safety-rust-lang" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Native memory tracking in GraalVM Native Image</title>
+    <updated>2024-05-21T07:00:00Z</updated>
+    <id>ed9656d0-43bb-416f-b522-3f0b1e344f38</id>
+    <link href="https://developers.redhat.com/articles/2024/05/21/native-memory-tracking-graalvm-native-image" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -109,17 +116,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.10.1 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.10.1 released - Maintenance release</title>
     <updated>2024-05-15T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-10-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-10-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus Newsletter #44 - May</title>
+    <title>JBoss Blogs: Quarkus 3.10.1 released - Maintenance release</title>
     <updated>2024-05-15T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-44/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-44/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-10-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-10-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -130,10 +137,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.10.1 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus Newsletter #44 - May</title>
     <updated>2024-05-15T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-10-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-10-1-released/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-newsletter-44/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-44/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -214,13 +221,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.10 - Hibernate Search standalone POJO mapper, Flyway 10, security enhancements</title>
-    <updated>2024-04-30T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-10-0-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-10-0-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Vlog: WildFly Glow, WildFly 32 deployment to OpenShift with database access</title>
     <updated>2024-04-30T00:00:00Z</updated>
     <id>https://www.youtube.com/watch?v=z9JnweD4zQQ</id>
@@ -228,17 +228,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Quarkus 3.10 - Hibernate Search standalone POJO mapper, Flyway 10, security enhancements</title>
+    <updated>2024-04-30T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-10-0-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-10-0-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Secure WildFly applications with OpenID Connect</title>
     <updated>2024-04-29T07:48:03Z</updated>
     <id>https://www.mastertheboss.com/jbossas/jboss-security/secure-wildfly-applications-with-openid-connect/</id>
     <link href="https://www.mastertheboss.com/jbossas/jboss-security/secure-wildfly-applications-with-openid-connect/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Infinispan at Devoxx France 2024</title>
-    <updated>2024-04-29T00:00:00Z</updated>
-    <id>https://infinispan.org/blog/2024/04/29/infinispan-devoxx-france</id>
-    <link href="https://infinispan.org/blog/2024/04/29/infinispan-devoxx-france" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -270,13 +270,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
-    <updated>2024-04-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/</id>
-    <link href="https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.9.4 released - Maintenance release</title>
     <updated>2024-04-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
@@ -284,10 +277,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
-    <updated>2024-04-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-2-12-final-released/" rel="alternate"></link>
+    <title>Quarkus: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
+    <updated>2024-04-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/</id>
+    <link href="https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -295,6 +288,13 @@
     <updated>2024-04-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
+    <updated>2024-04-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-2-12-final-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -326,17 +326,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Use OIDC Proxy to integrate OIDC service endpoints with custom GPT</title>
-    <updated>2024-03-27T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/oidc-proxy/</id>
-    <link href="https://quarkus.io/blog/oidc-proxy/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.9 - Big Reactive Rename</title>
     <updated>2024-03-27T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-9-1-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Use OIDC Proxy to integrate OIDC service endpoints with custom GPT</title>
+    <updated>2024-03-27T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/oidc-proxy/</id>
+    <link href="https://quarkus.io/blog/oidc-proxy/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
