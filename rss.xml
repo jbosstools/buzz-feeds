@@ -1,20 +1,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-05-25T12:16:34Z</updated>
+  <updated>2024-05-25T18:11:24Z</updated>
   <link href="https://tools.jboss.org"></link>
-  <entry>
-    <title>Red Hat Developer: Run OpenShift sandboxed containers with hosted control planes</title>
-    <updated>2024-05-24T07:00:00Z</updated>
-    <id>d8d96b3f-e3b0-47e1-977f-c50b0810079b</id>
-    <link href="https://developers.redhat.com/articles/2024/05/24/run-openshift-sandboxed-containers-hosted-control-planes" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>Red Hat Developer: Implement AI-driven edge to core data pipelines</title>
     <updated>2024-05-24T07:00:00Z</updated>
     <id>0e750f45-625d-460e-8591-9f922c1b562e</id>
     <link href="https://developers.redhat.com/articles/2024/05/24/implement-ai-driven-edge-core-data-pipelines" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Run OpenShift sandboxed containers with hosted control planes</title>
+    <updated>2024-05-24T07:00:00Z</updated>
+    <id>d8d96b3f-e3b0-47e1-977f-c50b0810079b</id>
+    <link href="https://developers.redhat.com/articles/2024/05/24/run-openshift-sandboxed-containers-hosted-control-planes" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -39,6 +39,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Red Hat Developer: How to install and migrate to Red Hat build of Keycloak</title>
+    <updated>2024-05-23T07:00:00Z</updated>
+    <id>e8fa57ec-4e86-49e9-b732-e8ac2fd534f5</id>
+    <link href="https://developers.redhat.com/articles/2024/04/23/migrate-sso-red-hat-build-keycloak" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Red Hat Developer: OpenShift Virtualization for VMware vSphere admins: Disaster and site recovery</title>
     <updated>2024-05-23T07:00:00Z</updated>
     <id>c724ccd6-3b6b-4679-8c6a-3541dd2bf6e7</id>
@@ -53,17 +60,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to install and migrate to Red Hat build of Keycloak</title>
-    <updated>2024-05-23T07:00:00Z</updated>
-    <id>e8fa57ec-4e86-49e9-b732-e8ac2fd534f5</id>
-    <link href="https://developers.redhat.com/articles/2024/04/23/migrate-sso-red-hat-build-keycloak" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: The road toward AI: Fundamentals</title>
+    <title>Red Hat Developer: Advanced container management at the edge for Node.js apps</title>
     <updated>2024-05-22T07:00:00Z</updated>
-    <id>df098c45-b3b3-4179-9e8a-3392e93fb731</id>
-    <link href="https://developers.redhat.com/articles/2024/05/22/ai-fundamentals" rel="alternate"></link>
+    <id>5ddfc0f2-1d39-4049-975f-c17b04bdd828</id>
+    <link href="https://developers.redhat.com/articles/2024/05/22/advanced-container-management-edge-nodejs-apps" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -74,21 +74,21 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Advanced container management at the edge for Node.js apps</title>
+    <title>Red Hat Developer: The road toward AI: Fundamentals</title>
     <updated>2024-05-22T07:00:00Z</updated>
-    <id>5ddfc0f2-1d39-4049-975f-c17b04bdd828</id>
-    <link href="https://developers.redhat.com/articles/2024/05/22/advanced-container-management-edge-nodejs-apps" rel="alternate"></link>
+    <id>df098c45-b3b3-4179-9e8a-3392e93fb731</id>
+    <link href="https://developers.redhat.com/articles/2024/05/22/ai-fundamentals" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.10.2 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.10.2 released - Maintenance release</title>
     <updated>2024-05-22T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-10-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-10-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.10.2 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.10.2 released - Maintenance release</title>
     <updated>2024-05-22T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-10-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-10-2-released/" rel="alternate"></link>
@@ -130,10 +130,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.10.1 released - Maintenance release</title>
+    <title>Quarkus: Quarkus Newsletter #44 - May</title>
     <updated>2024-05-15T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-10-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-10-1-released/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-newsletter-44/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-44/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -144,10 +144,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus Newsletter #44 - May</title>
+    <title>JBoss Blogs: Quarkus 3.10.1 released - Maintenance release</title>
     <updated>2024-05-15T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-44/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-44/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-10-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-10-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -270,13 +270,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.9.4 released - Maintenance release</title>
-    <updated>2024-04-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-9-4-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
     <updated>2024-04-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/</id>
@@ -284,10 +277,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.8.4 released - Maintenance release</title>
-    <updated>2024-04-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
+    <title>Quarkus: Quarkus 3.9.4 released - Maintenance release</title>
+    <updated>2024-04-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-9-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -295,6 +288,13 @@
     <updated>2024-04-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-2-12-final-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.8.4 released - Maintenance release</title>
+    <updated>2024-04-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -326,17 +326,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Use OIDC Proxy to integrate OIDC service endpoints with custom GPT</title>
-    <updated>2024-03-27T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/oidc-proxy/</id>
-    <link href="https://quarkus.io/blog/oidc-proxy/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.9 - Big Reactive Rename</title>
     <updated>2024-03-27T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-9-1-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Use OIDC Proxy to integrate OIDC service endpoints with custom GPT</title>
+    <updated>2024-03-27T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/oidc-proxy/</id>
+    <link href="https://quarkus.io/blog/oidc-proxy/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -907,17 +907,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
-    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
     <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
