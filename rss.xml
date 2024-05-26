@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-05-26T00:46:56Z</updated>
+  <updated>2024-05-26T06:12:10Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: Run OpenShift sandboxed containers with hosted control planes</title>
@@ -39,13 +39,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: OpenShift Virtualization for VMware vSphere admins: Disaster and site recovery</title>
-    <updated>2024-05-23T07:00:00Z</updated>
-    <id>c724ccd6-3b6b-4679-8c6a-3541dd2bf6e7</id>
-    <link href="https://developers.redhat.com/articles/2024/05/24/virtualization-vsphere-disaster-recovery" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Testing frameworks for images built via Insights image builder</title>
     <updated>2024-05-23T07:00:00Z</updated>
     <id>55dd06bd-950c-41d2-888a-fef10af36296</id>
@@ -60,10 +53,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: The road toward AI: Fundamentals</title>
-    <updated>2024-05-22T07:00:00Z</updated>
-    <id>df098c45-b3b3-4179-9e8a-3392e93fb731</id>
-    <link href="https://developers.redhat.com/articles/2024/05/22/ai-fundamentals" rel="alternate"></link>
+    <title>Red Hat Developer: OpenShift Virtualization for VMware vSphere admins: Disaster and site recovery</title>
+    <updated>2024-05-23T07:00:00Z</updated>
+    <id>c724ccd6-3b6b-4679-8c6a-3541dd2bf6e7</id>
+    <link href="https://developers.redhat.com/articles/2024/05/24/virtualization-vsphere-disaster-recovery" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -71,6 +64,13 @@
     <updated>2024-05-22T07:00:00Z</updated>
     <id>57067f3e-06d2-47e8-ad3f-71028d587598</id>
     <link href="https://developers.redhat.com/articles/2024/05/22/configure-soap-web-services-apache-camel-quarkus" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: The road toward AI: Fundamentals</title>
+    <updated>2024-05-22T07:00:00Z</updated>
+    <id>df098c45-b3b3-4179-9e8a-3392e93fb731</id>
+    <link href="https://developers.redhat.com/articles/2024/05/22/ai-fundamentals" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -102,17 +102,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Native memory tracking in GraalVM Native Image</title>
-    <updated>2024-05-21T07:00:00Z</updated>
-    <id>ed9656d0-43bb-416f-b522-3f0b1e344f38</id>
-    <link href="https://developers.redhat.com/articles/2024/05/21/native-memory-tracking-graalvm-native-image" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Improve basic programming safety with Rust lang</title>
     <updated>2024-05-21T07:00:00Z</updated>
     <id>4922761c-f16d-4c24-b321-34af7cda0a73</id>
     <link href="https://developers.redhat.com/articles/2024/05/21/improve-basic-programming-safety-rust-lang" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Native memory tracking in GraalVM Native Image</title>
+    <updated>2024-05-21T07:00:00Z</updated>
+    <id>ed9656d0-43bb-416f-b522-3f0b1e344f38</id>
+    <link href="https://developers.redhat.com/articles/2024/05/21/native-memory-tracking-graalvm-native-image" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -130,20 +130,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.10.1 released - Maintenance release</title>
-    <updated>2024-05-15T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-10-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-10-1-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus Newsletter #44 - May</title>
-    <updated>2024-05-15T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-44/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-44/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus Newsletter #44 - May</title>
     <updated>2024-05-15T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-44/</id>
@@ -155,6 +141,20 @@
     <updated>2024-05-15T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-10-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-10-1-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.10.1 released - Maintenance release</title>
+    <updated>2024-05-15T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-10-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-10-1-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus Newsletter #44 - May</title>
+    <updated>2024-05-15T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-44/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-44/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -186,17 +186,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Dynamic client SSL context that automatically delegates to different SSLContexts based on the host and port of the peer</title>
-    <updated>2024-05-07T00:00:00Z</updated>
-    <id>https://wildfly-security.github.io/wildfly-elytron/blog/dynamic-client-ssl-context/</id>
-    <link href="https://wildfly-security.github.io/wildfly-elytron/blog/dynamic-client-ssl-context/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: High availability in Keycloak 24</title>
     <updated>2024-05-07T00:00:00Z</updated>
     <id>https://www.keycloak.org/2024/05/keycloak-at-devoxx-france-2024-recap</id>
     <link href="https://www.keycloak.org/2024/05/keycloak-at-devoxx-france-2024-recap" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Dynamic client SSL context that automatically delegates to different SSLContexts based on the host and port of the peer</title>
+    <updated>2024-05-07T00:00:00Z</updated>
+    <id>https://wildfly-security.github.io/wildfly-elytron/blog/dynamic-client-ssl-context/</id>
+    <link href="https://wildfly-security.github.io/wildfly-elytron/blog/dynamic-client-ssl-context/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -228,14 +228,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.10 - Hibernate Search standalone POJO mapper, Flyway 10, security enhancements</title>
+    <title>JBoss Blogs: Quarkus 3.10 - Hibernate Search standalone POJO mapper, Flyway 10, security enhancements</title>
     <updated>2024-04-30T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-10-0-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-10-0-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.10 - Hibernate Search standalone POJO mapper, Flyway 10, security enhancements</title>
+    <title>Quarkus: Quarkus 3.10 - Hibernate Search standalone POJO mapper, Flyway 10, security enhancements</title>
     <updated>2024-04-30T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-10-0-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-10-0-released/" rel="alternate"></link>
@@ -284,17 +284,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.8.4 released - Maintenance release</title>
-    <updated>2024-04-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
     <updated>2024-04-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-2-12-final-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.8.4 released - Maintenance release</title>
+    <updated>2024-04-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -571,17 +571,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
-    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
     <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -907,17 +907,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
-    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
     <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
