@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-05-31T00:44:16Z</updated>
+  <updated>2024-05-31T06:13:33Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: Converting a PDF to Text in Java made simple</title>
@@ -67,17 +67,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Run OpenShift sandboxed containers with hosted control planes</title>
-    <updated>2024-05-24T07:00:00Z</updated>
-    <id>d8d96b3f-e3b0-47e1-977f-c50b0810079b</id>
-    <link href="https://developers.redhat.com/articles/2024/05/24/run-openshift-sandboxed-containers-hosted-control-planes" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Implement AI-driven edge to core data pipelines</title>
     <updated>2024-05-24T07:00:00Z</updated>
     <id>0e750f45-625d-460e-8591-9f922c1b562e</id>
     <link href="https://developers.redhat.com/articles/2024/05/24/implement-ai-driven-edge-core-data-pipelines" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Run OpenShift sandboxed containers with hosted control planes</title>
+    <updated>2024-05-24T07:00:00Z</updated>
+    <id>d8d96b3f-e3b0-47e1-977f-c50b0810079b</id>
+    <link href="https://developers.redhat.com/articles/2024/05/24/run-openshift-sandboxed-containers-hosted-control-planes" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -102,10 +102,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: OpenShift Virtualization for VMware vSphere admins: Disaster and site recovery</title>
+    <title>Red Hat Developer: How to install and migrate to Red Hat build of Keycloak</title>
     <updated>2024-05-23T07:00:00Z</updated>
-    <id>c724ccd6-3b6b-4679-8c6a-3541dd2bf6e7</id>
-    <link href="https://developers.redhat.com/articles/2024/05/24/virtualization-vsphere-disaster-recovery" rel="alternate"></link>
+    <id>e8fa57ec-4e86-49e9-b732-e8ac2fd534f5</id>
+    <link href="https://developers.redhat.com/articles/2024/04/23/migrate-sso-red-hat-build-keycloak" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -116,10 +116,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to install and migrate to Red Hat build of Keycloak</title>
+    <title>Red Hat Developer: OpenShift Virtualization for VMware vSphere admins: Disaster and site recovery</title>
     <updated>2024-05-23T07:00:00Z</updated>
-    <id>e8fa57ec-4e86-49e9-b732-e8ac2fd534f5</id>
-    <link href="https://developers.redhat.com/articles/2024/04/23/migrate-sso-red-hat-build-keycloak" rel="alternate"></link>
+    <id>c724ccd6-3b6b-4679-8c6a-3541dd2bf6e7</id>
+    <link href="https://developers.redhat.com/articles/2024/05/24/virtualization-vsphere-disaster-recovery" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -137,14 +137,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.10.2 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.10.2 released - Maintenance release</title>
     <updated>2024-05-22T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-10-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-10-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.10.2 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.10.2 released - Maintenance release</title>
     <updated>2024-05-22T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-10-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-10-2-released/" rel="alternate"></link>
@@ -228,17 +228,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Dynamic client SSL context that automatically delegates to different SSLContexts based on the host and port of the peer</title>
-    <updated>2024-05-07T00:00:00Z</updated>
-    <id>https://wildfly-security.github.io/wildfly-elytron/blog/dynamic-client-ssl-context/</id>
-    <link href="https://wildfly-security.github.io/wildfly-elytron/blog/dynamic-client-ssl-context/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: High availability in Keycloak 24</title>
     <updated>2024-05-07T00:00:00Z</updated>
     <id>https://www.keycloak.org/2024/05/keycloak-at-devoxx-france-2024-recap</id>
     <link href="https://www.keycloak.org/2024/05/keycloak-at-devoxx-france-2024-recap" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Dynamic client SSL context that automatically delegates to different SSLContexts based on the host and port of the peer</title>
+    <updated>2024-05-07T00:00:00Z</updated>
+    <id>https://wildfly-security.github.io/wildfly-elytron/blog/dynamic-client-ssl-context/</id>
+    <link href="https://wildfly-security.github.io/wildfly-elytron/blog/dynamic-client-ssl-context/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -277,13 +277,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.9.4 released - Maintenance release</title>
-    <updated>2024-04-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-9-4-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
     <updated>2024-04-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/</id>
@@ -291,10 +284,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
-    <updated>2024-04-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-2-12-final-released/" rel="alternate"></link>
+    <title>Quarkus: Quarkus 3.9.4 released - Maintenance release</title>
+    <updated>2024-04-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-9-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -302,6 +295,13 @@
     <updated>2024-04-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
+    <updated>2024-04-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-2-12-final-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
