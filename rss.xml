@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-05-30T18:13:58Z</updated>
+  <updated>2024-05-31T00:44:16Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>JBoss Blogs: Converting a PDF to Text in Java made simple</title>
+    <updated>2024-05-30T17:54:02Z</updated>
+    <id>https://www.mastertheboss.com/java/converting-a-pdf-to-text-in-java-made-simple/</id>
+    <link href="https://www.mastertheboss.com/java/converting-a-pdf-to-text-in-java-made-simple/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Red Hat Developer: Ensure a scalable and performant environment for ROSA with hosted control planes</title>
     <updated>2024-05-30T07:00:00Z</updated>
@@ -60,17 +67,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Implement AI-driven edge to core data pipelines</title>
-    <updated>2024-05-24T07:00:00Z</updated>
-    <id>0e750f45-625d-460e-8591-9f922c1b562e</id>
-    <link href="https://developers.redhat.com/articles/2024/05/24/implement-ai-driven-edge-core-data-pipelines" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Run OpenShift sandboxed containers with hosted control planes</title>
     <updated>2024-05-24T07:00:00Z</updated>
     <id>d8d96b3f-e3b0-47e1-977f-c50b0810079b</id>
     <link href="https://developers.redhat.com/articles/2024/05/24/run-openshift-sandboxed-containers-hosted-control-planes" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Implement AI-driven edge to core data pipelines</title>
+    <updated>2024-05-24T07:00:00Z</updated>
+    <id>0e750f45-625d-460e-8591-9f922c1b562e</id>
+    <link href="https://developers.redhat.com/articles/2024/05/24/implement-ai-driven-edge-core-data-pipelines" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -95,10 +102,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to install and migrate to Red Hat build of Keycloak</title>
+    <title>Red Hat Developer: OpenShift Virtualization for VMware vSphere admins: Disaster and site recovery</title>
     <updated>2024-05-23T07:00:00Z</updated>
-    <id>e8fa57ec-4e86-49e9-b732-e8ac2fd534f5</id>
-    <link href="https://developers.redhat.com/articles/2024/04/23/migrate-sso-red-hat-build-keycloak" rel="alternate"></link>
+    <id>c724ccd6-3b6b-4679-8c6a-3541dd2bf6e7</id>
+    <link href="https://developers.redhat.com/articles/2024/05/24/virtualization-vsphere-disaster-recovery" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -109,10 +116,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: OpenShift Virtualization for VMware vSphere admins: Disaster and site recovery</title>
+    <title>Red Hat Developer: How to install and migrate to Red Hat build of Keycloak</title>
     <updated>2024-05-23T07:00:00Z</updated>
-    <id>c724ccd6-3b6b-4679-8c6a-3541dd2bf6e7</id>
-    <link href="https://developers.redhat.com/articles/2024/05/24/virtualization-vsphere-disaster-recovery" rel="alternate"></link>
+    <id>e8fa57ec-4e86-49e9-b732-e8ac2fd534f5</id>
+    <link href="https://developers.redhat.com/articles/2024/04/23/migrate-sso-red-hat-build-keycloak" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -130,14 +137,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.10.2 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.10.2 released - Maintenance release</title>
     <updated>2024-05-22T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-10-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-10-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.10.2 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.10.2 released - Maintenance release</title>
     <updated>2024-05-22T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-10-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-10-2-released/" rel="alternate"></link>
@@ -232,13 +239,6 @@
     <updated>2024-05-07T00:00:00Z</updated>
     <id>https://www.keycloak.org/2024/05/keycloak-at-devoxx-france-2024-recap</id>
     <link href="https://www.keycloak.org/2024/05/keycloak-at-devoxx-france-2024-recap" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Caching realm now automatically tries to authenticate users with the underlying realm if authentication with cached credentials fails</title>
-    <updated>2024-05-06T00:00:00Z</updated>
-    <id>https://wildfly-security.github.io/wildfly-elytron/blog/caching-security-realm-authenticate-with-underlying-realm-on-failure/</id>
-    <link href="https://wildfly-security.github.io/wildfly-elytron/blog/caching-security-realm-authenticate-with-underlying-realm-on-failure/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -571,17 +571,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
     <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -1418,17 +1418,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: RHAMT Eclipse Plugin 4.1.0.Final has been released!</title>
-    <updated>2018-07-17T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html</id>
-    <link href="https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat Developer Studio for Eclipse Photon</title>
     <updated>2018-07-17T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.0.0.ga-for-photon.html</id>
     <link href="https://tools.jboss.org/blog/12.0.0.ga-for-photon.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: RHAMT Eclipse Plugin 4.1.0.Final has been released!</title>
+    <updated>2018-07-17T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html</id>
+    <link href="https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
