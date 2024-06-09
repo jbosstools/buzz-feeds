@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-06-09T00:49:38Z</updated>
+  <updated>2024-06-09T06:12:53Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: Enhance Kubernetes deployment efficiency with Argo CD and ApplicationSet</title>
@@ -18,14 +18,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus and Infinispan: winner combo</title>
+    <title>JBoss Blogs: Quarkus and Infinispan: winner combo</title>
     <updated>2024-06-06T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-infinispan-new/</id>
     <link href="https://quarkus.io/blog/quarkus-infinispan-new/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus and Infinispan: winner combo</title>
+    <title>Quarkus: Quarkus and Infinispan: winner combo</title>
     <updated>2024-06-06T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-infinispan-new/</id>
     <link href="https://quarkus.io/blog/quarkus-infinispan-new/" rel="alternate"></link>
@@ -39,13 +39,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Why your errno value isn't printing in GDB—and what to do about it</title>
-    <updated>2024-06-05T07:00:00Z</updated>
-    <id>1d7b25df-8a39-4351-bb45-47d9f9dbb91b</id>
-    <link href="https://developers.redhat.com/articles/2024/06/05/why-your-errno-value-isnt-printing-gdb-and-what-do-about-it" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Multicluster replication in Red Hat OpenShift Data Foundation S3</title>
     <updated>2024-06-05T07:00:00Z</updated>
     <id>660179fe-5725-4644-a799-c3783fcc6225</id>
@@ -53,10 +46,24 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Red Hat Developer: Why your errno value isn't printing in GDB—and what to do about it</title>
+    <updated>2024-06-05T07:00:00Z</updated>
+    <id>1d7b25df-8a39-4351-bb45-47d9f9dbb91b</id>
+    <link href="https://developers.redhat.com/articles/2024/06/05/why-your-errno-value-isnt-printing-gdb-and-what-do-about-it" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Quarkus 3.8.5 released - Maintenance release</title>
     <updated>2024-06-05T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-8-5-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-8-5-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.11.1 released - Maintenance release</title>
+    <updated>2024-06-05T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-11-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-11-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -74,13 +81,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.11.1 released - Maintenance release</title>
-    <updated>2024-06-05T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-11-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-11-1-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Keycloak 24.0.5 released</title>
     <updated>2024-06-04T00:00:00Z</updated>
     <id>https://www.keycloak.org/2024/06/keycloak-2405-released</id>
@@ -88,17 +88,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Load testing 3scale API Management with Hyperfoil and Ansible</title>
-    <updated>2024-06-03T07:00:00Z</updated>
-    <id>9cc090d8-704b-4940-aa3c-0a4e5a30dedd</id>
-    <link href="https://developers.redhat.com/articles/2024/06/03/load-testing-3scale-api-management-hyperfoil-and-ansible" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Unveiling Backstage: A developer's guide to the CNCF project</title>
     <updated>2024-06-03T07:00:00Z</updated>
     <id>51e55c52-4926-439d-bb73-cefd398926b5</id>
     <link href="https://developers.redhat.com/articles/2024/06/03/backstage-cncf-project" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Load testing 3scale API Management with Hyperfoil and Ansible</title>
+    <updated>2024-06-03T07:00:00Z</updated>
+    <id>9cc090d8-704b-4940-aa3c-0a4e5a30dedd</id>
+    <link href="https://developers.redhat.com/articles/2024/06/03/load-testing-3scale-api-management-hyperfoil-and-ansible" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -165,14 +165,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.11 - Dev Services for Observability, progress on WebSockets.next, Infinispan Cache extension and more</title>
+    <title>JBoss Blogs: Quarkus 3.11 - Dev Services for Observability, progress on WebSockets.next, Infinispan Cache extension and more</title>
     <updated>2024-05-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-11-0-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-11-0-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.11 - Dev Services for Observability, progress on WebSockets.next, Infinispan Cache extension and more</title>
+    <title>Quarkus: Quarkus 3.11 - Dev Services for Observability, progress on WebSockets.next, Infinispan Cache extension and more</title>
     <updated>2024-05-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-11-0-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-11-0-released/" rel="alternate"></link>
@@ -214,14 +214,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.10.2 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.10.2 released - Maintenance release</title>
     <updated>2024-05-22T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-10-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-10-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.10.2 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.10.2 released - Maintenance release</title>
     <updated>2024-05-22T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-10-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-10-2-released/" rel="alternate"></link>
@@ -249,7 +249,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.10.1 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.10.1 released - Maintenance release</title>
     <updated>2024-05-15T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-10-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-10-1-released/" rel="alternate"></link>
@@ -263,7 +263,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.10.1 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.10.1 released - Maintenance release</title>
     <updated>2024-05-15T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-10-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-10-1-released/" rel="alternate"></link>
@@ -305,13 +305,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.9.4 released - Maintenance release</title>
-    <updated>2024-04-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-9-4-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
     <updated>2024-04-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/</id>
@@ -319,10 +312,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
-    <updated>2024-04-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-2-12-final-released/" rel="alternate"></link>
+    <title>Quarkus: Quarkus 3.9.4 released - Maintenance release</title>
+    <updated>2024-04-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-9-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -330,6 +323,13 @@
     <updated>2024-04-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
+    <updated>2024-04-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-2-12-final-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -347,13 +347,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Changing the Quarkus loggers level from Unleash</title>
-    <updated>2024-04-03T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/changing-loggers-level-from-unleash/</id>
-    <link href="https://quarkus.io/blog/changing-loggers-level-from-unleash/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.9.2 released - Maintenance release</title>
     <updated>2024-04-03T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-2-released/</id>
@@ -361,10 +354,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Use OIDC Proxy to integrate OIDC service endpoints with custom GPT</title>
-    <updated>2024-03-27T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/oidc-proxy/</id>
-    <link href="https://quarkus.io/blog/oidc-proxy/" rel="alternate"></link>
+    <title>Quarkus: Changing the Quarkus loggers level from Unleash</title>
+    <updated>2024-04-03T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/changing-loggers-level-from-unleash/</id>
+    <link href="https://quarkus.io/blog/changing-loggers-level-from-unleash/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -372,6 +365,13 @@
     <updated>2024-03-27T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-9-1-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Use OIDC Proxy to integrate OIDC service endpoints with custom GPT</title>
+    <updated>2024-03-27T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/oidc-proxy/</id>
+    <link href="https://quarkus.io/blog/oidc-proxy/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -571,17 +571,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
-    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
     <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -907,17 +907,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
-    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
     <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
