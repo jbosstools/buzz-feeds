@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-06-12T12:18:05Z</updated>
+  <updated>2024-06-12T18:13:21Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: 4 ways to deploy Quarkus applications in OpenShift Container Platform 4</title>
@@ -18,17 +18,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Keeping users logged in with Keycloak 25</title>
-    <updated>2024-06-12T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/06/persistent-user-sessions-in-preview</id>
-    <link href="https://www.keycloak.org/2024/06/persistent-user-sessions-in-preview" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Why you should always update to the latest micro versions!</title>
     <updated>2024-06-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/branching-and-versioning/</id>
     <link href="https://quarkus.io/blog/branching-and-versioning/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Keeping users logged in with Keycloak 25</title>
+    <updated>2024-06-12T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/06/persistent-user-sessions-in-preview</id>
+    <link href="https://www.keycloak.org/2024/06/persistent-user-sessions-in-preview" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -95,13 +95,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Enhance Kubernetes deployment efficiency with Argo CD and ApplicationSet</title>
-    <updated>2024-06-06T07:00:00Z</updated>
-    <id>a7dfda04-861d-4593-b806-f4945c3ab857</id>
-    <link href="https://developers.redhat.com/articles/2024/06/06/enhance-kubernetes-deployment-efficiency-argo-cd-and-applicationset" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: How to integrate and use RStudio Server on OpenShift AI</title>
     <updated>2024-06-06T07:00:00Z</updated>
     <id>3bed29c8-4504-4367-8f96-46bc979c418c</id>
@@ -109,14 +102,21 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus and Infinispan: winner combo</title>
+    <title>Red Hat Developer: Enhance Kubernetes deployment efficiency with Argo CD and ApplicationSet</title>
+    <updated>2024-06-06T07:00:00Z</updated>
+    <id>a7dfda04-861d-4593-b806-f4945c3ab857</id>
+    <link href="https://developers.redhat.com/articles/2024/06/06/enhance-kubernetes-deployment-efficiency-argo-cd-and-applicationset" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus and Infinispan: winner combo</title>
     <updated>2024-06-06T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-infinispan-new/</id>
     <link href="https://quarkus.io/blog/quarkus-infinispan-new/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus and Infinispan: winner combo</title>
+    <title>Quarkus: Quarkus and Infinispan: winner combo</title>
     <updated>2024-06-06T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-infinispan-new/</id>
     <link href="https://quarkus.io/blog/quarkus-infinispan-new/" rel="alternate"></link>
@@ -130,13 +130,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Encryption at rest for Apache Kafka</title>
-    <updated>2024-06-05T07:00:00Z</updated>
-    <id>a7bd3f0f-f8f9-4b69-a4e7-b575cbcd0921</id>
-    <link href="https://developers.redhat.com/articles/2024/06/05/encryption-rest-apache-kafka" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Multicluster replication in Red Hat OpenShift Data Foundation S3</title>
     <updated>2024-06-05T07:00:00Z</updated>
     <id>660179fe-5725-4644-a799-c3783fcc6225</id>
@@ -144,14 +137,21 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.8.5 released - Maintenance release</title>
-    <updated>2024-06-05T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-8-5-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-8-5-released/" rel="alternate"></link>
+    <title>Red Hat Developer: Encryption at rest for Apache Kafka</title>
+    <updated>2024-06-05T07:00:00Z</updated>
+    <id>a7bd3f0f-f8f9-4b69-a4e7-b575cbcd0921</id>
+    <link href="https://developers.redhat.com/articles/2024/06/05/encryption-rest-apache-kafka" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
     <title>Quarkus: Quarkus 3.11.1 released - Maintenance release</title>
+    <updated>2024-06-05T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-11-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-11-1-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.11.1 released - Maintenance release</title>
     <updated>2024-06-05T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-11-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-11-1-released/" rel="alternate"></link>
@@ -165,10 +165,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.11.1 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.8.5 released - Maintenance release</title>
     <updated>2024-06-05T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-11-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-11-1-released/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-8-5-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-8-5-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -193,17 +193,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: How to Connect with the WildFly Community</title>
-    <updated>2024-05-31T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/05/31/How-to-connect-with-WildFly-community/</id>
-    <link href="https://wildfly.org//news/2024/05/31/How-to-connect-with-WildFly-community/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: WildFly 32.0.1 is released!</title>
     <updated>2024-05-31T00:00:00Z</updated>
     <id>https://wildfly.org//news/2024/05/31/WildFly3201-Released/</id>
     <link href="https://wildfly.org//news/2024/05/31/WildFly3201-Released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: How to Connect with the WildFly Community</title>
+    <updated>2024-05-31T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2024/05/31/How-to-connect-with-WildFly-community/</id>
+    <link href="https://wildfly.org//news/2024/05/31/How-to-connect-with-WildFly-community/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -319,17 +319,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
-    <updated>2024-04-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/</id>
-    <link href="https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.9.4 released - Maintenance release</title>
     <updated>2024-04-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-9-4-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
+    <updated>2024-04-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/</id>
+    <link href="https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
