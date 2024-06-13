@@ -1,8 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-06-13T00:44:15Z</updated>
+  <updated>2024-06-13T06:13:37Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>JBoss Blogs: Crafting a Local RAG Model with Quarkus</title>
+    <updated>2024-06-13T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/granite-rag/</id>
+    <link href="https://quarkus.io/blog/granite-rag/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Crafting a Local RAG application with Quarkus</title>
+    <updated>2024-06-13T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/granite-rag/</id>
+    <link href="https://quarkus.io/blog/granite-rag/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Red Hat Developer: 4 ways to deploy Quarkus applications in OpenShift Container Platform 4</title>
     <updated>2024-06-12T07:00:00Z</updated>
@@ -15,6 +29,13 @@
     <updated>2024-06-12T07:00:00Z</updated>
     <id>8387d247-7986-4f79-879a-3e47528f344e</id>
     <link href="https://developers.redhat.com/articles/2024/06/12/getting-started-red-hat-connectivity-link-openshift" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Why you should always update to the latest micro versions!</title>
+    <updated>2024-06-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/branching-and-versioning/</id>
+    <link href="https://quarkus.io/blog/branching-and-versioning/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -32,24 +53,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Why you should always update to the latest micro versions!</title>
-    <updated>2024-06-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/branching-and-versioning/</id>
-    <link href="https://quarkus.io/blog/branching-and-versioning/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Get system-wide profiles of binaries without frame pointers</title>
     <updated>2024-06-11T07:00:00Z</updated>
     <id>c9890276-935c-42b8-aae6-8c44a9326f08</id>
     <link href="https://developers.redhat.com/articles/2024/06/11/get-system-wide-profiles-binaries-without-frame-pointers" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Moving Quarkus to a Foundation</title>
-    <updated>2024-06-11T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-in-a-foundation/</id>
-    <link href="https://quarkus.io/blog/quarkus-in-a-foundation/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -60,10 +67,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: A platform for building developer portals</title>
-    <updated>2024-06-10T07:00:00Z</updated>
-    <id>690d5adc-605a-45d3-8381-b91ac5f83968</id>
-    <link href="https://developers.redhat.com/articles/2024/06/10/platform-building-developer-portals" rel="alternate"></link>
+    <title>JBoss Blogs: Moving Quarkus to a Foundation</title>
+    <updated>2024-06-11T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-in-a-foundation/</id>
+    <link href="https://quarkus.io/blog/quarkus-in-a-foundation/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -71,6 +78,13 @@
     <updated>2024-06-10T07:00:00Z</updated>
     <id>4d91736c-7cb0-4f30-9ecf-de26ef6c4141</id>
     <link href="https://developers.redhat.com/articles/2024/06/10/satellite-webhook-and-insights-automation-efficient-rhel-operations" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: A platform for building developer portals</title>
+    <updated>2024-06-10T07:00:00Z</updated>
+    <id>690d5adc-605a-45d3-8381-b91ac5f83968</id>
+    <link href="https://developers.redhat.com/articles/2024/06/10/platform-building-developer-portals" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -95,13 +109,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to integrate and use RStudio Server on OpenShift AI</title>
-    <updated>2024-06-06T07:00:00Z</updated>
-    <id>3bed29c8-4504-4367-8f96-46bc979c418c</id>
-    <link href="https://developers.redhat.com/articles/2024/06/06/how-integrate-and-use-rstudio-server-openshift-ai" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Enhance Kubernetes deployment efficiency with Argo CD and ApplicationSet</title>
     <updated>2024-06-06T07:00:00Z</updated>
     <id>a7dfda04-861d-4593-b806-f4945c3ab857</id>
@@ -109,14 +116,21 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus and Infinispan: winner combo</title>
+    <title>Red Hat Developer: How to integrate and use RStudio Server on OpenShift AI</title>
+    <updated>2024-06-06T07:00:00Z</updated>
+    <id>3bed29c8-4504-4367-8f96-46bc979c418c</id>
+    <link href="https://developers.redhat.com/articles/2024/06/06/how-integrate-and-use-rstudio-server-openshift-ai" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus and Infinispan: winner combo</title>
     <updated>2024-06-06T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-infinispan-new/</id>
     <link href="https://quarkus.io/blog/quarkus-infinispan-new/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus and Infinispan: winner combo</title>
+    <title>JBoss Blogs: Quarkus and Infinispan: winner combo</title>
     <updated>2024-06-06T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-infinispan-new/</id>
     <link href="https://quarkus.io/blog/quarkus-infinispan-new/" rel="alternate"></link>
@@ -130,13 +144,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Multicluster replication in Red Hat OpenShift Data Foundation S3</title>
-    <updated>2024-06-05T07:00:00Z</updated>
-    <id>660179fe-5725-4644-a799-c3783fcc6225</id>
-    <link href="https://developers.redhat.com/articles/2024/06/05/multicluster-replication-red-hat-openshift-data-foundation-s3" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Encryption at rest for Apache Kafka</title>
     <updated>2024-06-05T07:00:00Z</updated>
     <id>a7bd3f0f-f8f9-4b69-a4e7-b575cbcd0921</id>
@@ -144,10 +151,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.11.1 released - Maintenance release</title>
+    <title>Red Hat Developer: Multicluster replication in Red Hat OpenShift Data Foundation S3</title>
+    <updated>2024-06-05T07:00:00Z</updated>
+    <id>660179fe-5725-4644-a799-c3783fcc6225</id>
+    <link href="https://developers.redhat.com/articles/2024/06/05/multicluster-replication-red-hat-openshift-data-foundation-s3" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.8.5 released - Maintenance release</title>
     <updated>2024-06-05T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-11-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-11-1-released/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-8-5-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-8-5-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -158,10 +172,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.8.5 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.11.1 released - Maintenance release</title>
     <updated>2024-06-05T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-8-5-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-8-5-released/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-11-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-11-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -228,14 +242,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.11 - Dev Services for Observability, progress on WebSockets.next, Infinispan Cache extension and more</title>
+    <title>JBoss Blogs: Quarkus 3.11 - Dev Services for Observability, progress on WebSockets.next, Infinispan Cache extension and more</title>
     <updated>2024-05-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-11-0-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-11-0-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.11 - Dev Services for Observability, progress on WebSockets.next, Infinispan Cache extension and more</title>
+    <title>Quarkus: Quarkus 3.11 - Dev Services for Observability, progress on WebSockets.next, Infinispan Cache extension and more</title>
     <updated>2024-05-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-11-0-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-11-0-released/" rel="alternate"></link>
@@ -253,13 +267,6 @@
     <updated>2024-05-24T02:41:16Z</updated>
     <id>https://blog.kie.org/2024/05/processing-cloudevents-with-drools.html</id>
     <link href="https://blog.kie.org/2024/05/processing-cloudevents-with-drools.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Eclipse Vert.x 4.5.8 released!</title>
-    <updated>2024-05-24T00:00:00Z</updated>
-    <id>https://vertx.io/blog/eclipse-vert-x-4-5-8</id>
-    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-8" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -557,13 +564,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Testing Quarkus with Citrus</title>
-    <updated>2023-12-04T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/testing-quarkus-with-citrus/</id>
-    <link href="https://quarkus.io/blog/testing-quarkus-with-citrus/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.29.0.Final for Eclipse 2023-09</title>
     <updated>2023-11-02T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.29.0.final.html</id>
@@ -571,17 +571,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
     <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
