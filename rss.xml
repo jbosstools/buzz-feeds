@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-06-14T12:17:58Z</updated>
+  <updated>2024-06-14T18:13:36Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>JBoss Blogs: Keycloak DevDay 2024 Videos published</title>
+    <updated>2024-06-14T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/06/keycloak-dev-day-videos</id>
+    <link href="https://www.keycloak.org/2024/06/keycloak-dev-day-videos" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Red Hat Developer: A practical guide to linker section ordering</title>
     <updated>2024-06-13T07:00:00Z</updated>
@@ -11,17 +18,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Demystifying the role of an automation developer (it's not what you think)</title>
-    <updated>2024-06-13T07:00:00Z</updated>
-    <id>7bcfd2ee-c9d8-4c8e-91d0-d0178b32e01a</id>
-    <link href="https://developers.redhat.com/articles/2024/06/13/demystifying-role-automation-developer-its-not-what-you-think" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: How to manage and preserve Kafka Connect offsets smoothly</title>
     <updated>2024-06-13T07:00:00Z</updated>
     <id>d1be7b84-24e7-42cc-9252-14a96657c986</id>
     <link href="https://developers.redhat.com/articles/2024/06/13/how-manage-and-preserve-kafka-connect-offsets-smoothly" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Demystifying the role of an automation developer (it's not what you think)</title>
+    <updated>2024-06-13T07:00:00Z</updated>
+    <id>7bcfd2ee-c9d8-4c8e-91d0-d0178b32e01a</id>
+    <link href="https://developers.redhat.com/articles/2024/06/13/demystifying-role-automation-developer-its-not-what-you-think" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -60,10 +67,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Why you should always update to the latest micro versions!</title>
+    <title>JBoss Blogs: Keeping users logged in with Keycloak 25</title>
     <updated>2024-06-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/branching-and-versioning/</id>
-    <link href="https://quarkus.io/blog/branching-and-versioning/" rel="alternate"></link>
+    <id>https://www.keycloak.org/2024/06/persistent-user-sessions-in-preview</id>
+    <link href="https://www.keycloak.org/2024/06/persistent-user-sessions-in-preview" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -74,10 +81,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Keeping users logged in with Keycloak 25</title>
+    <title>Quarkus: Why you should always update to the latest micro versions!</title>
     <updated>2024-06-12T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/06/persistent-user-sessions-in-preview</id>
-    <link href="https://www.keycloak.org/2024/06/persistent-user-sessions-in-preview" rel="alternate"></link>
+    <id>https://quarkus.io/blog/branching-and-versioning/</id>
+    <link href="https://quarkus.io/blog/branching-and-versioning/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -130,17 +137,24 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Keycloak 25.0.0 released</title>
-    <updated>2024-06-10T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/06/keycloak-2500-released</id>
-    <link href="https://www.keycloak.org/2024/06/keycloak-2500-released" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Announcing Keycloak's Identity Summit: KeyConf24</title>
     <updated>2024-06-10T00:00:00Z</updated>
     <id>https://www.keycloak.org/2024/06/keyconf24-invitation</id>
     <link href="https://www.keycloak.org/2024/06/keyconf24-invitation" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Infinispan 15 indexing &amp; query news</title>
+    <updated>2024-06-10T00:00:00Z</updated>
+    <id>https://infinispan.org/blog/2024/06/10/infinispan-15-queries</id>
+    <link href="https://infinispan.org/blog/2024/06/10/infinispan-15-queries" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Keycloak 25.0.0 released</title>
+    <updated>2024-06-10T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/06/keycloak-2500-released</id>
+    <link href="https://www.keycloak.org/2024/06/keycloak-2500-released" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -151,13 +165,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Enhance Kubernetes deployment efficiency with Argo CD and ApplicationSet</title>
-    <updated>2024-06-06T07:00:00Z</updated>
-    <id>a7dfda04-861d-4593-b806-f4945c3ab857</id>
-    <link href="https://developers.redhat.com/articles/2024/06/06/enhance-kubernetes-deployment-efficiency-argo-cd-and-applicationset" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: How to integrate and use RStudio Server on OpenShift AI</title>
     <updated>2024-06-06T07:00:00Z</updated>
     <id>3bed29c8-4504-4367-8f96-46bc979c418c</id>
@@ -165,10 +172,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus and Infinispan: winner combo</title>
-    <updated>2024-06-06T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-infinispan-new/</id>
-    <link href="https://quarkus.io/blog/quarkus-infinispan-new/" rel="alternate"></link>
+    <title>Red Hat Developer: Enhance Kubernetes deployment efficiency with Argo CD and ApplicationSet</title>
+    <updated>2024-06-06T07:00:00Z</updated>
+    <id>a7dfda04-861d-4593-b806-f4945c3ab857</id>
+    <link href="https://developers.redhat.com/articles/2024/06/06/enhance-kubernetes-deployment-efficiency-argo-cd-and-applicationset" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -179,17 +186,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Quarkus and Infinispan: winner combo</title>
+    <updated>2024-06-06T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-infinispan-new/</id>
+    <link href="https://quarkus.io/blog/quarkus-infinispan-new/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Quarkus: Quarkus 3.8.5 released - Maintenance release</title>
     <updated>2024-06-05T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-8-5-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-8-5-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.11.1 released - Maintenance release</title>
-    <updated>2024-06-05T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-11-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-11-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -207,6 +214,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Quarkus 3.11.1 released - Maintenance release</title>
+    <updated>2024-06-05T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-11-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-11-1-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Keycloak 24.0.5 released</title>
     <updated>2024-06-04T00:00:00Z</updated>
     <id>https://www.keycloak.org/2024/06/keycloak-2405-released</id>
@@ -214,14 +228,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus Maven Dependency Resolver Improvements</title>
+    <title>Quarkus: Quarkus Maven Dependency Resolver Improvements</title>
     <updated>2024-06-03T00:00:00Z</updated>
     <id>https://quarkus.io/blog/incubating-model-resolver/</id>
     <link href="https://quarkus.io/blog/incubating-model-resolver/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus Maven Dependency Resolver Improvements</title>
+    <title>JBoss Blogs: Quarkus Maven Dependency Resolver Improvements</title>
     <updated>2024-06-03T00:00:00Z</updated>
     <id>https://quarkus.io/blog/incubating-model-resolver/</id>
     <link href="https://quarkus.io/blog/incubating-model-resolver/" rel="alternate"></link>
@@ -267,20 +281,6 @@
     <updated>2024-05-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-11-0-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-11-0-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.11 - Dev Services for Observability, progress on WebSockets.next, Infinispan Cache extension and more</title>
-    <updated>2024-05-29T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-11-0-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-11-0-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Blog: WildFly 32 Delivers Preview of Jakarta EE 11 and Final Version of WildFly Glow</title>
-    <updated>2024-05-27T00:00:00Z</updated>
-    <id>https://www.infoq.com/news/2024/05/wildfly32-glow-jakartaee11</id>
-    <link href="https://www.infoq.com/news/2024/05/wildfly32-glow-jakartaee11" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -354,17 +354,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.8.4 released - Maintenance release</title>
-    <updated>2024-04-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
     <updated>2024-04-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-2-12-final-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.8.4 released - Maintenance release</title>
+    <updated>2024-04-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -396,17 +396,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.9 - Big Reactive Rename</title>
-    <updated>2024-03-27T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-9-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-9-1-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Use OIDC Proxy to integrate OIDC service endpoints with custom GPT</title>
     <updated>2024-03-27T00:00:00Z</updated>
     <id>https://quarkus.io/blog/oidc-proxy/</id>
     <link href="https://quarkus.io/blog/oidc-proxy/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.9 - Big Reactive Rename</title>
+    <updated>2024-03-27T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-9-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-9-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -914,17 +914,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -1425,17 +1425,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: RHAMT Eclipse Plugin 4.1.0.Final has been released!</title>
-    <updated>2018-07-17T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html</id>
-    <link href="https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat Developer Studio for Eclipse Photon</title>
     <updated>2018-07-17T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.0.0.ga-for-photon.html</id>
     <link href="https://tools.jboss.org/blog/12.0.0.ga-for-photon.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: RHAMT Eclipse Plugin 4.1.0.Final has been released!</title>
+    <updated>2018-07-17T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html</id>
+    <link href="https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
