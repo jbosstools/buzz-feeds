@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-06-22T12:16:22Z</updated>
+  <updated>2024-06-22T18:11:58Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: Stateful and reactive stream processing applications with Apache Kafka, Quarkus, and Angular on OpenShift</title>
