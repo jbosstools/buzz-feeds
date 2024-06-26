@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-06-26T12:19:13Z</updated>
+  <updated>2024-06-26T18:12:51Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: Open innovation: Red Hat’s impact on the Kafka and Strimzi ecosystem</title>
+    <updated>2024-06-26T07:00:00Z</updated>
+    <id>c0fbf1b3-b4bd-46a9-9d91-438fee767490</id>
+    <link href="https://developers.redhat.com/articles/2024/06/26/open-innovation-red-hats-impact-kafka-and-strimzi-ecosystem" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Red Hat Developer: Protect applications with Red Hat build of Keycloak using Kerberos & Active Directory</title>
     <updated>2024-06-26T07:00:00Z</updated>
@@ -11,10 +18,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Open innovation: Red Hat’s impact on the Kafka and Strimzi ecosystem</title>
-    <updated>2024-06-26T07:00:00Z</updated>
-    <id>c0fbf1b3-b4bd-46a9-9d91-438fee767490</id>
-    <link href="https://developers.redhat.com/articles/2024/06/26/open-innovation-red-hats-impact-kafka-and-strimzi-ecosystem" rel="alternate"></link>
+    <title>Quarkus: Quarkus 3.12 - TLS Registry, load shedding, native image agent, Kotlin 2.0 and more</title>
+    <updated>2024-06-26T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-12-0-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-12-0-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -53,17 +60,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Support for Customer Identity and Access Management (CIAM) and Multi-tenancy</title>
-    <updated>2024-06-20T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/06/announcement-keycloak-organizations</id>
-    <link href="https://www.keycloak.org/2024/06/announcement-keycloak-organizations" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Keycloak 25.0.1 released</title>
     <updated>2024-06-20T00:00:00Z</updated>
     <id>https://www.keycloak.org/2024/06/keycloak-2501-released</id>
     <link href="https://www.keycloak.org/2024/06/keycloak-2501-released" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Support for Customer Identity and Access Management (CIAM) and Multi-tenancy</title>
+    <updated>2024-06-20T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/06/announcement-keycloak-organizations</id>
+    <link href="https://www.keycloak.org/2024/06/announcement-keycloak-organizations" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -74,14 +81,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.11.3 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.11.3 released - Maintenance release</title>
     <updated>2024-06-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-11-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-11-3-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.11.3 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.11.3 released - Maintenance release</title>
     <updated>2024-06-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-11-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-11-3-released/" rel="alternate"></link>
@@ -123,6 +130,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Crafting a Local RAG application with Quarkus</title>
+    <updated>2024-06-13T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/granite-rag/</id>
+    <link href="https://quarkus.io/blog/granite-rag/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Crafting a Local RAG application with Quarkus</title>
     <updated>2024-06-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/granite-rag/</id>
@@ -137,24 +151,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Crafting a Local RAG application with Quarkus</title>
-    <updated>2024-06-13T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/granite-rag/</id>
-    <link href="https://quarkus.io/blog/granite-rag/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus Newsletter #45 - June</title>
+    <title>Quarkus: Quarkus Newsletter #45 - June</title>
     <updated>2024-06-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-45/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-45/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Keeping users logged in with Keycloak 25</title>
-    <updated>2024-06-12T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/06/persistent-user-sessions-in-preview</id>
-    <link href="https://www.keycloak.org/2024/06/persistent-user-sessions-in-preview" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -172,10 +172,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus Newsletter #45 - June</title>
+    <title>JBoss Blogs: Quarkus Newsletter #45 - June</title>
     <updated>2024-06-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-45/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-45/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Keeping users logged in with Keycloak 25</title>
+    <updated>2024-06-12T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/06/persistent-user-sessions-in-preview</id>
+    <link href="https://www.keycloak.org/2024/06/persistent-user-sessions-in-preview" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -200,17 +207,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Announcing Keycloak's Identity Summit: KeyConf24</title>
-    <updated>2024-06-10T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/06/keyconf24-invitation</id>
-    <link href="https://www.keycloak.org/2024/06/keyconf24-invitation" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Infinispan 15 indexing &amp; query news</title>
     <updated>2024-06-10T00:00:00Z</updated>
     <id>https://infinispan.org/blog/2024/06/10/infinispan-15-queries</id>
     <link href="https://infinispan.org/blog/2024/06/10/infinispan-15-queries" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Announcing Keycloak's Identity Summit: KeyConf24</title>
+    <updated>2024-06-10T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/06/keyconf24-invitation</id>
+    <link href="https://www.keycloak.org/2024/06/keyconf24-invitation" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -221,13 +228,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus and Infinispan: winner combo</title>
-    <updated>2024-06-06T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-infinispan-new/</id>
-    <link href="https://quarkus.io/blog/quarkus-infinispan-new/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus and Infinispan: winner combo</title>
     <updated>2024-06-06T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-infinispan-new/</id>
@@ -235,10 +235,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.11.1 released - Maintenance release</title>
-    <updated>2024-06-05T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-11-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-11-1-released/" rel="alternate"></link>
+    <title>JBoss Blogs: Quarkus and Infinispan: winner combo</title>
+    <updated>2024-06-06T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-infinispan-new/</id>
+    <link href="https://quarkus.io/blog/quarkus-infinispan-new/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -246,6 +246,13 @@
     <updated>2024-06-05T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-8-5-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-8-5-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.11.1 released - Maintenance release</title>
+    <updated>2024-06-05T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-11-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-11-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -270,14 +277,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus Maven Dependency Resolver Improvements</title>
+    <title>Quarkus: Quarkus Maven Dependency Resolver Improvements</title>
     <updated>2024-06-03T00:00:00Z</updated>
     <id>https://quarkus.io/blog/incubating-model-resolver/</id>
     <link href="https://quarkus.io/blog/incubating-model-resolver/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus Maven Dependency Resolver Improvements</title>
+    <title>JBoss Blogs: Quarkus Maven Dependency Resolver Improvements</title>
     <updated>2024-06-03T00:00:00Z</updated>
     <id>https://quarkus.io/blog/incubating-model-resolver/</id>
     <link href="https://quarkus.io/blog/incubating-model-resolver/" rel="alternate"></link>
@@ -305,17 +312,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.10.1 released - Maintenance release</title>
-    <updated>2024-05-15T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-10-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-10-1-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus Newsletter #44 - May</title>
     <updated>2024-05-15T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-44/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-44/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.10.1 released - Maintenance release</title>
+    <updated>2024-05-15T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-10-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-10-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -354,17 +361,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.9.4 released - Maintenance release</title>
-    <updated>2024-04-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-9-4-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
     <updated>2024-04-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/</id>
     <link href="https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.9.4 released - Maintenance release</title>
+    <updated>2024-04-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-9-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -564,13 +571,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Containerizing virtual thread applications</title>
-    <updated>2023-12-14T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/virtual-threads-6/</id>
-    <link href="https://quarkus.io/blog/virtual-threads-6/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.29.0.Final for Eclipse 2023-09</title>
     <updated>2023-11-02T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.29.0.final.html</id>
@@ -578,17 +578,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
-    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
     <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
