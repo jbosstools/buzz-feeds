@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-07-04T00:45:12Z</updated>
+  <updated>2024-07-04T06:14:20Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: What’s new in Red Hat Developer Hub 1.2</title>
+    <updated>2024-07-04T05:44:42Z</updated>
+    <id>0368bb93-bc1e-4f86-9dfa-9a015b7ae400</id>
+    <link href="https://developers.redhat.com/articles/2024/07/04/whats-new-red-hat-developer-hub-12" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Red Hat Developer: Manage deep learning models with OpenVINO Model Server</title>
     <updated>2024-07-03T07:00:00Z</updated>
@@ -88,14 +95,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.12 - TLS Registry, load shedding, native image agent, Kotlin 2.0 and more</title>
+    <title>JBoss Blogs: Quarkus 3.12 - TLS Registry, load shedding, native image agent, Kotlin 2.0 and more</title>
     <updated>2024-06-26T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-12-0-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-12-0-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.12 - TLS Registry, load shedding, native image agent, Kotlin 2.0 and more</title>
+    <title>Quarkus: Quarkus 3.12 - TLS Registry, load shedding, native image agent, Kotlin 2.0 and more</title>
     <updated>2024-06-26T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-12-0-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-12-0-released/" rel="alternate"></link>
@@ -113,13 +120,6 @@
     <updated>2024-06-25T09:42:00Z</updated>
     <id>https://jbossts.blogspot.com/2024/06/some-experiments-in-migrating.html</id>
     <link href="https://jbossts.blogspot.com/2024/06/some-experiments-in-migrating.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Get started with the bpfman eBPF manager on OpenShift 4.16</title>
-    <updated>2024-06-25T07:00:00Z</updated>
-    <id>039e3d7b-ab06-46da-9fac-e9d853cc5fb0</id>
-    <link href="https://developers.redhat.com/articles/2024/06/25/get-started-bpfman-ebpf-manager-openshift-416" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
