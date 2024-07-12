@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-07-12T12:19:24Z</updated>
+  <updated>2024-07-12T18:12:51Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: Active Directory Utility for SQL Server (ADUTIL) now officially supported with RHEL 9</title>
+    <updated>2024-07-12T15:00:00Z</updated>
+    <id>ad812db3-40db-4a4f-9dbc-79990c80f560</id>
+    <link href="https://developers.redhat.com/articles/2024/07/12/active-directory-utility-sql-server-adutil-now-officially-supported-rhel-9" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Red Hat Developer: Use of Cryostat and Java Flight Recording in Red Hat OpenShift 4</title>
     <updated>2024-07-12T07:00:00Z</updated>
@@ -18,17 +25,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Improved observability signal correlation for Red Hat OpenShift</title>
-    <updated>2024-07-10T07:00:00Z</updated>
-    <id>ecff2cce-0242-4d44-a34f-12bd303cb80a</id>
-    <link href="https://developers.redhat.com/articles/2024/07/10/improved-observability-signal-correlation-red-hat-openshift" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Introducing the new Traces UI in the Red Hat OpenShift Web Console</title>
     <updated>2024-07-10T07:00:00Z</updated>
     <id>b13a3bfc-c066-4de8-8ede-539b128626a0</id>
     <link href="https://developers.redhat.com/articles/2024/07/10/introducing-new-traces-ui-red-hat-openshift-web-console" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Improved observability signal correlation for Red Hat OpenShift</title>
+    <updated>2024-07-10T07:00:00Z</updated>
+    <id>ecff2cce-0242-4d44-a34f-12bd303cb80a</id>
+    <link href="https://developers.redhat.com/articles/2024/07/10/improved-observability-signal-correlation-red-hat-openshift" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -46,17 +53,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Get started with the OpenShift Cluster Observability Operator</title>
-    <updated>2024-07-09T07:00:00Z</updated>
-    <id>61bd0b74-7f73-4d35-ace0-4ba4a0782e25</id>
-    <link href="https://developers.redhat.com/articles/2024/07/09/get-started-openshift-cluster-observability-operator" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Deploying SQL Server on Linux using an Ansible playbook</title>
     <updated>2024-07-09T07:00:00Z</updated>
     <id>78b261d7-71f7-48bc-a468-395bf429e3b6</id>
     <link href="https://developers.redhat.com/articles/2024/07/09/deploying-sql-server-linux-using-ansible-playbook" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Get started with the OpenShift Cluster Observability Operator</title>
+    <updated>2024-07-09T07:00:00Z</updated>
+    <id>61bd0b74-7f73-4d35-ace0-4ba4a0782e25</id>
+    <link href="https://developers.redhat.com/articles/2024/07/09/get-started-openshift-cluster-observability-operator" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -78,13 +85,6 @@
     <updated>2024-07-04T07:00:00Z</updated>
     <id>5439961d-7f3b-4e87-82e6-4d857362f0ef</id>
     <link href="https://developers.redhat.com/articles/2024/07/04/announcing-resource-optimization-red-hat-openshift-ga" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: What’s new in Red Hat Developer Hub 1.2</title>
-    <updated>2024-07-04T05:44:42Z</updated>
-    <id>0368bb93-bc1e-4f86-9dfa-9a015b7ae400</id>
-    <link href="https://developers.redhat.com/articles/2024/07/04/whats-new-red-hat-developer-hub-12" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
