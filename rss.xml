@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-07-15T18:13:32Z</updated>
+  <updated>2024-07-16T00:46:56Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: Creating and deploying an OVF Template to support image mode for RHEL at scale</title>
