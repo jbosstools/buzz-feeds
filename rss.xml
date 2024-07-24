@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-07-24T12:18:14Z</updated>
+  <updated>2024-07-24T18:13:36Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: New features in Cryostat 3.0 for monitoring Java applications on OpenShift</title>
@@ -39,7 +39,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: A quick look at large language models with Node.js, Podman desktop, and the Granite model</title>
+    <title>Red Hat Developer: A quick look at large language models with Node.js, Podman Desktop, and the Granite model</title>
     <updated>2024-07-22T07:00:00Z</updated>
     <id>3bd2f3da-0e9a-4bf5-ae71-b7aed915921b</id>
     <link href="https://developers.redhat.com/articles/2024/07/22/quick-look-large-language-models-nodejs-podman-desktop-and-granite-model" rel="alternate"></link>
