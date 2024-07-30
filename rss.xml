@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-07-30T00:46:51Z</updated>
+  <updated>2024-07-30T06:14:21Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: Creating an AI powered service for detecting fraudulant card transactions</title>
@@ -53,10 +53,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: 5 myths about platform engineering, debunked</title>
+    <title>Red Hat Developer: Protecting your models made easy with Authorino</title>
     <updated>2024-07-22T07:00:00Z</updated>
-    <id>18d2295f-0feb-47c7-9803-7fe8d2e50ebd</id>
-    <link href="https://developers.redhat.com/articles/2024/07/22/5-myths-about-platform-engineering-debunked" rel="alternate"></link>
+    <id>32294db6-bb5f-4801-ace0-bb4ebcbac75b</id>
+    <link href="https://developers.redhat.com/articles/2024/07/22/protecting-your-models-made-easy-authorino" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -67,17 +67,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Red Hat Developer: 5 myths about platform engineering, debunked</title>
+    <updated>2024-07-22T07:00:00Z</updated>
+    <id>18d2295f-0feb-47c7-9803-7fe8d2e50ebd</id>
+    <link href="https://developers.redhat.com/articles/2024/07/22/5-myths-about-platform-engineering-debunked" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Red Hat Developer: A quick look at large language models with Node.js, Podman Desktop, and the Granite model</title>
     <updated>2024-07-22T07:00:00Z</updated>
     <id>3bd2f3da-0e9a-4bf5-ae71-b7aed915921b</id>
     <link href="https://developers.redhat.com/articles/2024/07/22/quick-look-large-language-models-nodejs-podman-desktop-and-granite-model" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Protecting your models made easy with Authorino</title>
-    <updated>2024-07-22T07:00:00Z</updated>
-    <id>32294db6-bb5f-4801-ace0-bb4ebcbac75b</id>
-    <link href="https://developers.redhat.com/articles/2024/07/22/protecting-your-models-made-easy-authorino" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -116,14 +116,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Our next LTS will be Quarkus 3.15</title>
+    <title>Quarkus: Our next LTS will be Quarkus 3.15</title>
     <updated>2024-07-16T00:00:00Z</updated>
     <id>https://quarkus.io/blog/next-lts-3-15/</id>
     <link href="https://quarkus.io/blog/next-lts-3-15/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Our next LTS will be Quarkus 3.15</title>
+    <title>JBoss Blogs: Our next LTS will be Quarkus 3.15</title>
     <updated>2024-07-16T00:00:00Z</updated>
     <id>https://quarkus.io/blog/next-lts-3-15/</id>
     <link href="https://quarkus.io/blog/next-lts-3-15/" rel="alternate"></link>
@@ -151,13 +151,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.12.2 released - Maintenance release</title>
-    <updated>2024-07-10T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-12-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-12-2-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Quarkus 3.12.2 released - Maintenance release</title>
     <updated>2024-07-10T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-12-2-released/</id>
@@ -165,14 +158,21 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.12.1 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.12.2 released - Maintenance release</title>
+    <updated>2024-07-10T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-12-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-12-2-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.12.1 released - Maintenance release</title>
     <updated>2024-07-03T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-12-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-12-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.12.1 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.12.1 released - Maintenance release</title>
     <updated>2024-07-03T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-12-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-12-1-released/" rel="alternate"></link>
@@ -228,13 +228,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Support for Customer Identity and Access Management (CIAM) and Multi-tenancy</title>
-    <updated>2024-06-20T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/06/announcement-keycloak-organizations</id>
-    <link href="https://www.keycloak.org/2024/06/announcement-keycloak-organizations" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Keycloak 25.0.1 released</title>
     <updated>2024-06-20T00:00:00Z</updated>
     <id>https://www.keycloak.org/2024/06/keycloak-2501-released</id>
@@ -242,10 +235,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.11.3 released - Maintenance release</title>
-    <updated>2024-06-19T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-11-3-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-11-3-released/" rel="alternate"></link>
+    <title>JBoss Blogs: Support for Customer Identity and Access Management (CIAM) and Multi-tenancy</title>
+    <updated>2024-06-20T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/06/announcement-keycloak-organizations</id>
+    <link href="https://www.keycloak.org/2024/06/announcement-keycloak-organizations" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -256,14 +249,21 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.11.2 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.11.3 released - Maintenance release</title>
+    <updated>2024-06-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-11-3-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-11-3-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.11.2 released - Maintenance release</title>
     <updated>2024-06-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-11-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-11-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.11.2 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.11.2 released - Maintenance release</title>
     <updated>2024-06-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-11-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-11-2-released/" rel="alternate"></link>
@@ -354,17 +354,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.10.1 released - Maintenance release</title>
-    <updated>2024-05-15T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-10-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-10-1-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus Newsletter #44 - May</title>
     <updated>2024-05-15T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-44/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-44/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.10.1 released - Maintenance release</title>
+    <updated>2024-05-15T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-10-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-10-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
