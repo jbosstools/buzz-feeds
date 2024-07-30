@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-07-30T12:18:37Z</updated>
+  <updated>2024-07-30T18:13:14Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: Announcing Ansible plug-ins for Red Hat Developer Hub</title>
+    <updated>2024-07-30T16:04:11Z</updated>
+    <id>1ef09165-659e-4bc1-81e6-09ab9d398e39</id>
+    <link href="https://developers.redhat.com/articles/2024/07/30/announcing-ansible-plug-ins-red-hat-developer-hub" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Red Hat Developer: Set up a streams for Apache Kafka cluster with Ansible</title>
     <updated>2024-07-30T07:00:00Z</updated>
@@ -71,13 +78,6 @@
     <updated>2024-07-22T07:00:00Z</updated>
     <id>cfe0e3c3-aabd-4405-b9b2-c7e7fbf8ae24</id>
     <link href="https://developers.redhat.com/articles/2024/07/22/try-openshift-ai-and-integrate-apache-camel" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: A quick look at large language models with Node.js, Podman Desktop, and the Granite model</title>
-    <updated>2024-07-22T07:00:00Z</updated>
-    <id>3bd2f3da-0e9a-4bf5-ae71-b7aed915921b</id>
-    <link href="https://developers.redhat.com/articles/2024/07/22/quick-look-large-language-models-nodejs-podman-desktop-and-granite-model" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
