@@ -1,8 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-08-12T12:20:51Z</updated>
+  <updated>2024-08-12T18:14:46Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>JBoss Blogs: WildFly proxy with reuse-x-forwarded and rewrite-host</title>
+    <updated>2024-08-12T13:09:24Z</updated>
+    <id>https://www.mastertheboss.com/web/jboss-web-server/wildfly-proxy-with-reuse-x-forwarded-and-rewrite-host/</id>
+    <link href="https://www.mastertheboss.com/web/jboss-web-server/wildfly-proxy-with-reuse-x-forwarded-and-rewrite-host/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Integrate a private AI coding assistant into your CDE using Ollama, Continue, and OpenShift Dev Spaces</title>
+    <updated>2024-08-12T07:00:00Z</updated>
+    <id>5e1e4057-01f3-481f-9f5f-e763e17870a3</id>
+    <link href="https://developers.redhat.com/articles/2024/08/12/integrate-private-ai-coding-assistant-ollama" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Red Hat Developer: Greenboot: Automate rollbacks for atomically updated systems</title>
     <updated>2024-08-12T07:00:00Z</updated>
@@ -18,21 +32,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Integrate a private AI coding assistant into your CDE using Ollama, Continue, and OpenShift Dev Spaces</title>
-    <updated>2024-08-12T07:00:00Z</updated>
-    <id>5e1e4057-01f3-481f-9f5f-e763e17870a3</id>
-    <link href="https://developers.redhat.com/articles/2024/08/12/integrate-private-ai-coding-assistant-ollama" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.13.2 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.13.2 released - Maintenance release</title>
     <updated>2024-08-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-13-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-13-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.13.2 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.13.2 released - Maintenance release</title>
     <updated>2024-08-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-13-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-13-2-released/" rel="alternate"></link>
@@ -67,14 +74,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.13.1 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.13.1 released - Maintenance release</title>
     <updated>2024-08-07T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-13-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-13-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.13.1 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.13.1 released - Maintenance release</title>
     <updated>2024-08-07T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-13-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-13-1-released/" rel="alternate"></link>
@@ -137,13 +144,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Leveraging Hibernate Search capabilities in a Quarkus application without a database</title>
-    <updated>2024-08-01T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/search-standalone-mapper/</id>
-    <link href="https://quarkus.io/blog/search-standalone-mapper/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Leveraging Hibernate Search capabilities in a Quarkus application without a database</title>
     <updated>2024-08-01T00:00:00Z</updated>
     <id>https://quarkus.io/blog/search-standalone-mapper/</id>
@@ -151,10 +151,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.13 - OpenTelemetry Metrics, OpenTelemetry 1.39, TLS registry improvements and more...</title>
-    <updated>2024-07-31T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-13-0-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-13-0-released/" rel="alternate"></link>
+    <title>Quarkus: Leveraging Hibernate Search capabilities in a Quarkus application without a database</title>
+    <updated>2024-08-01T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/search-standalone-mapper/</id>
+    <link href="https://quarkus.io/blog/search-standalone-mapper/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -165,14 +165,21 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus to move to the Commonhaus Foundation</title>
+    <title>Quarkus: Quarkus 3.13 - OpenTelemetry Metrics, OpenTelemetry 1.39, TLS registry improvements and more...</title>
+    <updated>2024-07-31T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-13-0-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-13-0-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus to move to the Commonhaus Foundation</title>
     <updated>2024-07-30T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-moving-to-commonhaus/</id>
     <link href="https://quarkus.io/blog/quarkus-moving-to-commonhaus/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus to move to the Commonhaus Foundation</title>
+    <title>Quarkus: Quarkus to move to the Commonhaus Foundation</title>
     <updated>2024-07-30T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-moving-to-commonhaus/</id>
     <link href="https://quarkus.io/blog/quarkus-moving-to-commonhaus/" rel="alternate"></link>
@@ -193,13 +200,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Eclipse Vert.x 4.5.9 released!</title>
-    <updated>2024-07-18T00:00:00Z</updated>
-    <id>https://vertx.io/blog/eclipse-vert-x-4-5-9</id>
-    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-9" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Keycloak 25.0.2 released</title>
     <updated>2024-07-18T00:00:00Z</updated>
     <id>https://www.keycloak.org/2024/07/keycloak-2502-released</id>
@@ -207,10 +207,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.12.3 released - Maintenance release</title>
-    <updated>2024-07-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-12-3-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-12-3-released/" rel="alternate"></link>
+    <title>JBoss Blogs: Eclipse Vert.x 4.5.9 released!</title>
+    <updated>2024-07-18T00:00:00Z</updated>
+    <id>https://vertx.io/blog/eclipse-vert-x-4-5-9</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-4-5-9" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -221,14 +221,21 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Our next LTS will be Quarkus 3.15</title>
+    <title>JBoss Blogs: Quarkus 3.12.3 released - Maintenance release</title>
+    <updated>2024-07-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-12-3-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-12-3-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Our next LTS will be Quarkus 3.15</title>
     <updated>2024-07-16T00:00:00Z</updated>
     <id>https://quarkus.io/blog/next-lts-3-15/</id>
     <link href="https://quarkus.io/blog/next-lts-3-15/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Our next LTS will be Quarkus 3.15</title>
+    <title>JBoss Blogs: Our next LTS will be Quarkus 3.15</title>
     <updated>2024-07-16T00:00:00Z</updated>
     <id>https://quarkus.io/blog/next-lts-3-15/</id>
     <link href="https://quarkus.io/blog/next-lts-3-15/" rel="alternate"></link>
@@ -285,13 +292,6 @@
   </entry>
   <entry>
     <title>Quarkus: Overriding the configuration of a Quarkus app from its test code</title>
-    <updated>2024-07-02T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/overriding-configuration-from-test-code/</id>
-    <link href="https://quarkus.io/blog/overriding-configuration-from-test-code/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Overriding the configuration of a Quarkus app from its test code</title>
     <updated>2024-07-02T00:00:00Z</updated>
     <id>https://quarkus.io/blog/overriding-configuration-from-test-code/</id>
     <link href="https://quarkus.io/blog/overriding-configuration-from-test-code/" rel="alternate"></link>
@@ -361,17 +361,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.8.5 released - Maintenance release</title>
-    <updated>2024-06-05T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-8-5-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-8-5-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.11.1 released - Maintenance release</title>
     <updated>2024-06-05T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-11-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-11-1-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.8.5 released - Maintenance release</title>
+    <updated>2024-06-05T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-8-5-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-8-5-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -459,17 +459,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.8.4 released - Maintenance release</title>
-    <updated>2024-04-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
     <updated>2024-04-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-2-12-final-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.8.4 released - Maintenance release</title>
+    <updated>2024-04-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -501,17 +501,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.9 - Big Reactive Rename</title>
-    <updated>2024-03-27T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-9-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-9-1-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Use OIDC Proxy to integrate OIDC service endpoints with custom GPT</title>
     <updated>2024-03-27T00:00:00Z</updated>
     <id>https://quarkus.io/blog/oidc-proxy/</id>
     <link href="https://quarkus.io/blog/oidc-proxy/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.9 - Big Reactive Rename</title>
+    <updated>2024-03-27T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-9-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-9-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -578,17 +578,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
     <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -1425,17 +1425,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: RHAMT Eclipse Plugin 4.1.0.Final has been released!</title>
-    <updated>2018-07-17T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html</id>
-    <link href="https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat Developer Studio for Eclipse Photon</title>
     <updated>2018-07-17T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.0.0.ga-for-photon.html</id>
     <link href="https://tools.jboss.org/blog/12.0.0.ga-for-photon.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: RHAMT Eclipse Plugin 4.1.0.Final has been released!</title>
+    <updated>2018-07-17T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html</id>
+    <link href="https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
