@@ -1,13 +1,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-08-15T06:14:38Z</updated>
+  <updated>2024-08-15T12:19:45Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
-    <title>Red Hat Developer: Introducing Tempo Monolithic mode</title>
-    <updated>2024-08-14T07:00:00Z</updated>
-    <id>5ca1298e-548f-4e01-ab7c-9b679d2daa58</id>
-    <link href="https://developers.redhat.com/articles/2024/08/14/introducing-tempo-monolithic-mode" rel="alternate"></link>
+    <title>Red Hat Developer: Your first GPU algorithm: Scan/prefix sum</title>
+    <updated>2024-08-15T07:00:00Z</updated>
+    <id>47d9832d-59e9-4551-9873-487790be950f</id>
+    <link href="https://developers.redhat.com/articles/2024/08/15/your-first-gpu-algorithm-scanprefix-sum" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: What's new in version 7.1 of Red Hat’s Migration Toolkit for Applications</title>
+    <updated>2024-08-15T07:00:00Z</updated>
+    <id>6fd190c3-184b-4315-98a4-058673f98711</id>
+    <link href="https://developers.redhat.com/articles/2024/08/15/whats-new-version-71-red-hats-migration-toolkit-applications" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -15,6 +22,13 @@
     <updated>2024-08-14T07:00:00Z</updated>
     <id>d5a20b96-6f09-4e8a-8a85-f91d06e8f967</id>
     <link href="https://developers.redhat.com/articles/2024/08/14/self-service-approach-building-virtual-machines-scale" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Introducing Tempo Monolithic mode</title>
+    <updated>2024-08-14T07:00:00Z</updated>
+    <id>5ca1298e-548f-4e01-ab7c-9b679d2daa58</id>
+    <link href="https://developers.redhat.com/articles/2024/08/14/introducing-tempo-monolithic-mode" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -39,17 +53,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Greenboot: Automate rollbacks for atomically updated systems</title>
-    <updated>2024-08-12T07:00:00Z</updated>
-    <id>6aa6d960-df0e-4eba-80d1-40e7e47541b1</id>
-    <link href="https://developers.redhat.com/articles/2024/08/12/greenboot-automate-rollbacks-atomically-updated-systems" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Integrate a private AI coding assistant into your CDE using Ollama, Continue, and OpenShift Dev Spaces</title>
     <updated>2024-08-12T07:00:00Z</updated>
     <id>5e1e4057-01f3-481f-9f5f-e763e17870a3</id>
     <link href="https://developers.redhat.com/articles/2024/08/12/integrate-private-ai-coding-assistant-ollama" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Greenboot: Automate rollbacks for atomically updated systems</title>
+    <updated>2024-08-12T07:00:00Z</updated>
+    <id>6aa6d960-df0e-4eba-80d1-40e7e47541b1</id>
+    <link href="https://developers.redhat.com/articles/2024/08/12/greenboot-automate-rollbacks-atomically-updated-systems" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -92,20 +106,6 @@
     <updated>2024-08-08T07:00:00Z</updated>
     <id>928f76cf-1c65-4c3e-8c9f-097b04ddfabf</id>
     <link href="https://developers.redhat.com/articles/2024/08/08/using-gdb-time-travel" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Getting started with OperatorPolicy</title>
-    <updated>2024-08-08T07:00:00Z</updated>
-    <id>c2913360-d3d6-403e-9695-1b5b0ed59b57</id>
-    <link href="https://developers.redhat.com/articles/2024/08/08/getting-started-operatorpolicy" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: What is GPU programming</title>
-    <updated>2024-08-07T07:00:00Z</updated>
-    <id>f773cd03-dec8-4c51-bffd-04599a174f03</id>
-    <link href="https://developers.redhat.com/articles/2024/08/07/what-gpu-programming" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
