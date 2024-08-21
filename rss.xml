@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-08-21T06:14:18Z</updated>
+  <updated>2024-08-21T12:18:35Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: How to back up and restore virtual machines with OpenShift</title>
+    <updated>2024-08-21T07:00:00Z</updated>
+    <id>788ec1d5-4de5-422f-ad23-e7ff2de65d40</id>
+    <link href="https://developers.redhat.com/articles/2024/08/21/how-back-and-restore-virtual-machines-openshift" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Red Hat Developer: Git-based operations (GitOps) for Operators managed by Operator Lifecycle Manager (OLM)</title>
     <updated>2024-08-20T07:00:00Z</updated>
@@ -32,17 +39,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Supercharge your Red Hat OpenShift local environment with Red Hat OpenShift Lightspeed</title>
-    <updated>2024-08-19T07:00:00Z</updated>
-    <id>c0c9fef6-8188-4523-8358-9b7e538f965e</id>
-    <link href="https://developers.redhat.com/articles/2024/08/19/supercharge-your-red-hat-openshift-local-environment-red-hat-openshift" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Monitoring OpenShift Virtualization using user-defined projects and Grafana</title>
     <updated>2024-08-19T07:00:00Z</updated>
     <id>da421abc-57e1-408a-a5c6-c622cb5ef954</id>
     <link href="https://developers.redhat.com/articles/2024/08/19/monitoring-openshift-virtualization-using-user-defined-projects-and-grafana" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Supercharge your Red Hat OpenShift local environment with Red Hat OpenShift Lightspeed</title>
+    <updated>2024-08-19T07:00:00Z</updated>
+    <id>c0c9fef6-8188-4523-8358-9b7e538f965e</id>
+    <link href="https://developers.redhat.com/articles/2024/08/19/supercharge-your-red-hat-openshift-local-environment-red-hat-openshift" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -67,17 +74,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Revolutionising Telecom Microservice - Modernising JDiameter with Quarkus</title>
-    <updated>2024-08-19T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-jdiameter-intro/</id>
-    <link href="https://quarkus.io/blog/quarkus-jdiameter-intro/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Leveraging Quarkus build-time metaprogramming capabilities to improve Jackson's serialization performance</title>
     <updated>2024-08-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-metaprogramming/</id>
     <link href="https://quarkus.io/blog/quarkus-metaprogramming/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Revolutionising Telecom Microservice - Modernising JDiameter with Quarkus</title>
+    <updated>2024-08-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-jdiameter-intro/</id>
+    <link href="https://quarkus.io/blog/quarkus-jdiameter-intro/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -116,17 +123,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Introducing Tempo Monolithic mode</title>
-    <updated>2024-08-14T07:00:00Z</updated>
-    <id>5ca1298e-548f-4e01-ab7c-9b679d2daa58</id>
-    <link href="https://developers.redhat.com/articles/2024/08/14/introducing-tempo-monolithic-mode" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: A self-service approach to building virtual machines at scale</title>
     <updated>2024-08-14T07:00:00Z</updated>
     <id>d5a20b96-6f09-4e8a-8a85-f91d06e8f967</id>
     <link href="https://developers.redhat.com/articles/2024/08/14/self-service-approach-building-virtual-machines-scale" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Introducing Tempo Monolithic mode</title>
+    <updated>2024-08-14T07:00:00Z</updated>
+    <id>5ca1298e-548f-4e01-ab7c-9b679d2daa58</id>
+    <link href="https://developers.redhat.com/articles/2024/08/14/introducing-tempo-monolithic-mode" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -141,13 +148,6 @@
     <updated>2024-08-12T13:09:24Z</updated>
     <id>https://www.mastertheboss.com/web/jboss-web-server/wildfly-proxy-with-reuse-x-forwarded-and-rewrite-host/</id>
     <link href="https://www.mastertheboss.com/web/jboss-web-server/wildfly-proxy-with-reuse-x-forwarded-and-rewrite-host/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Greenboot: Automate rollbacks for atomically updated systems</title>
-    <updated>2024-08-12T07:00:00Z</updated>
-    <id>6aa6d960-df0e-4eba-80d1-40e7e47541b1</id>
-    <link href="https://developers.redhat.com/articles/2024/08/12/greenboot-automate-rollbacks-atomically-updated-systems" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
