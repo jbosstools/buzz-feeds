@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-09-22T12:19:00Z</updated>
+  <updated>2024-09-22T18:13:23Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: Extending OpenShift Virtualization connectivity options on hosted control planes in AWS</title>
