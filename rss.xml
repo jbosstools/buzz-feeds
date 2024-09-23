@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-09-23T12:21:34Z</updated>
+  <updated>2024-09-23T18:14:46Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: Making SystemTap instrumentation easier with tapsets</title>
@@ -15,6 +15,13 @@
     <updated>2024-09-23T07:00:00Z</updated>
     <id>2422a17b-3efb-4e77-8221-ffadd462c83c</id>
     <link href="https://developers.redhat.com/articles/2024/09/23/red-hat-openshift-dedicated-google-cloud-integration" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Hacktoberfest 2024</title>
+    <updated>2024-09-23T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2024/09/23/Hacktoberfest-2024/</id>
+    <link href="https://wildfly.org//news/2024/09/23/Hacktoberfest-2024/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -67,17 +74,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Deploy a Redis cluster on OpenShift Virtualization</title>
-    <updated>2024-09-18T07:00:00Z</updated>
-    <id>5d5bd202-8ea5-4f27-b45a-2b68ce008db7</id>
-    <link href="https://developers.redhat.com/articles/2024/09/18/deploy-redis-cluster-openshift-virtualization" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Enhancing the Quarkus developer experience: New updates for IntelliJ and VS Code tools</title>
     <updated>2024-09-18T07:00:00Z</updated>
     <id>d4c8dbf9-4966-4ee0-8aa0-08267287768c</id>
     <link href="https://developers.redhat.com/articles/2024/09/18/enhancing-quarkus-developer-experience-new-updates-intellij-and-vs-code-tools" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Deploy a Redis cluster on OpenShift Virtualization</title>
+    <updated>2024-09-18T07:00:00Z</updated>
+    <id>5d5bd202-8ea5-4f27-b45a-2b68ce008db7</id>
+    <link href="https://developers.redhat.com/articles/2024/09/18/deploy-redis-cluster-openshift-virtualization" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -144,17 +151,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Automate WildFly’s subsystems configuration using Ansible!</title>
-    <updated>2024-09-10T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/09/10/ansible-yaml-wildfly/</id>
-    <link href="https://wildfly.org//news/2024/09/10/ansible-yaml-wildfly/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Keycloak 25.0.5 released</title>
     <updated>2024-09-10T00:00:00Z</updated>
     <id>https://www.keycloak.org/2024/09/keycloak-2505-released</id>
     <link href="https://www.keycloak.org/2024/09/keycloak-2505-released" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Automate WildFly’s subsystems configuration using Ansible!</title>
+    <updated>2024-09-10T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2024/09/10/ansible-yaml-wildfly/</id>
+    <link href="https://wildfly.org//news/2024/09/10/ansible-yaml-wildfly/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -179,14 +186,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.14.2 - Maintenance release and Micrometer 1.13</title>
+    <title>Quarkus: Quarkus 3.14.2 - Maintenance release and Micrometer 1.13</title>
     <updated>2024-09-04T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-14-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-14-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.14.2 - Maintenance release and Micrometer 1.13</title>
+    <title>JBoss Blogs: Quarkus 3.14.2 - Maintenance release and Micrometer 1.13</title>
     <updated>2024-09-04T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-14-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-14-2-released/" rel="alternate"></link>
@@ -243,13 +250,6 @@
   </entry>
   <entry>
     <title>Quarkus: Quarkus 3.14 - Hibernate ORM 6.6, Let's encrypt, faster reflection-free Jackson serializers...</title>
-    <updated>2024-08-28T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-14-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-14-1-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.14 - Hibernate ORM 6.6, Let's encrypt, faster reflection-free Jackson serializers...</title>
     <updated>2024-08-28T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-14-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-14-1-released/" rel="alternate"></link>
