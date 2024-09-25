@@ -1,8 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-09-25T06:16:16Z</updated>
+  <updated>2024-09-25T12:21:31Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: Why internal developer portals matter</title>
+    <updated>2024-09-25T07:00:00Z</updated>
+    <id>00e196e9-c39b-4071-844d-e33f1044496f</id>
+    <link href="https://developers.redhat.com/articles/2024/09/25/why-internal-developer-portals-matter" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How to serve embeddings models on OpenShift AI</title>
+    <updated>2024-09-25T07:00:00Z</updated>
+    <id>0501800d-5de3-48b7-9468-4f0e8ca28123</id>
+    <link href="https://developers.redhat.com/articles/2024/09/25/how-serve-embeddings-models-openshift-ai" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Red Hat Developer: bootc: Getting started with bootable containers</title>
     <updated>2024-09-24T07:00:00Z</updated>
@@ -64,20 +78,6 @@
     <updated>2024-09-19T10:30:00Z</updated>
     <id>ab5caebd-a4ca-4439-964c-bdeaffef9225</id>
     <link href="https://developers.redhat.com/articles/2024/09/19/observability-signal-correlation-red-hat-openshift-technology-preview" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Lightweight Network Observability Operator without Loki</title>
-    <updated>2024-09-19T07:00:00Z</updated>
-    <id>bd96d1d8-60ee-4f7c-84d6-fcbb90083f44</id>
-    <link href="https://developers.redhat.com/articles/2024/09/19/lightweight-network-observability-operator-without-loki" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: How to forward OpenShift logs to Azure Monitor</title>
-    <updated>2024-09-19T07:00:00Z</updated>
-    <id>99ec5ff8-feef-4312-84ba-f4bbad67394d</id>
-    <link href="https://developers.redhat.com/articles/2024/09/19/how-forward-openshift-logs-azure-monitor" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
