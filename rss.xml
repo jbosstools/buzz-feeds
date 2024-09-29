@@ -1,20 +1,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-09-29T12:19:33Z</updated>
+  <updated>2024-09-29T18:13:43Z</updated>
   <link href="https://tools.jboss.org"></link>
-  <entry>
-    <title>Red Hat Developer: Enable etcd backups for OpenShift clusters in hybrid cloud environments</title>
-    <updated>2024-09-26T07:00:00Z</updated>
-    <id>f52e8311-5120-4588-9d23-05f297eb6dfc</id>
-    <link href="https://developers.redhat.com/articles/2024/09/26/enable-etcd-backups-openshift-clusters-hybrid-cloud-environments" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>Red Hat Developer: Harness the power of serverless containers in hybrid scenarios</title>
     <updated>2024-09-26T07:00:00Z</updated>
     <id>7758047b-1c32-45ea-987a-c49de21aed1e</id>
     <link href="https://developers.redhat.com/articles/2024/09/26/harness-power-serverless-containers-hybrid-scenarios" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Enable etcd backups for OpenShift clusters in hybrid cloud environments</title>
+    <updated>2024-09-26T07:00:00Z</updated>
+    <id>f52e8311-5120-4588-9d23-05f297eb6dfc</id>
+    <link href="https://developers.redhat.com/articles/2024/09/26/enable-etcd-backups-openshift-clusters-hybrid-cloud-environments" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -53,17 +53,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Register allocation in the Go compiler</title>
-    <updated>2024-09-24T07:00:00Z</updated>
-    <id>0156c862-3ea5-498a-982b-bd101815c6ee</id>
-    <link href="https://developers.redhat.com/articles/2024/09/24/go-compiler-register-allocation" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: bootc: Getting started with bootable containers</title>
     <updated>2024-09-24T07:00:00Z</updated>
     <id>67a9d674-6296-40b8-bba7-a06b1afa34ee</id>
     <link href="https://developers.redhat.com/articles/2024/09/24/bootc-getting-started-bootable-containers" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Register allocation in the Go compiler</title>
+    <updated>2024-09-24T07:00:00Z</updated>
+    <id>0156c862-3ea5-498a-982b-bd101815c6ee</id>
+    <link href="https://developers.redhat.com/articles/2024/09/24/go-compiler-register-allocation" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -88,17 +88,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: InterSystems IRIS operations made easy with Red Hat Insights</title>
-    <updated>2024-09-20T07:00:00Z</updated>
-    <id>771e8bc8-38f9-44c8-8464-561b0edec15c</id>
-    <link href="https://developers.redhat.com/articles/2024/09/20/intersystems-iris-operations-made-easy-red-hat-insights" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Extending OpenShift Virtualization connectivity options on hosted control planes in AWS</title>
     <updated>2024-09-20T07:00:00Z</updated>
     <id>6d99ea3d-01bc-4f3b-963d-4fa58cb0e968</id>
     <link href="https://developers.redhat.com/articles/2024/09/20/extending-openshift-virtualization-connectivity-options-hosted-control-planes" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: InterSystems IRIS operations made easy with Red Hat Insights</title>
+    <updated>2024-09-20T07:00:00Z</updated>
+    <id>771e8bc8-38f9-44c8-8464-561b0edec15c</id>
+    <link href="https://developers.redhat.com/articles/2024/09/20/intersystems-iris-operations-made-easy-red-hat-insights" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -123,13 +123,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.14.4 - Maintenance release</title>
-    <updated>2024-09-14T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-14-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-14-4-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Quarkus 3.14.4 - Maintenance release</title>
     <updated>2024-09-14T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-14-4-released/</id>
@@ -137,10 +130,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus Newsletter #48 - September</title>
-    <updated>2024-09-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-48/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-48/" rel="alternate"></link>
+    <title>Quarkus: Quarkus 3.14.4 - Maintenance release</title>
+    <updated>2024-09-14T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-14-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-14-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -151,10 +144,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.14.3 - Maintenance release, SBOM generation</title>
+    <title>Quarkus: Quarkus Newsletter #48 - September</title>
+    <updated>2024-09-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-48/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-48/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Keycloak Realm Configuration Management Tools Survey Results</title>
     <updated>2024-09-11T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-14-3-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-14-3-released/" rel="alternate"></link>
+    <id>https://www.keycloak.org/2024/09/realm-config-management-tools-survey-results</id>
+    <link href="https://www.keycloak.org/2024/09/realm-config-management-tools-survey-results" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -165,10 +165,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Keycloak Realm Configuration Management Tools Survey Results</title>
+    <title>Quarkus: Quarkus 3.14.3 - Maintenance release, SBOM generation</title>
     <updated>2024-09-11T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/09/realm-config-management-tools-survey-results</id>
-    <link href="https://www.keycloak.org/2024/09/realm-config-management-tools-survey-results" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-14-3-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-14-3-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -193,6 +193,20 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Announcing New Keycloak UI Component Libraries!</title>
+    <updated>2024-09-04T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/09/keycloak-customizable-ui</id>
+    <link href="https://www.keycloak.org/2024/09/keycloak-customizable-ui" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.14.2 - Maintenance release and Micrometer 1.13</title>
+    <updated>2024-09-04T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-14-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-14-2-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Quarkus: Quarkus 3.14.2 - Maintenance release and Micrometer 1.13</title>
     <updated>2024-09-04T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-14-2-released/</id>
@@ -204,20 +218,6 @@
     <updated>2024-09-04T00:00:00Z</updated>
     <id>https://vertx.io/blog/eclipse-vert-x-4-5-10</id>
     <link href="https://vertx.io/blog/eclipse-vert-x-4-5-10" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.14.2 - Maintenance release and Micrometer 1.13</title>
-    <updated>2024-09-04T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-14-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-14-2-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Announcing New Keycloak UI Component Libraries!</title>
-    <updated>2024-09-04T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/09/keycloak-customizable-ui</id>
-    <link href="https://www.keycloak.org/2024/09/keycloak-customizable-ui" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -410,17 +410,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus Newsletter #45 - June</title>
-    <updated>2024-06-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-45/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-45/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Why you should always update to the latest micro versions!</title>
     <updated>2024-06-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/branching-and-versioning/</id>
     <link href="https://quarkus.io/blog/branching-and-versioning/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus Newsletter #45 - June</title>
+    <updated>2024-06-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-45/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-45/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -522,17 +522,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
-    <updated>2024-04-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/</id>
-    <link href="https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.9.4 released - Maintenance release</title>
     <updated>2024-04-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-9-4-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
+    <updated>2024-04-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/</id>
+    <link href="https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -578,17 +578,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
-    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
     <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
