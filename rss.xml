@@ -1,13 +1,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-09-30T06:16:56Z</updated>
+  <updated>2024-09-30T12:23:25Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
-    <title>Red Hat Developer: Enable etcd backups for OpenShift clusters in hybrid cloud environments</title>
-    <updated>2024-09-26T07:00:00Z</updated>
-    <id>f52e8311-5120-4588-9d23-05f297eb6dfc</id>
-    <link href="https://developers.redhat.com/articles/2024/09/26/enable-etcd-backups-openshift-clusters-hybrid-cloud-environments" rel="alternate"></link>
+    <title>Red Hat Developer: How to fine-tune Llama 3.1 with Ray on OpenShift AI</title>
+    <updated>2024-09-30T07:00:00Z</updated>
+    <id>e6c8d47f-c168-44f6-a26b-6bbbfcb06f53</id>
+    <link href="https://developers.redhat.com/articles/2024/09/30/fine-tune-llama-openshift-ai" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How to use RHEL as a WSL Podman machine</title>
+    <updated>2024-09-30T07:00:00Z</updated>
+    <id>3f004468-51dc-48f0-916b-3137703e6a2d</id>
+    <link href="https://developers.redhat.com/articles/2024/09/30/rhel-windows-wsl-podman-machine" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,10 +25,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.15 - new LTS version</title>
-    <updated>2024-09-26T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-15-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-15-1-released/" rel="alternate"></link>
+    <title>Red Hat Developer: Enable etcd backups for OpenShift clusters in hybrid cloud environments</title>
+    <updated>2024-09-26T07:00:00Z</updated>
+    <id>f52e8311-5120-4588-9d23-05f297eb6dfc</id>
+    <link href="https://developers.redhat.com/articles/2024/09/26/enable-etcd-backups-openshift-clusters-hybrid-cloud-environments" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -39,10 +46,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to serve embeddings models on OpenShift AI</title>
-    <updated>2024-09-25T07:00:00Z</updated>
-    <id>0501800d-5de3-48b7-9468-4f0e8ca28123</id>
-    <link href="https://developers.redhat.com/articles/2024/09/25/how-serve-embeddings-models-openshift-ai" rel="alternate"></link>
+    <title>JBoss Blogs: Quarkus 3.15 - new LTS version</title>
+    <updated>2024-09-26T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-15-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-15-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -53,10 +60,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Register allocation in the Go compiler</title>
-    <updated>2024-09-24T07:00:00Z</updated>
-    <id>0156c862-3ea5-498a-982b-bd101815c6ee</id>
-    <link href="https://developers.redhat.com/articles/2024/09/24/go-compiler-register-allocation" rel="alternate"></link>
+    <title>Red Hat Developer: How to serve embeddings models on OpenShift AI</title>
+    <updated>2024-09-25T07:00:00Z</updated>
+    <id>0501800d-5de3-48b7-9468-4f0e8ca28123</id>
+    <link href="https://developers.redhat.com/articles/2024/09/25/how-serve-embeddings-models-openshift-ai" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -67,10 +74,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Making SystemTap instrumentation easier with tapsets</title>
-    <updated>2024-09-23T07:00:00Z</updated>
-    <id>90529cd7-7d2a-41b5-b406-8bd8b851ed25</id>
-    <link href="https://developers.redhat.com/articles/2024/09/23/making-systemtap-instrumentation-easier-tapsets" rel="alternate"></link>
+    <title>Red Hat Developer: Register allocation in the Go compiler</title>
+    <updated>2024-09-24T07:00:00Z</updated>
+    <id>0156c862-3ea5-498a-982b-bd101815c6ee</id>
+    <link href="https://developers.redhat.com/articles/2024/09/24/go-compiler-register-allocation" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -81,24 +88,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Red Hat Developer: Making SystemTap instrumentation easier with tapsets</title>
+    <updated>2024-09-23T07:00:00Z</updated>
+    <id>90529cd7-7d2a-41b5-b406-8bd8b851ed25</id>
+    <link href="https://developers.redhat.com/articles/2024/09/23/making-systemtap-instrumentation-easier-tapsets" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Hacktoberfest 2024</title>
     <updated>2024-09-23T00:00:00Z</updated>
     <id>https://wildfly.org//news/2024/09/23/Hacktoberfest-2024/</id>
     <link href="https://wildfly.org//news/2024/09/23/Hacktoberfest-2024/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: InterSystems IRIS operations made easy with Red Hat Insights</title>
-    <updated>2024-09-20T07:00:00Z</updated>
-    <id>771e8bc8-38f9-44c8-8464-561b0edec15c</id>
-    <link href="https://developers.redhat.com/articles/2024/09/20/intersystems-iris-operations-made-easy-red-hat-insights" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Extending OpenShift Virtualization connectivity options on hosted control planes in AWS</title>
-    <updated>2024-09-20T07:00:00Z</updated>
-    <id>6d99ea3d-01bc-4f3b-963d-4fa58cb0e968</id>
-    <link href="https://developers.redhat.com/articles/2024/09/20/extending-openshift-virtualization-connectivity-options-hosted-control-planes" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -123,13 +123,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.14.4 - Maintenance release</title>
-    <updated>2024-09-14T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-14-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-14-4-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Quarkus 3.14.4 - Maintenance release</title>
     <updated>2024-09-14T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-14-4-released/</id>
@@ -137,10 +130,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus Newsletter #48 - September</title>
-    <updated>2024-09-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-48/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-48/" rel="alternate"></link>
+    <title>Quarkus: Quarkus 3.14.4 - Maintenance release</title>
+    <updated>2024-09-14T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-14-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-14-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -151,10 +144,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.14.3 - Maintenance release, SBOM generation</title>
+    <title>Quarkus: Quarkus Newsletter #48 - September</title>
+    <updated>2024-09-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-48/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-48/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Keycloak Realm Configuration Management Tools Survey Results</title>
     <updated>2024-09-11T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-14-3-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-14-3-released/" rel="alternate"></link>
+    <id>https://www.keycloak.org/2024/09/realm-config-management-tools-survey-results</id>
+    <link href="https://www.keycloak.org/2024/09/realm-config-management-tools-survey-results" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -165,10 +165,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Keycloak Realm Configuration Management Tools Survey Results</title>
+    <title>Quarkus: Quarkus 3.14.3 - Maintenance release, SBOM generation</title>
     <updated>2024-09-11T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/09/realm-config-management-tools-survey-results</id>
-    <link href="https://www.keycloak.org/2024/09/realm-config-management-tools-survey-results" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-14-3-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-14-3-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -193,10 +193,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.14.2 - Maintenance release and Micrometer 1.13</title>
+    <title>JBoss Blogs: Announcing New Keycloak UI Component Libraries!</title>
     <updated>2024-09-04T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-14-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-14-2-released/" rel="alternate"></link>
+    <id>https://www.keycloak.org/2024/09/keycloak-customizable-ui</id>
+    <link href="https://www.keycloak.org/2024/09/keycloak-customizable-ui" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -214,10 +214,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Announcing New Keycloak UI Component Libraries!</title>
+    <title>Quarkus: Quarkus 3.14.2 - Maintenance release and Micrometer 1.13</title>
     <updated>2024-09-04T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/09/keycloak-customizable-ui</id>
-    <link href="https://www.keycloak.org/2024/09/keycloak-customizable-ui" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-14-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-14-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -270,17 +270,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Revolutionising Telecom Microservice - Modernising JDiameter with Quarkus</title>
-    <updated>2024-08-19T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-jdiameter-intro/</id>
-    <link href="https://quarkus.io/blog/quarkus-jdiameter-intro/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Leveraging Quarkus build-time metaprogramming capabilities to improve Jackson's serialization performance</title>
     <updated>2024-08-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-metaprogramming/</id>
     <link href="https://quarkus.io/blog/quarkus-metaprogramming/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Revolutionising Telecom Microservice - Modernising JDiameter with Quarkus</title>
+    <updated>2024-08-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-jdiameter-intro/</id>
+    <link href="https://quarkus.io/blog/quarkus-jdiameter-intro/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -396,13 +396,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Crafting a Local RAG application with Quarkus</title>
-    <updated>2024-06-13T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/granite-rag/</id>
-    <link href="https://quarkus.io/blog/granite-rag/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.29.1.Final for Eclipse 2023-09</title>
     <updated>2024-06-13T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.29.1.final.html</id>
@@ -410,10 +403,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus Newsletter #45 - June</title>
-    <updated>2024-06-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-45/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-45/" rel="alternate"></link>
+    <title>Quarkus: Crafting a Local RAG application with Quarkus</title>
+    <updated>2024-06-13T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/granite-rag/</id>
+    <link href="https://quarkus.io/blog/granite-rag/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -421,6 +414,13 @@
     <updated>2024-06-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/branching-and-versioning/</id>
     <link href="https://quarkus.io/blog/branching-and-versioning/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus Newsletter #45 - June</title>
+    <updated>2024-06-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-45/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-45/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -522,17 +522,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
-    <updated>2024-04-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/</id>
-    <link href="https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.9.4 released - Maintenance release</title>
     <updated>2024-04-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-9-4-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
+    <updated>2024-04-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/</id>
+    <link href="https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
