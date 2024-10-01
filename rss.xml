@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-10-01T12:21:55Z</updated>
+  <updated>2024-10-01T18:15:05Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: Build container images in OpenShift using Podman as a GitLab runner</title>
@@ -18,13 +18,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to fine-tune Llama 3.1 with Ray on OpenShift AI</title>
-    <updated>2024-09-30T07:00:00Z</updated>
-    <id>e6c8d47f-c168-44f6-a26b-6bbbfcb06f53</id>
-    <link href="https://developers.redhat.com/articles/2024/09/30/fine-tune-llama-openshift-ai" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: How to use RHEL as a WSL Podman machine</title>
     <updated>2024-09-30T07:00:00Z</updated>
     <id>3f004468-51dc-48f0-916b-3137703e6a2d</id>
@@ -32,10 +25,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Harness the power of serverless containers in hybrid scenarios</title>
-    <updated>2024-09-26T07:00:00Z</updated>
-    <id>7758047b-1c32-45ea-987a-c49de21aed1e</id>
-    <link href="https://developers.redhat.com/articles/2024/09/26/harness-power-serverless-containers-hybrid-scenarios" rel="alternate"></link>
+    <title>Red Hat Developer: How to fine-tune Llama 3.1 with Ray on OpenShift AI</title>
+    <updated>2024-09-30T07:00:00Z</updated>
+    <id>e6c8d47f-c168-44f6-a26b-6bbbfcb06f53</id>
+    <link href="https://developers.redhat.com/articles/2024/09/30/fine-tune-llama-openshift-ai" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -46,10 +39,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.15 - new LTS version</title>
-    <updated>2024-09-26T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-15-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-15-1-released/" rel="alternate"></link>
+    <title>Red Hat Developer: Harness the power of serverless containers in hybrid scenarios</title>
+    <updated>2024-09-26T07:00:00Z</updated>
+    <id>7758047b-1c32-45ea-987a-c49de21aed1e</id>
+    <link href="https://developers.redhat.com/articles/2024/09/26/harness-power-serverless-containers-hybrid-scenarios" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -57,6 +50,13 @@
     <updated>2024-09-26T00:00:00Z</updated>
     <id>https://wildfly.org//news/2024/09/26/WildFly34Beta-released/</id>
     <link href="https://wildfly.org//news/2024/09/26/WildFly34Beta-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.15 - new LTS version</title>
+    <updated>2024-09-26T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-15-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-15-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -81,17 +81,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: bootc: Getting started with bootable containers</title>
-    <updated>2024-09-24T07:00:00Z</updated>
-    <id>67a9d674-6296-40b8-bba7-a06b1afa34ee</id>
-    <link href="https://developers.redhat.com/articles/2024/09/24/bootc-getting-started-bootable-containers" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Register allocation in the Go compiler</title>
     <updated>2024-09-24T07:00:00Z</updated>
     <id>0156c862-3ea5-498a-982b-bd101815c6ee</id>
     <link href="https://developers.redhat.com/articles/2024/09/24/go-compiler-register-allocation" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: bootc: Getting started with bootable containers</title>
+    <updated>2024-09-24T07:00:00Z</updated>
+    <id>67a9d674-6296-40b8-bba7-a06b1afa34ee</id>
+    <link href="https://developers.redhat.com/articles/2024/09/24/bootc-getting-started-bootable-containers" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -144,13 +144,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus Newsletter #48 - September</title>
-    <updated>2024-09-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-48/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-48/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Quarkus Newsletter #48 - September</title>
     <updated>2024-09-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-48/</id>
@@ -158,10 +151,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.14.3 - Maintenance release, SBOM generation</title>
-    <updated>2024-09-11T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-14-3-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-14-3-released/" rel="alternate"></link>
+    <title>Quarkus: Quarkus Newsletter #48 - September</title>
+    <updated>2024-09-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-48/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-48/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -176,6 +169,13 @@
     <updated>2024-09-11T00:00:00Z</updated>
     <id>https://www.keycloak.org/2024/09/realm-config-management-tools-survey-results</id>
     <link href="https://www.keycloak.org/2024/09/realm-config-management-tools-survey-results" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.14.3 - Maintenance release, SBOM generation</title>
+    <updated>2024-09-11T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-14-3-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-14-3-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -200,6 +200,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Quarkus 3.14.2 - Maintenance release and Micrometer 1.13</title>
+    <updated>2024-09-04T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-14-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-14-2-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Quarkus 3.14.2 - Maintenance release and Micrometer 1.13</title>
     <updated>2024-09-04T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-14-2-released/</id>
@@ -218,13 +225,6 @@
     <updated>2024-09-04T00:00:00Z</updated>
     <id>https://www.keycloak.org/2024/09/keycloak-customizable-ui</id>
     <link href="https://www.keycloak.org/2024/09/keycloak-customizable-ui" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.14.2 - Maintenance release and Micrometer 1.13</title>
-    <updated>2024-09-04T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-14-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-14-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -284,17 +284,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus Newsletter #47 - August</title>
-    <updated>2024-08-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-47/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-47/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.13.2 released - Maintenance release</title>
     <updated>2024-08-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-13-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-13-2-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus Newsletter #47 - August</title>
+    <updated>2024-08-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-47/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-47/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -438,17 +438,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.8.5 released - Maintenance release</title>
-    <updated>2024-06-05T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-8-5-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-8-5-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.11.1 released - Maintenance release</title>
     <updated>2024-06-05T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-11-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-11-1-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.8.5 released - Maintenance release</title>
+    <updated>2024-06-05T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-8-5-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-8-5-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -473,17 +473,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.10.1 released - Maintenance release</title>
-    <updated>2024-05-15T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-10-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-10-1-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus Newsletter #44 - May</title>
     <updated>2024-05-15T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-44/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-44/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.10.1 released - Maintenance release</title>
+    <updated>2024-05-15T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-10-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-10-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -536,17 +536,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
-    <updated>2024-04-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-2-12-final-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.8.4 released - Maintenance release</title>
     <updated>2024-04-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
+    <updated>2024-04-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-2-12-final-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -1425,17 +1425,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools and Red Hat Developer Studio for Eclipse Photon</title>
-    <updated>2018-07-17T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/12.0.0.ga-for-photon.html</id>
-    <link href="https://tools.jboss.org/blog/12.0.0.ga-for-photon.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: RHAMT Eclipse Plugin 4.1.0.Final has been released!</title>
     <updated>2018-07-17T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html</id>
     <link href="https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat Developer Studio for Eclipse Photon</title>
+    <updated>2018-07-17T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.0.0.ga-for-photon.html</id>
+    <link href="https://tools.jboss.org/blog/12.0.0.ga-for-photon.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
