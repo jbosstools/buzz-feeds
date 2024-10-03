@@ -1,8 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-10-03T06:16:11Z</updated>
+  <updated>2024-10-03T12:21:17Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: Craft and deploy custom RHEL images for the cloud</title>
+    <updated>2024-10-03T07:00:00Z</updated>
+    <id>a6b5bb09-c006-4c6d-8348-855cc8be2308</id>
+    <link href="https://developers.redhat.com/articles/2024/10/03/deploy-custom-rhel-images-cloud" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How incident detection simplifies OpenShift observability</title>
+    <updated>2024-10-03T07:00:00Z</updated>
+    <id>911e3264-b266-43de-a115-2347100df321</id>
+    <link href="https://developers.redhat.com/articles/2024/10/03/how-incident-detection-simplifies-openshift-observability" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Red Hat Developer: How to migrate your Eventlet projects to Asyncio</title>
     <updated>2024-10-02T07:00:00Z</updated>
@@ -74,13 +88,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to serve embeddings models on OpenShift AI</title>
-    <updated>2024-09-25T07:00:00Z</updated>
-    <id>0501800d-5de3-48b7-9468-4f0e8ca28123</id>
-    <link href="https://developers.redhat.com/articles/2024/09/25/how-serve-embeddings-models-openshift-ai" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Why internal developer portals matter</title>
     <updated>2024-09-25T07:00:00Z</updated>
     <id>00e196e9-c39b-4071-844d-e33f1044496f</id>
@@ -88,17 +95,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: bootc: Getting started with bootable containers</title>
-    <updated>2024-09-24T07:00:00Z</updated>
-    <id>67a9d674-6296-40b8-bba7-a06b1afa34ee</id>
-    <link href="https://developers.redhat.com/articles/2024/09/24/bootc-getting-started-bootable-containers" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Register allocation in the Go compiler</title>
-    <updated>2024-09-24T07:00:00Z</updated>
-    <id>0156c862-3ea5-498a-982b-bd101815c6ee</id>
-    <link href="https://developers.redhat.com/articles/2024/09/24/go-compiler-register-allocation" rel="alternate"></link>
+    <title>Red Hat Developer: How to serve embeddings models on OpenShift AI</title>
+    <updated>2024-09-25T07:00:00Z</updated>
+    <id>0501800d-5de3-48b7-9468-4f0e8ca28123</id>
+    <link href="https://developers.redhat.com/articles/2024/09/25/how-serve-embeddings-models-openshift-ai" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
