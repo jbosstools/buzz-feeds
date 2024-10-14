@@ -1,13 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-10-14T06:16:59Z</updated>
+  <updated>2024-10-14T12:21:41Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
-    <title>Red Hat Developer: Get started with the Keycloak Collection</title>
-    <updated>2024-10-10T07:00:00Z</updated>
-    <id>f2ac0783-0cc0-469d-9e86-1d61aebac701</id>
-    <link href="https://developers.redhat.com/articles/2024/10/10/get-started-keycloak-collection" rel="alternate"></link>
+    <title>Red Hat Developer: How oc-mirror version 2 enables disconnected installations in OpenShift 4.16</title>
+    <updated>2024-10-14T07:00:00Z</updated>
+    <id>09c59a53-052d-4e66-8dac-8c244fa1925a</id>
+    <link href="https://developers.redhat.com/articles/2024/10/14/how-oc-mirror-version-2-enables-disconnected-installations-openshift-416" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -15,6 +15,13 @@
     <updated>2024-10-10T07:00:00Z</updated>
     <id>c07994ed-fd7f-48a8-b8ce-b8e2b2e05669</id>
     <link href="https://developers.redhat.com/articles/2024/10/10/storage-data-protection-openshift-virtualization" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Get started with the Keycloak Collection</title>
+    <updated>2024-10-10T07:00:00Z</updated>
+    <id>f2ac0783-0cc0-469d-9e86-1d61aebac701</id>
+    <link href="https://developers.redhat.com/articles/2024/10/10/get-started-keycloak-collection" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -46,17 +53,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Generative AI large language model prompt patterns: Tips for developers</title>
-    <updated>2024-10-08T07:00:00Z</updated>
-    <id>bf287312-033a-4a65-81a7-13e665dac009</id>
-    <link href="https://developers.redhat.com/articles/2024/10/08/ai-llm-prompt-patterns-developers" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: How to use AMD GPUs for model serving in OpenShift AI</title>
     <updated>2024-10-08T07:00:00Z</updated>
     <id>dccd80d1-5c08-47c8-a8ce-2fd281374aec</id>
     <link href="https://developers.redhat.com/articles/2024/10/08/amd-gpus-model-serving-openshift" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Generative AI large language model prompt patterns: Tips for developers</title>
+    <updated>2024-10-08T07:00:00Z</updated>
+    <id>bf287312-033a-4a65-81a7-13e665dac009</id>
+    <link href="https://developers.redhat.com/articles/2024/10/08/ai-llm-prompt-patterns-developers" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -67,17 +74,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Deploy a coding copilot model with OpenShift AI</title>
-    <updated>2024-10-07T07:00:00Z</updated>
-    <id>0dd1d19e-230f-4109-8895-d3b2838da570</id>
-    <link href="https://developers.redhat.com/articles/2024/10/07/deploy-coding-copilot-model-openshift-ai" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Manage MicroShift with Red Hat Advanced Cluster Management and OpenShift GitOps</title>
     <updated>2024-10-07T07:00:00Z</updated>
     <id>6fcd9065-84f7-49f6-9da1-952845668fe9</id>
     <link href="https://developers.redhat.com/articles/2024/10/07/manage-microshift-red-hat-advanced-cluster-management-and-openshift-gitops" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Deploy a coding copilot model with OpenShift AI</title>
+    <updated>2024-10-07T07:00:00Z</updated>
+    <id>0dd1d19e-230f-4109-8895-d3b2838da570</id>
+    <link href="https://developers.redhat.com/articles/2024/10/07/deploy-coding-copilot-model-openshift-ai" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -102,10 +109,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Tutorial: Tool up your LLM with Apache Camel on OpenShift</title>
-    <updated>2024-10-04T07:00:00Z</updated>
-    <id>e2c4258f-54f7-4cf2-9ff2-79055589f400</id>
-    <link href="https://developers.redhat.com/articles/2024/10/04/tutorial-tool-your-llm-apache-camel-openshift" rel="alternate"></link>
+    <title>JBoss Blogs: Keycloak 26.0.0 released</title>
+    <updated>2024-10-04T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/10/keycloak-2600-released</id>
+    <link href="https://www.keycloak.org/2024/10/keycloak-2600-released" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -113,13 +120,6 @@
     <updated>2024-10-04T00:00:00Z</updated>
     <id>https://wildfly.org//news/2024/10/04/debug-with-maven-wildfly-plugin/</id>
     <link href="https://wildfly.org//news/2024/10/04/debug-with-maven-wildfly-plugin/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Keycloak 26.0.0 released</title>
-    <updated>2024-10-04T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/10/keycloak-2600-released</id>
-    <link href="https://www.keycloak.org/2024/10/keycloak-2600-released" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -144,6 +144,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Quarkus 3.15 - new LTS version</title>
+    <updated>2024-09-26T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-15-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-15-1-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: WildFly 34 Beta is released!</title>
     <updated>2024-09-26T00:00:00Z</updated>
     <id>https://wildfly.org//news/2024/09/26/WildFly34Beta-released/</id>
@@ -152,13 +159,6 @@
   </entry>
   <entry>
     <title>Quarkus: Quarkus 3.15 - new LTS version</title>
-    <updated>2024-09-26T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-15-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-15-1-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.15 - new LTS version</title>
     <updated>2024-09-26T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-15-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-15-1-released/" rel="alternate"></link>
