@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-10-16T12:21:34Z</updated>
+  <updated>2024-10-16T18:15:21Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: Get started with the JBoss Web Server collection</title>
@@ -25,17 +25,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Get started with the Keycloak Collection</title>
-    <updated>2024-10-10T07:00:00Z</updated>
-    <id>f2ac0783-0cc0-469d-9e86-1d61aebac701</id>
-    <link href="https://developers.redhat.com/articles/2024/10/10/get-started-keycloak-collection" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Storage and data protection for OpenShift Virtualization</title>
     <updated>2024-10-10T07:00:00Z</updated>
     <id>c07994ed-fd7f-48a8-b8ce-b8e2b2e05669</id>
     <link href="https://developers.redhat.com/articles/2024/10/10/storage-data-protection-openshift-virtualization" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Get started with the Keycloak Collection</title>
+    <updated>2024-10-10T07:00:00Z</updated>
+    <id>f2ac0783-0cc0-469d-9e86-1d61aebac701</id>
+    <link href="https://developers.redhat.com/articles/2024/10/10/get-started-keycloak-collection" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -109,17 +109,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Keycloak 26.0.0 released</title>
-    <updated>2024-10-04T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/10/keycloak-2600-released</id>
-    <link href="https://www.keycloak.org/2024/10/keycloak-2600-released" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Debug a provisioned WildFly server with the help of wildfly-maven-plugin</title>
     <updated>2024-10-04T00:00:00Z</updated>
     <id>https://wildfly.org//news/2024/10/04/debug-with-maven-wildfly-plugin/</id>
     <link href="https://wildfly.org//news/2024/10/04/debug-with-maven-wildfly-plugin/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Keycloak 26.0.0 released</title>
+    <updated>2024-10-04T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/10/keycloak-2600-released</id>
+    <link href="https://www.keycloak.org/2024/10/keycloak-2600-released" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -207,6 +207,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Quarkus Newsletter #48 - September</title>
+    <updated>2024-09-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-48/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-48/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Quarkus: Quarkus Newsletter #48 - September</title>
     <updated>2024-09-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-48/</id>
@@ -214,10 +221,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus Newsletter #48 - September</title>
-    <updated>2024-09-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-48/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-48/" rel="alternate"></link>
+    <title>JBoss Blogs: Keycloak Realm Configuration Management Tools Survey Results</title>
+    <updated>2024-09-11T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/09/realm-config-management-tools-survey-results</id>
+    <link href="https://www.keycloak.org/2024/09/realm-config-management-tools-survey-results" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -232,13 +239,6 @@
     <updated>2024-09-11T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-14-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-14-3-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Keycloak Realm Configuration Management Tools Survey Results</title>
-    <updated>2024-09-11T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/09/realm-config-management-tools-survey-results</id>
-    <link href="https://www.keycloak.org/2024/09/realm-config-management-tools-survey-results" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -410,17 +410,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Why you should always update to the latest micro versions!</title>
-    <updated>2024-06-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/branching-and-versioning/</id>
-    <link href="https://quarkus.io/blog/branching-and-versioning/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus Newsletter #45 - June</title>
     <updated>2024-06-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-45/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-45/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Why you should always update to the latest micro versions!</title>
+    <updated>2024-06-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/branching-and-versioning/</id>
+    <link href="https://quarkus.io/blog/branching-and-versioning/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -438,17 +438,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.11.1 released - Maintenance release</title>
-    <updated>2024-06-05T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-11-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-11-1-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.8.5 released - Maintenance release</title>
     <updated>2024-06-05T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-8-5-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-8-5-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.11.1 released - Maintenance release</title>
+    <updated>2024-06-05T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-11-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-11-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -578,17 +578,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
     <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
