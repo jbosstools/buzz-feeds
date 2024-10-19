@@ -1,27 +1,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-10-18T18:14:54Z</updated>
+  <updated>2024-10-19T00:53:48Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>JBoss Blogs: Connecting to Redis from a Jakarta EE application</title>
+    <updated>2024-10-18T17:28:27Z</updated>
+    <id>https://www.mastertheboss.com/java-ee/jakarta-ee/connecting-to-redis-from-a-jakarta-ee-application/</id>
+    <link href="https://www.mastertheboss.com/java-ee/jakarta-ee/connecting-to-redis-from-a-jakarta-ee-application/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Red Hat Developer: Efficient autoscaling in OpenShift with Priority and LeastWaste expanders</title>
     <updated>2024-10-17T07:00:00Z</updated>
     <id>24f3f3f9-a47b-4e84-94ed-6fc50b56ab83</id>
     <link href="https://developers.redhat.com/articles/2024/10/17/efficient-autoscaling-openshift-priority-and-leastwaste-expanders" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus Newsletter #49 - October</title>
-    <updated>2024-10-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-49/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-49/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus Newsletter #49 - October</title>
-    <updated>2024-10-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-49/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-49/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -32,10 +25,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: WildFly 34 is released!</title>
+    <title>Quarkus: Quarkus Newsletter #49 - October</title>
     <updated>2024-10-17T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/10/17/WildFly34-Released/</id>
-    <link href="https://wildfly.org//news/2024/10/17/WildFly34-Released/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-newsletter-49/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-49/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -46,10 +39,24 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Quarkus Newsletter #49 - October</title>
+    <updated>2024-10-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-49/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-49/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Keycloak 26.0.1 released</title>
     <updated>2024-10-17T00:00:00Z</updated>
     <id>https://www.keycloak.org/2024/10/keycloak-2601-released</id>
     <link href="https://www.keycloak.org/2024/10/keycloak-2601-released" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: WildFly 34 is released!</title>
+    <updated>2024-10-17T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2024/10/17/WildFly34-Released/</id>
+    <link href="https://wildfly.org//news/2024/10/17/WildFly34-Released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -74,17 +81,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Storage and data protection for OpenShift Virtualization</title>
-    <updated>2024-10-10T07:00:00Z</updated>
-    <id>c07994ed-fd7f-48a8-b8ce-b8e2b2e05669</id>
-    <link href="https://developers.redhat.com/articles/2024/10/10/storage-data-protection-openshift-virtualization" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Get started with the Keycloak Collection</title>
     <updated>2024-10-10T07:00:00Z</updated>
     <id>f2ac0783-0cc0-469d-9e86-1d61aebac701</id>
     <link href="https://developers.redhat.com/articles/2024/10/10/get-started-keycloak-collection" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Storage and data protection for OpenShift Virtualization</title>
+    <updated>2024-10-10T07:00:00Z</updated>
+    <id>c07994ed-fd7f-48a8-b8ce-b8e2b2e05669</id>
+    <link href="https://developers.redhat.com/articles/2024/10/10/storage-data-protection-openshift-virtualization" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -186,17 +193,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.15 - new LTS version</title>
-    <updated>2024-09-26T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-15-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-15-1-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: WildFly 34 Beta is released!</title>
     <updated>2024-09-26T00:00:00Z</updated>
     <id>https://wildfly.org//news/2024/09/26/WildFly34Beta-released/</id>
     <link href="https://wildfly.org//news/2024/09/26/WildFly34Beta-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.15 - new LTS version</title>
+    <updated>2024-09-26T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-15-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-15-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -225,13 +232,6 @@
     <updated>2024-09-17T00:00:00Z</updated>
     <id>https://wildfly.org//news/2024/09/17/WildFly3302-Released/</id>
     <link href="https://wildfly.org//news/2024/09/17/WildFly3302-Released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Using the Expansion Operator with WildFly CLI</title>
-    <updated>2024-09-15T21:10:07Z</updated>
-    <id>https://www.mastertheboss.com/jbossas/jboss-script/using-the-expansion-operator-with-wildfly-cli/</id>
-    <link href="https://www.mastertheboss.com/jbossas/jboss-script/using-the-expansion-operator-with-wildfly-cli/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
