@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-10-27T06:15:18Z</updated>
+  <updated>2024-10-27T12:19:40Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: Keycloak DevDay 2025 Pre-Conf Event Announcement</title>
@@ -46,17 +46,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: A new constant expression interpreter for Clang</title>
-    <updated>2024-10-21T07:00:00Z</updated>
-    <id>74345a46-836b-455f-af99-6f1deac2692a</id>
-    <link href="https://developers.redhat.com/articles/2024/10/21/new-constant-expression-interpreter-clang" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: A new constant expression interpreter for Clang, Part 2</title>
     <updated>2024-10-21T07:00:00Z</updated>
     <id>e7ba1f63-a9dc-4adc-9402-60943abd42f3</id>
     <link href="https://developers.redhat.com/articles/2024/10/21/new-constant-expression-interpreter-clang-part-2" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: A new constant expression interpreter for Clang</title>
+    <updated>2024-10-21T07:00:00Z</updated>
+    <id>74345a46-836b-455f-af99-6f1deac2692a</id>
+    <link href="https://developers.redhat.com/articles/2024/10/21/new-constant-expression-interpreter-clang" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -81,6 +81,20 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Strengthening the Release Process for Quarkiverse and SmallRye</title>
+    <updated>2024-10-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/</id>
+    <link href="https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Keycloak 26.0.1 released</title>
+    <updated>2024-10-17T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/10/keycloak-2601-released</id>
+    <link href="https://www.keycloak.org/2024/10/keycloak-2601-released" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Quarkus Newsletter #49 - October</title>
     <updated>2024-10-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-49/</id>
@@ -95,24 +109,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Keycloak 26.0.1 released</title>
-    <updated>2024-10-17T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/10/keycloak-2601-released</id>
-    <link href="https://www.keycloak.org/2024/10/keycloak-2601-released" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: WildFly 34 is released!</title>
     <updated>2024-10-17T00:00:00Z</updated>
     <id>https://wildfly.org//news/2024/10/17/WildFly34-Released/</id>
     <link href="https://wildfly.org//news/2024/10/17/WildFly34-Released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Strengthening the Release Process for Quarkiverse and SmallRye</title>
-    <updated>2024-10-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/</id>
-    <link href="https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -172,17 +172,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Debug a provisioned WildFly server with the help of wildfly-maven-plugin</title>
-    <updated>2024-10-04T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/10/04/debug-with-maven-wildfly-plugin/</id>
-    <link href="https://wildfly.org//news/2024/10/04/debug-with-maven-wildfly-plugin/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Keycloak 26.0.0 released</title>
     <updated>2024-10-04T00:00:00Z</updated>
     <id>https://www.keycloak.org/2024/10/keycloak-2600-released</id>
     <link href="https://www.keycloak.org/2024/10/keycloak-2600-released" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Debug a provisioned WildFly server with the help of wildfly-maven-plugin</title>
+    <updated>2024-10-04T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2024/10/04/debug-with-maven-wildfly-plugin/</id>
+    <link href="https://wildfly.org//news/2024/10/04/debug-with-maven-wildfly-plugin/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -214,17 +214,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: WildFly 34 Beta is released!</title>
-    <updated>2024-09-26T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/09/26/WildFly34Beta-released/</id>
-    <link href="https://wildfly.org//news/2024/09/26/WildFly34Beta-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Quarkus 3.15 - new LTS version</title>
     <updated>2024-09-26T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-15-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-15-1-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: WildFly 34 Beta is released!</title>
+    <updated>2024-09-26T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2024/09/26/WildFly34Beta-released/</id>
+    <link href="https://wildfly.org//news/2024/09/26/WildFly34Beta-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -424,17 +424,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus Newsletter #45 - June</title>
-    <updated>2024-06-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-45/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-45/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Why you should always update to the latest micro versions!</title>
     <updated>2024-06-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/branching-and-versioning/</id>
     <link href="https://quarkus.io/blog/branching-and-versioning/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus Newsletter #45 - June</title>
+    <updated>2024-06-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-45/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-45/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -487,17 +487,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.10.1 released - Maintenance release</title>
-    <updated>2024-05-15T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-10-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-10-1-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus Newsletter #44 - May</title>
     <updated>2024-05-15T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-44/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-44/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.10.1 released - Maintenance release</title>
+    <updated>2024-05-15T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-10-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-10-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -550,17 +550,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.8.4 released - Maintenance release</title>
-    <updated>2024-04-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
     <updated>2024-04-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-2-12-final-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.8.4 released - Maintenance release</title>
+    <updated>2024-04-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -1425,17 +1425,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools and Red Hat Developer Studio for Eclipse Photon</title>
-    <updated>2018-07-17T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/12.0.0.ga-for-photon.html</id>
-    <link href="https://tools.jboss.org/blog/12.0.0.ga-for-photon.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: RHAMT Eclipse Plugin 4.1.0.Final has been released!</title>
     <updated>2018-07-17T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html</id>
     <link href="https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat Developer Studio for Eclipse Photon</title>
+    <updated>2018-07-17T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.0.0.ga-for-photon.html</id>
+    <link href="https://tools.jboss.org/blog/12.0.0.ga-for-photon.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
