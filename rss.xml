@@ -1,13 +1,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-10-31T06:16:13Z</updated>
+  <updated>2024-10-31T12:21:29Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: Tutorial: Implement custom policies in 3scale API Management</title>
+    <updated>2024-10-31T07:00:00Z</updated>
+    <id>68d8b553-a7e4-476b-8b87-1faa254d4aec</id>
+    <link href="https://developers.redhat.com/articles/2024/10/31/tutorial-implement-custom-policies-3scale-api-management" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Red Hat Developer: Limitations of frame pointer unwinding</title>
     <updated>2024-10-30T07:00:00Z</updated>
     <id>941f4786-3f78-4e17-87a0-52476b2c05a3</id>
     <link href="https://developers.redhat.com/articles/2024/10/30/limitations-frame-pointer-unwinding" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.16 - OpenTelemetry Logging, LGTM Quarkus dashboard and too many things to list here</title>
+    <updated>2024-10-30T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-16-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-16-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -22,13 +36,6 @@
     <updated>2024-10-30T00:00:00Z</updated>
     <id>https://www.keycloak.org/2024/10/keycloak-2604-released</id>
     <link href="https://www.keycloak.org/2024/10/keycloak-2604-released" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.16 - OpenTelemetry Logging, LGTM Quarkus dashboard and too many things to list here</title>
-    <updated>2024-10-30T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-16-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-16-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -67,17 +74,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Preparing Valgrind Memcheck for x86-64-v3</title>
-    <updated>2024-10-24T07:00:00Z</updated>
-    <id>25429493-c3fc-4df6-a15f-541229051516</id>
-    <link href="https://developers.redhat.com/articles/2024/10/24/preparing-valgrind-memcheck-x86-64-v3" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Automate Red Hat OpenShift on Alibaba Cloud</title>
     <updated>2024-10-24T07:00:00Z</updated>
     <id>65ddda43-f0f2-4e85-9e1b-83552dc5efe1</id>
     <link href="https://developers.redhat.com/articles/2024/10/24/automate-red-hat-openshift-alibaba-cloud" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Preparing Valgrind Memcheck for x86-64-v3</title>
+    <updated>2024-10-24T07:00:00Z</updated>
+    <id>25429493-c3fc-4df6-a15f-541229051516</id>
+    <link href="https://developers.redhat.com/articles/2024/10/24/preparing-valgrind-memcheck-x86-64-v3" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -113,13 +120,6 @@
     <updated>2024-10-21T07:00:00Z</updated>
     <id>74345a46-836b-455f-af99-6f1deac2692a</id>
     <link href="https://developers.redhat.com/articles/2024/10/21/new-constant-expression-interpreter-clang" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Red Hat publishes Docker Hub Images for Granite-7B LLM and InstructLab</title>
-    <updated>2024-10-21T07:00:00Z</updated>
-    <id>04f364f8-8aa8-4b9f-9612-8d849faf8da7</id>
-    <link href="https://developers.redhat.com/articles/2024/10/21/red-hat-publishes-docker-hub-images-granite-7b-llm-and-instructlab" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
