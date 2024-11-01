@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-11-01T12:20:59Z</updated>
+  <updated>2024-11-01T18:15:09Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: Keycloak 26.0.5 released</title>
@@ -25,7 +25,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.16 - OpenTelemetry Logging, LGTM Quarkus dashboard and too many things to list here</title>
+    <title>JBoss Blogs: Quarkus 3.16 - OpenTelemetry Logging, LGTM Quarkus dashboard and too many things to list here</title>
     <updated>2024-10-30T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-16-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-16-1-released/" rel="alternate"></link>
@@ -39,7 +39,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.16 - OpenTelemetry Logging, LGTM Quarkus dashboard and too many things to list here</title>
+    <title>Quarkus: Quarkus 3.16 - OpenTelemetry Logging, LGTM Quarkus dashboard and too many things to list here</title>
     <updated>2024-10-30T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-16-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-16-1-released/" rel="alternate"></link>
@@ -60,17 +60,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: WildFly 35 moves to SE 17, drops SE 11</title>
-    <updated>2024-10-28T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/10/28/WildFly-moves-to-SE-17/</id>
-    <link href="https://wildfly.org//news/2024/10/28/WildFly-moves-to-SE-17/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Save the Date: WildFly Mini Conference on Nov 20th</title>
     <updated>2024-10-28T00:00:00Z</updated>
     <id>https://wildfly.org//news/2024/10/28/WildFly-mini-conference-save-the-date/</id>
     <link href="https://wildfly.org//news/2024/10/28/WildFly-mini-conference-save-the-date/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: WildFly 35 moves to SE 17, drops SE 11</title>
+    <updated>2024-10-28T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2024/10/28/WildFly-moves-to-SE-17/</id>
+    <link href="https://wildfly.org//news/2024/10/28/WildFly-moves-to-SE-17/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -88,17 +88,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Preparing Valgrind Memcheck for x86-64-v3</title>
-    <updated>2024-10-24T07:00:00Z</updated>
-    <id>25429493-c3fc-4df6-a15f-541229051516</id>
-    <link href="https://developers.redhat.com/articles/2024/10/24/preparing-valgrind-memcheck-x86-64-v3" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Automate Red Hat OpenShift on Alibaba Cloud</title>
     <updated>2024-10-24T07:00:00Z</updated>
     <id>65ddda43-f0f2-4e85-9e1b-83552dc5efe1</id>
     <link href="https://developers.redhat.com/articles/2024/10/24/automate-red-hat-openshift-alibaba-cloud" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Preparing Valgrind Memcheck for x86-64-v3</title>
+    <updated>2024-10-24T07:00:00Z</updated>
+    <id>25429493-c3fc-4df6-a15f-541229051516</id>
+    <link href="https://developers.redhat.com/articles/2024/10/24/preparing-valgrind-memcheck-x86-64-v3" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -137,13 +137,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: WildFly 34 is released!</title>
-    <updated>2024-10-17T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/10/17/WildFly34-Released/</id>
-    <link href="https://wildfly.org//news/2024/10/17/WildFly34-Released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Strengthening the Release Process for Quarkiverse and SmallRye</title>
     <updated>2024-10-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/</id>
@@ -179,10 +172,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Meet Keycloak at KubeCon Salt Lake City, Utah in Nov 2024</title>
-    <updated>2024-10-10T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/10/keycloak-kubeconf24-na-slc-announcement</id>
-    <link href="https://www.keycloak.org/2024/10/keycloak-kubeconf24-na-slc-announcement" rel="alternate"></link>
+    <title>JBoss Blogs: WildFly 34 is released!</title>
+    <updated>2024-10-17T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2024/10/17/WildFly34-Released/</id>
+    <link href="https://wildfly.org//news/2024/10/17/WildFly34-Released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -190,6 +183,13 @@
     <updated>2024-10-10T00:00:00Z</updated>
     <id>https://wildfly.org//news/2024/10/10/jakarta-data/</id>
     <link href="https://wildfly.org//news/2024/10/10/jakarta-data/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Meet Keycloak at KubeCon Salt Lake City, Utah in Nov 2024</title>
+    <updated>2024-10-10T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/10/keycloak-kubeconf24-na-slc-announcement</id>
+    <link href="https://www.keycloak.org/2024/10/keycloak-kubeconf24-na-slc-announcement" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -494,17 +494,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus Newsletter #44 - May</title>
-    <updated>2024-05-15T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-44/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-44/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.10.1 released - Maintenance release</title>
     <updated>2024-05-15T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-10-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-10-1-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus Newsletter #44 - May</title>
+    <updated>2024-05-15T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-44/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-44/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -543,13 +543,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
-    <updated>2024-04-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/</id>
-    <link href="https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.9.4 released - Maintenance release</title>
     <updated>2024-04-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-4-released/</id>
@@ -557,10 +550,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
-    <updated>2024-04-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-2-12-final-released/" rel="alternate"></link>
+    <title>Quarkus: Revolutionizing time tracking: how Quarkus transformed our backend development</title>
+    <updated>2024-04-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/</id>
+    <link href="https://quarkus.io/blog/quarkus-saas-backend-time-tracking-app-case-study/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -568,6 +561,13 @@
     <updated>2024-04-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
+    <updated>2024-04-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-2-12-final-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
