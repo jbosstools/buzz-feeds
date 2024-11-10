@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-11-10T12:18:55Z</updated>
+  <updated>2024-11-10T18:13:25Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: Build & deploy JBoss EAP 8 images in OpenShift with Galleon & Helm charts</title>
