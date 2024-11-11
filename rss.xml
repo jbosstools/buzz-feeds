@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-11-11T06:16:31Z</updated>
+  <updated>2024-11-11T12:21:33Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: Build and deploy image mode for RHEL on OpenShift Virtualization</title>
+    <updated>2024-11-11T07:00:00Z</updated>
+    <id>0f3e8e18-acb8-4204-8259-cab130134144</id>
+    <link href="https://developers.redhat.com/articles/2024/11/11/deploy-image-mode-rhel-openshift-virtualization" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JBoss Blogs: KeyConf24 recordings available</title>
     <updated>2024-11-10T00:00:00Z</updated>
@@ -120,13 +127,6 @@
     <updated>2024-10-29T07:00:00Z</updated>
     <id>1498c3c9-64fb-47b9-bed1-5d43157f91e9</id>
     <link href="https://developers.redhat.com/articles/2024/10/29/run-openshift-417-vcf-521-what-you-need-know" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Ephemeral OpenShift clusters in Konflux CI using the Cluster-as-a-Service operator</title>
-    <updated>2024-10-28T07:00:00Z</updated>
-    <id>168fad35-e86f-435b-b288-352f0d56ef12</id>
-    <link href="https://developers.redhat.com/articles/2024/10/28/ephemeral-openshift-clusters-konflux-ci-using-cluster-service-operator" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
