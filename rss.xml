@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-11-20T06:16:59Z</updated>
+  <updated>2024-11-20T12:22:32Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: RHEL AI in action: Streamline AI workflows with RAG, LAB, and RAGLAB</title>
+    <updated>2024-11-20T07:00:00Z</updated>
+    <id>138e66aa-a2cd-4e66-945a-2984059b3c5b</id>
+    <link href="https://developers.redhat.com/articles/2024/11/20/rhel-ai-action-streamline-ai-workflows-rag-lab-and-raglab" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Red Hat Developer: Monitor OVN networking events using Network Observability</title>
     <updated>2024-11-19T07:00:00Z</updated>
@@ -92,13 +99,6 @@
     <updated>2024-11-10T00:00:00Z</updated>
     <id>https://www.keycloak.org/2024/11/keyconf24-videos-available</id>
     <link href="https://www.keycloak.org/2024/11/keyconf24-videos-available" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Build & deploy JBoss EAP 8 images in OpenShift with Galleon & Helm charts</title>
-    <updated>2024-11-08T07:00:00Z</updated>
-    <id>edbcca46-9b8a-4daf-8b48-a89b8e5cece7</id>
-    <link href="https://developers.redhat.com/articles/2024/11/08/jboss-eap-images-galleon" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
