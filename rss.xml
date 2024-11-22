@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-11-22T06:16:50Z</updated>
+  <updated>2024-11-22T12:22:19Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: How RamaLama makes working with AI models boring</title>
+    <updated>2024-11-22T07:00:00Z</updated>
+    <id>62affe74-e270-4422-a7c6-62122e2d1133</id>
+    <link href="https://developers.redhat.com/articles/2024/11/22/how-ramalama-makes-working-ai-models-boring" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Red Hat Developer: A guide to premade grafana-pcp dashboard development</title>
     <updated>2024-11-21T07:00:00Z</updated>
@@ -85,13 +92,6 @@
     <updated>2024-11-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-16-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-16-3-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Deliver generative AI at scale with NVIDIA NIM on OpenShift AI</title>
-    <updated>2024-11-12T14:00:00Z</updated>
-    <id>847226f8-811a-4dbe-badc-f8c5f3b5afbe</id>
-    <link href="https://developers.redhat.com/articles/2024/11/12/generative-ai-nvidia-nim-openshift-ai" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
