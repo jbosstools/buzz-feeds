@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-11-25T06:17:45Z</updated>
+  <updated>2024-11-25T12:23:21Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: Red Hat Developer Hub: The fastest path to Backstage on Kubernetes</title>
+    <updated>2024-11-25T07:00:00Z</updated>
+    <id>eddf4a89-bf06-4cac-ba92-97f97159d667</id>
+    <link href="https://developers.redhat.com/articles/2024/11/25/red-hat-developer-hub-fastest-path-backstage-kubernetes" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Red Hat Developer: How RamaLama makes working with AI models boring</title>
     <updated>2024-11-22T07:00:00Z</updated>
@@ -78,13 +85,6 @@
     <updated>2024-11-14T07:00:00Z</updated>
     <id>af8e556e-e7d2-4fe3-972b-09da9ab8a42a</id>
     <link href="https://developers.redhat.com/articles/2024/11/14/testing-farm-github-action-user-stories" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Red Hat Enterprise Linux 9.5: What are the top features for developers?</title>
-    <updated>2024-11-13T09:20:00Z</updated>
-    <id>57b9154c-5dfe-4416-8ea2-6b207328abe5</id>
-    <link href="https://developers.redhat.com/articles/2024/11/13/red-hat-enterprise-linux-95-developers" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
