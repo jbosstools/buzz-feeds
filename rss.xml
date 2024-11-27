@@ -1,15 +1,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-11-27T12:23:22Z</updated>
+  <updated>2024-11-27T18:16:20Z</updated>
   <link href="https://tools.jboss.org"></link>
-  <entry>
-    <title>Red Hat Developer: Get started with bootable containers and image mode for RHEL</title>
-    <updated>2024-11-27T07:00:00Z</updated>
-    <id>2cb42937-cc8e-40ec-bff8-f27f60707600</id>
-    <link href="https://developers.redhat.com/articles/2024/11/27/get-started-bootable-containers-and-image-mode-rhel" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>Red Hat Developer: Dynamic Kafka controller quorum</title>
     <updated>2024-11-27T07:00:00Z</updated>
@@ -22,6 +15,20 @@
     <updated>2024-11-27T07:00:00Z</updated>
     <id>4f864761-e30f-418c-a6b4-06c088bf6df5</id>
     <link href="https://developers.redhat.com/articles/2024/11/27/how-build-virtual-machines-using-ansible-collections" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Get started with bootable containers and image mode for RHEL</title>
+    <updated>2024-11-27T07:00:00Z</updated>
+    <id>2cb42937-cc8e-40ec-bff8-f27f60707600</id>
+    <link href="https://developers.redhat.com/articles/2024/11/27/get-started-bootable-containers-and-image-mode-rhel" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.17 - Observability improvements, programmatic permission checkers, MicroProfile REST Client 4.0</title>
+    <updated>2024-11-27T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-17-0-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-17-0-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -137,17 +144,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Keycloak 26.0.4 released</title>
-    <updated>2024-10-30T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/10/keycloak-2604-released</id>
-    <link href="https://www.keycloak.org/2024/10/keycloak-2604-released" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Quarkus 3.16 - OpenTelemetry Logging, LGTM Quarkus dashboard and too many things to list here</title>
     <updated>2024-10-30T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-16-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-16-1-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Keycloak 26.0.4 released</title>
+    <updated>2024-10-30T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/10/keycloak-2604-released</id>
+    <link href="https://www.keycloak.org/2024/10/keycloak-2604-released" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -158,17 +165,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: WildFly 35 moves to SE 17, drops SE 11</title>
-    <updated>2024-10-28T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/10/28/WildFly-moves-to-SE-17/</id>
-    <link href="https://wildfly.org//news/2024/10/28/WildFly-moves-to-SE-17/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Save the Date: WildFly Mini Conference on Nov 20th</title>
     <updated>2024-10-28T00:00:00Z</updated>
     <id>https://wildfly.org//news/2024/10/28/WildFly-mini-conference-save-the-date/</id>
     <link href="https://wildfly.org//news/2024/10/28/WildFly-mini-conference-save-the-date/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: WildFly 35 moves to SE 17, drops SE 11</title>
+    <updated>2024-10-28T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2024/10/28/WildFly-moves-to-SE-17/</id>
+    <link href="https://wildfly.org//news/2024/10/28/WildFly-moves-to-SE-17/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -193,6 +200,34 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Quarkus Newsletter #49 - October</title>
+    <updated>2024-10-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-49/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-49/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: WildFly 34 is released!</title>
+    <updated>2024-10-17T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2024/10/17/WildFly34-Released/</id>
+    <link href="https://wildfly.org//news/2024/10/17/WildFly34-Released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Strengthening the Release Process for Quarkiverse and SmallRye</title>
+    <updated>2024-10-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/</id>
+    <link href="https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Strengthening the Release Process for Quarkiverse and SmallRye</title>
+    <updated>2024-10-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/</id>
+    <link href="https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Keycloak 26.0.1 released</title>
     <updated>2024-10-17T00:00:00Z</updated>
     <id>https://www.keycloak.org/2024/10/keycloak-2601-released</id>
@@ -207,31 +242,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Strengthening the Release Process for Quarkiverse and SmallRye</title>
-    <updated>2024-10-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/</id>
-    <link href="https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: WildFly 34 is released!</title>
-    <updated>2024-10-17T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/10/17/WildFly34-Released/</id>
-    <link href="https://wildfly.org//news/2024/10/17/WildFly34-Released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Strengthening the Release Process for Quarkiverse and SmallRye</title>
-    <updated>2024-10-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/</id>
-    <link href="https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus Newsletter #49 - October</title>
-    <updated>2024-10-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-49/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-49/" rel="alternate"></link>
+    <title>JBoss Blogs: Introducing Jakarta Data in WildFly Preview</title>
+    <updated>2024-10-10T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2024/10/10/jakarta-data/</id>
+    <link href="https://wildfly.org//news/2024/10/10/jakarta-data/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -239,13 +253,6 @@
     <updated>2024-10-10T00:00:00Z</updated>
     <id>https://www.keycloak.org/2024/10/keycloak-kubeconf24-na-slc-announcement</id>
     <link href="https://www.keycloak.org/2024/10/keycloak-kubeconf24-na-slc-announcement" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Introducing Jakarta Data in WildFly Preview</title>
-    <updated>2024-10-10T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/10/10/jakarta-data/</id>
-    <link href="https://wildfly.org//news/2024/10/10/jakarta-data/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -326,17 +333,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Leveraging Quarkus build-time metaprogramming capabilities to improve Jackson's serialization performance</title>
-    <updated>2024-08-19T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-metaprogramming/</id>
-    <link href="https://quarkus.io/blog/quarkus-metaprogramming/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Revolutionising Telecom Microservice - Modernising JDiameter with Quarkus</title>
     <updated>2024-08-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-jdiameter-intro/</id>
     <link href="https://quarkus.io/blog/quarkus-jdiameter-intro/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Leveraging Quarkus build-time metaprogramming capabilities to improve Jackson's serialization performance</title>
+    <updated>2024-08-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-metaprogramming/</id>
+    <link href="https://quarkus.io/blog/quarkus-metaprogramming/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -452,17 +459,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools 4.29.1.Final for Eclipse 2023-09</title>
-    <updated>2024-06-13T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/4.29.1.final.html</id>
-    <link href="https://tools.jboss.org/blog/4.29.1.final.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Crafting a Local RAG application with Quarkus</title>
     <updated>2024-06-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/granite-rag/</id>
     <link href="https://quarkus.io/blog/granite-rag/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.29.1.Final for Eclipse 2023-09</title>
+    <updated>2024-06-13T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.29.1.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.29.1.final.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -561,13 +568,6 @@
     <updated>2024-04-25T00:00:00Z</updated>
     <id>https://quarkus.io/blog/search-indexing-rollover/</id>
     <link href="https://quarkus.io/blog/search-indexing-rollover/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Obtaining heap dump on OutOfMemoryError with Quarkus native</title>
-    <updated>2024-04-23T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/heapdump-oome-native/</id>
-    <link href="https://quarkus.io/blog/heapdump-oome-native/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
