@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-12-03T12:23:18Z</updated>
+  <updated>2024-12-03T18:14:45Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: What’s new in image mode for RHEL in 9.5?</title>
+    <updated>2024-12-03T15:05:49Z</updated>
+    <id>552672cf-c93d-4836-beac-015e4fb3df51</id>
+    <link href="https://developers.redhat.com/articles/2024/12/03/whats-new-image-mode-rhel-95" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>JBoss Blogs: JGroups 5.4 released</title>
     <updated>2024-12-03T09:52:00Z</updated>
@@ -60,17 +67,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Get started with bootable containers and image mode for RHEL</title>
-    <updated>2024-11-27T07:00:00Z</updated>
-    <id>2cb42937-cc8e-40ec-bff8-f27f60707600</id>
-    <link href="https://developers.redhat.com/articles/2024/11/27/get-started-bootable-containers-and-image-mode-rhel" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: How to build virtual machines using Ansible Collections</title>
     <updated>2024-11-27T07:00:00Z</updated>
     <id>4f864761-e30f-418c-a6b4-06c088bf6df5</id>
     <link href="https://developers.redhat.com/articles/2024/11/27/how-build-virtual-machines-using-ansible-collections" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Get started with bootable containers and image mode for RHEL</title>
+    <updated>2024-11-27T07:00:00Z</updated>
+    <id>2cb42937-cc8e-40ec-bff8-f27f60707600</id>
+    <link href="https://developers.redhat.com/articles/2024/11/27/get-started-bootable-containers-and-image-mode-rhel" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -81,13 +88,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.17 - Observability improvements, programmatic permission checkers, MicroProfile REST Client 4.0</title>
-    <updated>2024-11-27T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-17-0-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-17-0-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Quarkus 3.17 - Observability improvements, programmatic permission checkers, MicroProfile REST Client 4.0</title>
     <updated>2024-11-27T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-17-0-released/</id>
@@ -95,10 +95,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: A 3-tier application architecture on Red Hat Device Edge</title>
-    <updated>2024-11-26T07:00:00Z</updated>
-    <id>13c27b60-07cf-41b1-8be1-e44879d66927</id>
-    <link href="https://developers.redhat.com/articles/2024/11/26/3-tier-application-architecture-red-hat-device-edge" rel="alternate"></link>
+    <title>Quarkus: Quarkus 3.17 - Observability improvements, programmatic permission checkers, MicroProfile REST Client 4.0</title>
+    <updated>2024-11-27T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-17-0-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-17-0-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -106,6 +106,13 @@
     <updated>2024-11-26T07:00:00Z</updated>
     <id>1dd44b26-252f-43af-bee0-ec03f882c982</id>
     <link href="https://developers.redhat.com/articles/2024/11/26/try-apache-camel-concept-deployment-openshift" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: A 3-tier application architecture on Red Hat Device Edge</title>
+    <updated>2024-11-26T07:00:00Z</updated>
+    <id>13c27b60-07cf-41b1-8be1-e44879d66927</id>
+    <link href="https://developers.redhat.com/articles/2024/11/26/3-tier-application-architecture-red-hat-device-edge" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -123,13 +130,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Spatial queries</title>
-    <updated>2024-11-25T00:00:00Z</updated>
-    <id>https://infinispan.org/blog/2024/11/25/spatial-queries</id>
-    <link href="https://infinispan.org/blog/2024/11/25/spatial-queries" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Eclipse Vert.x 5 candidate 2 released!</title>
     <updated>2024-11-25T00:00:00Z</updated>
     <id>https://vertx.io/blog/eclipse-vert-x-5-candidate-2-released</id>
@@ -137,17 +137,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How RamaLama makes working with AI models boring</title>
-    <updated>2024-11-22T07:00:00Z</updated>
-    <id>62affe74-e270-4422-a7c6-62122e2d1133</id>
-    <link href="https://developers.redhat.com/articles/2024/11/22/how-ramalama-makes-working-ai-models-boring" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Keycloak 26.0.6 released</title>
-    <updated>2024-11-22T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/11/keycloak-2606-released</id>
-    <link href="https://www.keycloak.org/2024/11/keycloak-2606-released" rel="alternate"></link>
+    <title>JBoss Blogs: Spatial queries</title>
+    <updated>2024-11-25T00:00:00Z</updated>
+    <id>https://infinispan.org/blog/2024/11/25/spatial-queries</id>
+    <link href="https://infinispan.org/blog/2024/11/25/spatial-queries" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -155,6 +148,13 @@
     <updated>2024-11-22T00:00:00Z</updated>
     <id>https://wildfly.org//news/2024/11/22/WildFly3401-Released/</id>
     <link href="https://wildfly.org//news/2024/11/22/WildFly3401-Released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Keycloak 26.0.6 released</title>
+    <updated>2024-11-22T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/11/keycloak-2606-released</id>
+    <link href="https://www.keycloak.org/2024/11/keycloak-2606-released" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -172,17 +172,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Eclipse Vert.x 5 candidate 1 released!</title>
-    <updated>2024-11-18T00:00:00Z</updated>
-    <id>https://vertx.io/blog/eclipse-vert-x-5-candidate-1-released</id>
-    <link href="https://vertx.io/blog/eclipse-vert-x-5-candidate-1-released" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Quarkus 3.15.2 released - LTS maintenance release</title>
     <updated>2024-11-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-15-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-15-2-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Eclipse Vert.x 5 candidate 1 released!</title>
+    <updated>2024-11-18T00:00:00Z</updated>
+    <id>https://vertx.io/blog/eclipse-vert-x-5-candidate-1-released</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-5-candidate-1-released" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -214,14 +214,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.16.3 - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.16.3 - Maintenance release</title>
     <updated>2024-11-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-16-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-16-3-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.16.3 - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.16.3 - Maintenance release</title>
     <updated>2024-11-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-16-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-16-3-released/" rel="alternate"></link>
@@ -235,17 +235,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Next WildFly Mini Conference</title>
-    <updated>2024-11-12T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/11/12/WildFly-mini-conference/</id>
-    <link href="https://wildfly.org//news/2024/11/12/WildFly-mini-conference/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus Newsletter #50 - November</title>
     <updated>2024-11-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-50/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-50/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Next WildFly Mini Conference</title>
+    <updated>2024-11-12T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2024/11/12/WildFly-mini-conference/</id>
+    <link href="https://wildfly.org//news/2024/11/12/WildFly-mini-conference/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -466,17 +466,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools 4.29.1.Final for Eclipse 2023-09</title>
-    <updated>2024-06-13T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/4.29.1.final.html</id>
-    <link href="https://tools.jboss.org/blog/4.29.1.final.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Crafting a Local RAG application with Quarkus</title>
     <updated>2024-06-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/granite-rag/</id>
     <link href="https://quarkus.io/blog/granite-rag/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.29.1.Final for Eclipse 2023-09</title>
+    <updated>2024-06-13T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.29.1.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.29.1.final.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -508,17 +508,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.11.1 released - Maintenance release</title>
-    <updated>2024-06-05T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-11-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-11-1-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.8.5 released - Maintenance release</title>
     <updated>2024-06-05T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-8-5-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-8-5-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.11.1 released - Maintenance release</title>
+    <updated>2024-06-05T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-11-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-11-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -578,17 +578,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
-    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
     <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
