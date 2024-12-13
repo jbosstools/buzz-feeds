@@ -1,13 +1,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-12-13T06:17:46Z</updated>
+  <updated>2024-12-13T12:23:25Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
-    <title>Red Hat Developer: Migration Toolkit for Applications: Report analysis, customization, and troubleshooting</title>
-    <updated>2024-12-12T07:00:00Z</updated>
-    <id>a13b9283-d60d-4365-86cb-663262da0380</id>
-    <link href="https://developers.redhat.com/articles/2024/12/12/migration-toolkit-applications-report-analysis-customization-and" rel="alternate"></link>
+    <title>Red Hat Developer: Red Hat Serverless Operator usage and troubleshooting in OpenShift 4</title>
+    <updated>2024-12-13T07:00:00Z</updated>
+    <id>2bc78d27-093b-4eef-b1cb-677b536ff5ba</id>
+    <link href="https://developers.redhat.com/articles/2024/12/13/red-hat-serverless-operator-usage-and-troubleshooting-openshift-4" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Brief overview of Cluster Observability Operator</title>
+    <updated>2024-12-13T07:00:00Z</updated>
+    <id>1a1e1f4a-959e-4694-9899-5d03d549026d</id>
+    <link href="https://developers.redhat.com/articles/2024/12/13/brief-overview-cluster-observability-operator" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,24 +25,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: WildFly 35 Beta is released!</title>
-    <updated>2024-12-12T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/12/12/WildFly35Beta-released/</id>
-    <link href="https://wildfly.org//news/2024/12/12/WildFly35Beta-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Videos for the holidays and meet us at FOSDEM!</title>
-    <updated>2024-12-12T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/12/keycloak-at-froscon-2024</id>
-    <link href="https://www.keycloak.org/2024/12/keycloak-at-froscon-2024" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus Newsletter #51 - December</title>
-    <updated>2024-12-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-51/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-51/" rel="alternate"></link>
+    <title>Red Hat Developer: Migration Toolkit for Applications: Report analysis, customization, and troubleshooting</title>
+    <updated>2024-12-12T07:00:00Z</updated>
+    <id>a13b9283-d60d-4365-86cb-663262da0380</id>
+    <link href="https://developers.redhat.com/articles/2024/12/12/migration-toolkit-applications-report-analysis-customization-and" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -46,10 +39,31 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to create CI/CD pipelines for image mode for RHEL</title>
+    <title>JBoss Blogs: WildFly 35 Beta is released!</title>
+    <updated>2024-12-12T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2024/12/12/WildFly35Beta-released/</id>
+    <link href="https://wildfly.org//news/2024/12/12/WildFly35Beta-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus Newsletter #51 - December</title>
+    <updated>2024-12-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-51/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-51/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Videos for the holidays and meet us at FOSDEM!</title>
+    <updated>2024-12-12T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/12/keycloak-at-froscon-2024</id>
+    <link href="https://www.keycloak.org/2024/12/keycloak-at-froscon-2024" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Our top Kubernetes and OpenShift articles of 2024</title>
     <updated>2024-12-11T07:00:00Z</updated>
-    <id>a31d55e5-ee0b-476b-ada0-8c0a20d9b3fd</id>
-    <link href="https://developers.redhat.com/articles/2024/11/22/creating-cicd-pipelines-image-mode-rhel" rel="alternate"></link>
+    <id>d572e292-5832-4c78-84cc-f05e19e7c8ac</id>
+    <link href="https://developers.redhat.com/articles/2024/12/11/our-top-kubernetes-and-openshift-articles-2024" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -60,10 +74,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Our top Kubernetes and OpenShift articles of 2024</title>
+    <title>Red Hat Developer: How to create CI/CD pipelines for image mode for RHEL</title>
     <updated>2024-12-11T07:00:00Z</updated>
-    <id>d572e292-5832-4c78-84cc-f05e19e7c8ac</id>
-    <link href="https://developers.redhat.com/articles/2024/12/11/our-top-kubernetes-and-openshift-articles-2024" rel="alternate"></link>
+    <id>a31d55e5-ee0b-476b-ada0-8c0a20d9b3fd</id>
+    <link href="https://developers.redhat.com/articles/2024/11/22/creating-cicd-pipelines-image-mode-rhel" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -102,13 +116,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Linux on Arm (aarch64) servers: Can they handle datacenter-level networks?</title>
-    <updated>2024-12-10T07:00:00Z</updated>
-    <id>16e992e5-86e7-47de-bc34-88478a03a50a</id>
-    <link href="https://developers.redhat.com/articles/2024/12/10/linux-arm-aarch64-servers-can-they-handle-datacenter-level-networks" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: How to package Go applications in RHEL 10</title>
     <updated>2024-12-10T07:00:00Z</updated>
     <id>241aebba-d6ad-4527-b3fd-57be1634b5a4</id>
@@ -116,10 +123,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Log retention and pruning in OpenShift Pipelines</title>
-    <updated>2024-12-09T07:00:00Z</updated>
-    <id>7a7e7064-31f1-47bc-a2d4-6814690e5543</id>
-    <link href="https://developers.redhat.com/articles/2024/12/09/log-retention-and-pruning-openshift-pipelines" rel="alternate"></link>
+    <title>Red Hat Developer: Linux on Arm (aarch64) servers: Can they handle datacenter-level networks?</title>
+    <updated>2024-12-10T07:00:00Z</updated>
+    <id>16e992e5-86e7-47de-bc34-88478a03a50a</id>
+    <link href="https://developers.redhat.com/articles/2024/12/10/linux-arm-aarch64-servers-can-they-handle-datacenter-level-networks" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -127,13 +134,6 @@
     <updated>2024-12-09T07:00:00Z</updated>
     <id>5cf3260c-a66a-4cea-b125-723069c024bc</id>
     <link href="https://developers.redhat.com/articles/2024/12/09/develop-sql-server-databases-rhel-podman-desktop" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Our top languages and runtimes articles of 2024</title>
-    <updated>2024-12-09T07:00:00Z</updated>
-    <id>5f48a2fb-6ece-48c5-abea-2aeeea4e9c71</id>
-    <link href="https://developers.redhat.com/articles/2024/12/09/our-top-languages-and-runtimes-articles-2024" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -165,17 +165,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Recap Keycloak at KubeCon NA 2024</title>
-    <updated>2024-12-04T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/12/keycloak-at-kubecon-na-2024-recap</id>
-    <link href="https://www.keycloak.org/2024/12/keycloak-at-kubecon-na-2024-recap" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.17.3 - Maintenance release</title>
     <updated>2024-12-04T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-17-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-17-3-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Recap Keycloak at KubeCon NA 2024</title>
+    <updated>2024-12-04T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/12/keycloak-at-kubecon-na-2024-recap</id>
+    <link href="https://www.keycloak.org/2024/12/keycloak-at-kubecon-na-2024-recap" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -193,20 +193,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Creating pure Java LLM infused application with Quarkus, Langchain4j and Jlama</title>
-    <updated>2024-11-29T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-jlama/</id>
-    <link href="https://quarkus.io/blog/quarkus-jlama/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Issue tracking migration from Jira to GitHub</title>
-    <updated>2024-11-29T00:00:00Z</updated>
-    <id>https://infinispan.org/blog/2024/11/29/github-issues</id>
-    <link href="https://infinispan.org/blog/2024/11/29/github-issues" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Creating pure Java LLM infused application with Quarkus, Langchain4j and Jlama</title>
     <updated>2024-11-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-jlama/</id>
@@ -218,6 +204,20 @@
     <updated>2024-11-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-17-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-17-2-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Creating pure Java LLM infused application with Quarkus, Langchain4j and Jlama</title>
+    <updated>2024-11-29T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-jlama/</id>
+    <link href="https://quarkus.io/blog/quarkus-jlama/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Issue tracking migration from Jira to GitHub</title>
+    <updated>2024-11-29T00:00:00Z</updated>
+    <id>https://infinispan.org/blog/2024/11/29/github-issues</id>
+    <link href="https://infinispan.org/blog/2024/11/29/github-issues" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -389,17 +389,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus Newsletter #47 - August</title>
-    <updated>2024-08-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-47/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-47/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.13.2 released - Maintenance release</title>
     <updated>2024-08-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-13-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-13-2-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus Newsletter #47 - August</title>
+    <updated>2024-08-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-47/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-47/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -515,17 +515,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus Newsletter #45 - June</title>
-    <updated>2024-06-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-45/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-45/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Why you should always update to the latest micro versions!</title>
     <updated>2024-06-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/branching-and-versioning/</id>
     <link href="https://quarkus.io/blog/branching-and-versioning/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus Newsletter #45 - June</title>
+    <updated>2024-06-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-45/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-45/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -543,17 +543,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.8.5 released - Maintenance release</title>
-    <updated>2024-06-05T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-8-5-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-8-5-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.11.1 released - Maintenance release</title>
     <updated>2024-06-05T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-11-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-11-1-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.8.5 released - Maintenance release</title>
+    <updated>2024-06-05T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-8-5-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-8-5-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -578,17 +578,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
     <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -1425,17 +1425,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools and Red Hat Developer Studio for Eclipse Photon</title>
-    <updated>2018-07-17T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/12.0.0.ga-for-photon.html</id>
-    <link href="https://tools.jboss.org/blog/12.0.0.ga-for-photon.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: RHAMT Eclipse Plugin 4.1.0.Final has been released!</title>
     <updated>2018-07-17T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html</id>
     <link href="https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat Developer Studio for Eclipse Photon</title>
+    <updated>2018-07-17T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.0.0.ga-for-photon.html</id>
+    <link href="https://tools.jboss.org/blog/12.0.0.ga-for-photon.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
