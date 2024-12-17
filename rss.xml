@@ -1,8 +1,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-12-17T06:17:32Z</updated>
+  <updated>2024-12-17T12:23:46Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: Our top AI articles of 2024</title>
+    <updated>2024-12-17T08:00:00Z</updated>
+    <id>2458b01e-3d5d-4962-a2e7-250a06cd2b27</id>
+    <link href="https://developers.redhat.com/articles/2024/12/17/our-top-ai-articles-2024" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Example-CNF: Automating the deployment of DPDK-based network functions on OpenShift with fault tolerance</title>
+    <updated>2024-12-17T07:00:00Z</updated>
+    <id>4a5a7b98-b820-4e04-819b-17af52cfe329</id>
+    <link href="https://developers.redhat.com/articles/2024/12/17/example-cnf-automating-deployment-dpdk-based-network-functions-openshift-fault" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Automatic certificate issuing with IdM and cert-manager operator for OpenShift</title>
+    <updated>2024-12-17T07:00:00Z</updated>
+    <id>d909dcb6-8bb7-4a31-87b9-b8bf9a2a766d</id>
+    <link href="https://developers.redhat.com/articles/2024/12/17/automatic-certificate-issuing-idm-and-cert-manager-operator-openshift" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Monitoring OpenShift Virtualization at scale with Red Hat Advanced Cluster Management: Part 2</title>
+    <updated>2024-12-16T07:00:00Z</updated>
+    <id>f142ffd6-884e-43eb-9d6f-413c80ef1798</id>
+    <link href="https://developers.redhat.com/articles/2024/12/16/monitoring-openshift-virtualization-scale-red-hat-advanced-cluster-management" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Red Hat Developer: Introducing Builds for OpenShift 1.2</title>
     <updated>2024-12-16T07:00:00Z</updated>
@@ -18,13 +46,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Monitoring OpenShift Virtualization at scale with Red Hat Advanced Cluster Management: Part 2</title>
-    <updated>2024-12-16T07:00:00Z</updated>
-    <id>f142ffd6-884e-43eb-9d6f-413c80ef1798</id>
-    <link href="https://developers.redhat.com/articles/2024/12/16/monitoring-openshift-virtualization-scale-red-hat-advanced-cluster-management" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Our top Linux articles of 2024</title>
     <updated>2024-12-16T07:00:00Z</updated>
     <id>ff3610b5-738a-4a78-8b47-419deb35b38c</id>
@@ -32,10 +53,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Red Hat Serverless Operator usage and troubleshooting in OpenShift 4</title>
-    <updated>2024-12-13T07:00:00Z</updated>
-    <id>2bc78d27-093b-4eef-b1cb-677b536ff5ba</id>
-    <link href="https://developers.redhat.com/articles/2024/12/13/red-hat-serverless-operator-usage-and-troubleshooting-openshift-4" rel="alternate"></link>
+    <title>JBoss Blogs: Infinispan 15.1.0.Final</title>
+    <updated>2024-12-16T00:00:00Z</updated>
+    <id>https://infinispan.org/blog/2024/12/16/infinispan-15-1</id>
+    <link href="https://infinispan.org/blog/2024/12/16/infinispan-15-1" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -46,17 +67,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Red Hat Developer: Red Hat Serverless Operator usage and troubleshooting in OpenShift 4</title>
+    <updated>2024-12-13T07:00:00Z</updated>
+    <id>2bc78d27-093b-4eef-b1cb-677b536ff5ba</id>
+    <link href="https://developers.redhat.com/articles/2024/12/13/red-hat-serverless-operator-usage-and-troubleshooting-openshift-4" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Red Hat Developer: What’s new in Red Hat build of Apache Camel 4.8</title>
     <updated>2024-12-12T07:00:00Z</updated>
     <id>5042a181-09a2-4fc7-b9ca-de56fefff540</id>
     <link href="https://developers.redhat.com/articles/2024/12/12/whats-new-red-hat-build-apache-camel-48" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Migration Toolkit for Applications: Report analysis, customization, and troubleshooting</title>
-    <updated>2024-12-12T07:00:00Z</updated>
-    <id>a13b9283-d60d-4365-86cb-663262da0380</id>
-    <link href="https://developers.redhat.com/articles/2024/12/12/migration-toolkit-applications-report-analysis-customization-and" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -85,20 +106,6 @@
     <updated>2024-12-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-51/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-51/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Making memcpy(NULL, NULL, 0) well-defined</title>
-    <updated>2024-12-11T07:00:00Z</updated>
-    <id>07955c1b-4dd5-4344-9cb6-f725e66d2640</id>
-    <link href="https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Our top Kubernetes and OpenShift articles of 2024</title>
-    <updated>2024-12-11T07:00:00Z</updated>
-    <id>d572e292-5832-4c78-84cc-f05e19e7c8ac</id>
-    <link href="https://developers.redhat.com/articles/2024/12/11/our-top-kubernetes-and-openshift-articles-2024" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -200,20 +207,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Creating pure Java LLM infused application with Quarkus, Langchain4j and Jlama</title>
-    <updated>2024-11-29T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-jlama/</id>
-    <link href="https://quarkus.io/blog/quarkus-jlama/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.17.2 - Maintenance release</title>
-    <updated>2024-11-29T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-17-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-17-2-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Creating pure Java LLM infused application with Quarkus, Langchain4j and Jlama</title>
     <updated>2024-11-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-jlama/</id>
@@ -228,10 +221,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.17 - Observability improvements, programmatic permission checkers, MicroProfile REST Client 4.0</title>
-    <updated>2024-11-27T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-17-0-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-17-0-released/" rel="alternate"></link>
+    <title>Quarkus: Creating pure Java LLM infused application with Quarkus, Langchain4j and Jlama</title>
+    <updated>2024-11-29T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-jlama/</id>
+    <link href="https://quarkus.io/blog/quarkus-jlama/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.17.2 - Maintenance release</title>
+    <updated>2024-11-29T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-17-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-17-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -242,17 +242,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Quarkus 3.17 - Observability improvements, programmatic permission checkers, MicroProfile REST Client 4.0</title>
+    <updated>2024-11-27T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-17-0-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-17-0-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Infinispan Java Hot Rod client pool rework</title>
     <updated>2024-11-26T00:00:00Z</updated>
     <id>https://infinispan.org/blog/2024/11/26/hotrod-client-pool-rework</id>
     <link href="https://infinispan.org/blog/2024/11/26/hotrod-client-pool-rework" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Spatial queries</title>
-    <updated>2024-11-25T00:00:00Z</updated>
-    <id>https://infinispan.org/blog/2024/11/25/spatial-queries</id>
-    <link href="https://infinispan.org/blog/2024/11/25/spatial-queries" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
