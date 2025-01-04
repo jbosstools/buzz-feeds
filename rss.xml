@@ -1,20 +1,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2025-01-03T18:15:13Z</updated>
+  <updated>2025-01-04T00:53:37Z</updated>
   <link href="https://tools.jboss.org"></link>
-  <entry>
-    <title>Red Hat Developer: The Time Zone Database Package (tzdata) review for 2024</title>
-    <updated>2024-12-20T07:00:00Z</updated>
-    <id>81c826e4-83cc-4372-9f42-458090f6a5ef</id>
-    <link href="https://developers.redhat.com/articles/2024/12/20/time-zone-database-package-tzdata-review-2024" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>Red Hat Developer: Our top application development articles of 2024</title>
     <updated>2024-12-20T07:00:00Z</updated>
     <id>09e55298-c235-4bee-8d64-12be46fb84fa</id>
     <link href="https://developers.redhat.com/articles/2024/12/20/our-top-application-development-articles-2024" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: The Time Zone Database Package (tzdata) review for 2024</title>
+    <updated>2024-12-20T07:00:00Z</updated>
+    <id>81c826e4-83cc-4372-9f42-458090f6a5ef</id>
+    <link href="https://developers.redhat.com/articles/2024/12/20/time-zone-database-package-tzdata-review-2024" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -60,13 +60,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Our next LTS will be Quarkus 3.20</title>
-    <updated>2024-12-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/next-lts-3-20/</id>
-    <link href="https://quarkus.io/blog/next-lts-3-20/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus Infinispan Embedded extension</title>
     <updated>2024-12-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-infinispan-embedded/</id>
@@ -74,7 +67,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Our next LTS will be Quarkus 3.20</title>
+    <title>Quarkus: Our next LTS will be Quarkus 3.20</title>
     <updated>2024-12-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/next-lts-3-20/</id>
     <link href="https://quarkus.io/blog/next-lts-3-20/" rel="alternate"></link>
@@ -85,6 +78,13 @@
     <updated>2024-12-18T00:00:00Z</updated>
     <id>https://wildfly.org//news/2024/12/18/year-end-message/</id>
     <link href="https://wildfly.org//news/2024/12/18/year-end-message/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Our next LTS will be Quarkus 3.20</title>
+    <updated>2024-12-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/next-lts-3-20/</id>
+    <link href="https://quarkus.io/blog/next-lts-3-20/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -109,17 +109,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Example-CNF: Automating the deployment of DPDK-based network functions on OpenShift with fault tolerance</title>
-    <updated>2024-12-17T07:00:00Z</updated>
-    <id>4a5a7b98-b820-4e04-819b-17af52cfe329</id>
-    <link href="https://developers.redhat.com/articles/2024/12/17/example-cnf-automating-deployment-dpdk-based-network-functions-openshift-fault" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Automatic certificate issuing with IdM and cert-manager operator for OpenShift</title>
     <updated>2024-12-17T07:00:00Z</updated>
     <id>d909dcb6-8bb7-4a31-87b9-b8bf9a2a766d</id>
     <link href="https://developers.redhat.com/articles/2024/12/17/automatic-certificate-issuing-idm-and-cert-manager-operator-openshift" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Example-CNF: Automating the deployment of DPDK-based network functions on OpenShift with fault tolerance</title>
+    <updated>2024-12-17T07:00:00Z</updated>
+    <id>4a5a7b98-b820-4e04-819b-17af52cfe329</id>
+    <link href="https://developers.redhat.com/articles/2024/12/17/example-cnf-automating-deployment-dpdk-based-network-functions-openshift-fault" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -151,10 +151,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: WildFly 35 Beta is released!</title>
+    <title>JBoss Blogs: Quarkus Newsletter #51 - December</title>
     <updated>2024-12-12T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/12/12/WildFly35Beta-released/</id>
-    <link href="https://wildfly.org//news/2024/12/12/WildFly35Beta-released/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-newsletter-51/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-51/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -165,13 +165,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus Newsletter #51 - December</title>
-    <updated>2024-12-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-51/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-51/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Videos for the holidays and meet us at FOSDEM!</title>
     <updated>2024-12-12T00:00:00Z</updated>
     <id>https://www.keycloak.org/2024/12/keycloak-at-froscon-2024</id>
@@ -179,31 +172,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus Newsletter #51 - December</title>
+    <title>Quarkus: Quarkus Newsletter #51 - December</title>
     <updated>2024-12-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-51/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-51/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.17.4 - Maintenance release</title>
-    <updated>2024-12-11T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-17-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-17-4-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: What's new in Vert.x 5</title>
-    <updated>2024-12-11T00:00:00Z</updated>
-    <id>https://vertx.io/blog/whats-new-in-vert-x-5</id>
-    <link href="https://vertx.io/blog/whats-new-in-vert-x-5" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Migrate from Vert.x 4 to Vert.x 5</title>
-    <updated>2024-12-11T00:00:00Z</updated>
-    <id>https://vertx.io/blog/from-vert-x-4-to-vert-x-5</id>
-    <link href="https://vertx.io/blog/from-vert-x-4-to-vert-x-5" rel="alternate"></link>
+    <title>JBoss Blogs: WildFly 35 Beta is released!</title>
+    <updated>2024-12-12T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2024/12/12/WildFly35Beta-released/</id>
+    <link href="https://wildfly.org//news/2024/12/12/WildFly35Beta-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -214,7 +193,28 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Migrate from Vert.x 4 to Vert.x 5</title>
+    <updated>2024-12-11T00:00:00Z</updated>
+    <id>https://vertx.io/blog/from-vert-x-4-to-vert-x-5</id>
+    <link href="https://vertx.io/blog/from-vert-x-4-to-vert-x-5" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: What's new in Vert.x 5</title>
+    <updated>2024-12-11T00:00:00Z</updated>
+    <id>https://vertx.io/blog/whats-new-in-vert-x-5</id>
+    <link href="https://vertx.io/blog/whats-new-in-vert-x-5" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Quarkus 3.17.4 - Maintenance release</title>
+    <updated>2024-12-11T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-17-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-17-4-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.17.4 - Maintenance release</title>
     <updated>2024-12-11T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-17-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-17-4-released/" rel="alternate"></link>
@@ -228,13 +228,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus and Raspberry Pi - this time on bare metal</title>
-    <updated>2024-12-09T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-rpi-bare-metal/</id>
-    <link href="https://quarkus.io/blog/quarkus-rpi-bare-metal/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus and Raspberry Pi - this time on bare metal</title>
     <updated>2024-12-09T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-rpi-bare-metal/</id>
@@ -242,10 +235,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Recap Keycloak at KubeCon NA 2024</title>
+    <title>JBoss Blogs: Quarkus and Raspberry Pi - this time on bare metal</title>
+    <updated>2024-12-09T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-rpi-bare-metal/</id>
+    <link href="https://quarkus.io/blog/quarkus-rpi-bare-metal/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.17.3 - Maintenance release</title>
     <updated>2024-12-04T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/12/keycloak-at-kubecon-na-2024-recap</id>
-    <link href="https://www.keycloak.org/2024/12/keycloak-at-kubecon-na-2024-recap" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-17-3-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-17-3-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -256,10 +256,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.17.3 - Maintenance release</title>
+    <title>JBoss Blogs: Recap Keycloak at KubeCon NA 2024</title>
     <updated>2024-12-04T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-17-3-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-17-3-released/" rel="alternate"></link>
+    <id>https://www.keycloak.org/2024/12/keycloak-at-kubecon-na-2024-recap</id>
+    <link href="https://www.keycloak.org/2024/12/keycloak-at-kubecon-na-2024-recap" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -522,13 +522,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools 4.29.1.Final for Eclipse 2023-09</title>
-    <updated>2024-06-13T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/4.29.1.final.html</id>
-    <link href="https://tools.jboss.org/blog/4.29.1.final.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Crafting a Local RAG application with Quarkus</title>
     <updated>2024-06-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/granite-rag/</id>
@@ -536,10 +529,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus Newsletter #45 - June</title>
-    <updated>2024-06-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-45/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-45/" rel="alternate"></link>
+    <title>JBoss Tools: JBoss Tools 4.29.1.Final for Eclipse 2023-09</title>
+    <updated>2024-06-13T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.29.1.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.29.1.final.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -547,6 +540,13 @@
     <updated>2024-06-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/branching-and-versioning/</id>
     <link href="https://quarkus.io/blog/branching-and-versioning/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus Newsletter #45 - June</title>
+    <updated>2024-06-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-45/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-45/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -578,17 +578,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
-    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
     <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
+    <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -914,17 +914,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
-    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
     <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
+    <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -1425,17 +1425,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools and Red Hat Developer Studio for Eclipse Photon</title>
-    <updated>2018-07-17T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/12.0.0.ga-for-photon.html</id>
-    <link href="https://tools.jboss.org/blog/12.0.0.ga-for-photon.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: RHAMT Eclipse Plugin 4.1.0.Final has been released!</title>
     <updated>2018-07-17T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html</id>
     <link href="https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat Developer Studio for Eclipse Photon</title>
+    <updated>2018-07-17T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.0.0.ga-for-photon.html</id>
+    <link href="https://tools.jboss.org/blog/12.0.0.ga-for-photon.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
