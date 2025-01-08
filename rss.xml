@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2025-01-08T06:16:28Z</updated>
+  <updated>2025-01-08T12:22:03Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: An overview of virtual routing and forwarding (VRF) in Linux</title>
+    <updated>2025-01-08T07:00:00Z</updated>
+    <id>1a656bdd-b496-4c52-8450-04cba2eb665b</id>
+    <link href="https://developers.redhat.com/articles/2025/01/08/overview-virtual-routing-and-forwarding-vrf-linux" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Red Hat Developer: Backstage authentication and catalog providers: A practical guide</title>
     <updated>2025-01-07T07:00:00Z</updated>
@@ -74,13 +81,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Our top learning paths of 2024</title>
-    <updated>2024-12-18T07:00:00Z</updated>
-    <id>14679712-3506-49b2-b337-5859fbd40e61</id>
-    <link href="https://developers.redhat.com/articles/2024/12/18/our-top-learning-paths-2024" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Rootless virtual machines with KVM and QEMU</title>
     <updated>2024-12-18T07:00:00Z</updated>
     <id>448390f7-5f41-43a3-b39c-2eb1db68c756</id>
@@ -88,17 +88,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Thanks for a great 2024!</title>
-    <updated>2024-12-18T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/12/18/year-end-message/</id>
-    <link href="https://wildfly.org//news/2024/12/18/year-end-message/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus Infinispan Embedded extension</title>
-    <updated>2024-12-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-infinispan-embedded/</id>
-    <link href="https://quarkus.io/blog/quarkus-infinispan-embedded/" rel="alternate"></link>
+    <title>Red Hat Developer: Our top learning paths of 2024</title>
+    <updated>2024-12-18T07:00:00Z</updated>
+    <id>14679712-3506-49b2-b337-5859fbd40e61</id>
+    <link href="https://developers.redhat.com/articles/2024/12/18/our-top-learning-paths-2024" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -116,13 +109,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Using the management console on OpenShift</title>
-    <updated>2024-12-18T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/12/18/Management-Console-on-OpenShift/</id>
-    <link href="https://wildfly.org//news/2024/12/18/Management-Console-on-OpenShift/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Our next LTS will be Quarkus 3.20</title>
     <updated>2024-12-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/next-lts-3-20/</id>
@@ -130,17 +116,31 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Using the management console on OpenShift</title>
+    <updated>2024-12-18T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2024/12/18/Management-Console-on-OpenShift/</id>
+    <link href="https://wildfly.org//news/2024/12/18/Management-Console-on-OpenShift/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Thanks for a great 2024!</title>
+    <updated>2024-12-18T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2024/12/18/year-end-message/</id>
+    <link href="https://wildfly.org//news/2024/12/18/year-end-message/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus Infinispan Embedded extension</title>
+    <updated>2024-12-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-infinispan-embedded/</id>
+    <link href="https://quarkus.io/blog/quarkus-infinispan-embedded/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Red Hat Developer: Our top AI articles of 2024</title>
     <updated>2024-12-17T08:00:00Z</updated>
     <id>2458b01e-3d5d-4962-a2e7-250a06cd2b27</id>
     <link href="https://developers.redhat.com/articles/2024/12/17/our-top-ai-articles-2024" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Example-CNF: Automating the deployment of DPDK-based network functions on OpenShift with fault tolerance</title>
-    <updated>2024-12-17T07:00:00Z</updated>
-    <id>4a5a7b98-b820-4e04-819b-17af52cfe329</id>
-    <link href="https://developers.redhat.com/articles/2024/12/17/example-cnf-automating-deployment-dpdk-based-network-functions-openshift-fault" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -165,20 +165,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Videos for the holidays and meet us at FOSDEM!</title>
-    <updated>2024-12-12T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/12/keycloak-at-froscon-2024</id>
-    <link href="https://www.keycloak.org/2024/12/keycloak-at-froscon-2024" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: WildFly 35 Beta is released!</title>
-    <updated>2024-12-12T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2024/12/12/WildFly35Beta-released/</id>
-    <link href="https://wildfly.org//news/2024/12/12/WildFly35Beta-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: A kubectl plugin to run WildFly management operations on Kubernetes</title>
     <updated>2024-12-12T00:00:00Z</updated>
     <id>https://jmesnil.net/weblog/2024/12/11/a-kubectl-plugin-for-wildfly-jboss-cli/</id>
@@ -193,6 +179,20 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Videos for the holidays and meet us at FOSDEM!</title>
+    <updated>2024-12-12T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/12/keycloak-at-froscon-2024</id>
+    <link href="https://www.keycloak.org/2024/12/keycloak-at-froscon-2024" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: WildFly 35 Beta is released!</title>
+    <updated>2024-12-12T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2024/12/12/WildFly35Beta-released/</id>
+    <link href="https://wildfly.org//news/2024/12/12/WildFly35Beta-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Quarkus: Quarkus Newsletter #51 - December</title>
     <updated>2024-12-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-51/</id>
@@ -200,7 +200,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.17.4 - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.17.4 - Maintenance release</title>
     <updated>2024-12-11T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-17-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-17-4-released/" rel="alternate"></link>
@@ -214,10 +214,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.17.4 - Maintenance release</title>
+    <title>JBoss Blogs: Eclipse Vert.x 5 candidate 3 released!</title>
     <updated>2024-12-11T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-17-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-17-4-released/" rel="alternate"></link>
+    <id>https://vertx.io/blog/eclipse-vert-x-5-candidate-3-released</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-5-candidate-3-released" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -228,10 +228,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Eclipse Vert.x 5 candidate 3 released!</title>
+    <title>Quarkus: Quarkus 3.17.4 - Maintenance release</title>
     <updated>2024-12-11T00:00:00Z</updated>
-    <id>https://vertx.io/blog/eclipse-vert-x-5-candidate-3-released</id>
-    <link href="https://vertx.io/blog/eclipse-vert-x-5-candidate-3-released" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-17-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-17-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
