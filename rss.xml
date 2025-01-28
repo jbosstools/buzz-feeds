@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2025-01-28T12:21:02Z</updated>
+  <updated>2025-01-28T18:15:14Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: How to name, version, and reference container images</title>
@@ -11,14 +11,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus LTS - New Release Cadence Explained</title>
+    <title>JBoss Blogs: Quarkus LTS - New Release Cadence Explained</title>
     <updated>2025-01-28T00:00:00Z</updated>
     <id>https://quarkus.io/blog/lts-cadence/</id>
     <link href="https://quarkus.io/blog/lts-cadence/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus LTS - New Release Cadence Explained</title>
+    <title>Quarkus: Quarkus LTS - New Release Cadence Explained</title>
     <updated>2025-01-28T00:00:00Z</updated>
     <id>https://quarkus.io/blog/lts-cadence/</id>
     <link href="https://quarkus.io/blog/lts-cadence/" rel="alternate"></link>
@@ -53,13 +53,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Strategies for eliminating Ansible hardcoded credentials</title>
-    <updated>2025-01-23T07:00:00Z</updated>
-    <id>1706c93c-4d65-476d-a614-56e66262d346</id>
-    <link href="https://developers.redhat.com/articles/2025/01/23/strategies-eliminating-ansible-hardcoded-credentials" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: FIPS mode for Red Hat Go Toolset</title>
     <updated>2025-01-23T07:00:00Z</updated>
     <id>3587f5d3-2d93-4542-b736-c3801e38c6f6</id>
@@ -71,6 +64,13 @@
     <updated>2025-01-23T07:00:00Z</updated>
     <id>dd3a3bb9-0d64-404b-adb1-d0db66e4584d</id>
     <link href="https://developers.redhat.com/articles/2025/01/23/why-ux-designers-should-develop-technical-expertise" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Strategies for eliminating Ansible hardcoded credentials</title>
+    <updated>2025-01-23T07:00:00Z</updated>
+    <id>1706c93c-4d65-476d-a614-56e66262d346</id>
+    <link href="https://developers.redhat.com/articles/2025/01/23/strategies-eliminating-ansible-hardcoded-credentials" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -130,10 +130,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Keycloak client 26.0.4 released</title>
+    <title>JBoss Blogs: Keycloak Client Libraries 26.0.4 released</title>
     <updated>2025-01-17T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2025/01/keycloak-client-2604</id>
-    <link href="https://www.keycloak.org/2025/01/keycloak-client-2604" rel="alternate"></link>
+    <id>https://www.keycloak.org/2025/01/keycloak-client-2604-released</id>
+    <link href="https://www.keycloak.org/2025/01/keycloak-client-2604-released" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -141,6 +141,13 @@
     <updated>2025-01-16T07:00:00Z</updated>
     <id>b2f77389-804b-4c63-8495-8aec0d165c21</id>
     <link href="https://developers.redhat.com/articles/2025/01/16/install-rhel-packages-container-images-using-shipwright" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Keycloak 26.1.0 released</title>
+    <updated>2025-01-15T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2025/01/keycloak-2610-released</id>
+    <link href="https://www.keycloak.org/2025/01/keycloak-2610-released" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -158,21 +165,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Keycloak 26.1.0 released</title>
-    <updated>2025-01-15T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2025/01/keycloak-2610-released</id>
-    <link href="https://www.keycloak.org/2025/01/keycloak-2610-released" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus Newsletter #52 - January</title>
+    <title>JBoss Blogs: Quarkus Newsletter #52 - January</title>
     <updated>2025-01-14T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-52/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-52/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus Newsletter #52 - January</title>
+    <title>Quarkus: Quarkus Newsletter #52 - January</title>
     <updated>2025-01-14T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-52/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-52/" rel="alternate"></link>
@@ -186,13 +186,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Implementing a MCP server in Quarkus</title>
-    <updated>2025-01-13T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/mcp-server/</id>
-    <link href="https://quarkus.io/blog/mcp-server/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Infinispan joins Commonhaus!</title>
     <updated>2025-01-13T00:00:00Z</updated>
     <id>https://infinispan.org/blog/2025/01/13/commonhaus-foundation</id>
@@ -200,17 +193,24 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Keycloak Terraform Provider Release 5</title>
-    <updated>2025-01-13T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2025/01/terraform-provider-release-5</id>
-    <link href="https://www.keycloak.org/2025/01/terraform-provider-release-5" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Keycloak 26.0.8 released</title>
     <updated>2025-01-13T00:00:00Z</updated>
     <id>https://www.keycloak.org/2025/01/keycloak-2608-released</id>
     <link href="https://www.keycloak.org/2025/01/keycloak-2608-released" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Implementing a MCP server in Quarkus</title>
+    <updated>2025-01-13T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/mcp-server/</id>
+    <link href="https://quarkus.io/blog/mcp-server/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Keycloak Terraform Provider Release 5</title>
+    <updated>2025-01-13T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2025/01/terraform-provider-release-5</id>
+    <link href="https://www.keycloak.org/2025/01/terraform-provider-release-5" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -228,13 +228,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.17.6 - Maintenance release</title>
-    <updated>2025-01-08T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-17-6-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-17-6-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Using the Model Context Protocol with Quarkus+LangChain4j</title>
     <updated>2025-01-08T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-langchain4j-mcp/</id>
@@ -242,10 +235,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Using the Model Context Protocol with Quarkus+LangChain4j</title>
+    <title>JBoss Blogs: Quarkus 3.17.6 - Maintenance release</title>
     <updated>2025-01-08T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-langchain4j-mcp/</id>
-    <link href="https://quarkus.io/blog/quarkus-langchain4j-mcp/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-17-6-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-17-6-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -256,10 +249,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.17.6 - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.17.6 - Maintenance release</title>
     <updated>2025-01-08T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-17-6-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-17-6-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Using the Model Context Protocol with Quarkus+LangChain4j</title>
+    <updated>2025-01-08T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-langchain4j-mcp/</id>
+    <link href="https://quarkus.io/blog/quarkus-langchain4j-mcp/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -319,17 +319,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.17.2 - Maintenance release</title>
-    <updated>2024-11-29T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-17-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-17-2-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Creating pure Java LLM infused application with Quarkus, Langchain4j and Jlama</title>
     <updated>2024-11-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-jlama/</id>
     <link href="https://quarkus.io/blog/quarkus-jlama/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.17.2 - Maintenance release</title>
+    <updated>2024-11-29T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-17-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-17-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -382,17 +382,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Strengthening the Release Process for Quarkiverse and SmallRye</title>
-    <updated>2024-10-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/</id>
-    <link href="https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus Newsletter #49 - October</title>
     <updated>2024-10-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-49/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-49/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Strengthening the Release Process for Quarkiverse and SmallRye</title>
+    <updated>2024-10-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/</id>
+    <link href="https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
