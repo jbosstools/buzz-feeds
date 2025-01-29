@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2025-01-28T18:15:14Z</updated>
+  <updated>2025-01-29T00:53:29Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: How to name, version, and reference container images</title>
@@ -109,14 +109,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.15.3 released - LTS maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.15.3 released - LTS maintenance release</title>
     <updated>2025-01-21T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-15-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-15-3-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.15.3 released - LTS maintenance release</title>
+    <title>Quarkus: Quarkus 3.15.3 released - LTS maintenance release</title>
     <updated>2025-01-21T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-15-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-15-3-released/" rel="alternate"></link>
@@ -144,13 +144,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Keycloak 26.1.0 released</title>
-    <updated>2025-01-15T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2025/01/keycloak-2610-released</id>
-    <link href="https://www.keycloak.org/2025/01/keycloak-2610-released" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.17.7 - Maintenance release</title>
     <updated>2025-01-15T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-17-7-released/</id>
@@ -162,6 +155,13 @@
     <updated>2025-01-15T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-17-7-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-17-7-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Keycloak 26.1.0 released</title>
+    <updated>2025-01-15T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2025/01/keycloak-2610-released</id>
+    <link href="https://www.keycloak.org/2025/01/keycloak-2610-released" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -179,10 +179,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Implementing a MCP server in Quarkus</title>
+    <title>JBoss Blogs: Keycloak 26.0.8 released</title>
     <updated>2025-01-13T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/mcp-server/</id>
-    <link href="https://quarkus.io/blog/mcp-server/" rel="alternate"></link>
+    <id>https://www.keycloak.org/2025/01/keycloak-2608-released</id>
+    <link href="https://www.keycloak.org/2025/01/keycloak-2608-released" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Keycloak Terraform Provider Release 5</title>
+    <updated>2025-01-13T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2025/01/terraform-provider-release-5</id>
+    <link href="https://www.keycloak.org/2025/01/terraform-provider-release-5" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -193,13 +200,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Keycloak 26.0.8 released</title>
-    <updated>2025-01-13T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2025/01/keycloak-2608-released</id>
-    <link href="https://www.keycloak.org/2025/01/keycloak-2608-released" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Implementing a MCP server in Quarkus</title>
     <updated>2025-01-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/mcp-server/</id>
@@ -207,10 +207,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Keycloak Terraform Provider Release 5</title>
+    <title>JBoss Blogs: Implementing a MCP server in Quarkus</title>
     <updated>2025-01-13T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2025/01/terraform-provider-release-5</id>
-    <link href="https://www.keycloak.org/2025/01/terraform-provider-release-5" rel="alternate"></link>
+    <id>https://quarkus.io/blog/mcp-server/</id>
+    <link href="https://quarkus.io/blog/mcp-server/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -225,6 +225,20 @@
     <updated>2025-01-09T00:00:00Z</updated>
     <id>https://wildfly.org//news/2025/01/09/WildFly35Released/</id>
     <link href="https://wildfly.org//news/2025/01/09/WildFly35Released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Using the Model Context Protocol with Quarkus+LangChain4j</title>
+    <updated>2025-01-08T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-langchain4j-mcp/</id>
+    <link href="https://quarkus.io/blog/quarkus-langchain4j-mcp/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.17.6 - Maintenance release</title>
+    <updated>2025-01-08T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-17-6-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-17-6-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -249,20 +263,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.17.6 - Maintenance release</title>
-    <updated>2025-01-08T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-17-6-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-17-6-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Using the Model Context Protocol with Quarkus+LangChain4j</title>
-    <updated>2025-01-08T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-langchain4j-mcp/</id>
-    <link href="https://quarkus.io/blog/quarkus-langchain4j-mcp/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Managing the availability of LRA participants</title>
     <updated>2025-01-06T23:19:00Z</updated>
     <id>https://jbossts.blogspot.com/2025/01/managing-availability-of-lra.html</id>
@@ -277,17 +277,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Our next LTS will be Quarkus 3.20</title>
-    <updated>2024-12-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/next-lts-3-20/</id>
-    <link href="https://quarkus.io/blog/next-lts-3-20/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus Infinispan Embedded extension</title>
     <updated>2024-12-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-infinispan-embedded/</id>
     <link href="https://quarkus.io/blog/quarkus-infinispan-embedded/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Our next LTS will be Quarkus 3.20</title>
+    <updated>2024-12-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/next-lts-3-20/</id>
+    <link href="https://quarkus.io/blog/next-lts-3-20/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -319,17 +319,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Creating pure Java LLM infused application with Quarkus, Langchain4j and Jlama</title>
-    <updated>2024-11-29T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-jlama/</id>
-    <link href="https://quarkus.io/blog/quarkus-jlama/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.17.2 - Maintenance release</title>
     <updated>2024-11-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-17-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-17-2-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Creating pure Java LLM infused application with Quarkus, Langchain4j and Jlama</title>
+    <updated>2024-11-29T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-jlama/</id>
+    <link href="https://quarkus.io/blog/quarkus-jlama/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -382,17 +382,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus Newsletter #49 - October</title>
-    <updated>2024-10-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-49/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-49/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Strengthening the Release Process for Quarkiverse and SmallRye</title>
     <updated>2024-10-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/</id>
     <link href="https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus Newsletter #49 - October</title>
+    <updated>2024-10-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-49/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-49/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -914,17 +914,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
