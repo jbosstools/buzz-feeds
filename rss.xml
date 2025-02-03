@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2025-02-03T06:16:10Z</updated>
+  <updated>2025-02-03T12:21:04Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: How VXLAN encapsulation affects Arm (aarch64) servers</title>
+    <updated>2025-02-03T07:00:00Z</updated>
+    <id>76c9fec4-7c6d-4cf3-9b08-91917f9026ae</id>
+    <link href="https://developers.redhat.com/articles/2025/02/03/how-vxlan-encapsulation-affects-arm-aarch64-servers" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Red Hat Developer: How to implement C23 #embed in GCC 15</title>
     <updated>2025-01-30T07:00:00Z</updated>
@@ -25,6 +32,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Eclipse Vert.x 5 candidate 4 released!</title>
+    <updated>2025-01-29T00:00:00Z</updated>
+    <id>https://vertx.io/blog/eclipse-vert-x-5-candidate-4-released</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-5-candidate-4-released" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Quarkus 3.18 - Micrometer for WebSockets Next, Security WebAuthn based on WebAuthn4J, Kubernetes Client 7...</title>
     <updated>2025-01-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-18-1-released/</id>
@@ -32,10 +46,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Introducing Model Context Protocol servers project</title>
+    <title>Quarkus: Quarkus 3.18 - Micrometer for WebSockets Next, Security WebAuthn based on WebAuthn4J, Kubernetes Client 7...</title>
     <updated>2025-01-29T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/introducing-mcp-servers/</id>
-    <link href="https://quarkus.io/blog/introducing-mcp-servers/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-18-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-18-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -46,17 +60,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Eclipse Vert.x 5 candidate 4 released!</title>
+    <title>JBoss Blogs: Introducing Model Context Protocol servers project</title>
     <updated>2025-01-29T00:00:00Z</updated>
-    <id>https://vertx.io/blog/eclipse-vert-x-5-candidate-4-released</id>
-    <link href="https://vertx.io/blog/eclipse-vert-x-5-candidate-4-released" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.18 - Micrometer for WebSockets Next, Security WebAuthn based on WebAuthn4J, Kubernetes Client 7...</title>
-    <updated>2025-01-29T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-18-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-18-1-released/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/introducing-mcp-servers/</id>
+    <link href="https://quarkus.io/blog/introducing-mcp-servers/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -109,10 +116,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Strategies for eliminating Ansible hardcoded credentials</title>
+    <title>Red Hat Developer: FIPS mode for Red Hat Go Toolset</title>
     <updated>2025-01-23T07:00:00Z</updated>
-    <id>1706c93c-4d65-476d-a614-56e66262d346</id>
-    <link href="https://developers.redhat.com/articles/2025/01/23/strategies-eliminating-ansible-hardcoded-credentials" rel="alternate"></link>
+    <id>3587f5d3-2d93-4542-b736-c3801e38c6f6</id>
+    <link href="https://developers.redhat.com/articles/2025/01/23/fips-mode-red-hat-go-toolset" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -123,10 +130,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: FIPS mode for Red Hat Go Toolset</title>
+    <title>Red Hat Developer: Strategies for eliminating Ansible hardcoded credentials</title>
     <updated>2025-01-23T07:00:00Z</updated>
-    <id>3587f5d3-2d93-4542-b736-c3801e38c6f6</id>
-    <link href="https://developers.redhat.com/articles/2025/01/23/fips-mode-red-hat-go-toolset" rel="alternate"></link>
+    <id>1706c93c-4d65-476d-a614-56e66262d346</id>
+    <link href="https://developers.redhat.com/articles/2025/01/23/strategies-eliminating-ansible-hardcoded-credentials" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -137,21 +144,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Monitor GCC compile time</title>
-    <updated>2025-01-22T07:00:00Z</updated>
-    <id>d660a34e-4795-4774-8660-6bae4cc462d2</id>
-    <link href="https://developers.redhat.com/articles/2025/01/22/monitor-gcc-compile-time" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.17.8 - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.17.8 - Maintenance release</title>
     <updated>2025-01-22T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-17-8-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-17-8-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.17.8 - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.17.8 - Maintenance release</title>
     <updated>2025-01-22T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-17-8-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-17-8-released/" rel="alternate"></link>
@@ -179,10 +179,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Keycloak 26.1.0 released</title>
+    <title>Quarkus: Quarkus 3.17.7 - Maintenance release</title>
     <updated>2025-01-15T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2025/01/keycloak-2610-released</id>
-    <link href="https://www.keycloak.org/2025/01/keycloak-2610-released" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-17-7-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-17-7-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -193,10 +193,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.17.7 - Maintenance release</title>
+    <title>JBoss Blogs: Keycloak 26.1.0 released</title>
     <updated>2025-01-15T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-17-7-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-17-7-released/" rel="alternate"></link>
+    <id>https://www.keycloak.org/2025/01/keycloak-2610-released</id>
+    <link href="https://www.keycloak.org/2025/01/keycloak-2610-released" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -214,10 +214,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Implementing a MCP server in Quarkus</title>
+    <title>JBoss Blogs: Keycloak 26.0.8 released</title>
     <updated>2025-01-13T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/mcp-server/</id>
-    <link href="https://quarkus.io/blog/mcp-server/" rel="alternate"></link>
+    <id>https://www.keycloak.org/2025/01/keycloak-2608-released</id>
+    <link href="https://www.keycloak.org/2025/01/keycloak-2608-released" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -228,10 +228,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Keycloak 26.0.8 released</title>
+    <title>JBoss Blogs: Implementing a MCP server in Quarkus</title>
     <updated>2025-01-13T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2025/01/keycloak-2608-released</id>
-    <link href="https://www.keycloak.org/2025/01/keycloak-2608-released" rel="alternate"></link>
+    <id>https://quarkus.io/blog/mcp-server/</id>
+    <link href="https://quarkus.io/blog/mcp-server/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Implementing a MCP server in Quarkus</title>
+    <updated>2025-01-13T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/mcp-server/</id>
+    <link href="https://quarkus.io/blog/mcp-server/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -239,13 +246,6 @@
     <updated>2025-01-13T00:00:00Z</updated>
     <id>https://infinispan.org/blog/2025/01/13/commonhaus-foundation</id>
     <link href="https://infinispan.org/blog/2025/01/13/commonhaus-foundation" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Implementing a MCP server in Quarkus</title>
-    <updated>2025-01-13T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/mcp-server/</id>
-    <link href="https://quarkus.io/blog/mcp-server/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -270,17 +270,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Meet Keycloak at FOSDEM 2025 in February!</title>
-    <updated>2025-01-08T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2025/01/keycloak-at-fosdem-2025</id>
-    <link href="https://www.keycloak.org/2025/01/keycloak-at-fosdem-2025" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.17.6 - Maintenance release</title>
     <updated>2025-01-08T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-17-6-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-17-6-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Meet Keycloak at FOSDEM 2025 in February!</title>
+    <updated>2025-01-08T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2025/01/keycloak-at-fosdem-2025</id>
+    <link href="https://www.keycloak.org/2025/01/keycloak-at-fosdem-2025" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -291,17 +291,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Our next LTS will be Quarkus 3.20</title>
-    <updated>2024-12-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/next-lts-3-20/</id>
-    <link href="https://quarkus.io/blog/next-lts-3-20/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus Infinispan Embedded extension</title>
     <updated>2024-12-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-infinispan-embedded/</id>
     <link href="https://quarkus.io/blog/quarkus-infinispan-embedded/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Our next LTS will be Quarkus 3.20</title>
+    <updated>2024-12-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/next-lts-3-20/</id>
+    <link href="https://quarkus.io/blog/next-lts-3-20/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -466,13 +466,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Revolutionising Telecom Microservice - Modernising JDiameter with Quarkus</title>
-    <updated>2024-08-19T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-jdiameter-intro/</id>
-    <link href="https://quarkus.io/blog/quarkus-jdiameter-intro/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Leveraging Quarkus build-time metaprogramming capabilities to improve Jackson's serialization performance</title>
     <updated>2024-08-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-metaprogramming/</id>
@@ -480,10 +473,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus Newsletter #47 - August</title>
-    <updated>2024-08-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-47/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-47/" rel="alternate"></link>
+    <title>Quarkus: Revolutionising Telecom Microservice - Modernising JDiameter with Quarkus</title>
+    <updated>2024-08-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-jdiameter-intro/</id>
+    <link href="https://quarkus.io/blog/quarkus-jdiameter-intro/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -491,6 +484,13 @@
     <updated>2024-08-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-13-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-13-2-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus Newsletter #47 - August</title>
+    <updated>2024-08-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-47/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-47/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -914,17 +914,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -1425,17 +1425,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: RHAMT Eclipse Plugin 4.1.0.Final has been released!</title>
-    <updated>2018-07-17T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html</id>
-    <link href="https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat Developer Studio for Eclipse Photon</title>
     <updated>2018-07-17T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.0.0.ga-for-photon.html</id>
     <link href="https://tools.jboss.org/blog/12.0.0.ga-for-photon.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: RHAMT Eclipse Plugin 4.1.0.Final has been released!</title>
+    <updated>2018-07-17T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html</id>
+    <link href="https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
