@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2025-02-10T12:21:40Z</updated>
+  <updated>2025-02-10T18:15:37Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: 3 improvements in GDB 16's core file loading</title>
@@ -39,17 +39,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.18.2 - Maintenance release</title>
-    <updated>2025-02-05T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-18-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-18-2-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Keycloak 26.1.1 released</title>
     <updated>2025-02-05T00:00:00Z</updated>
     <id>https://www.keycloak.org/2025/02/keycloak-2611-released</id>
     <link href="https://www.keycloak.org/2025/02/keycloak-2611-released" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.18.2 - Maintenance release</title>
+    <updated>2025-02-05T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-18-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-18-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -81,17 +81,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Build and deploy a ModelCar container in OpenShift AI</title>
-    <updated>2025-01-30T07:00:00Z</updated>
-    <id>1eb69a6b-4239-4d1e-9a6a-866ce62dfa5f</id>
-    <link href="https://developers.redhat.com/articles/2025/01/30/build-and-deploy-modelcar-container-openshift-ai" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: How to implement C23 #embed in GCC 15</title>
     <updated>2025-01-30T07:00:00Z</updated>
     <id>f78bfd7a-b0b4-4b8e-b86d-9b828837e9f1</id>
     <link href="https://developers.redhat.com/articles/2025/01/30/how-implement-c23-embed-gcc-15" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Build and deploy a ModelCar container in OpenShift AI</title>
+    <updated>2025-01-30T07:00:00Z</updated>
+    <id>1eb69a6b-4239-4d1e-9a6a-866ce62dfa5f</id>
+    <link href="https://developers.redhat.com/articles/2025/01/30/build-and-deploy-modelcar-container-openshift-ai" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -109,21 +109,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Eclipse Vert.x 5 candidate 4 released!</title>
-    <updated>2025-01-29T00:00:00Z</updated>
-    <id>https://vertx.io/blog/eclipse-vert-x-5-candidate-4-released</id>
-    <link href="https://vertx.io/blog/eclipse-vert-x-5-candidate-4-released" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.18 - Micrometer for WebSockets Next, Security WebAuthn based on WebAuthn4J, Kubernetes Client 7...</title>
+    <title>JBoss Blogs: Quarkus 3.18 - Micrometer for WebSockets Next, Security WebAuthn based on WebAuthn4J, Kubernetes Client 7...</title>
     <updated>2025-01-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-18-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-18-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.18 - Micrometer for WebSockets Next, Security WebAuthn based on WebAuthn4J, Kubernetes Client 7...</title>
+    <title>Quarkus: Quarkus 3.18 - Micrometer for WebSockets Next, Security WebAuthn based on WebAuthn4J, Kubernetes Client 7...</title>
     <updated>2025-01-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-18-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-18-1-released/" rel="alternate"></link>
@@ -137,17 +130,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Eclipse Vert.x 5 candidate 4 released!</title>
+    <updated>2025-01-29T00:00:00Z</updated>
+    <id>https://vertx.io/blog/eclipse-vert-x-5-candidate-4-released</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-5-candidate-4-released" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Red Hat Developer: How to name, version, and reference container images</title>
     <updated>2025-01-28T07:00:00Z</updated>
     <id>eb7a5f4c-72b7-4881-bb6d-356f642b24d1</id>
     <link href="https://developers.redhat.com/articles/2025/01/28/how-name-version-and-reference-container-images" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus LTS - New Release Cadence Explained</title>
-    <updated>2025-01-28T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/lts-cadence/</id>
-    <link href="https://quarkus.io/blog/lts-cadence/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -158,10 +151,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Testing WildFly applications on Docker with Arquillian Cube</title>
-    <updated>2025-01-27T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2025/01/27/testing-on-docker-with-cube/</id>
-    <link href="https://wildfly.org//news/2025/01/27/testing-on-docker-with-cube/" rel="alternate"></link>
+    <title>Quarkus: Quarkus LTS - New Release Cadence Explained</title>
+    <updated>2025-01-28T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/lts-cadence/</id>
+    <link href="https://quarkus.io/blog/lts-cadence/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -172,6 +165,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Testing WildFly applications on Docker with Arquillian Cube</title>
+    <updated>2025-01-27T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2025/01/27/testing-on-docker-with-cube/</id>
+    <link href="https://wildfly.org//news/2025/01/27/testing-on-docker-with-cube/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Eclipse Vert.x 4.5.12 released!</title>
     <updated>2025-01-23T00:00:00Z</updated>
     <id>https://vertx.io/blog/eclipse-vert-x-4-5-12</id>
@@ -179,14 +179,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.17.8 - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.17.8 - Maintenance release</title>
     <updated>2025-01-22T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-17-8-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-17-8-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.17.8 - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.17.8 - Maintenance release</title>
     <updated>2025-01-22T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-17-8-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-17-8-released/" rel="alternate"></link>
@@ -214,7 +214,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.17.7 - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.17.7 - Maintenance release</title>
     <updated>2025-01-15T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-17-7-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-17-7-released/" rel="alternate"></link>
@@ -228,7 +228,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.17.7 - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.17.7 - Maintenance release</title>
     <updated>2025-01-15T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-17-7-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-17-7-released/" rel="alternate"></link>
@@ -249,14 +249,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Implementing a MCP server in Quarkus</title>
+    <title>JBoss Blogs: Implementing a MCP server in Quarkus</title>
     <updated>2025-01-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/mcp-server/</id>
     <link href="https://quarkus.io/blog/mcp-server/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Implementing a MCP server in Quarkus</title>
+    <title>Quarkus: Implementing a MCP server in Quarkus</title>
     <updated>2025-01-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/mcp-server/</id>
     <link href="https://quarkus.io/blog/mcp-server/" rel="alternate"></link>
@@ -277,17 +277,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.17.6 - Maintenance release</title>
-    <updated>2025-01-08T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-17-6-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-17-6-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Using the Model Context Protocol with Quarkus+LangChain4j</title>
     <updated>2025-01-08T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-langchain4j-mcp/</id>
     <link href="https://quarkus.io/blog/quarkus-langchain4j-mcp/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.17.6 - Maintenance release</title>
+    <updated>2025-01-08T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-17-6-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-17-6-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -298,17 +298,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Our next LTS will be Quarkus 3.20</title>
-    <updated>2024-12-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/next-lts-3-20/</id>
-    <link href="https://quarkus.io/blog/next-lts-3-20/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus Infinispan Embedded extension</title>
     <updated>2024-12-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-infinispan-embedded/</id>
     <link href="https://quarkus.io/blog/quarkus-infinispan-embedded/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Our next LTS will be Quarkus 3.20</title>
+    <updated>2024-12-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/next-lts-3-20/</id>
+    <link href="https://quarkus.io/blog/next-lts-3-20/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -340,17 +340,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.17.2 - Maintenance release</title>
-    <updated>2024-11-29T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-17-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-17-2-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Creating pure Java LLM infused application with Quarkus, Langchain4j and Jlama</title>
     <updated>2024-11-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-jlama/</id>
     <link href="https://quarkus.io/blog/quarkus-jlama/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.17.2 - Maintenance release</title>
+    <updated>2024-11-29T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-17-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-17-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -403,17 +403,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Strengthening the Release Process for Quarkiverse and SmallRye</title>
-    <updated>2024-10-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/</id>
-    <link href="https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus Newsletter #49 - October</title>
     <updated>2024-10-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-49/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-49/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Strengthening the Release Process for Quarkiverse and SmallRye</title>
+    <updated>2024-10-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/</id>
+    <link href="https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -473,13 +473,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Revolutionising Telecom Microservice - Modernising JDiameter with Quarkus</title>
-    <updated>2024-08-19T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-jdiameter-intro/</id>
-    <link href="https://quarkus.io/blog/quarkus-jdiameter-intro/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Leveraging Quarkus build-time metaprogramming capabilities to improve Jackson's serialization performance</title>
     <updated>2024-08-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-metaprogramming/</id>
@@ -487,10 +480,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.13.2 released - Maintenance release</title>
-    <updated>2024-08-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-13-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-13-2-released/" rel="alternate"></link>
+    <title>Quarkus: Revolutionising Telecom Microservice - Modernising JDiameter with Quarkus</title>
+    <updated>2024-08-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-jdiameter-intro/</id>
+    <link href="https://quarkus.io/blog/quarkus-jdiameter-intro/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -498,6 +491,13 @@
     <updated>2024-08-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-47/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-47/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.13.2 released - Maintenance release</title>
+    <updated>2024-08-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-13-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-13-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
