@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2025-03-09T00:49:55Z</updated>
+  <updated>2025-03-09T06:13:09Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: Meet Keycloak at KubeCon EU, London in April 2025</title>
@@ -11,17 +11,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How pre-tuned real-time bootable containers work</title>
-    <updated>2025-03-06T07:00:00Z</updated>
-    <id>c71e42e1-6a91-4715-ab21-09a2f10609ce</id>
-    <link href="https://developers.redhat.com/articles/2025/03/06/how-pre-tuned-real-time-bootable-containers-work" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: How to access and run a Quarkus workshop in Developer Sandbox</title>
     <updated>2025-03-06T07:00:00Z</updated>
     <id>7a6c9aff-4a9f-4ab7-9fdf-9467ab116810</id>
     <link href="https://developers.redhat.com/articles/2025/03/06/how-access-and-run-quarkus-workshop-developer-sandbox" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How pre-tuned real-time bootable containers work</title>
+    <updated>2025-03-06T07:00:00Z</updated>
+    <id>c71e42e1-6a91-4715-ab21-09a2f10609ce</id>
+    <link href="https://developers.redhat.com/articles/2025/03/06/how-pre-tuned-real-time-bootable-containers-work" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -95,17 +95,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: A guide to configure execution environments as code</title>
-    <updated>2025-02-27T07:00:00Z</updated>
-    <id>026b991c-a382-469e-b562-17f1ddf692f9</id>
-    <link href="https://developers.redhat.com/articles/2025/02/27/guide-configure-execution-environments-code" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: vLLM V1: Accelerating multimodal inference for large language models</title>
     <updated>2025-02-27T07:00:00Z</updated>
     <id>ea893429-1434-403a-b2dd-960cd7fb7afe</id>
     <link href="https://developers.redhat.com/articles/2025/02/27/vllm-v1-accelerating-multimodal-inference-large-language-models" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: A guide to configure execution environments as code</title>
+    <updated>2025-02-27T07:00:00Z</updated>
+    <id>026b991c-a382-469e-b562-17f1ddf692f9</id>
+    <link href="https://developers.redhat.com/articles/2025/02/27/guide-configure-execution-environments-code" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -130,14 +130,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.19 - UBI 9 images, Micrometer to OpenTelemetry bridge, JEP 483 new AOT cache...</title>
+    <title>Quarkus: Quarkus 3.19 - UBI 9 images, Micrometer to OpenTelemetry bridge, JEP 483 new AOT cache...</title>
     <updated>2025-02-26T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-19-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-19-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.19 - UBI 9 images, Micrometer to OpenTelemetry bridge, JEP 483 new AOT cache...</title>
+    <title>JBoss Blogs: Quarkus 3.19 - UBI 9 images, Micrometer to OpenTelemetry bridge, JEP 483 new AOT cache...</title>
     <updated>2025-02-26T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-19-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-19-1-released/" rel="alternate"></link>
@@ -193,14 +193,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.18.4 - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.18.4 - Maintenance release</title>
     <updated>2025-02-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-18-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-18-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.18.4 - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.18.4 - Maintenance release</title>
     <updated>2025-02-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-18-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-18-4-released/" rel="alternate"></link>
@@ -242,13 +242,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Eclipse Vert.x 5 candidate 5 released!</title>
-    <updated>2025-02-13T00:00:00Z</updated>
-    <id>https://vertx.io/blog/eclipse-vert-x-5-candidate-5-released</id>
-    <link href="https://vertx.io/blog/eclipse-vert-x-5-candidate-5-released" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Vlog: Admin your WildFly with LLM and MCP</title>
     <updated>2025-02-13T00:00:00Z</updated>
     <id>https://www.youtube.com/watch?v=wg1hAdOoe2w</id>
@@ -256,10 +249,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: An introduction to use the domain mode of the current release of WildFly</title>
-    <updated>2025-02-12T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2025/02/12/wildfly-domain-usage/</id>
-    <link href="https://wildfly.org//news/2025/02/12/wildfly-domain-usage/" rel="alternate"></link>
+    <title>JBoss Blogs: Eclipse Vert.x 5 candidate 5 released!</title>
+    <updated>2025-02-13T00:00:00Z</updated>
+    <id>https://vertx.io/blog/eclipse-vert-x-5-candidate-5-released</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-5-candidate-5-released" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -267,6 +260,13 @@
     <updated>2025-02-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-18-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-18-3-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: An introduction to use the domain mode of the current release of WildFly</title>
+    <updated>2025-02-12T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2025/02/12/wildfly-domain-usage/</id>
+    <link href="https://wildfly.org//news/2025/02/12/wildfly-domain-usage/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -914,17 +914,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -1425,17 +1425,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: RHAMT Eclipse Plugin 4.1.0.Final has been released!</title>
-    <updated>2018-07-17T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html</id>
-    <link href="https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat Developer Studio for Eclipse Photon</title>
     <updated>2018-07-17T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.0.0.ga-for-photon.html</id>
     <link href="https://tools.jboss.org/blog/12.0.0.ga-for-photon.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: RHAMT Eclipse Plugin 4.1.0.Final has been released!</title>
+    <updated>2018-07-17T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html</id>
+    <link href="https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
