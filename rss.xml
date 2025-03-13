@@ -1,13 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2025-03-13T06:17:19Z</updated>
+  <updated>2025-03-13T12:23:18Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
-    <title>Red Hat Developer: Try Istio ambient mode on Red Hat OpenShift</title>
-    <updated>2025-03-12T07:00:00Z</updated>
-    <id>eda5c15c-b473-4097-a3de-38d231da1c8b</id>
-    <link href="https://developers.redhat.com/articles/2025/03/12/try-istio-ambient-mode-red-hat-openshift" rel="alternate"></link>
+    <title>Red Hat Developer: How RHEL provides secure and stable Python streams</title>
+    <updated>2025-03-13T07:00:00Z</updated>
+    <id>4250051d-abfa-41fe-9560-0213166515e9</id>
+    <link href="https://developers.redhat.com/articles/2025/03/13/how-rhel-provides-secure-and-stable-python-streams" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,10 +18,24 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Red Hat Developer: Try Istio ambient mode on Red Hat OpenShift</title>
+    <updated>2025-03-12T07:00:00Z</updated>
+    <id>eda5c15c-b473-4097-a3de-38d231da1c8b</id>
+    <link href="https://developers.redhat.com/articles/2025/03/12/try-istio-ambient-mode-red-hat-openshift" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Quarkus 3.19.3 - Maintenance release</title>
     <updated>2025-03-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-19-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-19-3-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Running SQLite in Pure Java with Quarkus</title>
+    <updated>2025-03-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/sqlite4j-pure-java-sqlite/</id>
+    <link href="https://quarkus.io/blog/sqlite4j-pure-java-sqlite/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -53,10 +67,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Running SQLite in Pure Java with Quarkus</title>
-    <updated>2025-03-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/sqlite4j-pure-java-sqlite/</id>
-    <link href="https://quarkus.io/blog/sqlite4j-pure-java-sqlite/" rel="alternate"></link>
+    <title>Red Hat Developer: Retrieval-augmented generation with Node.js, Podman AI Lab & React</title>
+    <updated>2025-03-11T07:00:00Z</updated>
+    <id>687215e8-d2fd-4aea-b4f9-1e80350a59e4</id>
+    <link href="https://developers.redhat.com/articles/2025/03/10/retrieval-augmented-generation-nodejs-podman-ai-lab-react" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -64,13 +78,6 @@
     <updated>2025-03-11T07:00:00Z</updated>
     <id>173ff892-992e-43f2-ad9b-bbf5ebae06ab</id>
     <link href="https://developers.redhat.com/articles/2025/03/11/discover-packaging-parallel-database-streams-rhel-10" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Retrieval-augmented generation with Node.js, Podman AI Lab & React</title>
-    <updated>2025-03-11T07:00:00Z</updated>
-    <id>687215e8-d2fd-4aea-b4f9-1e80350a59e4</id>
-    <link href="https://developers.redhat.com/articles/2025/03/10/retrieval-augmented-generation-nodejs-podman-ai-lab-react" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -137,13 +144,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.19.2 - Maintenance release</title>
-    <updated>2025-03-05T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-19-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-19-2-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Quarkus 3.19.2 - Maintenance release</title>
     <updated>2025-03-05T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-19-2-released/</id>
@@ -158,10 +158,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Deployment-ready reasoning with quantized DeepSeek-R1 models</title>
-    <updated>2025-03-03T13:10:00Z</updated>
-    <id>562bf0aa-fbaf-4b52-b5cd-55abdc19db45</id>
-    <link href="https://developers.redhat.com/articles/2025/03/03/deployment-ready-reasoning-quantized-deepseek-r1-models" rel="alternate"></link>
+    <title>Quarkus: Quarkus 3.19.2 - Maintenance release</title>
+    <updated>2025-03-05T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-19-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-19-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -172,14 +172,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: CVE fixes - February 2025</title>
+    <title>JBoss Blogs: CVE fixes - February 2025</title>
     <updated>2025-02-27T00:00:00Z</updated>
     <id>https://quarkus.io/blog/cve-fixes-feb-2025/</id>
     <link href="https://quarkus.io/blog/cve-fixes-feb-2025/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: CVE fixes - February 2025</title>
+    <title>Quarkus: CVE fixes - February 2025</title>
     <updated>2025-02-27T00:00:00Z</updated>
     <id>https://quarkus.io/blog/cve-fixes-feb-2025/</id>
     <link href="https://quarkus.io/blog/cve-fixes-feb-2025/" rel="alternate"></link>
@@ -235,6 +235,20 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Quarkus 3.18.4 - Maintenance release</title>
+    <updated>2025-02-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-18-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-18-4-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: The Quarkus Edge: How Real Customers Achieve Speed, Performance, and Agility</title>
+    <updated>2025-02-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/idc-customer-case-studies/</id>
+    <link href="https://quarkus.io/blog/idc-customer-case-studies/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: The Quarkus Edge: How Real Customers Achieve Speed, Performance, and Agility</title>
     <updated>2025-02-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/idc-customer-case-studies/</id>
@@ -256,28 +270,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.18.4 - Maintenance release</title>
-    <updated>2025-02-19T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-18-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-18-4-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: The Quarkus Edge: How Real Customers Achieve Speed, Performance, and Agility</title>
-    <updated>2025-02-19T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/idc-customer-case-studies/</id>
-    <link href="https://quarkus.io/blog/idc-customer-case-studies/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Agentic AI with Quarkus - part 1</title>
+    <title>Quarkus: Agentic AI with Quarkus - part 1</title>
     <updated>2025-02-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/agentic-ai-with-quarkus/</id>
     <link href="https://quarkus.io/blog/agentic-ai-with-quarkus/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Agentic AI with Quarkus - part 1</title>
+    <title>JBoss Blogs: Agentic AI with Quarkus - part 1</title>
     <updated>2025-02-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/agentic-ai-with-quarkus/</id>
     <link href="https://quarkus.io/blog/agentic-ai-with-quarkus/" rel="alternate"></link>
@@ -494,17 +494,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus Newsletter #49 - October</title>
-    <updated>2024-10-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-49/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-49/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Strengthening the Release Process for Quarkiverse and SmallRye</title>
     <updated>2024-10-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/</id>
     <link href="https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus Newsletter #49 - October</title>
+    <updated>2024-10-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-49/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-49/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -578,17 +578,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
     <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -914,17 +914,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -1425,17 +1425,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: RHAMT Eclipse Plugin 4.1.0.Final has been released!</title>
-    <updated>2018-07-17T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html</id>
-    <link href="https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat Developer Studio for Eclipse Photon</title>
     <updated>2018-07-17T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.0.0.ga-for-photon.html</id>
     <link href="https://tools.jboss.org/blog/12.0.0.ga-for-photon.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: RHAMT Eclipse Plugin 4.1.0.Final has been released!</title>
+    <updated>2018-07-17T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html</id>
+    <link href="https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
