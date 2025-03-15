@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2025-03-15T06:15:24Z</updated>
+  <updated>2025-03-15T12:20:18Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>JBoss Blogs: Keycloak 26.1.4 released</title>
@@ -15,6 +15,20 @@
     <updated>2025-03-13T07:00:00Z</updated>
     <id>4250051d-abfa-41fe-9560-0213166515e9</id>
     <link href="https://developers.redhat.com/articles/2025/03/13/how-rhel-provides-secure-and-stable-python-streams" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Secure Agentic AI with Quarkus and Google Gemini</title>
+    <updated>2025-03-13T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/gemini-personal-assistant/</id>
+    <link href="https://quarkus.io/blog/gemini-personal-assistant/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus & Red Hat's evolving middleware strategy</title>
+    <updated>2025-03-13T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-redhat-strategy/</id>
+    <link href="https://quarkus.io/blog/quarkus-redhat-strategy/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -32,17 +46,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus & Red Hat's evolving middleware strategy</title>
-    <updated>2025-03-13T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-redhat-strategy/</id>
-    <link href="https://quarkus.io/blog/quarkus-redhat-strategy/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Secure Agentic AI with Quarkus and Google Gemini</title>
-    <updated>2025-03-13T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/gemini-personal-assistant/</id>
-    <link href="https://quarkus.io/blog/gemini-personal-assistant/" rel="alternate"></link>
+    <title>Red Hat Developer: Try Istio ambient mode on Red Hat OpenShift</title>
+    <updated>2025-03-12T07:00:00Z</updated>
+    <id>eda5c15c-b473-4097-a3de-38d231da1c8b</id>
+    <link href="https://developers.redhat.com/articles/2025/03/12/try-istio-ambient-mode-red-hat-openshift" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -53,27 +60,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Try Istio ambient mode on Red Hat OpenShift</title>
-    <updated>2025-03-12T07:00:00Z</updated>
-    <id>eda5c15c-b473-4097-a3de-38d231da1c8b</id>
-    <link href="https://developers.redhat.com/articles/2025/03/12/try-istio-ambient-mode-red-hat-openshift" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.19.3 - Maintenance release</title>
-    <updated>2025-03-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-19-3-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-19-3-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Running SQLite in Pure Java with Quarkus</title>
-    <updated>2025-03-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/sqlite4j-pure-java-sqlite/</id>
-    <link href="https://quarkus.io/blog/sqlite4j-pure-java-sqlite/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus Newsletter #54 - March</title>
     <updated>2025-03-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-54/</id>
@@ -81,7 +67,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.19.3 - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.19.3 - Maintenance release</title>
     <updated>2025-03-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-19-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-19-3-released/" rel="alternate"></link>
@@ -95,6 +81,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Quarkus 3.19.3 - Maintenance release</title>
+    <updated>2025-03-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-19-3-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-19-3-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Quarkus Newsletter #54 - March</title>
     <updated>2025-03-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-54/</id>
@@ -102,10 +95,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Retrieval-augmented generation with Node.js, Podman AI Lab & React</title>
-    <updated>2025-03-11T07:00:00Z</updated>
-    <id>687215e8-d2fd-4aea-b4f9-1e80350a59e4</id>
-    <link href="https://developers.redhat.com/articles/2025/03/10/retrieval-augmented-generation-nodejs-podman-ai-lab-react" rel="alternate"></link>
+    <title>Quarkus: Running SQLite in Pure Java with Quarkus</title>
+    <updated>2025-03-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/sqlite4j-pure-java-sqlite/</id>
+    <link href="https://quarkus.io/blog/sqlite4j-pure-java-sqlite/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -113,6 +106,13 @@
     <updated>2025-03-11T07:00:00Z</updated>
     <id>173ff892-992e-43f2-ad9b-bbf5ebae06ab</id>
     <link href="https://developers.redhat.com/articles/2025/03/11/discover-packaging-parallel-database-streams-rhel-10" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Retrieval-augmented generation with Node.js, Podman AI Lab & React</title>
+    <updated>2025-03-11T07:00:00Z</updated>
+    <id>687215e8-d2fd-4aea-b4f9-1e80350a59e4</id>
+    <link href="https://developers.redhat.com/articles/2025/03/10/retrieval-augmented-generation-nodejs-podman-ai-lab-react" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -137,17 +137,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to access and run a Quarkus workshop in Developer Sandbox</title>
-    <updated>2025-03-06T07:00:00Z</updated>
-    <id>7a6c9aff-4a9f-4ab7-9fdf-9467ab116810</id>
-    <link href="https://developers.redhat.com/articles/2025/03/06/how-access-and-run-quarkus-workshop-developer-sandbox" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: How pre-tuned real-time bootable containers work</title>
     <updated>2025-03-06T07:00:00Z</updated>
     <id>c71e42e1-6a91-4715-ab21-09a2f10609ce</id>
     <link href="https://developers.redhat.com/articles/2025/03/06/how-pre-tuned-real-time-bootable-containers-work" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How to access and run a Quarkus workshop in Developer Sandbox</title>
+    <updated>2025-03-06T07:00:00Z</updated>
+    <id>7a6c9aff-4a9f-4ab7-9fdf-9467ab116810</id>
+    <link href="https://developers.redhat.com/articles/2025/03/06/how-access-and-run-quarkus-workshop-developer-sandbox" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -158,6 +158,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Red Hat Developer: How to troubleshoot Node.js images in OpenShift</title>
+    <updated>2025-03-05T07:00:00Z</updated>
+    <id>121c80d6-e4e6-4b20-8478-fceeb39a847f</id>
+    <link href="https://developers.redhat.com/articles/2025/03/05/how-troubleshoot-nodejs-images-openshift" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Red Hat Developer: How to troubleshoot Spring Boot in OpenShift</title>
     <updated>2025-03-05T07:00:00Z</updated>
     <id>49f5faa4-401d-48c8-a287-9c74b9514cbc</id>
@@ -165,10 +172,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to troubleshoot Node.js images in OpenShift</title>
-    <updated>2025-03-05T07:00:00Z</updated>
-    <id>121c80d6-e4e6-4b20-8478-fceeb39a847f</id>
-    <link href="https://developers.redhat.com/articles/2025/03/05/how-troubleshoot-nodejs-images-openshift" rel="alternate"></link>
+    <title>Quarkus: Quarkus 3.19.2 - Maintenance release</title>
+    <updated>2025-03-05T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-19-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-19-2-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Introducing the Keycloak Austria User Group</title>
+    <updated>2025-03-05T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2025/03/austria-user-group</id>
+    <link href="https://www.keycloak.org/2025/03/austria-user-group" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -186,31 +200,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Introducing the Keycloak Austria User Group</title>
-    <updated>2025-03-05T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2025/03/austria-user-group</id>
-    <link href="https://www.keycloak.org/2025/03/austria-user-group" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.19.2 - Maintenance release</title>
-    <updated>2025-03-05T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-19-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-19-2-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Keycloak 26.1.3 released</title>
     <updated>2025-02-28T00:00:00Z</updated>
     <id>https://www.keycloak.org/2025/02/keycloak-2613-released</id>
     <link href="https://www.keycloak.org/2025/02/keycloak-2613-released" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: CVE fixes - February 2025</title>
-    <updated>2025-02-27T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/cve-fixes-feb-2025/</id>
-    <link href="https://quarkus.io/blog/cve-fixes-feb-2025/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -221,14 +214,21 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.19 - UBI 9 images, Micrometer to OpenTelemetry bridge, JEP 483 new AOT cache...</title>
+    <title>JBoss Blogs: CVE fixes - February 2025</title>
+    <updated>2025-02-27T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/cve-fixes-feb-2025/</id>
+    <link href="https://quarkus.io/blog/cve-fixes-feb-2025/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.19 - UBI 9 images, Micrometer to OpenTelemetry bridge, JEP 483 new AOT cache...</title>
     <updated>2025-02-26T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-19-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-19-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.19 - UBI 9 images, Micrometer to OpenTelemetry bridge, JEP 483 new AOT cache...</title>
+    <title>JBoss Blogs: Quarkus 3.19 - UBI 9 images, Micrometer to OpenTelemetry bridge, JEP 483 new AOT cache...</title>
     <updated>2025-02-26T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-19-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-19-1-released/" rel="alternate"></link>
@@ -249,17 +249,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Agentic AI with Quarkus - part 2</title>
-    <updated>2025-02-20T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/agentic-ai-with-quarkus-p2/</id>
-    <link href="https://quarkus.io/blog/agentic-ai-with-quarkus-p2/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Keycloak JS 26.2.0 released</title>
     <updated>2025-02-20T00:00:00Z</updated>
     <id>https://www.keycloak.org/2025/02/keycloak-js-2620-released</id>
     <link href="https://www.keycloak.org/2025/02/keycloak-js-2620-released" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Agentic AI with Quarkus - part 2</title>
+    <updated>2025-02-20T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/agentic-ai-with-quarkus-p2/</id>
+    <link href="https://quarkus.io/blog/agentic-ai-with-quarkus-p2/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -270,10 +270,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: The Quarkus Edge: How Real Customers Achieve Speed, Performance, and Agility</title>
+    <title>Quarkus: Quarkus 3.18.4 - Maintenance release</title>
     <updated>2025-02-19T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/idc-customer-case-studies/</id>
-    <link href="https://quarkus.io/blog/idc-customer-case-studies/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-18-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-18-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -284,10 +284,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.18.4 - Maintenance release</title>
+    <title>Quarkus: The Quarkus Edge: How Real Customers Achieve Speed, Performance, and Agility</title>
     <updated>2025-02-19T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-18-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-18-4-released/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/idc-customer-case-studies/</id>
+    <link href="https://quarkus.io/blog/idc-customer-case-studies/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -326,17 +326,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Introducing Model Context Protocol servers project</title>
-    <updated>2025-01-29T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/introducing-mcp-servers/</id>
-    <link href="https://quarkus.io/blog/introducing-mcp-servers/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.18 - Micrometer for WebSockets Next, Security WebAuthn based on WebAuthn4J, Kubernetes Client 7...</title>
     <updated>2025-01-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-18-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-18-1-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Introducing Model Context Protocol servers project</title>
+    <updated>2025-01-29T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/introducing-mcp-servers/</id>
+    <link href="https://quarkus.io/blog/introducing-mcp-servers/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -403,17 +403,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus Infinispan Embedded extension</title>
-    <updated>2024-12-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-infinispan-embedded/</id>
-    <link href="https://quarkus.io/blog/quarkus-infinispan-embedded/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Our next LTS will be Quarkus 3.20</title>
     <updated>2024-12-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/next-lts-3-20/</id>
     <link href="https://quarkus.io/blog/next-lts-3-20/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus Infinispan Embedded extension</title>
+    <updated>2024-12-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-infinispan-embedded/</id>
+    <link href="https://quarkus.io/blog/quarkus-infinispan-embedded/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -914,17 +914,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -1425,17 +1425,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: JBoss Tools and Red Hat Developer Studio for Eclipse Photon</title>
-    <updated>2018-07-17T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/12.0.0.ga-for-photon.html</id>
-    <link href="https://tools.jboss.org/blog/12.0.0.ga-for-photon.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: RHAMT Eclipse Plugin 4.1.0.Final has been released!</title>
     <updated>2018-07-17T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html</id>
     <link href="https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: JBoss Tools and Red Hat Developer Studio for Eclipse Photon</title>
+    <updated>2018-07-17T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/12.0.0.ga-for-photon.html</id>
+    <link href="https://tools.jboss.org/blog/12.0.0.ga-for-photon.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
