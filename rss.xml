@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2025-04-04T12:23:16Z</updated>
+  <updated>2025-04-04T18:16:34Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: How to navigate LLM model names</title>
@@ -25,17 +25,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to connect VMs to user-defined networks in OpenShift</title>
-    <updated>2025-04-02T07:00:00Z</updated>
-    <id>0971f398-7862-4761-971b-1b4fa30c75d3</id>
-    <link href="https://developers.redhat.com/articles/2025/04/02/how-connect-vms-user-defined-networks-openshift" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: A practical guide to Llama Stack for Node.js developers</title>
     <updated>2025-04-02T07:00:00Z</updated>
     <id>efcc8804-1464-46be-aa92-fd3e90866d32</id>
     <link href="https://developers.redhat.com/articles/2025/04/02/practical-guide-llama-stack-nodejs-developers" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How to connect VMs to user-defined networks in OpenShift</title>
+    <updated>2025-04-02T07:00:00Z</updated>
+    <id>0971f398-7862-4761-971b-1b4fa30c75d3</id>
+    <link href="https://developers.redhat.com/articles/2025/04/02/how-connect-vms-user-defined-networks-openshift" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -74,13 +74,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to run TRELLIS on RHEL with Podman</title>
-    <updated>2025-03-31T07:00:00Z</updated>
-    <id>e79c2831-8949-48ab-a192-21e8a65dd4d0</id>
-    <link href="https://developers.redhat.com/articles/2025/03/31/how-run-trellis-rhel-podman" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: New: Local development with JetBrains IDEs in OpenShift Dev Spaces</title>
     <updated>2025-03-31T07:00:00Z</updated>
     <id>ce9316b7-085f-4cce-bad1-5dbe9a8ce6cc</id>
@@ -88,10 +81,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: The new Multi-Cluster Alerting UI: A developer preview</title>
-    <updated>2025-03-27T07:00:00Z</updated>
-    <id>66c2b94f-efd6-4cc3-8021-8dc8c1a28cb0</id>
-    <link href="https://developers.redhat.com/articles/2025/03/27/new-multi-cluster-alerting-ui-developer-preview" rel="alternate"></link>
+    <title>Red Hat Developer: How to run TRELLIS on RHEL with Podman</title>
+    <updated>2025-03-31T07:00:00Z</updated>
+    <id>e79c2831-8949-48ab-a192-21e8a65dd4d0</id>
+    <link href="https://developers.redhat.com/articles/2025/03/31/how-run-trellis-rhel-podman" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -99,6 +92,13 @@
     <updated>2025-03-27T07:00:00Z</updated>
     <id>983fd8ec-156c-45da-a942-16a6244a8cb7</id>
     <link href="https://developers.redhat.com/articles/2025/03/27/how-run-microshift-openshift-local-and-podman-desktop" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: The new Multi-Cluster Alerting UI: A developer preview</title>
+    <updated>2025-03-27T07:00:00Z</updated>
+    <id>66c2b94f-efd6-4cc3-8021-8dc8c1a28cb0</id>
+    <link href="https://developers.redhat.com/articles/2025/03/27/new-multi-cluster-alerting-ui-developer-preview" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -123,6 +123,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Quarkus 3.20 - new LTS version</title>
+    <updated>2025-03-26T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-20-0-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-20-0-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Quarkus 3.21 - TLS Registry support for MongoDB Client</title>
     <updated>2025-03-26T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-21-0-released/</id>
@@ -131,13 +138,6 @@
   </entry>
   <entry>
     <title>JBoss Blogs: Quarkus 3.20 - new LTS version</title>
-    <updated>2025-03-26T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-20-0-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-20-0-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.20 - new LTS version</title>
     <updated>2025-03-26T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-20-0-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-20-0-released/" rel="alternate"></link>
@@ -179,14 +179,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.19.4 - Maintenance release</title>
-    <updated>2025-03-19T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-19-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-19-4-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Sender-constraining access tokens with Quarkus OIDC</title>
+    <title>Quarkus: Sender-constraining access tokens with Quarkus OIDC</title>
     <updated>2025-03-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/sender-constraining-tokens/</id>
     <link href="https://quarkus.io/blog/sender-constraining-tokens/" rel="alternate"></link>
@@ -207,17 +200,24 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Sender-constraining access tokens with Quarkus OIDC</title>
+    <title>JBoss Blogs: Sender-constraining access tokens with Quarkus OIDC</title>
     <updated>2025-03-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/sender-constraining-tokens/</id>
     <link href="https://quarkus.io/blog/sender-constraining-tokens/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.15.4 released - LTS maintenance release</title>
+    <title>Quarkus: Quarkus 3.19.4 - Maintenance release</title>
+    <updated>2025-03-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-19-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-19-4-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: How Orange leverages Quarkus for seamless access to Telco network capabilities</title>
     <updated>2025-03-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-15-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-15-4-released/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/orange-telco-core-network-api-management-with-quarkus/</id>
+    <link href="https://quarkus.io/blog/orange-telco-core-network-api-management-with-quarkus/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -235,10 +235,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: How Orange leverages Quarkus for seamless access to Telco network capabilities</title>
+    <title>Quarkus: Quarkus 3.15.4 released - LTS maintenance release</title>
     <updated>2025-03-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/orange-telco-core-network-api-management-with-quarkus/</id>
-    <link href="https://quarkus.io/blog/orange-telco-core-network-api-management-with-quarkus/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-15-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-15-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -284,6 +284,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Running SQLite in Pure Java with Quarkus</title>
+    <updated>2025-03-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/sqlite4j-pure-java-sqlite/</id>
+    <link href="https://quarkus.io/blog/sqlite4j-pure-java-sqlite/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Quarkus: Quarkus 3.19.3 - Maintenance release</title>
     <updated>2025-03-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-19-3-released/</id>
@@ -295,13 +302,6 @@
     <updated>2025-03-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-54/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-54/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Running SQLite in Pure Java with Quarkus</title>
-    <updated>2025-03-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/sqlite4j-pure-java-sqlite/</id>
-    <link href="https://quarkus.io/blog/sqlite4j-pure-java-sqlite/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -382,17 +382,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Introducing Model Context Protocol servers project</title>
-    <updated>2025-01-29T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/introducing-mcp-servers/</id>
-    <link href="https://quarkus.io/blog/introducing-mcp-servers/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.18 - Micrometer for WebSockets Next, Security WebAuthn based on WebAuthn4J, Kubernetes Client 7...</title>
     <updated>2025-01-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-18-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-18-1-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Introducing Model Context Protocol servers project</title>
+    <updated>2025-01-29T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/introducing-mcp-servers/</id>
+    <link href="https://quarkus.io/blog/introducing-mcp-servers/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -459,17 +459,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus Infinispan Embedded extension</title>
-    <updated>2024-12-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-infinispan-embedded/</id>
-    <link href="https://quarkus.io/blog/quarkus-infinispan-embedded/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Our next LTS will be Quarkus 3.20</title>
     <updated>2024-12-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/next-lts-3-20/</id>
     <link href="https://quarkus.io/blog/next-lts-3-20/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus Infinispan Embedded extension</title>
+    <updated>2024-12-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-infinispan-embedded/</id>
+    <link href="https://quarkus.io/blog/quarkus-infinispan-embedded/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
