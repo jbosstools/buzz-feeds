@@ -1,20 +1,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2025-04-04T00:58:31Z</updated>
+  <updated>2025-04-04T06:17:26Z</updated>
   <link href="https://tools.jboss.org"></link>
-  <entry>
-    <title>Red Hat Developer: Simplify AI data integration with RamaLama and RAG</title>
-    <updated>2025-04-03T07:00:00Z</updated>
-    <id>cfb4703e-ffb1-4650-9ee7-1b83849af905</id>
-    <link href="https://developers.redhat.com/articles/2025/04/03/simplify-ai-data-integration-ramalama-and-rag" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>Red Hat Developer: How to navigate LLM model names</title>
     <updated>2025-04-03T07:00:00Z</updated>
     <id>f29d8b98-9336-4380-b0cf-76c731c51165</id>
     <link href="https://developers.redhat.com/articles/2025/04/03/how-navigate-llm-model-names" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Simplify AI data integration with RamaLama and RAG</title>
+    <updated>2025-04-03T07:00:00Z</updated>
+    <id>cfb4703e-ffb1-4650-9ee7-1b83849af905</id>
+    <link href="https://developers.redhat.com/articles/2025/04/03/simplify-ai-data-integration-ramalama-and-rag" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -53,17 +53,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Enable 3.5 times faster vision language models with quantization</title>
-    <updated>2025-04-01T07:00:00Z</updated>
-    <id>9a85242b-d2dc-4f2c-9e07-6c925016b19d</id>
-    <link href="https://developers.redhat.com/articles/2025/04/01/enable-faster-vision-language-models-quantization" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: How to set up OpenShift confidential clusters on Azure</title>
     <updated>2025-04-01T07:00:00Z</updated>
     <id>dbe202b0-40cf-4064-b375-eb8900072c55</id>
     <link href="https://developers.redhat.com/articles/2025/04/01/how-set-openshift-confidential-clusters-azure" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Enable 3.5 times faster vision language models with quantization</title>
+    <updated>2025-04-01T07:00:00Z</updated>
+    <id>9a85242b-d2dc-4f2c-9e07-6c925016b19d</id>
+    <link href="https://developers.redhat.com/articles/2025/04/01/enable-faster-vision-language-models-quantization" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -74,17 +74,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: New: Local development with JetBrains IDEs in OpenShift Dev Spaces</title>
-    <updated>2025-03-31T07:00:00Z</updated>
-    <id>ce9316b7-085f-4cce-bad1-5dbe9a8ce6cc</id>
-    <link href="https://developers.redhat.com/articles/2025/03/31/new-local-development-jetbrains-ides-openshift-dev-spaces" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: How to run TRELLIS on RHEL with Podman</title>
     <updated>2025-03-31T07:00:00Z</updated>
     <id>e79c2831-8949-48ab-a192-21e8a65dd4d0</id>
     <link href="https://developers.redhat.com/articles/2025/03/31/how-run-trellis-rhel-podman" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: New: Local development with JetBrains IDEs in OpenShift Dev Spaces</title>
+    <updated>2025-03-31T07:00:00Z</updated>
+    <id>ce9316b7-085f-4cce-bad1-5dbe9a8ce6cc</id>
+    <link href="https://developers.redhat.com/articles/2025/03/31/new-local-development-jetbrains-ides-openshift-dev-spaces" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -102,10 +102,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Infinispan 15.2.0.Final</title>
+    <title>JBoss Blogs: WildFly 36 Beta is released!</title>
     <updated>2025-03-27T00:00:00Z</updated>
-    <id>https://infinispan.org/blog/2025/03/27/infinispan-15-2</id>
-    <link href="https://infinispan.org/blog/2025/03/27/infinispan-15-2" rel="alternate"></link>
+    <id>https://wildfly.org//news/2025/03/27/WildFly36Beta-released/</id>
+    <link href="https://wildfly.org//news/2025/03/27/WildFly36Beta-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -116,10 +116,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: WildFly 36 Beta is released!</title>
+    <title>JBoss Blogs: Infinispan 15.2.0.Final</title>
     <updated>2025-03-27T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2025/03/27/WildFly36Beta-released/</id>
-    <link href="https://wildfly.org//news/2025/03/27/WildFly36Beta-released/" rel="alternate"></link>
+    <id>https://infinispan.org/blog/2025/03/27/infinispan-15-2</id>
+    <link href="https://infinispan.org/blog/2025/03/27/infinispan-15-2" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -127,6 +127,13 @@
     <updated>2025-03-26T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-21-0-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-21-0-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.20 - new LTS version</title>
+    <updated>2025-03-26T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-20-0-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-20-0-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -144,21 +151,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.20 - new LTS version</title>
-    <updated>2025-03-26T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-20-0-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-20-0-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Movie similarity search using vector databases</title>
+    <title>JBoss Blogs: Movie similarity search using vector databases</title>
     <updated>2025-03-24T00:00:00Z</updated>
     <id>https://quarkus.io/blog/movie-similarity-search-using-vector-databases/</id>
     <link href="https://quarkus.io/blog/movie-similarity-search-using-vector-databases/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Movie similarity search using vector databases</title>
+    <title>Quarkus: Movie similarity search using vector databases</title>
     <updated>2025-03-24T00:00:00Z</updated>
     <id>https://quarkus.io/blog/movie-similarity-search-using-vector-databases/</id>
     <link href="https://quarkus.io/blog/movie-similarity-search-using-vector-databases/" rel="alternate"></link>
@@ -179,7 +179,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.19.4 - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.19.4 - Maintenance release</title>
     <updated>2025-03-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-19-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-19-4-released/" rel="alternate"></link>
@@ -193,14 +193,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Sender-constraining access tokens with Quarkus OIDC</title>
-    <updated>2025-03-19T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/sender-constraining-tokens/</id>
-    <link href="https://quarkus.io/blog/sender-constraining-tokens/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.19.4 - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.19.4 - Maintenance release</title>
     <updated>2025-03-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-19-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-19-4-released/" rel="alternate"></link>
@@ -214,7 +207,21 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Sender-constraining access tokens with Quarkus OIDC</title>
+    <updated>2025-03-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/sender-constraining-tokens/</id>
+    <link href="https://quarkus.io/blog/sender-constraining-tokens/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Quarkus: Quarkus 3.15.4 released - LTS maintenance release</title>
+    <updated>2025-03-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-15-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-15-4-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.15.4 released - LTS maintenance release</title>
     <updated>2025-03-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-15-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-15-4-released/" rel="alternate"></link>
@@ -225,13 +232,6 @@
     <updated>2025-03-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/orange-telco-core-network-api-management-with-quarkus/</id>
     <link href="https://quarkus.io/blog/orange-telco-core-network-api-management-with-quarkus/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.15.4 released - LTS maintenance release</title>
-    <updated>2025-03-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-15-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-15-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -263,6 +263,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Secure Agentic AI with Quarkus and Google Gemini</title>
+    <updated>2025-03-13T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/gemini-personal-assistant/</id>
+    <link href="https://quarkus.io/blog/gemini-personal-assistant/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Quarkus: Quarkus & Red Hat's evolving middleware strategy</title>
     <updated>2025-03-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-redhat-strategy/</id>
@@ -274,13 +281,6 @@
     <updated>2025-03-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-redhat-strategy/</id>
     <link href="https://quarkus.io/blog/quarkus-redhat-strategy/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Secure Agentic AI with Quarkus and Google Gemini</title>
-    <updated>2025-03-13T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/gemini-personal-assistant/</id>
-    <link href="https://quarkus.io/blog/gemini-personal-assistant/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -1425,17 +1425,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Tools: RHAMT Eclipse Plugin 4.1.0.Final has been released!</title>
-    <updated>2018-07-17T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html</id>
-    <link href="https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat Developer Studio for Eclipse Photon</title>
     <updated>2018-07-17T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.0.0.ga-for-photon.html</id>
     <link href="https://tools.jboss.org/blog/12.0.0.ga-for-photon.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Tools: RHAMT Eclipse Plugin 4.1.0.Final has been released!</title>
+    <updated>2018-07-17T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html</id>
+    <link href="https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
 </feed>
