@@ -1,13 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2025-04-05T18:14:26Z</updated>
+  <updated>2025-04-06T01:02:36Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
-    <title>Red Hat Developer: How to navigate LLM model names</title>
-    <updated>2025-04-03T07:00:00Z</updated>
-    <id>f29d8b98-9336-4380-b0cf-76c731c51165</id>
-    <link href="https://developers.redhat.com/articles/2025/04/03/how-navigate-llm-model-names" rel="alternate"></link>
+    <title>Red Hat Developer: Llama 4 herd is here with Day 0 inference support in vLLM</title>
+    <updated>2025-04-05T19:30:00Z</updated>
+    <id>440a29e1-0018-443f-a1ef-86c5b2059baa</id>
+    <link href="https://developers.redhat.com/articles/2025/04/05/llama-4-herd-here-day-zero-inference-support-vllm" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -18,6 +18,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Red Hat Developer: How to navigate LLM model names</title>
+    <updated>2025-04-03T07:00:00Z</updated>
+    <id>f29d8b98-9336-4380-b0cf-76c731c51165</id>
+    <link href="https://developers.redhat.com/articles/2025/04/03/how-navigate-llm-model-names" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Eclipse Vert.x 4.5.14 released!</title>
     <updated>2025-04-03T00:00:00Z</updated>
     <id>https://vertx.io/blog/eclipse-vert-x-4-5-14</id>
@@ -25,17 +32,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to connect VMs to user-defined networks in OpenShift</title>
-    <updated>2025-04-02T07:00:00Z</updated>
-    <id>0971f398-7862-4761-971b-1b4fa30c75d3</id>
-    <link href="https://developers.redhat.com/articles/2025/04/02/how-connect-vms-user-defined-networks-openshift" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: A practical guide to Llama Stack for Node.js developers</title>
     <updated>2025-04-02T07:00:00Z</updated>
     <id>efcc8804-1464-46be-aa92-fd3e90866d32</id>
     <link href="https://developers.redhat.com/articles/2025/04/02/practical-guide-llama-stack-nodejs-developers" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How to connect VMs to user-defined networks in OpenShift</title>
+    <updated>2025-04-02T07:00:00Z</updated>
+    <id>0971f398-7862-4761-971b-1b4fa30c75d3</id>
+    <link href="https://developers.redhat.com/articles/2025/04/02/how-connect-vms-user-defined-networks-openshift" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -53,17 +60,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to set up OpenShift confidential clusters on Azure</title>
-    <updated>2025-04-01T07:00:00Z</updated>
-    <id>dbe202b0-40cf-4064-b375-eb8900072c55</id>
-    <link href="https://developers.redhat.com/articles/2025/04/01/how-set-openshift-confidential-clusters-azure" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Enable 3.5 times faster vision language models with quantization</title>
     <updated>2025-04-01T07:00:00Z</updated>
     <id>9a85242b-d2dc-4f2c-9e07-6c925016b19d</id>
     <link href="https://developers.redhat.com/articles/2025/04/01/enable-faster-vision-language-models-quantization" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How to set up OpenShift confidential clusters on Azure</title>
+    <updated>2025-04-01T07:00:00Z</updated>
+    <id>dbe202b0-40cf-4064-b375-eb8900072c55</id>
+    <link href="https://developers.redhat.com/articles/2025/04/01/how-set-openshift-confidential-clusters-azure" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -74,17 +81,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to run TRELLIS on RHEL with Podman</title>
-    <updated>2025-03-31T07:00:00Z</updated>
-    <id>e79c2831-8949-48ab-a192-21e8a65dd4d0</id>
-    <link href="https://developers.redhat.com/articles/2025/03/31/how-run-trellis-rhel-podman" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: New: Local development with JetBrains IDEs in OpenShift Dev Spaces</title>
     <updated>2025-03-31T07:00:00Z</updated>
     <id>ce9316b7-085f-4cce-bad1-5dbe9a8ce6cc</id>
     <link href="https://developers.redhat.com/articles/2025/03/31/new-local-development-jetbrains-ides-openshift-dev-spaces" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How to run TRELLIS on RHEL with Podman</title>
+    <updated>2025-03-31T07:00:00Z</updated>
+    <id>e79c2831-8949-48ab-a192-21e8a65dd4d0</id>
+    <link href="https://developers.redhat.com/articles/2025/03/31/how-run-trellis-rhel-podman" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -95,10 +102,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to run MicroShift with OpenShift Local and Podman Desktop</title>
-    <updated>2025-03-27T07:00:00Z</updated>
-    <id>983fd8ec-156c-45da-a942-16a6244a8cb7</id>
-    <link href="https://developers.redhat.com/articles/2025/03/27/how-run-microshift-openshift-local-and-podman-desktop" rel="alternate"></link>
+    <title>JBoss Blogs: Infinispan 15.2.0.Final</title>
+    <updated>2025-03-27T00:00:00Z</updated>
+    <id>https://infinispan.org/blog/2025/03/27/infinispan-15-2</id>
+    <link href="https://infinispan.org/blog/2025/03/27/infinispan-15-2" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -116,31 +123,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Infinispan 15.2.0.Final</title>
-    <updated>2025-03-27T00:00:00Z</updated>
-    <id>https://infinispan.org/blog/2025/03/27/infinispan-15-2</id>
-    <link href="https://infinispan.org/blog/2025/03/27/infinispan-15-2" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Quarkus 3.21 - TLS Registry support for MongoDB Client</title>
     <updated>2025-03-26T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-21-0-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-21-0-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.20 - new LTS version</title>
-    <updated>2025-03-26T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-20-0-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-20-0-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.20 - new LTS version</title>
-    <updated>2025-03-26T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-20-0-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-20-0-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -151,14 +137,28 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Movie similarity search using vector databases</title>
+    <title>Quarkus: Quarkus 3.20 - new LTS version</title>
+    <updated>2025-03-26T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-20-0-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-20-0-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.20 - new LTS version</title>
+    <updated>2025-03-26T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-20-0-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-20-0-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Movie similarity search using vector databases</title>
     <updated>2025-03-24T00:00:00Z</updated>
     <id>https://quarkus.io/blog/movie-similarity-search-using-vector-databases/</id>
     <link href="https://quarkus.io/blog/movie-similarity-search-using-vector-databases/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Movie similarity search using vector databases</title>
+    <title>JBoss Blogs: Movie similarity search using vector databases</title>
     <updated>2025-03-24T00:00:00Z</updated>
     <id>https://quarkus.io/blog/movie-similarity-search-using-vector-databases/</id>
     <link href="https://quarkus.io/blog/movie-similarity-search-using-vector-databases/" rel="alternate"></link>
@@ -186,6 +186,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Sender-constraining access tokens with Quarkus OIDC</title>
+    <updated>2025-03-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/sender-constraining-tokens/</id>
+    <link href="https://quarkus.io/blog/sender-constraining-tokens/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Sender-constraining access tokens with Quarkus OIDC</title>
     <updated>2025-03-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/sender-constraining-tokens/</id>
@@ -207,13 +214,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Sender-constraining access tokens with Quarkus OIDC</title>
-    <updated>2025-03-19T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/sender-constraining-tokens/</id>
-    <link href="https://quarkus.io/blog/sender-constraining-tokens/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.15.4 released - LTS maintenance release</title>
     <updated>2025-03-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-15-4-released/</id>
@@ -228,14 +228,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: How Orange leverages Quarkus for seamless access to Telco network capabilities</title>
+    <title>JBoss Blogs: How Orange leverages Quarkus for seamless access to Telco network capabilities</title>
     <updated>2025-03-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/orange-telco-core-network-api-management-with-quarkus/</id>
     <link href="https://quarkus.io/blog/orange-telco-core-network-api-management-with-quarkus/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: How Orange leverages Quarkus for seamless access to Telco network capabilities</title>
+    <title>Quarkus: How Orange leverages Quarkus for seamless access to Telco network capabilities</title>
     <updated>2025-03-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/orange-telco-core-network-api-management-with-quarkus/</id>
     <link href="https://quarkus.io/blog/orange-telco-core-network-api-management-with-quarkus/" rel="alternate"></link>
@@ -263,6 +263,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Quarkus & Red Hat's evolving middleware strategy</title>
+    <updated>2025-03-13T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-redhat-strategy/</id>
+    <link href="https://quarkus.io/blog/quarkus-redhat-strategy/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Quarkus: Secure Agentic AI with Quarkus and Google Gemini</title>
     <updated>2025-03-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/gemini-personal-assistant/</id>
@@ -277,10 +284,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus & Red Hat's evolving middleware strategy</title>
-    <updated>2025-03-13T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-redhat-strategy/</id>
-    <link href="https://quarkus.io/blog/quarkus-redhat-strategy/" rel="alternate"></link>
+    <title>Quarkus: Running SQLite in Pure Java with Quarkus</title>
+    <updated>2025-03-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/sqlite4j-pure-java-sqlite/</id>
+    <link href="https://quarkus.io/blog/sqlite4j-pure-java-sqlite/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -295,13 +302,6 @@
     <updated>2025-03-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-54/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-54/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Running SQLite in Pure Java with Quarkus</title>
-    <updated>2025-03-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/sqlite4j-pure-java-sqlite/</id>
-    <link href="https://quarkus.io/blog/sqlite4j-pure-java-sqlite/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -459,17 +459,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus Infinispan Embedded extension</title>
-    <updated>2024-12-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-infinispan-embedded/</id>
-    <link href="https://quarkus.io/blog/quarkus-infinispan-embedded/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Our next LTS will be Quarkus 3.20</title>
     <updated>2024-12-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/next-lts-3-20/</id>
     <link href="https://quarkus.io/blog/next-lts-3-20/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus Infinispan Embedded extension</title>
+    <updated>2024-12-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-infinispan-embedded/</id>
+    <link href="https://quarkus.io/blog/quarkus-infinispan-embedded/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -501,17 +501,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.17.2 - Maintenance release</title>
-    <updated>2024-11-29T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-17-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-17-2-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Creating pure Java LLM infused application with Quarkus, Langchain4j and Jlama</title>
     <updated>2024-11-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-jlama/</id>
     <link href="https://quarkus.io/blog/quarkus-jlama/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.17.2 - Maintenance release</title>
+    <updated>2024-11-29T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-17-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-17-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
