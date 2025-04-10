@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2025-04-09T18:17:22Z</updated>
+  <updated>2025-04-10T00:59:22Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
     <title>Red Hat Developer: Best practices for migration from Jaeger to Tempo</title>
@@ -12,6 +12,13 @@
   </entry>
   <entry>
     <title>Quarkus: Quarkus 3.21.2 - Maintenance release</title>
+    <updated>2025-04-09T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-21-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-21-2-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.21.2 - Maintenance release</title>
     <updated>2025-04-09T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-21-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-21-2-released/" rel="alternate"></link>
@@ -32,17 +39,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Eclipse Vert.x 5 candidate 6 released!</title>
-    <updated>2025-04-07T00:00:00Z</updated>
-    <id>https://vertx.io/blog/eclipse-vert-x-5-candidate-6-released</id>
-    <link href="https://vertx.io/blog/eclipse-vert-x-5-candidate-6-released" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Translating Keycloak with Weblate</title>
     <updated>2025-04-07T00:00:00Z</updated>
     <id>https://www.keycloak.org/2025/04/weblate-announce</id>
     <link href="https://www.keycloak.org/2025/04/weblate-announce" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Eclipse Vert.x 5 candidate 6 released!</title>
+    <updated>2025-04-07T00:00:00Z</updated>
+    <id>https://vertx.io/blog/eclipse-vert-x-5-candidate-6-released</id>
+    <link href="https://vertx.io/blog/eclipse-vert-x-5-candidate-6-released" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -88,14 +95,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.21.1 - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.21.1 - Maintenance release</title>
     <updated>2025-04-02T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-21-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-21-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.21.1 - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.21.1 - Maintenance release</title>
     <updated>2025-04-02T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-21-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-21-1-released/" rel="alternate"></link>
@@ -130,10 +137,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Infinispan 15.2.0.Final</title>
+    <title>JBoss Blogs: WildFly 36 Beta is released!</title>
     <updated>2025-03-27T00:00:00Z</updated>
-    <id>https://infinispan.org/blog/2025/03/27/infinispan-15-2</id>
-    <link href="https://infinispan.org/blog/2025/03/27/infinispan-15-2" rel="alternate"></link>
+    <id>https://wildfly.org//news/2025/03/27/WildFly36Beta-released/</id>
+    <link href="https://wildfly.org//news/2025/03/27/WildFly36Beta-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -144,28 +151,21 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: WildFly 36 Beta is released!</title>
+    <title>JBoss Blogs: Infinispan 15.2.0.Final</title>
     <updated>2025-03-27T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2025/03/27/WildFly36Beta-released/</id>
-    <link href="https://wildfly.org//news/2025/03/27/WildFly36Beta-released/" rel="alternate"></link>
+    <id>https://infinispan.org/blog/2025/03/27/infinispan-15-2</id>
+    <link href="https://infinispan.org/blog/2025/03/27/infinispan-15-2" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.21 - TLS Registry support for MongoDB Client</title>
+    <title>JBoss Blogs: Quarkus 3.21 - TLS Registry support for MongoDB Client</title>
     <updated>2025-03-26T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-21-0-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-21-0-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.20 - new LTS version</title>
-    <updated>2025-03-26T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-20-0-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-20-0-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.21 - TLS Registry support for MongoDB Client</title>
+    <title>Quarkus: Quarkus 3.21 - TLS Registry support for MongoDB Client</title>
     <updated>2025-03-26T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-21-0-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-21-0-released/" rel="alternate"></link>
@@ -179,14 +179,21 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Movie similarity search using vector databases</title>
+    <title>JBoss Blogs: Quarkus 3.20 - new LTS version</title>
+    <updated>2025-03-26T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-20-0-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-20-0-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Movie similarity search using vector databases</title>
     <updated>2025-03-24T00:00:00Z</updated>
     <id>https://quarkus.io/blog/movie-similarity-search-using-vector-databases/</id>
     <link href="https://quarkus.io/blog/movie-similarity-search-using-vector-databases/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Movie similarity search using vector databases</title>
+    <title>JBoss Blogs: Movie similarity search using vector databases</title>
     <updated>2025-03-24T00:00:00Z</updated>
     <id>https://quarkus.io/blog/movie-similarity-search-using-vector-databases/</id>
     <link href="https://quarkus.io/blog/movie-similarity-search-using-vector-databases/" rel="alternate"></link>
@@ -214,6 +221,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Sender-constraining access tokens with Quarkus OIDC</title>
+    <updated>2025-03-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/sender-constraining-tokens/</id>
+    <link href="https://quarkus.io/blog/sender-constraining-tokens/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Save the Date: WildFly Mini Conference on March 25th, 2025</title>
     <updated>2025-03-19T00:00:00Z</updated>
     <id>https://wildfly.org//news/2025/03/19/WildFly-mini-conference-2025-save-the-date/</id>
@@ -235,10 +249,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Sender-constraining access tokens with Quarkus OIDC</title>
-    <updated>2025-03-19T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/sender-constraining-tokens/</id>
-    <link href="https://quarkus.io/blog/sender-constraining-tokens/" rel="alternate"></link>
+    <title>Quarkus: Quarkus 3.15.4 released - LTS maintenance release</title>
+    <updated>2025-03-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-15-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-15-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -263,20 +277,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.15.4 released - LTS maintenance release</title>
-    <updated>2025-03-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-15-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-15-4-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Narayana and its relationship to Red Hat middleware strategy</title>
-    <updated>2025-03-17T16:55:00Z</updated>
-    <id>https://jbossts.blogspot.com/2025/03/narayana-and-its-relationship-to-red.html</id>
-    <link href="https://jbossts.blogspot.com/2025/03/narayana-and-its-relationship-to-red.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus & Red Hat's evolving middleware strategy</title>
     <updated>2025-03-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-redhat-strategy/</id>
@@ -291,10 +291,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Running SQLite in Pure Java with Quarkus</title>
+    <title>Quarkus: Quarkus 3.19.3 - Maintenance release</title>
     <updated>2025-03-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/sqlite4j-pure-java-sqlite/</id>
-    <link href="https://quarkus.io/blog/sqlite4j-pure-java-sqlite/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-19-3-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-19-3-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -305,10 +305,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.19.3 - Maintenance release</title>
+    <title>Quarkus: Running SQLite in Pure Java with Quarkus</title>
     <updated>2025-03-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-19-3-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-19-3-released/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/sqlite4j-pure-java-sqlite/</id>
+    <link href="https://quarkus.io/blog/sqlite4j-pure-java-sqlite/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -340,17 +340,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.18.4 - Maintenance release</title>
-    <updated>2025-02-19T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-18-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-18-4-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: The Quarkus Edge: How Real Customers Achieve Speed, Performance, and Agility</title>
     <updated>2025-02-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/idc-customer-case-studies/</id>
     <link href="https://quarkus.io/blog/idc-customer-case-studies/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.18.4 - Maintenance release</title>
+    <updated>2025-02-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-18-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-18-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -445,17 +445,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Using the Model Context Protocol with Quarkus+LangChain4j</title>
-    <updated>2025-01-08T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-langchain4j-mcp/</id>
-    <link href="https://quarkus.io/blog/quarkus-langchain4j-mcp/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.17.6 - Maintenance release</title>
     <updated>2025-01-08T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-17-6-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-17-6-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Using the Model Context Protocol with Quarkus+LangChain4j</title>
+    <updated>2025-01-08T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-langchain4j-mcp/</id>
+    <link href="https://quarkus.io/blog/quarkus-langchain4j-mcp/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -508,17 +508,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Creating pure Java LLM infused application with Quarkus, Langchain4j and Jlama</title>
-    <updated>2024-11-29T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-jlama/</id>
-    <link href="https://quarkus.io/blog/quarkus-jlama/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.17.2 - Maintenance release</title>
     <updated>2024-11-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-17-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-17-2-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Creating pure Java LLM infused application with Quarkus, Langchain4j and Jlama</title>
+    <updated>2024-11-29T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-jlama/</id>
+    <link href="https://quarkus.io/blog/quarkus-jlama/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -914,17 +914,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
-    <updated>2022-01-13T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat CodeReady Studio for Eclipse 2021-09 security fix release for Apache Log4j CVE-2021-45105 and CVE-2021-44832</title>
     <updated>2022-01-13T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.21.2.ga.html</id>
     <link href="https://tools.jboss.org/blog/12.21.2.ga.html" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - January 13th 2022</title>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2022-01-13.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2022-01-13.html" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
