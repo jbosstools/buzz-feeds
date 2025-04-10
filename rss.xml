@@ -1,15 +1,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2025-04-10T12:24:22Z</updated>
+  <updated>2025-04-10T18:17:04Z</updated>
   <link href="https://tools.jboss.org"></link>
-  <entry>
-    <title>Red Hat Developer: 6 usability improvements in GCC 15</title>
-    <updated>2025-04-10T07:00:00Z</updated>
-    <id>6150dc12-2571-49fe-aac5-986418fe01aa</id>
-    <link href="https://developers.redhat.com/articles/2025/04/10/6-usability-improvements-gcc-15" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
   <entry>
     <title>Red Hat Developer: How building workbenches accelerates AI/ML development</title>
     <updated>2025-04-10T07:00:00Z</updated>
@@ -22,6 +15,27 @@
     <updated>2025-04-10T07:00:00Z</updated>
     <id>1e046f77-0310-461c-9753-3e5210b8661f</id>
     <link href="https://developers.redhat.com/articles/2025/04/10/road-ai-guide-understanding-aiml-models" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: 6 usability improvements in GCC 15</title>
+    <updated>2025-04-10T07:00:00Z</updated>
+    <id>6150dc12-2571-49fe-aac5-986418fe01aa</id>
+    <link href="https://developers.redhat.com/articles/2025/04/10/6-usability-improvements-gcc-15" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Optimizing Java for the Cloud-Native Era with Quarkus</title>
+    <updated>2025-04-10T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/mmaler-blogpost-1-intro/</id>
+    <link href="https://quarkus.io/blog/mmaler-blogpost-1-intro/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Optimizing Java for the Cloud-Native Era with Quarkus</title>
+    <updated>2025-04-10T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/mmaler-blogpost-1-intro/</id>
+    <link href="https://quarkus.io/blog/mmaler-blogpost-1-intro/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -158,10 +172,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.21 - TLS Registry support for MongoDB Client</title>
+    <title>JBoss Blogs: Quarkus 3.20 - new LTS version</title>
     <updated>2025-03-26T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-21-0-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-21-0-released/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-20-0-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-20-0-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -179,10 +193,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.20 - new LTS version</title>
+    <title>JBoss Blogs: Quarkus 3.21 - TLS Registry support for MongoDB Client</title>
     <updated>2025-03-26T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-20-0-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-20-0-released/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-21-0-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-21-0-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -214,6 +228,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>Quarkus: Sender-constraining access tokens with Quarkus OIDC</title>
+    <updated>2025-03-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/sender-constraining-tokens/</id>
+    <link href="https://quarkus.io/blog/sender-constraining-tokens/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Quarkus: Quarkus 3.19.4 - Maintenance release</title>
     <updated>2025-03-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-19-4-released/</id>
@@ -242,21 +263,7 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Sender-constraining access tokens with Quarkus OIDC</title>
-    <updated>2025-03-19T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/sender-constraining-tokens/</id>
-    <link href="https://quarkus.io/blog/sender-constraining-tokens/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.15.4 released - LTS maintenance release</title>
-    <updated>2025-03-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-15-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-15-4-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.15.4 released - LTS maintenance release</title>
     <updated>2025-03-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-15-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-15-4-released/" rel="alternate"></link>
@@ -277,17 +284,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus & Red Hat's evolving middleware strategy</title>
-    <updated>2025-03-13T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-redhat-strategy/</id>
-    <link href="https://quarkus.io/blog/quarkus-redhat-strategy/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Secure Agentic AI with Quarkus and Google Gemini</title>
     <updated>2025-03-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/gemini-personal-assistant/</id>
     <link href="https://quarkus.io/blog/gemini-personal-assistant/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus & Red Hat's evolving middleware strategy</title>
+    <updated>2025-03-13T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-redhat-strategy/</id>
+    <link href="https://quarkus.io/blog/quarkus-redhat-strategy/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -389,17 +396,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Introducing Model Context Protocol servers project</title>
-    <updated>2025-01-29T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/introducing-mcp-servers/</id>
-    <link href="https://quarkus.io/blog/introducing-mcp-servers/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.18 - Micrometer for WebSockets Next, Security WebAuthn based on WebAuthn4J, Kubernetes Client 7...</title>
     <updated>2025-01-29T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-18-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-18-1-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Introducing Model Context Protocol servers project</title>
+    <updated>2025-01-29T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/introducing-mcp-servers/</id>
+    <link href="https://quarkus.io/blog/introducing-mcp-servers/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -466,17 +473,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Our next LTS will be Quarkus 3.20</title>
-    <updated>2024-12-18T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/next-lts-3-20/</id>
-    <link href="https://quarkus.io/blog/next-lts-3-20/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus Infinispan Embedded extension</title>
     <updated>2024-12-18T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-infinispan-embedded/</id>
     <link href="https://quarkus.io/blog/quarkus-infinispan-embedded/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Our next LTS will be Quarkus 3.20</title>
+    <updated>2024-12-18T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/next-lts-3-20/</id>
+    <link href="https://quarkus.io/blog/next-lts-3-20/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -554,13 +561,6 @@
     <updated>2024-11-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-50/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-50/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Quarkus: Quarkus 3.16.2 - Maintenance release</title>
-    <updated>2024-11-06T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-16-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-16-2-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
