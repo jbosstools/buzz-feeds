@@ -1,27 +1,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2025-05-20T12:26:35Z</updated>
+  <updated>2025-05-20T18:17:59Z</updated>
   <link href="https://tools.jboss.org"></link>
   <entry>
-    <title>Red Hat Developer: How to use system-reinstall-bootc to install a bootc image</title>
-    <updated>2025-05-20T12:00:00Z</updated>
-    <id>6189a5d1-3e23-414c-9cce-4d2369b66a12</id>
-    <link href="https://developers.redhat.com/articles/2025/how-install-image-mode-system-using-system-reinstall-bootc" rel="alternate"></link>
+    <title>Red Hat Developer: Getting started with RHEL on WSL</title>
+    <updated>2025-05-20T15:00:00Z</updated>
+    <id>7825b3cc-a36e-46cf-ad19-38df9b2929e4</id>
+    <link href="https://developers.redhat.com/articles/2025/05/20/getting-started-rhel-windows-subsystem-linux" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Optimize LLMs with LLM Compressor in Red Hat OpenShift AI</title>
+    <title>Red Hat Developer: llm-d: Kubernetes-native distributed inferencing</title>
     <updated>2025-05-20T12:00:00Z</updated>
-    <id>011b5135-e4c4-4de3-8d9c-5ed19c9ff37d</id>
-    <link href="https://developers.redhat.com/articles/2025/05/20/optimize-llms-llm-compressor-openshift-ai" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: What is the Red Hat Advanced Developer Suite? An overview</title>
-    <updated>2025-05-20T12:00:00Z</updated>
-    <id>ab47dfb1-ab37-4dd7-9825-fe0076df208c</id>
-    <link href="https://developers.redhat.com/articles/2025/05/20/what-red-hat-advanced-developer-suite-overview" rel="alternate"></link>
+    <id>ef2c8822-9356-4c2e-82f5-cd7419a79280</id>
+    <link href="https://developers.redhat.com/articles/2025/05/20/llm-d-kubernetes-native-distributed-inferencing" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -32,10 +25,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: llm-d: Kubernetes-native distributed inferencing</title>
+    <title>Red Hat Developer: What is the Red Hat Advanced Developer Suite? An overview</title>
     <updated>2025-05-20T12:00:00Z</updated>
-    <id>ef2c8822-9356-4c2e-82f5-cd7419a79280</id>
-    <link href="https://developers.redhat.com/articles/2025/05/20/llm-d-kubernetes-native-distributed-inferencing" rel="alternate"></link>
+    <id>ab47dfb1-ab37-4dd7-9825-fe0076df208c</id>
+    <link href="https://developers.redhat.com/articles/2025/05/20/what-red-hat-advanced-developer-suite-overview" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Optimize LLMs with LLM Compressor in Red Hat OpenShift AI</title>
+    <updated>2025-05-20T12:00:00Z</updated>
+    <id>011b5135-e4c4-4de3-8d9c-5ed19c9ff37d</id>
+    <link href="https://developers.redhat.com/articles/2025/05/20/optimize-llms-llm-compressor-openshift-ai" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -53,10 +53,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.15.5 released - LTS maintenance release</title>
+    <title>Red Hat Developer: How to use system-reinstall-bootc to install a bootc image</title>
+    <updated>2025-05-20T12:00:00Z</updated>
+    <id>6189a5d1-3e23-414c-9cce-4d2369b66a12</id>
+    <link href="https://developers.redhat.com/articles/2025/how-install-image-mode-system-using-system-reinstall-bootc" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.20.1 released - LTS maintenance release</title>
     <updated>2025-05-20T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-15-5-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-15-5-released/" rel="alternate"></link>
+    <id>https://quarkus.io/blog/quarkus-3-20-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-20-1-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -64,6 +71,20 @@
     <updated>2025-05-20T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-20-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-20-1-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.15.5 released - LTS maintenance release</title>
+    <updated>2025-05-20T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-15-5-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-15-5-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.15.5 released - LTS maintenance release</title>
+    <updated>2025-05-20T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-15-5-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-15-5-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -102,20 +123,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How we use software provenance at Red Hat</title>
-    <updated>2025-05-15T07:00:00Z</updated>
-    <id>b94ce5ac-ae95-42b6-adbb-eecb77ed49fb</id>
-    <link href="https://developers.redhat.com/articles/2025/05/15/how-we-use-software-provenance-red-hat" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: WildFly 36.0.1 is released!</title>
-    <updated>2025-05-15T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2025/05/15/WildFly3601-Released/</id>
-    <link href="https://wildfly.org//news/2025/05/15/WildFly3601-Released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Quarkus 3.22.3 - Maintenance release</title>
     <updated>2025-05-15T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-22-3-released/</id>
@@ -134,6 +141,13 @@
     <updated>2025-05-15T00:00:00Z</updated>
     <id>https://vertx.io/blog/eclipse-vert-x-5-released</id>
     <link href="https://vertx.io/blog/eclipse-vert-x-5-released" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: WildFly 36.0.1 is released!</title>
+    <updated>2025-05-15T00:00:00Z</updated>
+    <id>https://wildfly.org//news/2025/05/15/WildFly3601-Released/</id>
+    <link href="https://wildfly.org//news/2025/05/15/WildFly3601-Released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -165,14 +179,14 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: Agentic AI with Quarkus - part 3</title>
+    <title>Quarkus: Agentic AI with Quarkus - part 3</title>
     <updated>2025-05-08T00:00:00Z</updated>
     <id>https://quarkus.io/blog/agentic-ai-with-quarkus-p3/</id>
     <link href="https://quarkus.io/blog/agentic-ai-with-quarkus-p3/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Agentic AI with Quarkus - part 3</title>
+    <title>JBoss Blogs: Agentic AI with Quarkus - part 3</title>
     <updated>2025-05-08T00:00:00Z</updated>
     <id>https://quarkus.io/blog/agentic-ai-with-quarkus-p3/</id>
     <link href="https://quarkus.io/blog/agentic-ai-with-quarkus-p3/" rel="alternate"></link>
@@ -228,6 +242,13 @@
     <summary type="html"></summary>
   </entry>
   <entry>
+    <title>JBoss Blogs: Keycloak 26.2.2 released</title>
+    <updated>2025-04-30T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2025/04/keycloak-2622-released</id>
+    <link href="https://www.keycloak.org/2025/04/keycloak-2622-released" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
     <title>Quarkus: Quarkus 3.22 - Compose Dev Services, improved test class loading infrastructure...</title>
     <updated>2025-04-30T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-22-1-released/</id>
@@ -242,31 +263,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>JBoss Blogs: WildFly joins Commonhaus</title>
-    <updated>2025-04-30T00:00:00Z</updated>
-    <id>https://wildfly.org//news/2025/04/30/WildFly-Commonhaus/</id>
-    <link href="https://wildfly.org//news/2025/04/30/WildFly-Commonhaus/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: The internals (and a few externals) of Quarkus test classloading have changed</title>
-    <updated>2025-04-30T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/test-classloading-rewrite/</id>
-    <link href="https://quarkus.io/blog/test-classloading-rewrite/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Quarkus 3.22 - Compose Dev Services, improved test class loading infrastructure...</title>
     <updated>2025-04-30T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-22-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-22-1-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Keycloak 26.2.2 released</title>
-    <updated>2025-04-30T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2025/04/keycloak-2622-released</id>
-    <link href="https://www.keycloak.org/2025/04/keycloak-2622-released" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -319,17 +319,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.21 - TLS Registry support for MongoDB Client</title>
-    <updated>2025-03-26T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-21-0-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-21-0-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.20 - new LTS version</title>
     <updated>2025-03-26T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-20-0-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-20-0-released/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.21 - TLS Registry support for MongoDB Client</title>
+    <updated>2025-03-26T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-21-0-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-21-0-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -368,13 +368,6 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Secure Agentic AI with Quarkus and Google Gemini</title>
-    <updated>2025-03-13T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/gemini-personal-assistant/</id>
-    <link href="https://quarkus.io/blog/gemini-personal-assistant/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus & Red Hat's evolving middleware strategy</title>
     <updated>2025-03-13T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-redhat-strategy/</id>
@@ -382,10 +375,10 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Running SQLite in Pure Java with Quarkus</title>
-    <updated>2025-03-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/sqlite4j-pure-java-sqlite/</id>
-    <link href="https://quarkus.io/blog/sqlite4j-pure-java-sqlite/" rel="alternate"></link>
+    <title>Quarkus: Secure Agentic AI with Quarkus and Google Gemini</title>
+    <updated>2025-03-13T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/gemini-personal-assistant/</id>
+    <link href="https://quarkus.io/blog/gemini-personal-assistant/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -400,6 +393,13 @@
     <updated>2025-03-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-54/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-54/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Running SQLite in Pure Java with Quarkus</title>
+    <updated>2025-03-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/sqlite4j-pure-java-sqlite/</id>
+    <link href="https://quarkus.io/blog/sqlite4j-pure-java-sqlite/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -431,17 +431,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.18.4 - Maintenance release</title>
-    <updated>2025-02-19T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-18-4-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-18-4-released/" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Quarkus: The Quarkus Edge: How Real Customers Achieve Speed, Performance, and Agility</title>
     <updated>2025-02-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/idc-customer-case-studies/</id>
     <link href="https://quarkus.io/blog/idc-customer-case-studies/" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.18.4 - Maintenance release</title>
+    <updated>2025-02-19T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-18-4-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-18-4-released/" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
