@@ -1,8 +1,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2025-05-30T06:18:41Z</updated>
+  <updated>2025-05-30T12:25:17Z</updated>
   <link href="https://tools.jboss.org"></link>
+  <entry>
+    <title>Red Hat Developer: Build an AI agent to automate TechDocs in Red Hat Developer Hub</title>
+    <updated>2025-05-30T07:00:00Z</updated>
+    <id>8e24df6a-14cc-4aaf-90a2-6a15bec5a05f</id>
+    <link href="https://developers.redhat.com/articles/2025/05/30/build-ai-agent-automate-techdocs-red-hat-developer-hub" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
   <entry>
     <title>Red Hat Developer: How to embed containers on image mode for RHEL</title>
     <updated>2025-05-29T07:00:00Z</updated>
@@ -18,17 +25,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: Implement AI safeguards with Node.js and Llama Stack</title>
-    <updated>2025-05-28T07:00:00Z</updated>
-    <id>e05f5547-a277-419c-b21d-16199c703e7d</id>
-    <link href="https://developers.redhat.com/articles/2025/05/28/implement-ai-safeguards-nodejs-and-llama-stack" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: How to simplify your multi-repo workflow with Podman</title>
     <updated>2025-05-28T07:00:00Z</updated>
     <id>3e73ba20-b27f-4d9b-8fac-0ccf9da76bdc</id>
     <link href="https://developers.redhat.com/articles/2025/05/28/how-simplify-your-multi-repo-workflow-podman" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Implement AI safeguards with Node.js and Llama Stack</title>
+    <updated>2025-05-28T07:00:00Z</updated>
+    <id>e05f5547-a277-419c-b21d-16199c703e7d</id>
+    <link href="https://developers.redhat.com/articles/2025/05/28/implement-ai-safeguards-nodejs-and-llama-stack" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -60,17 +67,17 @@
     <summary type="html"></summary>
   </entry>
   <entry>
-    <title>Red Hat Developer: How to integrate Senao SX904 into an OpenShift cluster</title>
-    <updated>2025-05-27T07:00:00Z</updated>
-    <id>15950e6e-a7cf-4e15-9d7c-3c61737362f8</id>
-    <link href="https://developers.redhat.com/articles/2025/05/27/how-integrate-senao-sx904-openshift-cluster" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
     <title>Red Hat Developer: How to start configuration as code for an Ansible instance</title>
     <updated>2025-05-27T07:00:00Z</updated>
     <id>08f53911-21df-4fe1-9a62-d259ae05cecc</id>
     <link href="https://developers.redhat.com/articles/2025/05/27/how-start-configuration-code-ansible-instance" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: How to integrate Senao SX904 into an OpenShift cluster</title>
+    <updated>2025-05-27T07:00:00Z</updated>
+    <id>15950e6e-a7cf-4e15-9d7c-3c61737362f8</id>
+    <link href="https://developers.redhat.com/articles/2025/05/27/how-integrate-senao-sx904-openshift-cluster" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
@@ -106,13 +113,6 @@
     <updated>2025-05-22T07:00:00Z</updated>
     <id>1b82f2b2-b9d1-4ec8-bb64-c1eac7f9275b</id>
     <link href="https://developers.redhat.com/articles/2025/05/22/improve-gpu-utilization-kueue-openshift-ai" rel="alternate"></link>
-    <summary type="html"></summary>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Implement LLM observability with Dynatrace on OpenShift AI</title>
-    <updated>2025-05-21T19:12:56Z</updated>
-    <id>eb5a7e19-8cbf-4377-bbd5-ea5de6c32727</id>
-    <link href="https://developers.redhat.com/articles/2025/05/21/implement-llm-observability-dynatrace-openshift-ai" rel="alternate"></link>
     <summary type="html"></summary>
   </entry>
   <entry>
